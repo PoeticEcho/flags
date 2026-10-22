@@ -1,4 +1,5 @@
 import flagSymbols from './flag-symbols.json' with {type:'json'};
+import {computePaperRegions} from './planar-regions.js';
 export {flagSymbols};
 export const symbolById = new Map(flagSymbols.map(s=>[s.id,s]));
 export const symbolRegions = shape => shape?.type==='symbol' ? [...new Set(symbolById.get(shape.symbol)?.parts.filter(p=>!p.hole).map(p=>p.region??0))] : [0];
@@ -7,9 +8,10 @@ export const regionColour = (art,region,part) => art.colors[regionKey(region,par
 export function paintRegion(art,region,part,color) {
  // Older drawings used a whole-shape stroke. Split that stroke when just one
  // half is filled so the other half's drawing is preserved.
- const parts=region>0 ? symbolRegions(art.shapes[region-1]) : [0];
+ const parts=region>0 ? symbolRegions(art.shapes[region-1]) : computePaperRegions(art.shapes).map(r=>r.part??0);
  const strokes=art.strokes.flatMap(s=>s.region!==region?[s]:part===undefined?[]:s.part===undefined&&parts.length>1?parts.filter(p=>p!==part).map(p=>({...s,part:p})):s.part===part?[]:[s]);
- return {...art,colors:{...art.colors,[regionKey(region,part)]:color},strokes};
+ const baseColors=region===0&&part===undefined?Object.fromEntries(Object.entries(art.colors).filter(([k])=>!k.startsWith('0:'))):art.colors;
+ return {...art,colors:{...baseColors,[regionKey(region,part)]:color},strokes};
 }
 const pathCache = new Map();
 let hitContext;

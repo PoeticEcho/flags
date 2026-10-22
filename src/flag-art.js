@@ -1,8 +1,9 @@
 import {symbolContains,symbolRegions} from './custom-shapes.js';
+import {computePaperRegions,pointInPolygon} from './planar-regions.js';
 export const templates = { FR: ['#002395','#ffffff','#ed2939'], IT:['#009246','#ffffff','#ce2b37'], DE:['#000000','#dd0000','#ffce00'], JP:['#ffffff','#bc002d'], BD:['#006a4e','#f42a41'] };
 export const names = {FR:'프랑스',IT:'이탈리아',DE:'독일',JP:'일본',BD:'방글라데시'};
 export function getRegions(code, custom, shapes) {
- if(custom) return [{type:'rect',x:0,y:0,width:600,height:400,paintRegion:0,shapeIndex:-1},...shapes.flatMap((shape,shapeIndex)=>{const parts=symbolRegions(shape);return parts.map(part=>({...shape,paintRegion:shapeIndex+1,shapeIndex,...(parts.length>1?{part}:{})}));})];
+ if(custom) return [...computePaperRegions(shapes),...shapes.flatMap((shape,shapeIndex)=>{const parts=symbolRegions(shape);return parts.map(part=>({...shape,paintRegion:shapeIndex+1,shapeIndex,...(parts.length>1?{part}:{})}));})];
  if(code==='JP'||code==='BD') return [{type:'rect',x:0,y:0,width:600,height:400},{type:'circle',cx:code==='BD'?270:300,cy:200,r:110}];
  return templates[code].map((_,i)=>code==='DE'?{type:'rect',x:0,y:i*400/3,width:600,height:400/3}:{type:'rect',x:i*200,y:0,width:200,height:400});
 }
@@ -17,6 +18,7 @@ export function segmentDistance(p,a,b) {
 }
 export function inside(p,r) {
  if(r.type==='symbol')return symbolContains(p,r,r.part);
+ if(r.type==='polygon')return pointInPolygon(p,r.points);
  if(r.type==='circle')return Math.hypot(p[0]-r.cx,p[1]-r.cy)<=r.r;
  if(r.type==='line')return segmentDistance(p,[r.x1,r.y1],[r.x2,r.y2])<=4;
  return p[0]>=r.x&&p[0]<=r.x+r.width&&p[1]>=r.y&&p[1]<=r.y+r.height;
