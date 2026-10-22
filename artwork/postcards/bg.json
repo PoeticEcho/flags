@@ -1,0 +1,19 @@
+{
+  "code": "BG",
+  "landmark": "Rila Monastery",
+  "landmarkKo": "릴라 수도원",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Bulgaria\nPrimary request: The recognizable courtyard of Rila Monastery in its green Bulgarian mountain setting.\nSubject: The central Church of the Nativity of the Theotokos, with distinctive alternating dark-and-white striped arcades, colourful exterior frescoes, rounded dark domes and a terracotta roof; the surrounding multi-storey white monastery galleries have arched colonnades, dark timber balconies and red tile roofs. Include the modest square medieval Hrelyo Tower nearby.\nScene/backdrop: A broad stone-paved monastery courtyard enclosed by galleries, with forested Rila mountain slopes visible behind, blue sky above.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Bulgarian Orthodox architecture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide courtyard view, central church and tower comfortably inside central 75% width and height with generous breathing room. A few small visitors provide scale.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. No readable fresco inscriptions, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No unrelated cathedral, fantasy castle, giant onion domes or invented landscape.",
+  "sources": [
+    "https://whc.unesco.org/en/list/216/",
+    "https://rilskimanastir.org/en/",
+    "https://rilskimanastir.org/en/about/gallery/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: recognizable striped church arcades, colourful frescoes, dark rounded domes, terracotta roofs, square Hrelyo Tower and multi-storey courtyard galleries with timber balconies. Green mountain slopes surround the scene. Tiny decorative pseudo-inscription marks appear on the upper curved gables; they are not readable words or UI text and root explicitly accepted them without correction. No flags or logos. Architecture and mountain view are illustrative rather than measured.",
+  "originalFile": "BG-rila-monastery.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bg.webp",
+  "exportFile": "bg.webp"
+}

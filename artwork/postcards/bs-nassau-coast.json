@@ -1,0 +1,18 @@
+{
+  "code": "BS",
+  "landmark": "Nassau coast",
+  "landmarkKo": "나소 해안",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Bahamas\nPrimary request: A gentle Nassau harbour and coast in the island country of the Bahamas.\nSubject: A cheerful waterfront of modest pastel Bahamian buildings, pink, pale yellow and aqua with white trim, shutters and shaded verandas; bright turquoise sea and a few small ordinary boats.\nScene/backdrop: Low green tropical shores and distant low islands, palms, calm clear harbour, blue sky. Keep the geography low and coastal, no tall mountains.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable waterfront buildings and boats, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad peaceful view across the harbour toward the pastel waterfront; central buildings and boats safely inside central 75% of width and height, with generous sky and water for cropping.\nLighting/mood: Warm natural daylight, welcoming and calm.\nConstraints: Stylized educational illustration of Nassau coast, no claim of a UNESCO landmark. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No gigantic monument, fantasy palace, giant cruise ship, pirate ship, unrelated landmark or invented geography.",
+  "sources": [
+    "https://www.bahamas.com/nassau-paradise-island/about",
+    "https://www.bahamas.com/plan-your-trip/things-to-do/prince-george-dock"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Pastel Bahamian waterfront buildings with shutters/verandas, palms, low green shores and turquoise harbour with small boats. No UNESCO-monument claim, tall mountains, giant monument or cruise ship. Style matches reference. Central waterfront survives crop; foreground boat touches left edge. No readable caption/UI/flags/watermark; a tiny dark hull marking on the right boat is visible, not legible or identifiable as a logo. Preserved unchanged for root review.",
+  "originalFile": "BS-nassau-coast.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bs.webp",
+  "exportFile": "bs.webp"
+}

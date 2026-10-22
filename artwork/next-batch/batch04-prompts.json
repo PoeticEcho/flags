@@ -1,0 +1,115 @@
+[
+  {
+    "code": "CR",
+    "landmark": "Cocos Island National Park",
+    "landmarkKo": "코코섬 국립공원",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Costa Rica\nPrimary request: Cocos Island National Park's rainforest-covered Pacific coastline.\nSubject: A remote volcanic island coast with steep dark rocky cliffs covered by dense lush tropical rainforest, one slender waterfall descending toward the bay, smaller offshore rock islets and clear teal water deepening to blue. A few small distant seabirds fly above the shore.\nScene/backdrop: The humid forested oceanic island of Cocos in the eastern tropical Pacific, with rounded green high ground, rocky shoreline and a small sheltered bay under a blue sky with gentle cloud. Keep the land and sea habitat credible.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide view from just offshore; important forest cliffs and waterfall comfortably inside central 75% width and height, generous sky and water.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No beach resort, city, invented giant volcano, savanna animals, crowds of wildlife, pirate ships or unrelated landmarks.",
+    "sources": [
+      "https://whc.unesco.org/en/list/820/",
+      "https://www.sinac.go.cr/ES/docu/Publicaciones/SINAC%20Evolucion%20y%20Perspectivas.pdf"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "HR",
+    "landmark": "Old City of Dubrovnik",
+    "landmarkKo": "두브로브니크 구시가지",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Croatia\nPrimary request: The recognizable walled Old City of Dubrovnik beside the Adriatic.\nSubject: Compact pale-limestone old-town buildings and terracotta rooftops enclosed by substantial stone defensive walls, round and square bastions, the broad round Minčeta tower on the landward high point, and the small old harbour. Keep the fortification silhouette grounded and credible.\nScene/backdrop: The real coastal city connected to the mainland, clear deep blue and teal Adriatic water beside rocky shore, low green Mediterranean slopes behind and a blue sky. The town is not a castle floating on an isolated island.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Dalmatian architecture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad elevated scenic view of the walled city and coast; important walls and rooftops comfortably inside central 75% width and height, generous sky and sea.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags even on fort towers, logos, watermark, postcard frame or stamp. No unrelated castle, fantasy turrets, invented cliff-city or giant cruise ship.",
+    "sources": [
+      "https://whc.unesco.org/en/list/95/",
+      "https://tzdubrovnik.hr/lang/en/get/gradski_vodic/5302/city_walls_and_fortresses.html"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "CU",
+    "landmark": "Old Havana and its Fortification System",
+    "landmarkKo": "아바나 구시가지",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Cuba\nPrimary request: Plaza Vieja within the UNESCO-listed Old Havana historic centre.\nSubject: A broad paved colonial plaza enclosed by two- and three-storey pastel ochre, coral, turquoise and pale cream buildings, with shaded arched ground-floor arcades, wrought-iron balconies, wooden shutters, simple red tile roofs and weathered details. Small everyday pedestrians and a few cafe tables make the square welcoming.\nScene/backdrop: A credible intimate Old Havana urban square with adjoining narrow streets beneath a blue sky. Keep its Baroque and neoclassical colonial character, without adding a giant invented cathedral or monuments from other countries.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable Cuban architecture and street geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide eye-level square view, important pastel arcades and balconies comfortably inside central 75% width and height with generous breathing room.\nLighting/mood: Warm natural daylight, lively and welcoming.\nConstraints: Stylized educational illustration. No readable shop signs, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No modern skyscrapers, giant cathedral, unrelated landmark, giant classic-car display or invented waterfront inside the plaza.",
+    "sources": [
+      "https://whc.unesco.org/en/list/204/"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "CY",
+    "landmark": "Choirokoitia",
+    "landmarkKo": "고대 마을 유적 키로키티아",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Cyprus\nPrimary request: The archaeological settlement of Choirokoitia and its modest reconstructed Neolithic dwellings.\nSubject: Many low pale-stone circular house foundations clustered on the sloping archaeological hillside, with a small group of reconstructed cylindrical stone-and-mudbrick dwellings nearby. The reconstructed houses have simple flat earthen roofs, low doorways and thick rounded walls; keep them modest and distinguish intact reconstructions from the excavated foundations.\nScene/backdrop: The real inland hill setting near the Maroni River in southern Cyprus, with dry Mediterranean earth, native shrubs, scattered small trees and gently rolling land beneath a blue sky. The ancient settlement is the focus.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable prehistoric structures and local geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. A gently elevated wide view that makes the circular foundations easy to recognize; important ruins and reconstructed houses comfortably inside central 75% width and height, generous breathing room.\nLighting/mood: Warm natural daylight, quiet and welcoming.\nConstraints: Stylized educational illustration. No readable signs, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No church, castle, giant domes, conical thatched roofs, invented intact ancient city or unrelated landmarks.",
+    "sources": [
+      "https://whc.unesco.org/en/list/848/",
+      "https://www.visitcyprus.com/discover-cyprus/rural/sites-monuments/choirokoitia-archaeological-site-neolithic-settlement-2/"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "CZ",
+    "landmark": "Historic Centre of Prague",
+    "landmarkKo": "프라하 역사 지구",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Czechia\nPrimary request: Prague's historic centre with Charles Bridge across the Vltava and Prague Castle on the hill.\nSubject: The recognizable old stone Charles Bridge with a sequence of rounded arches, sturdy piers and small dark sculptural silhouettes along the parapets. Beyond it, show the compact red-tiled rooftops of the Lesser Town and Prague Castle's long pale palace buildings crowned by the Gothic silhouette of St Vitus Cathedral on the hill. Keep the bridge, cathedral and city scale credible.\nScene/backdrop: A broad riverfront view across the Vltava toward the real gently rising castle hill, with leafy riverbanks, warm cream and ochre historic houses and a blue sky. Preserve the river, bridge and hill relationship.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Czech architecture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide scenic river view with Charles Bridge in the middle distance and the castle hill behind; important bridge and cathedral comfortably inside central 75% width and height, generous sky and water.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. Sculpture details remain abstract, without readable inscriptions. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No suspension bridge, single giant bridge arch, invented mountain fortress, unrelated cathedral or fantasy towers.",
+    "sources": [
+      "https://whc.unesco.org/en/list/616/",
+      "https://prague.eu/en/objevujte/charles-bridge-karluv-most/"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "DK",
+    "landmark": "Kronborg Castle",
+    "landmarkKo": "크론보르성",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Denmark\nPrimary request: The recognizable Renaissance silhouette of Kronborg Castle on the Øresund coast.\nSubject: Kronborg's substantial bright sandstone palace with four wings around a courtyard, orderly rows of windows and horizontal facade bands, green patinated copper roofs and elegant historic spires. Include the broad square Cannon Tower and the surrounding low grassy angular bastions and moat. Keep the real castle's long connected building masses and tower proportions credible.\nScene/backdrop: The low coastal headland north of Helsingør beside the blue Øresund, with open water, clipped grass, a modest shoreline and a blue sky. The castle is a fortified Danish Renaissance palace on a flat coast.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Danish architecture and geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad slightly elevated three-quarter view showing the connected palace, bastions and coast; important castle silhouette comfortably inside central 75% width and height, generous sky and water.\nLighting/mood: Warm natural daylight, bright and welcoming.\nConstraints: Stylized educational illustration. Ornament remains abstract without readable inscriptions. No text or letters, UI, flags even on tower poles, logos, watermark, postcard frame or stamp. No mountain cliffs, fantasy turret forest, fairy-tale spires, unrelated Scandinavian buildings or giant warships.",
+    "sources": [
+      "https://whc.unesco.org/en/list/696/",
+      "https://www.visitdenmark.com/denmark/plan-your-trip/kronborg-castle-unesco-world-heritage-gdk1077722",
+      "https://kronborg.dk/en/experiences/the-castle-courtyard"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "DJ",
+    "landmark": "Djibouti city coast",
+    "landmarkKo": "지부티 도시의 해안",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Djibouti\nPrimary request: A broad welcoming view of Djibouti city's coast along the Gulf of Tadjourah.\nSubject: A modest capital-city waterfront with low white, pale cream and warm ochre buildings, simple flat roofs, shaded verandas and narrow streets, a small quay and a few everyday boats in clear teal water. Include sparse shade trees and a hint of the working harbour in the distance, keeping the city architecture ordinary and credible.\nScene/backdrop: The real dry coastal setting of Djibouti city on the Gulf of Tadjourah, with low coastal ground, sunlit sea, pale earthy land and a blue sky. This is a broad capital landscape rather than a claim about a specific monument or exact street.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local architecture and geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide view along a quiet stretch of the coast; important buildings, quay and boats comfortably inside central 75% width and height, generous sea and sky.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. No readable signs, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No invented monumental mosque, giant palace, lush rainforest shoreline, high green mountains immediately behind the city, unrelated landmark or oversized cruise ship.",
+    "sources": [
+      "https://guide.visitdjibouti.dj/djibouti/",
+      "https://interieur.gouv.dj/djibouti-ville/"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "DM",
+    "landmark": "Morne Trois Pitons National Park",
+    "landmarkKo": "모른트루아피통 국립공원",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Dominica\nPrimary request: Emerald Pool in Morne Trois Pitons National Park.\nSubject: One slender waterfall descends over a dark mossy volcanic rock face into a small clear jade-green forest pool. Surround it with lush tropical broadleaf trees, ferns, vines, rounded wet boulders and a modest rocky stream outlet. Let the pool's green colour come from leafy reflected and filtered daylight.\nScene/backdrop: A credible sheltered rainforest clearing in the humid volcanic interior of Dominica, with dense layers of foliage and a small glimpse of blue sky above the canopy. Keep the waterfall and basin at their believable intimate scale.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local rainforest and volcanic rock textures, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. An inviting wide view from beside the pool, with the full waterfall, basin and foliage comfortably inside central 75% width and height, generous breathing room.\nLighting/mood: Warm natural daylight filtering through leaves, peaceful and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No colonial city, giant invented waterfall, Caribbean beach inside the forest, lava eruption, exotic wildlife gathering, monkeys, safari animals or unrelated landmarks.",
+    "sources": [
+      "https://whc.unesco.org/en/list/814/",
+      "https://legacy.discoverdominica.com/en/places/72/emerald-pool"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "DO",
+    "landmark": "Colonial City of Santo Domingo",
+    "landmarkKo": "산토도밍고의 옛 도시",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for the Dominican Republic\nPrimary request: Plaza de España and the Alcázar de Colón within the Colonial City of Santo Domingo.\nSubject: The recognizable low rectangular Alcázar de Colón palace in weathered pale coral limestone, with two levels of open rounded arcades in its central facade, substantial plain side sections and a simple flat roofline. Show the broad paved plaza in front, modest historic buildings and cafe terraces along one side, a few small pedestrians and sparse palms.\nScene/backdrop: The real colonial urban setting of Santo Domingo, with warm cream and ochre masonry, simple adjoining streets and a blue sky. Keep the palace and plaza at credible human scale and preserve the palace's broad, low silhouette.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Dominican colonial architecture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide eye-level view across the plaza toward the palace, with important arcades and palace mass comfortably inside central 75% width and height, generous breathing room.\nLighting/mood: Warm natural daylight, lively and welcoming.\nConstraints: Stylized educational illustration. Keep decorative details abstract without readable inscriptions. No shop signs, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No fantasy castle towers, giant cathedral, rainforest waterfall, modern skyline, invented beach beside the plaza or unrelated landmarks.",
+    "sources": [
+      "https://whc.unesco.org/en/list/526/",
+      "https://www.godominicanrepublic.com/things-to-do/museo-alcazar-de-colon",
+      "https://www.godominicanrepublic.com/things-to-do/plaza-de-espana"
+    ],
+    "status": "pending"
+  },
+  {
+    "code": "CD",
+    "landmark": "Virunga National Park",
+    "landmarkKo": "비룽가 국립공원",
+    "prompt": "Use case: illustration-story\nAsset type: country learning postcard for DR Congo\nPrimary request: Virunga National Park's mountain-gorilla habitat on the forested slopes of Mount Mikeno.\nSubject: One calm adult mountain gorilla with thick dark fur and a subtle silver back, and one smaller juvenile nearby, resting or feeding among lush montane forest vegetation. Give them believable gorilla anatomy and a natural modest scale within the landscape. Surround them with ferns, broadleaf shrubs, leafy forest herbs and mossy trunks.\nScene/backdrop: A green highland forest on the Congolese slopes of Mount Mikeno in Virunga's southern sector, with layered forested volcanic slopes glimpsed through an opening and the non-erupting mountain in the distance. A little soft mountain mist may sit in the valley beneath a blue sky.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local mountain-forest habitat and animal forms, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide scenic forest view with the small gorilla pair in the lower middle and forested slopes behind; important wildlife and mountain comfortably inside central 75% width and height, generous breathing room.\nLighting/mood: Warm natural daylight gently filtering into the green forest, quiet and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No lava eruption from Mikeno, snow-covered Alpine peaks, zoo fences, humans handling gorillas, giant gorillas, large animal gathering, lions, giraffes, beach or unrelated landmarks.",
+    "sources": [
+      "https://whc.unesco.org/en/list/63/",
+      "https://virunga.org/about/",
+      "https://virunga.org/habitats/tropical-rainforests/"
+    ],
+    "status": "pending"
+  }
+]
+

@@ -1,0 +1,437 @@
+{
+  "CH": {
+    "image": "/assets/postcards/full/ch.webp",
+    "landmark": "Zytglogge, Bern",
+    "landmarkKo": "베른 치트글로게 시계탑"
+  },
+  "CI": {
+    "image": "/assets/postcards/full/ci.webp",
+    "landmark": "Basilica of Our Lady of Peace, Yamoussoukro",
+    "landmarkKo": "야무수크로 평화의 성모 대성당"
+  },
+  "CR": {
+    "image": "/assets/postcards/full/cr.webp",
+    "landmark": "Arenal Volcano",
+    "landmarkKo": "아레날 화산"
+  },
+  "CU": {
+    "image": "/assets/postcards/full/cu.webp",
+    "landmark": "Old Havana",
+    "landmarkKo": "아바나 구시가지"
+  },
+  "CY": {
+    "image": "/assets/postcards/full/cy.webp",
+    "landmark": "Paphos mosaics",
+    "landmarkKo": "파포스 모자이크"
+  },
+  "CZ": {
+    "image": "/assets/postcards/full/cz.webp",
+    "landmark": "Charles Bridge, Prague",
+    "landmarkKo": "프라하 카를교"
+  },
+  "DJ": {
+    "image": "/assets/postcards/full/dj.webp",
+    "landmark": "Lake Assal",
+    "landmarkKo": "아살 호수"
+  },
+  "DK": {
+    "image": "/assets/postcards/full/dk.webp",
+    "landmark": "Nyhavn, Copenhagen",
+    "landmarkKo": "코펜하겐 뉘하운"
+  },
+  "DM": {
+    "image": "/assets/postcards/full/dm.webp",
+    "landmark": "Boiling Lake",
+    "landmarkKo": "보일링 호수"
+  },
+  "DO": {
+    "image": "/assets/postcards/full/do.webp",
+    "landmark": "Colonial City of Santo Domingo",
+    "landmarkKo": "산토도밍고 식민 도시"
+  },
+  "EC": {
+    "image": "/assets/postcards/full/ec.webp",
+    "landmark": "Basilica del Voto Nacional, Quito",
+    "landmarkKo": "키토 국립 서원 대성당"
+  },
+  "EE": {
+    "image": "/assets/postcards/full/ee.webp",
+    "landmark": "Tallinn Old Town",
+    "landmarkKo": "탈린 구시가지"
+  },
+  "ET": {
+    "image": "/assets/postcards/full/et.webp",
+    "landmark": "Rock-Hewn Churches of Lalibela",
+    "landmarkKo": "랄리벨라 암굴 교회"
+  },
+  "FJ": {
+    "image": "/assets/postcards/full/fj.webp",
+    "landmark": "Bouma waterfalls",
+    "landmarkKo": "부마 폭포"
+  },
+  "FM": {
+    "image": "/assets/postcards/full/fm.webp",
+    "landmark": "Nan Madol",
+    "landmarkKo": "난 마돌 유적"
+  },
+  "GA": {
+    "image": "/assets/postcards/full/ga.webp",
+    "landmark": "Lopé-Okanda landscape and mandrill",
+    "landmarkKo": "로페·오칸다 풍경과 맨드릴"
+  },
+  "GD": {
+    "image": "/assets/postcards/full/gd.webp",
+    "landmark": "Carenage, St. George’s",
+    "landmarkKo": "세인트조지스 카리나주 항구"
+  },
+  "GE": {
+    "image": "/assets/postcards/full/ge.webp",
+    "landmark": "Tbilisi and Narikala Fortress",
+    "landmarkKo": "트빌리시와 나리칼라 요새"
+  },
+  "GH": {
+    "image": "/assets/postcards/full/gh.webp",
+    "landmark": "Black Star Square, Accra",
+    "landmarkKo": "아크라 블랙 스타 광장"
+  },
+  "GM": {
+    "image": "/assets/postcards/full/gm.webp",
+    "landmark": "Senegambian stone circles",
+    "landmarkKo": "세네감비아 환상 열석"
+  },
+  "GN": {
+    "image": "/assets/postcards/full/gn.webp",
+    "landmark": "Mount Nimba",
+    "landmarkKo": "님바산"
+  },
+  "GT": {
+    "image": "/assets/postcards/full/gt.webp",
+    "landmark": "Tikal",
+    "landmarkKo": "티칼 유적"
+  },
+  "GY": {
+    "image": "/assets/postcards/full/gy.webp",
+    "landmark": "Kaieteur Falls",
+    "landmarkKo": "카이에투르 폭포"
+  },
+  "HN": {
+    "image": "/assets/postcards/full/hn.webp",
+    "landmark": "Copán",
+    "landmarkKo": "코판 유적"
+  },
+  "HR": {
+    "image": "/assets/postcards/full/hr.webp",
+    "landmark": "Dubrovnik",
+    "landmarkKo": "두브로브니크"
+  },
+  "HT": {
+    "image": "/assets/postcards/full/ht.webp",
+    "landmark": "Citadelle Laferrière",
+    "landmarkKo": "라페리에르 요새"
+  },
+  "HU": {
+    "image": "/assets/postcards/full/hu.webp",
+    "landmark": "Hungarian Parliament, Budapest",
+    "landmarkKo": "부다페스트 국회의사당"
+  },
+  "IE": {
+    "image": "/assets/postcards/full/ie.webp",
+    "landmark": "Cliffs of Moher",
+    "landmarkKo": "모허 절벽"
+  },
+  "IQ": {
+    "image": "/assets/postcards/full/iq.webp",
+    "landmark": "Ziggurat of Ur",
+    "landmarkKo": "우르의 지구라트"
+  },
+  "IR": {
+    "image": "/assets/postcards/full/ir.webp",
+    "landmark": "Persepolis",
+    "landmarkKo": "페르세폴리스"
+  },
+  "IS": {
+    "image": "/assets/postcards/full/is.webp",
+    "landmark": "Reykjavík and aurora",
+    "landmarkKo": "레이캬비크와 오로라"
+  },
+  "JM": {
+    "image": "/assets/postcards/full/jm.webp",
+    "landmark": "Blue Mountains and Kingston coast",
+    "landmarkKo": "블루 마운틴과 킹스턴 해안"
+  },
+  "JO": {
+    "image": "/assets/postcards/full/jo.webp",
+    "landmark": "Petra",
+    "landmarkKo": "페트라"
+  },
+  "KI": {
+    "image": "/assets/postcards/full/ki.webp",
+    "landmark": "Maneaba meeting house",
+    "landmarkKo": "마네아바 공동 회관"
+  },
+  "KZ": {
+    "image": "/assets/postcards/full/kz.webp",
+    "landmark": "Baiterek Tower, Astana",
+    "landmarkKo": "아스타나 바이테레크 타워"
+  },
+  "LA": {
+    "image": "/assets/postcards/full/la.webp",
+    "landmark": "Pha That Luang",
+    "landmarkKo": "파 탓 루앙"
+  },
+  "LK": {
+    "image": "/assets/postcards/full/lk.webp",
+    "landmark": "Sigiriya",
+    "landmarkKo": "시기리야"
+  },
+  "LR": {
+    "image": "/assets/postcards/full/lr.webp",
+    "landmark": "Sapo National Park",
+    "landmarkKo": "사포 국립공원"
+  },
+  "LS": {
+    "image": "/assets/postcards/full/ls.webp",
+    "landmark": "Maletsunyane Falls",
+    "landmarkKo": "말레추냐네 폭포"
+  },
+  "LT": {
+    "image": "/assets/postcards/full/lt.webp",
+    "landmark": "Vilnius Old Town",
+    "landmarkKo": "빌뉴스 구시가지"
+  },
+  "LV": {
+    "image": "/assets/postcards/full/lv.webp",
+    "landmark": "Riga Art Nouveau architecture",
+    "landmarkKo": "리가 아르누보 건축"
+  },
+  "MD": {
+    "image": "/assets/postcards/full/md.webp",
+    "landmark": "Old Orhei",
+    "landmarkKo": "오르헤이 베키"
+  },
+  "MG": {
+    "image": "/assets/postcards/full/mg.webp",
+    "landmark": "Baobab landscape",
+    "landmarkKo": "바오바브 풍경"
+  },
+  "MH": {
+    "image": "/assets/postcards/full/mh.webp",
+    "landmark": "Majuro Atoll",
+    "landmarkKo": "마주로 환초"
+  },
+  "MK": {
+    "image": "/assets/postcards/full/mk.webp",
+    "landmark": "Stone Bridge, Skopje",
+    "landmarkKo": "스코페 돌다리"
+  },
+  "ML": {
+    "image": "/assets/postcards/full/ml.webp",
+    "landmark": "Great Mosque of Djenné",
+    "landmarkKo": "젠네 대모스크"
+  },
+  "MM": {
+    "image": "/assets/postcards/full/mm.webp",
+    "landmark": "Bagan",
+    "landmarkKo": "바간"
+  },
+  "MN": {
+    "image": "/assets/postcards/full/mn.webp",
+    "landmark": "Gobi landscape and ger",
+    "landmarkKo": "고비 풍경과 게르"
+  },
+  "MR": {
+    "image": "/assets/postcards/full/mr.webp",
+    "landmark": "Banc d’Arguin",
+    "landmarkKo": "방다르갱"
+  },
+  "MT": {
+    "image": "/assets/postcards/full/mt.webp",
+    "landmark": "Valletta Grand Harbour",
+    "landmarkKo": "발레타 그랜드 하버"
+  },
+  "MV": {
+    "image": "/assets/postcards/full/mv.webp",
+    "landmark": "Maldivian atoll",
+    "landmarkKo": "몰디브 환초"
+  },
+  "MW": {
+    "image": "/assets/postcards/full/mw.webp",
+    "landmark": "Lake Malawi",
+    "landmarkKo": "말라위 호수"
+  },
+  "MY": {
+    "image": "/assets/postcards/full/my.webp",
+    "landmark": "Petronas Twin Towers",
+    "landmarkKo": "페트로나스 트윈 타워"
+  },
+  "MZ": {
+    "image": "/assets/postcards/full/mz.webp",
+    "landmark": "Maputo railway station",
+    "landmarkKo": "마푸투 기차역"
+  },
+  "NA": {
+    "image": "/assets/postcards/full/na.webp",
+    "landmark": "Sossusvlei",
+    "landmarkKo": "소수스블레이"
+  },
+  "NE": {
+    "image": "/assets/postcards/full/ne.webp",
+    "landmark": "Aïr and Ténéré desert",
+    "landmarkKo": "아이르·테네레 사막"
+  },
+  "NI": {
+    "image": "/assets/postcards/full/ni.webp",
+    "landmark": "Ometepe Island",
+    "landmarkKo": "오메테페섬"
+  },
+  "NL": {
+    "image": "/assets/postcards/full/nl.webp",
+    "landmark": "Amsterdam canals",
+    "landmarkKo": "암스테르담 운하"
+  },
+  "NP": {
+    "image": "/assets/postcards/full/np.webp",
+    "landmark": "Swayambhunath",
+    "landmarkKo": "스와얌부나트"
+  },
+  "NR": {
+    "image": "/assets/postcards/full/nr.webp",
+    "landmark": "Buada Lagoon",
+    "landmarkKo": "부아다 석호"
+  },
+  "OM": {
+    "image": "/assets/postcards/full/om.webp",
+    "landmark": "Sultan Qaboos Grand Mosque",
+    "landmarkKo": "술탄 카부스 대모스크"
+  },
+  "PA": {
+    "image": "/assets/postcards/full/pa.webp",
+    "landmark": "Panama Canal locks",
+    "landmarkKo": "파나마 운하 갑문"
+  },
+  "PG": {
+    "image": "/assets/postcards/full/pg.webp",
+    "landmark": "Parliament Haus, Port Moresby",
+    "landmarkKo": "포트모르즈비 국회의사당"
+  },
+  "PW": {
+    "image": "/assets/postcards/full/pw.webp",
+    "landmark": "Rock Islands Lagoon",
+    "landmarkKo": "록 아일랜드 석호"
+  },
+  "PY": {
+    "image": "/assets/postcards/full/py.webp",
+    "landmark": "Itaipu Dam",
+    "landmarkKo": "이타이푸 댐"
+  },
+  "RO": {
+    "image": "/assets/postcards/full/ro.webp",
+    "landmark": "Bran Castle",
+    "landmarkKo": "브란성"
+  },
+  "RS": {
+    "image": "/assets/postcards/full/rs.webp",
+    "landmark": "Kalemegdan Fortress, Belgrade",
+    "landmarkKo": "베오그라드 칼레메그단 요새"
+  },
+  "RW": {
+    "image": "/assets/postcards/full/rw.webp",
+    "landmark": "Volcanoes National Park and mountain gorillas",
+    "landmarkKo": "화산 국립공원과 마운틴고릴라"
+  },
+  "SB": {
+    "image": "/assets/postcards/full/sb.webp",
+    "landmark": "Marovo Lagoon",
+    "landmarkKo": "마로보 석호"
+  },
+  "SG": {
+    "image": "/assets/postcards/full/sg.webp",
+    "landmark": "Supertrees, Gardens by the Bay",
+    "landmarkKo": "가든스 바이 더 베이 슈퍼트리"
+  },
+  "SL": {
+    "image": "/assets/postcards/full/sl.webp",
+    "landmark": "Tacugama chimpanzees",
+    "landmarkKo": "타쿠가마 침팬지"
+  },
+  "SN": {
+    "image": "/assets/postcards/full/sn.webp",
+    "landmark": "Lake Retba",
+    "landmarkKo": "레트바 호수"
+  },
+  "SR": {
+    "image": "/assets/postcards/full/sr.webp",
+    "landmark": "Paramaribo",
+    "landmarkKo": "파라마리보"
+  },
+  "SV": {
+    "image": "/assets/postcards/full/sv.webp",
+    "landmark": "Joya de Cerén",
+    "landmarkKo": "호야 데 세렌"
+  },
+  "SZ": {
+    "image": "/assets/postcards/full/sz.webp",
+    "landmark": "Mantenga Falls",
+    "landmarkKo": "만텡가 폭포"
+  },
+  "TJ": {
+    "image": "/assets/postcards/full/tj.webp",
+    "landmark": "Iskanderkul",
+    "landmarkKo": "이스칸데르쿨 호수"
+  },
+  "TN": {
+    "image": "/assets/postcards/full/tn.webp",
+    "landmark": "Carthage",
+    "landmarkKo": "카르타고"
+  },
+  "TO": {
+    "image": "/assets/postcards/full/to.webp",
+    "landmark": "Haʻamonga ʻa Maui",
+    "landmarkKo": "하아몽가 아 마우이"
+  },
+  "TT": {
+    "image": "/assets/postcards/full/tt.webp",
+    "landmark": "Trinidad Carnival",
+    "landmarkKo": "트리니다드 카니발"
+  },
+  "TV": {
+    "image": "/assets/postcards/full/tv.webp",
+    "landmark": "Funafuti Conservation Area",
+    "landmarkKo": "푸나푸티 보호 구역"
+  },
+  "UA": {
+    "image": "/assets/postcards/full/ua.webp",
+    "landmark": "Saint Sophia Cathedral, Kyiv",
+    "landmarkKo": "키이우 성 소피아 대성당"
+  },
+  "UY": {
+    "image": "/assets/postcards/full/uy.webp",
+    "landmark": "Montevideo coast",
+    "landmarkKo": "몬테비데오 해안"
+  },
+  "UZ": {
+    "image": "/assets/postcards/full/uz.webp",
+    "landmark": "Registan, Samarkand",
+    "landmarkKo": "사마르칸트 레기스탄"
+  },
+  "VE": {
+    "image": "/assets/postcards/full/ve.webp",
+    "landmark": "Angel Falls",
+    "landmarkKo": "앙헬 폭포"
+  },
+  "VU": {
+    "image": "/assets/postcards/full/vu.webp",
+    "landmark": "Mount Yasur",
+    "landmarkKo": "야수르 화산"
+  },
+  "WS": {
+    "image": "/assets/postcards/full/ws.webp",
+    "landmark": "To Sua Ocean Trench",
+    "landmarkKo": "토 수아 오션 트렌치"
+  },
+  "ZM": {
+    "image": "/assets/postcards/full/zm.webp",
+    "landmark": "Victoria Falls",
+    "landmarkKo": "빅토리아 폭포"
+  }
+}

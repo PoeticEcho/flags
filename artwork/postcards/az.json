@@ -1,0 +1,19 @@
+{
+  "code": "AZ",
+  "landmark": "Walled City of Baku — Maiden Tower",
+  "landmarkKo": "바쿠 성곽 도시 — 메이든 타워",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Azerbaijan\nPrimary request: Baku's walled old city with the recognizable Maiden Tower.\nSubject: A single massive thick cylindrical weathered sandy-grey stone tower, flat parapet top, small slit windows and horizontal stone courses, with its distinctive tall solid masonry side projection clearly visible. No pointed roof or turrets. Old sandy-stone lanes and modest historic houses at its foot.\nScene/backdrop: Baku's historic coastal setting, a subtle distant blue strip of Caspian Sea and a little greenery, blue sky. Emphasize old city stone, not modern skyscrapers.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable landmark geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide three-quarter view with complete tower and side projection, landmark occupies about 55% image height and width, safely inside central 75% of width and height with generous breathing room.\nLighting/mood: Warm natural daylight, inviting.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No European fairy castle, conical roof, invented neighbouring monument, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/958/",
+    "https://icherisheher.gov.az/en/monuments/show/qiz-qalasi",
+    "https://azerbaijan.travel/press-media/press-releases/reconnect-with-azerbaijans-iconic-spaces"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Thick cylindrical sandy-stone Maiden Tower with side masonry projection, flat top and slit windows, old stone lanes and Caspian Sea hint. No conical roof or fairy-castle turrets. Painterly style matches reference. Complete tower comfortably within image, upper parapet slightly above central 75% safe zone. No readable text/UI/flags/logos/unrelated landmark. Stylized educational setting.",
+  "originalFile": "AZ-baku-maiden-tower.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/az.webp",
+  "exportFile": "az.webp"
+}

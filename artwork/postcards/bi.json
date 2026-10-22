@@ -1,0 +1,20 @@
+{
+  "code": "BI",
+  "landmark": "Gitega and its surroundings",
+  "landmarkKo": "기테가와 주변 풍경",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Burundi\nPrimary request: A faithful broad landscape of Gitega and its green central-plateau surroundings.\nSubject: A modest Burundian town spread across rolling green hills, with low brick and pale plaster buildings, reddish-brown and grey metal roofs, a few two-storey buildings, tree-lined streets, and small everyday pedestrians. Show cultivated hillside plots and eucalyptus trees around the town rather than a single invented monument.\nScene/backdrop: Inland central Burundi highland landscape with layered gentle green hills and fertile valleys, red-brown earth and a blue sky. Gitega is on the central plateau, not on the shore of Lake Tanganyika.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, credible contemporary townscape and local geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide scenic view from a nearby hillside, town and cultivated hills comfortably inside central 75% width and height, generous sky and greenery.\nLighting/mood: Warm natural daylight, welcoming and lively.\nConstraints: Stylized educational illustration with a broad capital-landscape caption. No text or letters, signs, UI, flags, logos, watermark, postcard frame or stamp. No lakefront, ocean, towering skyscrapers, invented royal palace, snow mountains or unrelated landmark.",
+  "sources": [
+    "https://presidence.gov.bi/le-pays/",
+    "https://tourisme.gov.bi/en/cultural-tourism/",
+    "https://tourisme.gov.bi/en/monuments-and-museums/",
+    "https://tourisme.gov.bi/en/home/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: a broad contemporary low-rise town among rolling green hills, cultivated plots and eucalyptus-like trees, with brick and plaster houses, metal roofs, pedestrians and a few vehicles. No fabricated landmark, lake shore, sea or skyscraper skyline. Broad Gitega-and-surroundings caption avoids claiming an exact surveyed street layout. No readable signs, flags, UI or logos.",
+  "originalFile": "BI-gitega-hills.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bi.webp",
+  "exportFile": "bi.webp"
+}

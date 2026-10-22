@@ -1,0 +1,18 @@
+{
+  "code": "BT",
+  "landmark": "Thimphu valley",
+  "landmarkKo": "팀푸의 계곡",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Bhutan\nPrimary request: Thimphu valley with recognizable Tashichho Dzong amid its green Himalayan surroundings.\nSubject: Broad rectangular Bhutanese fortress-monastery at valley level, angled whitewashed walls, red upper bands and intricately painted dark wooden windows; low two-storey outer wings, taller corner towers and central utse with layered red-and-golden sloping roofs. Recognizable Tashichho Dzong, not Tiger's Nest.\nScene/backdrop: Wang Chhu river nearby, manicured green grounds, trees and forested valley hills, subtle modest Thimphu buildings in the distance, blue sky. The dzong is on level riverbank land, not on a sheer cliff.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable Bhutanese architectural geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide scenic three-quarter valley view, complete dzong and central river bend inside central 75% width and height, generous breathing room.\nLighting/mood: Warm natural daylight, calm and inviting.\nConstraints: Stylized educational illustration of Thimphu valley, no UNESCO claim. No text or letters, prayer flags or national flags, UI, logos, watermark, postcard frame or stamp. No cliff monastery, towering fantasy city, unrelated landmark or invented geography.",
+  "sources": [
+    "https://thimphu.gov.bt/tashichho-dzong/",
+    "https://bhutan.travel/experiences-culture"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: a Bhutanese dzong at the riverbank in a green valley, with whitewashed walls, red bands, dark decorated windows, layered red and gold roofs, central and corner towers, forested hills and a modest town. Recognizable traditional dzong form; scenic layout is stylized rather than a surveyed Tashichho Dzong plan. No Tiger's Nest cliff placement, readable text, flags, UI or logos.",
+  "originalFile": "BT-thimphu-valley.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bt.webp",
+  "exportFile": "bt.webp"
+}

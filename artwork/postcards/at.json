@@ -1,0 +1,18 @@
+{
+  "code": "AT",
+  "landmark": "Historic Centre of Vienna — St Stephen's Cathedral",
+  "landmarkKo": "빈 역사 지구 — 슈테판 대성당",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Austria\nPrimary request: Vienna's historic centre with St Stephen's Cathedral standing in its old-town square.\nSubject: Recognizable pale weathered-stone Gothic cathedral, one exceptionally tall delicate south spire, a shorter north tower and steep colourful patterned tile roof in green, yellow, blue and cream geometric diamonds and chevrons; Gothic pointed windows and buttresses.\nScene/backdrop: Warm cream and ochre Vienna old-town facades around the paved Stephansplatz, a little greenery, bright blue sky.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable landmark geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Zoomed-out three-quarter view showing the complete spire and roof, cathedral occupies about 60% of image height and width, inside the central 75% of width and height; generous sky above spire and square below.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No twin identical tall spires, unrelated landmark, fantasy castle or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1033/",
+    "https://www.wien.info/en/see-do/sights-from-a-to-z/st-stephens-cathedral-359690"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Recognizable tall Gothic south spire, colourful patterned tiled roof and warm old-town square; one dominant tall spire, not twin identical tall towers. Bright brush-textured style matches reference. Complete spire visible close to image top, exceeding central 75% vertical crop-safe zone; root reviewed and accepted with contain sizing. No readable text/UI/flags/logos/unrelated landmark.",
+  "originalFile": "AT-vienna-st-stephen.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/at.webp",
+  "exportFile": "at.webp"
+}

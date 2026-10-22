@@ -1,0 +1,352 @@
+{
+  "AF": {
+    "image": "/assets/postcards/af.webp",
+    "landmark": "Minaret and Archaeological Remains of Jam",
+    "landmarkKo": "잠의 미나레트와 고고 유적"
+  },
+  "AL": {
+    "image": "/assets/postcards/al.webp",
+    "landmark": "Butrint",
+    "landmarkKo": "부트린트 유적"
+  },
+  "DZ": {
+    "image": "/assets/postcards/dz.webp",
+    "landmark": "Kasbah of Algiers",
+    "landmarkKo": "알제의 카스바"
+  },
+  "AD": {
+    "image": "/assets/postcards/ad.webp",
+    "landmark": "Madriu-Perafita-Claror Valley",
+    "landmarkKo": "마드리우·페라피타·클라로 계곡"
+  },
+  "AO": {
+    "image": "/assets/postcards/ao.webp",
+    "landmark": "Mbanza Kongo",
+    "landmarkKo": "음반자콩고"
+  },
+  "AG": {
+    "image": "/assets/postcards/ag.webp",
+    "landmark": "Antigua Naval Dockyard",
+    "landmarkKo": "앤티가 해군 조선소"
+  },
+  "AM": {
+    "image": "/assets/postcards/am.webp",
+    "landmark": "Echmiatsin Cathedral",
+    "landmarkKo": "에치미아진 대성당"
+  },
+  "AT": {
+    "image": "/assets/postcards/at.webp",
+    "landmark": "Historic Centre of Vienna — St Stephen's Cathedral",
+    "landmarkKo": "빈 역사 지구 — 슈테판 대성당"
+  },
+  "AZ": {
+    "image": "/assets/postcards/az.webp",
+    "landmark": "Walled City of Baku — Maiden Tower",
+    "landmarkKo": "바쿠 성곽 도시 — 메이든 타워"
+  },
+  "BS": {
+    "image": "/assets/postcards/bs-deans-blue-hole.webp",
+    "landmark": "Dean's Blue Hole, Long Island",
+    "landmarkKo": "롱아일랜드의 딘스 블루홀"
+  },
+  "BH": {
+    "image": "/assets/postcards/bh.webp",
+    "landmark": "Qal’at al-Bahrain",
+    "landmarkKo": "바레인 요새"
+  },
+  "BB": {
+    "image": "/assets/postcards/bb.webp",
+    "landmark": "Historic Bridgetown and its Garrison",
+    "landmarkKo": "브리지타운 역사 지구"
+  },
+  "BY": {
+    "image": "/assets/postcards/by.webp",
+    "landmark": "Mir Castle Complex",
+    "landmarkKo": "미르성"
+  },
+  "BE": {
+    "image": "/assets/postcards/be.webp",
+    "landmark": "La Grand-Place, Brussels",
+    "landmarkKo": "브뤼셀의 그랑플라스"
+  },
+  "BZ": {
+    "image": "/assets/postcards/bz.webp",
+    "landmark": "Belize Barrier Reef Reserve System",
+    "landmarkKo": "벨리즈 산호초 보호 구역"
+  },
+  "BJ": {
+    "image": "/assets/postcards/bj.webp",
+    "landmark": "Royal Palaces of Abomey",
+    "landmarkKo": "아보메 왕궁"
+  },
+  "BT": {
+    "image": "/assets/postcards/bt.webp",
+    "landmark": "Thimphu valley",
+    "landmarkKo": "팀푸의 계곡"
+  },
+  "BO": {
+    "image": "/assets/postcards/bo.webp",
+    "landmark": "City of Potosí",
+    "landmarkKo": "포토시 광산 도시"
+  },
+  "BA": {
+    "image": "/assets/postcards/ba.webp",
+    "landmark": "Old Bridge Area of the Old City of Mostar",
+    "landmarkKo": "모스타르의 옛 다리 지역"
+  },
+  "BW": {
+    "image": "/assets/postcards/bw.webp",
+    "landmark": "Okavango Delta",
+    "landmarkKo": "오카방고 델타"
+  },
+  "BN": {
+    "image": "/assets/postcards/bn.webp",
+    "landmark": "Bandar Seri Begawan riverfront",
+    "landmarkKo": "반다르스리브가완의 강변"
+  },
+  "BG": {
+    "image": "/assets/postcards/bg.webp",
+    "landmark": "Rila Monastery",
+    "landmarkKo": "릴라 수도원"
+  },
+  "BF": {
+    "image": "/assets/postcards/bf.webp",
+    "landmark": "Royal Court of Tiébélé",
+    "landmarkKo": "티에벨레 왕실 마을"
+  },
+  "BI": {
+    "image": "/assets/postcards/bi.webp",
+    "landmark": "Gitega and its surroundings",
+    "landmarkKo": "기테가와 주변 풍경"
+  },
+  "KH": {
+    "image": "/assets/postcards/kh.webp",
+    "landmark": "Angkor",
+    "landmarkKo": "앙코르 유적"
+  },
+  "CM": {
+    "image": "/assets/postcards/cm.webp",
+    "landmark": "Dja Faunal Reserve",
+    "landmarkKo": "자 동물 보호 구역"
+  },
+  "CV": {
+    "image": "/assets/postcards/cv.webp",
+    "landmark": "Cidade Velha, Historic Centre of Ribeira Grande",
+    "landmarkKo": "시다드벨랴의 옛 도시 중심지"
+  },
+  "CF": {
+    "image": "/assets/postcards/cf.webp",
+    "landmark": "Sangha Trinational",
+    "landmarkKo": "상가강의 삼국 국립공원 지역"
+  },
+  "TD": {
+    "image": "/assets/postcards/td.webp",
+    "landmark": "Ennedi Massif: Natural and Cultural Landscape",
+    "landmarkKo": "엔네디의 자연과 문화 경관"
+  },
+  "KM": {
+    "image": "/assets/postcards/km.webp",
+    "landmark": "The Medinas of the Historic Sultanates of the Comoros",
+    "landmarkKo": "코모로의 역사적인 술탄 도시"
+  },
+  "AE": {
+    "image": "/assets/postcards/ae.webp",
+    "landmark": "Al Ain Oasis and falaj irrigation",
+    "landmarkKo": "알아인 오아시스와 팔라지 수로"
+  },
+  "CD": {
+    "image": "/assets/postcards/cd.webp",
+    "landmark": "Virunga volcanoes and mountain gorillas",
+    "landmarkKo": "비룽가의 화산과 마운틴고릴라"
+  },
+  "GQ": {
+    "image": "/assets/postcards/gq.webp",
+    "landmark": "Pico Basilé on Bioko Island",
+    "landmarkKo": "비오코섬의 피코바실레산"
+  },
+  "ER": {
+    "image": "/assets/postcards/er.webp",
+    "landmark": "Asmara modernist city and Fiat Tagliero",
+    "landmarkKo": "아스마라의 근대 건축과 피아트 탈리에로"
+  },
+  "GW": {
+    "image": "/assets/postcards/gw.webp",
+    "landmark": "Bijagós coastal and marine ecosystems",
+    "landmarkKo": "비자고스 제도의 해안과 바다 생태계"
+  },
+  "LY": {
+    "image": "/assets/postcards/ly.webp",
+    "landmark": "Archaeological Site of Leptis Magna",
+    "landmarkKo": "렙티스마그나 유적"
+  },
+  "MU": {
+    "image": "/assets/postcards/mu.webp",
+    "landmark": "Le Morne Cultural Landscape",
+    "landmarkKo": "르몬브라방산과 해안 경관"
+  },
+  "CG": {
+    "image": "/assets/postcards/cg.webp",
+    "landmark": "Sangha forest landscape in the Republic of the Congo",
+    "landmarkKo": "콩고공화국의 상가 열대우림"
+  },
+  "SO": {
+    "image": "/assets/postcards/so.webp",
+    "landmark": "Mogadishu historic coast",
+    "landmarkKo": "모가디슈의 오래된 해안 도시"
+  },
+  "SS": {
+    "image": "/assets/postcards/ss.webp",
+    "landmark": "Sudd wetlands on the White Nile",
+    "landmarkKo": "백나일강의 수드 습지"
+  },
+  "SD": {
+    "image": "/assets/postcards/sd.webp",
+    "landmark": "Meroë pyramids",
+    "landmarkKo": "메로에의 피라미드"
+  },
+  "ST": {
+    "image": "/assets/postcards/st.webp",
+    "landmark": "Pico Cão Grande and São Tomé rainforest",
+    "landmarkKo": "피코카우그란드와 상투메의 열대우림"
+  },
+  "TG": {
+    "image": "/assets/postcards/tg.webp",
+    "landmark": "Koutammakou and Batammariba earth houses",
+    "landmarkKo": "쿠타마쿠의 바탐마리바 흙집"
+  },
+  "UG": {
+    "image": "/assets/postcards/ug.webp",
+    "landmark": "Bwindi Impenetrable National Park",
+    "landmarkKo": "브윈디 원시림 국립공원"
+  },
+  "ZW": {
+    "image": "/assets/postcards/zw.webp",
+    "landmark": "Great Zimbabwe stone enclosure",
+    "landmarkKo": "그레이트짐바브웨의 돌벽 유적"
+  },
+  "IL": {
+    "image": "/assets/postcards/il.webp",
+    "landmark": "Bahá’í Gardens and Shrine in Haifa",
+    "landmarkKo": "하이파의 바하이 정원과 성지"
+  },
+  "KW": {
+    "image": "/assets/postcards/kw.webp",
+    "landmark": "Kuwait City waterfront and Kuwait Towers",
+    "landmarkKo": "쿠웨이트시티 해안과 쿠웨이트 타워"
+  },
+  "KG": {
+    "image": "/assets/postcards/kg.webp",
+    "landmark": "Sulaiman-Too Sacred Mountain in Osh",
+    "landmarkKo": "오시의 술라이만 성산"
+  },
+  "LB": {
+    "image": "/assets/postcards/lb.webp",
+    "landmark": "Baalbek Roman temple ruins",
+    "landmarkKo": "바알베크의 로마 신전 유적"
+  },
+  "KP": {
+    "image": "/assets/postcards/kp.webp",
+    "landmark": "Mount Paektu and Heaven Lake",
+    "landmarkKo": "백두산과 천지"
+  },
+  "PS": {
+    "image": "/assets/postcards/ps.webp",
+    "landmark": "Ancient Jericho / Tell es-Sultan",
+    "landmarkKo": "고대 예리코와 텔에스술탄"
+  },
+  "QA": {
+    "image": "/assets/postcards/qa.webp",
+    "landmark": "Al Zubarah Archaeological Site",
+    "landmarkKo": "알주바라 유적"
+  },
+  "SY": {
+    "image": "/assets/postcards/sy.webp",
+    "landmark": "Ancient City of Bosra",
+    "landmarkKo": "보스라 고대 도시"
+  },
+  "TW": {
+    "image": "/assets/postcards/tw.webp",
+    "landmark": "Taipei 101 and Taipei basin",
+    "landmarkKo": "타이베이 101과 타이베이 분지"
+  },
+  "TL": {
+    "image": "/assets/postcards/tl.webp",
+    "landmark": "Dili and Cristo Rei hill",
+    "landmarkKo": "딜리와 크리스투 레이 언덕"
+  },
+  "TM": {
+    "image": "/assets/postcards/tm.webp",
+    "landmark": "Ancient Merv",
+    "landmarkKo": "고대 메르브"
+  },
+  "YE": {
+    "image": "/assets/postcards/ye.webp",
+    "landmark": "Old City of Sana'a",
+    "landmarkKo": "사나 구시가지"
+  },
+  "XK": {
+    "image": "/assets/postcards/xk.webp",
+    "landmark": "Pristina and its surroundings",
+    "landmarkKo": "프리슈티나와 주변 풍경"
+  },
+  "LI": {
+    "image": "/assets/postcards/li.webp",
+    "landmark": "Vaduz Castle and Alpine Rhine Valley",
+    "landmarkKo": "파두츠성과 알프스 라인 계곡"
+  },
+  "LU": {
+    "image": "/assets/postcards/lu.webp",
+    "landmark": "Luxembourg Old Quarters and Fortifications",
+    "landmarkKo": "룩셈부르크 구시가지와 요새"
+  },
+  "MC": {
+    "image": "/assets/postcards/mc.webp",
+    "landmark": "Monaco harbor and Mediterranean coast",
+    "landmarkKo": "모나코 항구와 지중해 해안"
+  },
+  "ME": {
+    "image": "/assets/postcards/me.webp",
+    "landmark": "Kotor region",
+    "landmarkKo": "코토르 자연과 역사 지구"
+  },
+  "SM": {
+    "image": "/assets/postcards/sm.webp",
+    "landmark": "San Marino Historic Centre and Mount Titano",
+    "landmarkKo": "산마리노 구시가지와 티타노산"
+  },
+  "SK": {
+    "image": "/assets/postcards/sk.webp",
+    "landmark": "Spiš Castle",
+    "landmarkKo": "스피시성"
+  },
+  "SI": {
+    "image": "/assets/postcards/si.webp",
+    "landmark": "Škocjan Caves",
+    "landmarkKo": "슈코치안 동굴"
+  },
+  "VA": {
+    "image": "/assets/postcards/va.webp",
+    "landmark": "Vatican City",
+    "landmarkKo": "바티칸시국"
+  },
+  "KN": {
+    "image": "/assets/postcards/kn.webp",
+    "landmark": "Brimstone Hill Fortress National Park",
+    "landmarkKo": "브림스톤힐 요새 국립공원"
+  },
+  "LC": {
+    "image": "/assets/postcards/lc.webp",
+    "landmark": "Pitons Management Area",
+    "landmarkKo": "피통 자연 경관"
+  },
+  "VC": {
+    "image": "/assets/postcards/vc.webp",
+    "landmark": "Kingstown and its surroundings",
+    "landmarkKo": "킹스타운과 주변 풍경"
+  },
+  "SC": {
+    "image": "/assets/postcards/sc.webp",
+    "landmark": "Vallée de Mai palm forest",
+    "landmarkKo": "발레드메 야자수 숲"
+  }
+}

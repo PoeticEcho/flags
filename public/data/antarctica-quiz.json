@@ -1,0 +1,197 @@
+[
+  {
+    "id": "capital",
+    "prompt": {
+      "ko": "남극의 수도에 대한 설명으로 맞는 것은 무엇일까요?",
+      "en": "Which statement about Antarctica’s capital is correct?"
+    },
+    "options": [
+      {
+        "id": "aq-capital-none",
+        "nameKo": "대륙이므로 수도가 없어요",
+        "name": "It is a continent with no capital",
+        "correct": true,
+        "hint": {
+          "ko": "남극은 대륙으로 수도가 없어요. 누크는 그린란드의 수도이고, 세종과학기지는 연구기지예요.",
+          "en": "Antarctica has no capital. Nuuk is Greenland’s capital; King Sejong Station is a research station."
+        }
+      },
+      {
+        "id": "aq-capital-nuuk",
+        "nameKo": "수도는 누크예요",
+        "name": "Its capital is Nuuk",
+        "correct": false,
+        "hint": {
+          "ko": "남극은 대륙으로 수도가 없어요. 누크는 그린란드의 수도이고, 세종과학기지는 연구기지예요.",
+          "en": "Antarctica has no capital. Nuuk is Greenland’s capital; King Sejong Station is a research station."
+        }
+      },
+      {
+        "id": "aq-capital-sejong",
+        "nameKo": "세종과학기지가 수도예요",
+        "name": "King Sejong Station is its capital",
+        "correct": false,
+        "hint": {
+          "ko": "남극은 대륙으로 수도가 없어요. 누크는 그린란드의 수도이고, 세종과학기지는 연구기지예요.",
+          "en": "Antarctica has no capital. Nuuk is Greenland’s capital; King Sejong Station is a research station."
+        }
+      }
+    ]
+  },
+  {
+    "id": "penguin",
+    "prompt": {
+      "ko": "남극반도의 엽서에서 만날 수 있는 동물은 무엇일까요?",
+      "en": "Which animal appears in our Antarctic Peninsula postcard?"
+    },
+    "options": [
+      {
+        "id": "aq-penguin-gentoo",
+        "nameKo": "젠투펭귄",
+        "name": "Gentoo penguin",
+        "correct": true,
+        "hint": {
+          "ko": "젠투펭귄은 남극반도 일대에 살아요. 북극곰은 북극 지역의 동물이에요.",
+          "en": "Gentoo penguins live around the Antarctic Peninsula. Polar bears live in the Arctic."
+        }
+      },
+      {
+        "id": "aq-penguin-bear",
+        "nameKo": "북극곰",
+        "name": "Polar bear",
+        "correct": false,
+        "hint": {
+          "ko": "젠투펭귄은 남극반도 일대에 살아요. 북극곰은 북극 지역의 동물이에요.",
+          "en": "Gentoo penguins live around the Antarctic Peninsula. Polar bears live in the Arctic."
+        }
+      },
+      {
+        "id": "aq-penguin-camel",
+        "nameKo": "낙타",
+        "name": "Camel",
+        "correct": false,
+        "hint": {
+          "ko": "젠투펭귄은 남극반도 일대에 살아요. 북극곰은 북극 지역의 동물이에요.",
+          "en": "Gentoo penguins live around the Antarctic Peninsula. Polar bears live in the Arctic."
+        }
+      }
+    ]
+  },
+  {
+    "id": "core",
+    "prompt": {
+      "ko": "남극 얼음 코어 속 옛 공기는 무엇을 알려 줄까요?",
+      "en": "What can ancient air trapped in Antarctic ice cores reveal?"
+    },
+    "options": [
+      {
+        "id": "aq-core-air",
+        "nameKo": "과거의 대기",
+        "name": "The atmosphere in the past",
+        "correct": true,
+        "hint": {
+          "ko": "얼음 속에 갇힌 옛 공기로 과거 대기의 성분을 연구해요.",
+          "en": "Ancient trapped air helps scientists study the composition of the atmosphere in the past."
+        }
+      },
+      {
+        "id": "aq-core-capital",
+        "nameKo": "남극 수도의 이름",
+        "name": "The name of an Antarctic capital",
+        "correct": false,
+        "hint": {
+          "ko": "얼음 속에 갇힌 옛 공기로 과거 대기의 성분을 연구해요.",
+          "en": "Ancient trapped air helps scientists study the composition of the atmosphere in the past."
+        }
+      },
+      {
+        "id": "aq-core-colour",
+        "nameKo": "모든 나라의 국기 색",
+        "name": "Every country’s flag colours",
+        "correct": false,
+        "hint": {
+          "ko": "얼음 속에 갇힌 옛 공기로 과거 대기의 성분을 연구해요.",
+          "en": "Ancient trapped air helps scientists study the composition of the atmosphere in the past."
+        }
+      }
+    ]
+  },
+  {
+    "id": "station",
+    "prompt": {
+      "ko": "세종과학기지는 어떤 곳일까요?",
+      "en": "What is King Sejong Station?"
+    },
+    "options": [
+      {
+        "id": "aq-station-research",
+        "nameKo": "남극의 연구기지",
+        "name": "An Antarctic research station",
+        "correct": true,
+        "hint": {
+          "ko": "세종과학기지는 남극 킹조지섬에 있는 대한민국의 연구기지예요.",
+          "en": "King Sejong Station is Korea’s research station on King George Island in Antarctica."
+        }
+      },
+      {
+        "id": "aq-station-capital",
+        "nameKo": "남극의 수도",
+        "name": "Antarctica’s capital",
+        "correct": false,
+        "hint": {
+          "ko": "세종과학기지는 남극 킹조지섬에 있는 대한민국의 연구기지예요.",
+          "en": "King Sejong Station is Korea’s research station on King George Island in Antarctica."
+        }
+      },
+      {
+        "id": "aq-station-palace",
+        "nameKo": "그린란드의 왕궁",
+        "name": "A Greenlandic royal palace",
+        "correct": false,
+        "hint": {
+          "ko": "세종과학기지는 남극 킹조지섬에 있는 대한민국의 연구기지예요.",
+          "en": "King Sejong Station is Korea’s research station on King George Island in Antarctica."
+        }
+      }
+    ]
+  },
+  {
+    "id": "treaty",
+    "prompt": {
+      "ko": "남극조약이 중요하게 여기는 것은 무엇일까요?",
+      "en": "What does the Antarctic Treaty support?"
+    },
+    "options": [
+      {
+        "id": "aq-treaty-peace",
+        "nameKo": "평화적인 이용과 과학 협력",
+        "name": "Peaceful use and scientific cooperation",
+        "correct": true,
+        "hint": {
+          "ko": "남극조약은 평화적인 이용과 과학 연구의 협력을 약속해요.",
+          "en": "The Antarctic Treaty provides for peaceful use and cooperation in scientific research."
+        }
+      },
+      {
+        "id": "aq-treaty-war",
+        "nameKo": "서로 싸우는 군사 훈련",
+        "name": "Military exercises against one another",
+        "correct": false,
+        "hint": {
+          "ko": "남극조약은 평화적인 이용과 과학 연구의 협력을 약속해요.",
+          "en": "The Antarctic Treaty provides for peaceful use and cooperation in scientific research."
+        }
+      },
+      {
+        "id": "aq-treaty-capital",
+        "nameKo": "하나의 새 수도 만들기",
+        "name": "Creating one new capital",
+        "correct": false,
+        "hint": {
+          "ko": "남극조약은 평화적인 이용과 과학 연구의 협력을 약속해요.",
+          "en": "The Antarctic Treaty provides for peaceful use and cooperation in scientific research."
+        }
+      }
+    ]
+  }
+]

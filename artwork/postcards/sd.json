@@ -1,0 +1,19 @@
+{
+  "code": "SD",
+  "landmark": "Meroë pyramids",
+  "landmarkKo": "메로에의 피라미드",
+  "filename": "sudan-meroe.webp",
+  "sources": [
+    "https://whc.unesco.org/en/list/1336/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for SD in a children's world atlas.\nPrimary request / scene: Meroe in Sudan: a group of numerous relatively small narrow steep-sided Kushite pyramids made of warm weathered stone, some surviving complete and some with broken tops, on low sandy semi-desert ground. Small rectangular chapel entrances in front of several pyramids, archaeological stone remains, soft dunes and a spacious blue sky. Three-quarter view that shows their distinct slender proportions and a staggered group, not the three giant broad Egyptian pyramids or Sphinx. No river flooding the pyramid bases, crowds or fantasy palace.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "sudan-meroe.webp",
+  "inspection": "메로에의 가늘고 가파른 피라미드, 부서진 꼭대기와 작은 예배당을 확인했습니다. 이집트의 거대한 피라미드나 스핑크스는 없습니다.",
+  "originalFile": "SD.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/sd.webp",
+  "exportFile": "sd.webp"
+}

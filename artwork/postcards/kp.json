@@ -1,0 +1,19 @@
+{
+  "code": "KP",
+  "landmark": "Mount Paektu and Heaven Lake",
+  "landmarkKo": "백두산과 천지",
+  "filename": "north-korea-mount-paektu.webp",
+  "sources": [
+    "https://portals.iucn.org/library/efiles/documents/1990-022-En.pdf"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for KP in a children's world atlas.\nPrimary request / scene: Mount Paektu on the North Korea–China border, seen from the North Korean side as a peaceful educational natural landscape. The deep blue oval crater lake known as Heaven Lake/Tianchi rests inside a broad rugged volcanic caldera, surrounded by high bare grey and ochre mountain slopes with a few small lingering snow patches in shaded gullies. Clear luminous sky and soft distant mountain layers. A wide elevated view containing the full lake rim; no dense tropical forest at the rim, sea, buildings, flags, political monuments, slogans, people or eruption.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "north-korea-mount-paektu.webp",
+  "inspection": "백두산 천지의 푸른 칼데라 호수, 암벽과 잔설을 확인했습니다. 정치적 표식과 문자가 없습니다.",
+  "originalFile": "KP.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/kp.webp",
+  "exportFile": "kp.webp"
+}

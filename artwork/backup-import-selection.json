@@ -1,0 +1,816 @@
+{
+  "schemaVersion": 1,
+  "sourceArchives": [
+    "postcard_assets.z01",
+    "postcard_assets.zip"
+  ],
+  "reviewLevel": "actual file decode and labelled contact-sheet scene/style review; browser QA pending",
+  "selected": [
+    {
+      "code": "CH",
+      "filename": "switzerland-zytglogge.webp",
+      "landmark": "Zytglogge, Bern",
+      "landmarkKo": "베른 치트글로게 시계탑",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "CI",
+      "filename": "cote-divoire-basilica.webp",
+      "landmark": "Basilica of Our Lady of Peace, Yamoussoukro",
+      "landmarkKo": "야무수크로 평화의 성모 대성당",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "CR",
+      "filename": "costa-rica-arenal.webp",
+      "landmark": "Arenal Volcano",
+      "landmarkKo": "아레날 화산",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "CU",
+      "filename": "cuba-old-havana.webp",
+      "landmark": "Old Havana",
+      "landmarkKo": "아바나 구시가지",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "CY",
+      "filename": "cyprus-paphos-mosaics.webp",
+      "landmark": "Paphos mosaics",
+      "landmarkKo": "파포스 모자이크",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "CZ",
+      "filename": "czechia-prague-charles-bridge.webp",
+      "landmark": "Charles Bridge, Prague",
+      "landmarkKo": "프라하 카를교",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "DJ",
+      "filename": "djibouti-lake-assal.webp",
+      "landmark": "Lake Assal",
+      "landmarkKo": "아살 호수",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "DK",
+      "filename": "denmark-nyhavn.webp",
+      "landmark": "Nyhavn, Copenhagen",
+      "landmarkKo": "코펜하겐 뉘하운",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "DM",
+      "filename": "dominica-boiling-lake.webp",
+      "landmark": "Boiling Lake",
+      "landmarkKo": "보일링 호수",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "DO",
+      "filename": "dominican-colonial-city.webp",
+      "landmark": "Colonial City of Santo Domingo",
+      "landmarkKo": "산토도밍고 식민 도시",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "EC",
+      "filename": "ecuador-quito-basilica.webp",
+      "landmark": "Basilica del Voto Nacional, Quito",
+      "landmarkKo": "키토 국립 서원 대성당",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "EE",
+      "filename": "estonia-tallinn-old-town.webp",
+      "landmark": "Tallinn Old Town",
+      "landmarkKo": "탈린 구시가지",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "ET",
+      "filename": "ethiopia-lalibela.webp",
+      "landmark": "Rock-Hewn Churches of Lalibela",
+      "landmarkKo": "랄리벨라 암굴 교회",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "FJ",
+      "filename": "fiji-bouma-falls.webp",
+      "landmark": "Bouma waterfalls",
+      "landmarkKo": "부마 폭포",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "FM",
+      "filename": "micronesia-nan-madol.webp",
+      "landmark": "Nan Madol",
+      "landmarkKo": "난 마돌 유적",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GA",
+      "filename": "gabon-lope-okanda-mandrill.webp",
+      "landmark": "Lopé-Okanda landscape and mandrill",
+      "landmarkKo": "로페·오칸다 풍경과 맨드릴",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GD",
+      "filename": "grenada-st-georges-carenage.webp",
+      "landmark": "Carenage, St. George’s",
+      "landmarkKo": "세인트조지스 카리나주 항구",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GE",
+      "filename": "georgia-tbilisi-narikala.webp",
+      "landmark": "Tbilisi and Narikala Fortress",
+      "landmarkKo": "트빌리시와 나리칼라 요새",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GH",
+      "filename": "ghana-black-star-square.webp",
+      "landmark": "Black Star Square, Accra",
+      "landmarkKo": "아크라 블랙 스타 광장",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GM",
+      "filename": "gambia-senegambia-stone-circles.webp",
+      "landmark": "Senegambian stone circles",
+      "landmarkKo": "세네감비아 환상 열석",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GN",
+      "filename": "guinea-mount-nimba.webp",
+      "landmark": "Mount Nimba",
+      "landmarkKo": "님바산",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GT",
+      "filename": "guatemala-tikal.webp",
+      "landmark": "Tikal",
+      "landmarkKo": "티칼 유적",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "GY",
+      "filename": "guyana-kaieteur-falls.webp",
+      "landmark": "Kaieteur Falls",
+      "landmarkKo": "카이에투르 폭포",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "HN",
+      "filename": "honduras-copan.webp",
+      "landmark": "Copán",
+      "landmarkKo": "코판 유적",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "HR",
+      "filename": "croatia-dubrovnik.webp",
+      "landmark": "Dubrovnik",
+      "landmarkKo": "두브로브니크",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "HT",
+      "filename": "haiti-citadelle-laferriere.webp",
+      "landmark": "Citadelle Laferrière",
+      "landmarkKo": "라페리에르 요새",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "HU",
+      "filename": "hungary-budapest-parliament.webp",
+      "landmark": "Hungarian Parliament, Budapest",
+      "landmarkKo": "부다페스트 국회의사당",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "IE",
+      "filename": "ireland-cliffs-moher.webp",
+      "landmark": "Cliffs of Moher",
+      "landmarkKo": "모허 절벽",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "IQ",
+      "filename": "iraq-ziggurat-of-ur.webp",
+      "landmark": "Ziggurat of Ur",
+      "landmarkKo": "우르의 지구라트",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "IR",
+      "filename": "iran-persepolis.webp",
+      "landmark": "Persepolis",
+      "landmarkKo": "페르세폴리스",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "IS",
+      "filename": "iceland-reykjavik-aurora.webp",
+      "landmark": "Reykjavík and aurora",
+      "landmarkKo": "레이캬비크와 오로라",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "JM",
+      "filename": "jamaica-blue-mountains.webp",
+      "landmark": "Blue Mountains and Kingston coast",
+      "landmarkKo": "블루 마운틴과 킹스턴 해안",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "JO",
+      "filename": "jordan-petra.webp",
+      "landmark": "Petra",
+      "landmarkKo": "페트라",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "KI",
+      "filename": "kiribati-maneaba.webp",
+      "landmark": "Maneaba meeting house",
+      "landmarkKo": "마네아바 공동 회관",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "KZ",
+      "filename": "kazakhstan-astana-baiterek.webp",
+      "landmark": "Baiterek Tower, Astana",
+      "landmarkKo": "아스타나 바이테레크 타워",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "LA",
+      "filename": "laos-pha-that-luang.webp",
+      "landmark": "Pha That Luang",
+      "landmarkKo": "파 탓 루앙",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "LK",
+      "filename": "sri-lanka-sigiriya.webp",
+      "landmark": "Sigiriya",
+      "landmarkKo": "시기리야",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "LR",
+      "filename": "liberia-sapo.webp",
+      "landmark": "Sapo National Park",
+      "landmarkKo": "사포 국립공원",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "LS",
+      "filename": "lesotho-maletsunyane-falls.webp",
+      "landmark": "Maletsunyane Falls",
+      "landmarkKo": "말레추냐네 폭포",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "LT",
+      "filename": "lithuania-vilnius-old-town.webp",
+      "landmark": "Vilnius Old Town",
+      "landmarkKo": "빌뉴스 구시가지",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "LV",
+      "filename": "latvia-riga-art-nouveau.webp",
+      "landmark": "Riga Art Nouveau architecture",
+      "landmarkKo": "리가 아르누보 건축",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MD",
+      "filename": "moldova-old-orhei.webp",
+      "landmark": "Old Orhei",
+      "landmarkKo": "오르헤이 베키",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MG",
+      "filename": "madagascar-baobabs.webp",
+      "landmark": "Baobab landscape",
+      "landmarkKo": "바오바브 풍경",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MH",
+      "filename": "marshall-islands-majuro-atoll.webp",
+      "landmark": "Majuro Atoll",
+      "landmarkKo": "마주로 환초",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MK",
+      "filename": "north-macedonia-stone-bridge.webp",
+      "landmark": "Stone Bridge, Skopje",
+      "landmarkKo": "스코페 돌다리",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "ML",
+      "filename": "mali-great-mosque-djenne.webp",
+      "landmark": "Great Mosque of Djenné",
+      "landmarkKo": "젠네 대모스크",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MM",
+      "filename": "myanmar-bagan.webp",
+      "landmark": "Bagan",
+      "landmarkKo": "바간",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MN",
+      "filename": "mongolia-gobi-ger.webp",
+      "landmark": "Gobi landscape and ger",
+      "landmarkKo": "고비 풍경과 게르",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MR",
+      "filename": "mauritania-banc-d-arguin.webp",
+      "landmark": "Banc d’Arguin",
+      "landmarkKo": "방다르갱",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MT",
+      "filename": "malta-valletta-grand-harbour.webp",
+      "landmark": "Valletta Grand Harbour",
+      "landmarkKo": "발레타 그랜드 하버",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MV",
+      "filename": "maldives-atoll.webp",
+      "landmark": "Maldivian atoll",
+      "landmarkKo": "몰디브 환초",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MW",
+      "filename": "malawi-lake-malawi.webp",
+      "landmark": "Lake Malawi",
+      "landmarkKo": "말라위 호수",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MY",
+      "filename": "malaysia-petronas-towers.webp",
+      "landmark": "Petronas Twin Towers",
+      "landmarkKo": "페트로나스 트윈 타워",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "MZ",
+      "filename": "mozambique-maputo-station.webp",
+      "landmark": "Maputo railway station",
+      "landmarkKo": "마푸투 기차역",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "NA",
+      "filename": "namibia-sossusvlei.webp",
+      "landmark": "Sossusvlei",
+      "landmarkKo": "소수스블레이",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "NE",
+      "filename": "niger-air-tenere-desert.webp",
+      "landmark": "Aïr and Ténéré desert",
+      "landmarkKo": "아이르·테네레 사막",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "NI",
+      "filename": "nicaragua-ometepe.webp",
+      "landmark": "Ometepe Island",
+      "landmarkKo": "오메테페섬",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "NL",
+      "filename": "netherlands-amsterdam-canals.webp",
+      "landmark": "Amsterdam canals",
+      "landmarkKo": "암스테르담 운하",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "NP",
+      "filename": "nepal-swayambhunath.webp",
+      "landmark": "Swayambhunath",
+      "landmarkKo": "스와얌부나트",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "NR",
+      "filename": "naoero-buada-lagoon.webp",
+      "landmark": "Buada Lagoon",
+      "landmarkKo": "부아다 석호",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "OM",
+      "filename": "oman-grand-mosque.webp",
+      "landmark": "Sultan Qaboos Grand Mosque",
+      "landmarkKo": "술탄 카부스 대모스크",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "PA",
+      "filename": "panama-canal-locks.webp",
+      "landmark": "Panama Canal locks",
+      "landmarkKo": "파나마 운하 갑문",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "PG",
+      "filename": "png-parliament-haus.webp",
+      "landmark": "Parliament Haus, Port Moresby",
+      "landmarkKo": "포트모르즈비 국회의사당",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "PW",
+      "filename": "palau-rock-islands-lagoon.webp",
+      "landmark": "Rock Islands Lagoon",
+      "landmarkKo": "록 아일랜드 석호",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "PY",
+      "filename": "paraguay-itaipu-dam.webp",
+      "landmark": "Itaipu Dam",
+      "landmarkKo": "이타이푸 댐",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "RO",
+      "filename": "romania-bran-castle.webp",
+      "landmark": "Bran Castle",
+      "landmarkKo": "브란성",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "RS",
+      "filename": "serbia-kalemegdan.webp",
+      "landmark": "Kalemegdan Fortress, Belgrade",
+      "landmarkKo": "베오그라드 칼레메그단 요새",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "RW",
+      "filename": "rwanda-volcanoes-gorillas.webp",
+      "landmark": "Volcanoes National Park and mountain gorillas",
+      "landmarkKo": "화산 국립공원과 마운틴고릴라",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SB",
+      "filename": "solomon-islands-marovo-lagoon.webp",
+      "landmark": "Marovo Lagoon",
+      "landmarkKo": "마로보 석호",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SG",
+      "filename": "singapore-supertrees.webp",
+      "landmark": "Supertrees, Gardens by the Bay",
+      "landmarkKo": "가든스 바이 더 베이 슈퍼트리",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SL",
+      "filename": "sierra-leone-tacugama.webp",
+      "landmark": "Tacugama chimpanzees",
+      "landmarkKo": "타쿠가마 침팬지",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SN",
+      "filename": "senegal-lake-retba.webp",
+      "landmark": "Lake Retba",
+      "landmarkKo": "레트바 호수",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SR",
+      "filename": "suriname-paramaribo.webp",
+      "landmark": "Paramaribo",
+      "landmarkKo": "파라마리보",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SV",
+      "filename": "el-salvador-joya-de-ceren.webp",
+      "landmark": "Joya de Cerén",
+      "landmarkKo": "호야 데 세렌",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "SZ",
+      "filename": "eswatini-mantenga-falls.webp",
+      "landmark": "Mantenga Falls",
+      "landmarkKo": "만텡가 폭포",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "TJ",
+      "filename": "tajikistan-iskanderkul.webp",
+      "landmark": "Iskanderkul",
+      "landmarkKo": "이스칸데르쿨 호수",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "TN",
+      "filename": "tunisia-carthage.webp",
+      "landmark": "Carthage",
+      "landmarkKo": "카르타고",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "TO",
+      "filename": "tonga-haamonga-a-maui.webp",
+      "landmark": "Haʻamonga ʻa Maui",
+      "landmarkKo": "하아몽가 아 마우이",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "TT",
+      "filename": "trinidad-tobago-carnival.webp",
+      "landmark": "Trinidad Carnival",
+      "landmarkKo": "트리니다드 카니발",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "TV",
+      "filename": "tuvalu-funafuti-conservation-area.webp",
+      "landmark": "Funafuti Conservation Area",
+      "landmarkKo": "푸나푸티 보호 구역",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "UA",
+      "filename": "ukraine-saint-sophia.webp",
+      "landmark": "Saint Sophia Cathedral, Kyiv",
+      "landmarkKo": "키이우 성 소피아 대성당",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "UY",
+      "filename": "uruguay-montevideo.webp",
+      "landmark": "Montevideo coast",
+      "landmarkKo": "몬테비데오 해안",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "UZ",
+      "filename": "uzbekistan-registan.webp",
+      "landmark": "Registan, Samarkand",
+      "landmarkKo": "사마르칸트 레기스탄",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "VE",
+      "filename": "venezuela-angel-falls.webp",
+      "landmark": "Angel Falls",
+      "landmarkKo": "앙헬 폭포",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "VU",
+      "filename": "vanuatu-mount-yasur.webp",
+      "landmark": "Mount Yasur",
+      "landmarkKo": "야수르 화산",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "WS",
+      "filename": "samoa-to-sua-trench.webp",
+      "landmark": "To Sua Ocean Trench",
+      "landmarkKo": "토 수아 오션 트렌치",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "code": "ZM",
+      "filename": "zambia-victoria-falls.webp",
+      "landmark": "Victoria Falls",
+      "landmarkKo": "빅토리아 폭포",
+      "inspection": "Decoded original and reviewed scene, aspect ratio and established illustration style in labelled contact sheets on 2026-10-01. Caption describes the supplied stylized scene; no independent architectural accuracy certification.",
+      "reviewedAt": "2026-10-01"
+    }
+  ],
+  "variants": [
+    {
+      "code": "AL",
+      "backupFiles": [
+        "albania-berat.webp",
+        "albania-butrint.webp"
+      ],
+      "selected": "/assets/postcards/al.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "BT",
+      "backupFiles": [
+        "bhutan-taktsang-monastery.webp",
+        "bhutan-tigers-nest.webp"
+      ],
+      "selected": "/assets/postcards/bt.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "FJ",
+      "backupFiles": [
+        "fiji-bouma-falls.webp",
+        "fiji-drua-coral-reef.webp"
+      ],
+      "selected": "fiji-bouma-falls.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "KI",
+      "backupFiles": [
+        "kiribati-maneaba.webp",
+        "kiribati-tarawa-lagoon.webp"
+      ],
+      "selected": "kiribati-maneaba.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "KM",
+      "backupFiles": [
+        "comoros-karthala.webp",
+        "comoros-moheli-marine-park.webp"
+      ],
+      "selected": "/assets/postcards/km.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "MH",
+      "backupFiles": [
+        "marshall-islands-majuro-atoll.webp",
+        "marshall-islands-majuro.webp"
+      ],
+      "selected": "marshall-islands-majuro-atoll.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "MT",
+      "backupFiles": [
+        "malta-valletta-grand-harbour.webp",
+        "malta-valletta.webp"
+      ],
+      "selected": "malta-valletta-grand-harbour.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "PW",
+      "backupFiles": [
+        "palau-rock-islands-lagoon.webp",
+        "palau-rock-islands.webp"
+      ],
+      "selected": "palau-rock-islands-lagoon.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "TO",
+      "backupFiles": [
+        "tonga-haamonga-a-maui.webp",
+        "tonga-humpback-whale.webp"
+      ],
+      "selected": "tonga-haamonga-a-maui.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "TV",
+      "backupFiles": [
+        "tuvalu-funafuti-conservation-area.webp",
+        "tuvalu-funafuti.webp"
+      ],
+      "selected": "tuvalu-funafuti-conservation-area.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "VU",
+      "backupFiles": [
+        "vanuatu-mele-cascades.webp",
+        "vanuatu-mount-yasur.webp"
+      ],
+      "selected": "vanuatu-mount-yasur.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    },
+    {
+      "code": "WS",
+      "backupFiles": [
+        "samoa-to-sua-trench.webp",
+        "samoa-to-sua.webp"
+      ],
+      "selected": "samoa-to-sua-trench.webp",
+      "reason": "Use the labelled scene; keep already approved app scene when present. Original alternatives remain in the uploaded archive and extracted originals."
+    }
+  ]
+}

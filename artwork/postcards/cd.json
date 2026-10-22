@@ -1,0 +1,20 @@
+{
+  "code": "CD",
+  "nameKo": "콩고민주공화국",
+  "filename": "democratic-republic-of-the-congo-virunga.webp",
+  "landmark": "Virunga volcanoes and mountain gorillas",
+  "landmarkKo": "비룽가의 화산과 마운틴고릴라",
+  "sources": [
+    "https://whc.unesco.org/en/list/63/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: 콩고민주공화국 country-learning postcard for a children's world atlas.\nPrimary request / scene: Virunga National Park in the Democratic Republic of the Congo. A small naturally proportioned family of mountain gorillas resting in lush montane forest beneath distant misty forested Virunga volcanic peaks. One adult and one juvenile clearly visible with believable gorilla anatomy, dark fur, gentle calm expressions, walking on knuckles or resting naturally. Ferns, layered broadleaf vegetation, green slopes; mountains are in the distance rather than immediately beside a lava pit. The gorillas occupy the forest foreground and the volcanic landscape remains clear in the distance. No snow-capped Kilimanjaro, savannah lions, erupting lava or people.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the atlas's Korean hanok and Great Wall paintings: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile painted paper, luminous cream clouds and blue sky, gently saturated greens and teal, warm ochre and terracotta. Believable landscape/landmark geometry, simplified just enough for young children. Not photographic, not flat vector or sticker art.\nComposition/framing: One independent full-bleed landscape image, exact 3:2 aspect ratio, intended 1536x1024. A clear layered foreground, midground and background; the key scene remains readable on a small card, inside the frame with breathing room. No collage.\nLighting/mood: Welcoming warm natural daylight, cheerful and calm.\nConstraints: No text, letters, writing, signs, flags, coats of arms, maps, logos, watermark, borders, stamps or UI. No invented landmarks or unrelated scenery.",
+  "inspection": "Two mountain gorillas with natural dark fur in montane vegetation; distant misty volcanic peaks. No unrelated savannah animals, lava spectacle, text or flags.",
+  "reviewedAt": "2026-10-01",
+  "guideFilename": "democratic-republic-of-the-congo-virunga.webp",
+  "originalFile": "CD.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "webImage": "/assets/postcards/cd.webp",
+  "exportFile": "cd.webp"
+}

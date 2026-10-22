@@ -1,0 +1,41 @@
+{
+  "edition": "v26",
+  "sourceCommit": "f6b46af98a246575a302a84b7b82e2c593778909",
+  "versionId": "appgprj_6abccfeeee548191b571dbf28dcee2f7~appgver_4463d18f39348191b2d39b8e69e039ee",
+  "deploymentId": "appgdep_6abfae73d5f08191a80047ed3bbdfc2d",
+  "status": "succeeded",
+  "url": "https://flags.zap15.chatgpt.site",
+  "publishedAt": "2026-10-02T13:15:53.007142+00:00",
+  "countryCount": 197,
+  "additionalDestinations": [
+    "GL",
+    "AQ"
+  ],
+  "placeCount": 199,
+  "bilingualStoryPairs": 995,
+  "bilingualKeywords": 1990,
+  "automatedTests": 105,
+  "clientZip": {
+    "filename": "flags-final-app-20261002.zip",
+    "bytes": 150742225,
+    "files": 699,
+    "sha256": "45b9a6197a29f3d267bbfc34f1fd39568637b54b478367782af9aa803c7ae1fb",
+    "checks": [
+      "CRC",
+      "every ZIP client file exactly matches built client from pushed source"
+    ]
+  },
+  "contentZip": {
+    "filename": "flags-final-learning-update-20261002.zip",
+    "bytes": 8903509,
+    "files": 23,
+    "sha256": "20948de725e8107488a17b600d4ee9d0246154ba9a9ebd0c8de183c52b6a06b4",
+    "checks": [
+      "CRC",
+      "all 995 bilingual story pairs",
+      "both original PNG postcard byte matches",
+      "previous 197-country ZIP hashes unchanged"
+    ]
+  },
+  "browserQA": "Blocked by supervised preview mailbox infrastructure; viewport, touch, GPU and modal interactions remain open."
+}

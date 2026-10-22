@@ -1,0 +1,35 @@
+{
+  "createdAtLocal": "2026-10-02",
+  "source": "@phosphor-icons/react 2.1.10, GlobeHemisphereWest (duotone)",
+  "role": "favicon and home-screen icon",
+  "license": "MIT",
+  "licenseFile": "PHOSPHOR_ICONS_LICENSE.txt",
+  "colour": "#356e65",
+  "background": "#fffaf2 for touch icon",
+  "countsAsPostcard": false,
+  "files": [
+    {
+      "path": "/public/favicon.svg",
+      "bytes": 1449,
+      "sha256": "72210ebc44ee66a8f547b403037d5ab3e304123f2846f678a5d2261ef80f058e"
+    },
+    {
+      "path": "/public/favicon-32.png",
+      "bytes": 1019,
+      "sha256": "9253420e0284091ab3edb8fc5e83256c122abaee11a832b96e924d610be9f489",
+      "dimensions": [
+        32,
+        32
+      ]
+    },
+    {
+      "path": "/public/apple-touch-icon.png",
+      "bytes": 6592,
+      "sha256": "f47515dfb4a4077c209c5a990346c6c6009cb9e277cc423b5aa487ca799ae45a",
+      "dimensions": [
+        180,
+        180
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Final polar expansion, 2026-10-02
+
+The original 197-country education edition remains unchanged. Greenland (GL)
+is a self-governing territory within the Kingdom of Denmark. Antarctica (AQ)
+is a continent, not a country, and has no capital or permanent resident population.
+The map uses a Mercator projection, so land beyond about 85 degrees latitude
+is clipped; the South Pole itself is not shown. The Antarctic pin represents
+King Sejong research station, not a capital. Its position is supplied by KOPRI.
+
+Greenland population: Statistics Greenland, Central Population Register,
+1 July 2025, 56,831 registered residents. This differs in source and method
+from the UN WPP projections retained for the original 197 countries.
+https://stat.gl/publ/en/BE/202504/contents/Midyear%20Population.htm
+Nuuk coordinate: GeoNames, CC BY 4.0 attribution, representative city location.
+https://www.geonames.org/search.html?country=GL&q=Nuuk
+https://www.geonames.org/about.html
+https://creativecommons.org/licenses/by/4.0/
+
+Country/territory SVG colouring templates: lipis/flag-icons 7.5.0, MIT;
+the existing country-data-license and flag SVG source notices still apply.
+All three supplied flag PNG files retain exact uploaded bytes and hashes.
+The Antarctic silhouette is an unofficial symbol, not an official national flag.
+The polar-grid design is the Antarctic Treaty emblem. Its inclusion as a
+user-provided learning reference does not claim Antarctic Treaty endorsement.
+https://www.ats.aq/devAS/Meetings/Measure?id=289&lang=e
+
+Two new postcard scenes were generated with built-in image_gen as stylized
+educational illustrations, not photographs. Original PNG files, exact prompts,
+sources and review notes are included in the downloadable update bundle.
+The Greenland landscape is generalized rather than a verified exact viewpoint.
+Primary-source factual anchors and original observation activities are listed
+in polar-destinations.json. Summaries are newly written, not copied articles.
+Automated checks and image inspection are not a full browser/touch/GPU audit.

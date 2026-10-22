@@ -1,0 +1,18 @@
+{
+  "code": "AO",
+  "landmark": "Mbanza Kongo",
+  "landmarkKo": "음반자콩고",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Angola\nPrimary request: Mbanza Kongo on its green Angolan plateau, featuring the weathered ruins of the old Kulumbimbi cathedral.\nSubject: Modest roofless rectangular remains built from rough pale brown stone, low thick walls with a simple arched opening and irregular worn wall tops, grassy heritage grounds. Emphasize surviving ruins, not a reconstructed intact church.\nScene/backdrop: A green plateau with broad leafy trees, grass and a subtle small-town hint of low buildings beyond the heritage grounds, blue sky.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable ruin geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide view with the complete low ruin enclosure centered, occupying about 60% width and safely within the central 75% of width and height, generous grass and sky around it for cropping.\nLighting/mood: Warm natural daylight, quiet and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No giant intact European cathedral, towers, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1511/",
+    "https://whc.unesco.org/en/documents/158855"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Low roofless rough-stone cathedral ruins with worn walls and arched opening, grassy heritage grounds, leafy trees and small town on green plateau. No giant intact cathedral or towers. Painting matches reference; central ruin form is clear, outer enclosure extends slightly beyond central 75% width. No text/UI/flags/logos/unrelated landmark. Stylized educational view.",
+  "originalFile": "AO-mbanza-kongo.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/ao.webp",
+  "exportFile": "ao.webp"
+}

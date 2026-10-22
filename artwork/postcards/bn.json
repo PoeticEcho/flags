@@ -1,0 +1,19 @@
+{
+  "code": "BN",
+  "landmark": "Bandar Seri Begawan riverfront",
+  "landmarkKo": "반다르스리브가완의 강변",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Brunei\nPrimary request: A faithful, welcoming Bandar Seri Begawan riverfront scene with Kampong Ayer and the recognizable Omar Ali Saifuddien Mosque.\nSubject: Modest colourful timber houses on slender stilts over the Brunei River, linked by wooden walkways, with a small water taxi. Across the water, the mosque has white marble walls, one prominent golden dome and a tall slender white minaret beside its landscaped lagoon.\nScene/backdrop: A low tropical capital riverfront with palms and lush green trees beneath a blue sky. Keep the mosque and water village plausibly arranged within the capital landscape, not as floating fantasy architecture.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable architecture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide view from the river with stilt houses in the middle ground and the mosque comfortably inside central 75% width and height, generous sky and water.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No unrelated famous landmarks, huge skyscrapers, invented mountains or giant mosque complex.",
+  "sources": [
+    "https://www.bruneitourism.com/brunei-muara/",
+    "https://www.bruneitourism.com/places/kampong-ayer/",
+    "https://www.bruneitourism.com/places/omar-ali-saifuddien-mosque/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: colourful timber stilt houses and wooden walkways on the Brunei River with a small water taxi; a white mosque with a golden dome and tall minaret across the water, palms and a low capital backdrop. Mosque proportions and small turrets are decorative and stylized, so a broad capital riverfront caption is used. No readable text, flags, UI or logos. The minaret top extends beyond the central 75% height; contain sizing preserves it.",
+  "originalFile": "BN-bandar-riverfront.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bn.webp",
+  "exportFile": "bn.webp"
+}

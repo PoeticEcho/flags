@@ -1,0 +1,17 @@
+{
+  "code": "BO",
+  "landmark": "City of Potosí",
+  "landmarkKo": "포토시 광산 도시",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Bolivia\nPrimary request: The historic City of Potosí with recognizable Cerro Rico rising behind the old town.\nSubject: Warm colonial and Andean Baroque old-town architecture, modest pale-stone church bell towers, ochre and white facades, terracotta roofs and a cobbled street or small square; the large rust-brown conical Cerro Rico mountain clearly behind the town.\nScene/backdrop: Believable dry high-altitude Bolivian Andean setting, sparse sturdy greenery and brown surrounding hills beneath a vivid blue sky. Cerro Rico is an eroded mining mountain, not a snow-covered volcano.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable town and mountain geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide scenic view along the old-town street toward Cerro Rico; mountain profile and important architecture safely inside central 75% width and height with generous breathing room.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No tropical palms, jungle, ocean, snowy Fuji-like volcano, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/420/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: ochre and white colonial facades, wooden balconies, cobbles, modest Andean Baroque stone bell towers and terracotta roofs with rust-brown Cerro Rico behind. Dry highland setting without palms, sea or a snowy volcano. Street architecture is illustrative rather than an exact street reproduction. No readable text, flags, UI or logos; contain sizing preserves the mountain peak.",
+  "originalFile": "BO-potosi.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bo.webp",
+  "exportFile": "bo.webp"
+}

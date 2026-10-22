@@ -1,0 +1,20 @@
+{
+  "code": "LU",
+  "nameKo": "룩셈부르크",
+  "filename": "luxembourg-old-quarter.webp",
+  "landmark": "Luxembourg Old Quarters and Fortifications",
+  "landmarkKo": "룩셈부르크 구시가지와 요새",
+  "sources": [
+    "https://whc.unesco.org/en/list/699/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for LU in a children's world atlas.\nPrimary request / scene: Luxembourg City's historic old quarters: warm stone defensive cliffs and casemates above the green Alzette valley, the small river winding by clustered pale houses with slate roofs in the Grund district, old city buildings on the plateau above, a graceful stone arch bridge crossing the wooded valley. Layered realistic elevated urban view, not a medieval castle invented on a mountain or a Venice canal.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "luxembourg-old-quarter.webp",
+  "inspection": "룩셈부르크의 고지 요새, 그룬트 마을과 강 계곡을 층층이 배치했습니다.",
+  "originalFile": "LU.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/lu.webp",
+  "exportFile": "lu.webp"
+}

@@ -1,0 +1,1542 @@
+{
+  "reviewedOn": "2026-10-01",
+  "countryCount": 48,
+  "flagCount": 48,
+  "stories": 144,
+  "keywords": 480,
+  "updatedTextCountries": [
+    "MN",
+    "SG",
+    "AE",
+    "UZ",
+    "NL",
+    "DK",
+    "CH",
+    "CZ",
+    "DO",
+    "CR",
+    "CU",
+    "VE",
+    "BO",
+    "UY",
+    "GH",
+    "BW",
+    "ET"
+  ],
+  "postcardReady": 33,
+  "postcardRemaining": 15,
+  "coordinatePrecisionStatus": "not_independently_verified_for_all_48",
+  "visualRedesignStatus": "not_implemented_preview_service_unavailable",
+  "groups": [
+    {
+      "id": "Asia",
+      "ko": "아시아",
+      "en": "Asia",
+      "codes": [
+        "KR",
+        "MN",
+        "VN",
+        "SG",
+        "AE",
+        "UZ",
+        "IN",
+        "JP",
+        "CN",
+        "TH",
+        "TR",
+        "PH"
+      ]
+    },
+    {
+      "id": "Europe",
+      "ko": "유럽",
+      "en": "Europe",
+      "codes": [
+        "NL",
+        "DK",
+        "DE",
+        "RU",
+        "CH",
+        "ES",
+        "GB",
+        "IT",
+        "CZ",
+        "PT",
+        "FR",
+        "FI"
+      ]
+    },
+    {
+      "id": "NorthAmerica",
+      "ko": "북아메리카",
+      "en": "North America",
+      "codes": [
+        "MX",
+        "US",
+        "CA",
+        "DO",
+        "CR",
+        "CU"
+      ]
+    },
+    {
+      "id": "SouthAmerica",
+      "ko": "남아메리카",
+      "en": "South America",
+      "codes": [
+        "VE",
+        "BO",
+        "BR",
+        "AR",
+        "UY",
+        "CL",
+        "CO",
+        "PE"
+      ]
+    },
+    {
+      "id": "Africa",
+      "ko": "아프리카",
+      "en": "Africa",
+      "codes": [
+        "GH",
+        "NG",
+        "ZA",
+        "BW",
+        "ET",
+        "EG",
+        "KE",
+        "TZ"
+      ]
+    },
+    {
+      "id": "Oceania",
+      "ko": "오세아니아",
+      "en": "Oceania",
+      "codes": [
+        "NZ",
+        "AU"
+      ]
+    }
+  ],
+  "records": [
+    {
+      "code": "KR",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "대한민국",
+      "name": "Republic of Korea",
+      "capitalKo": "서울",
+      "capital": "Seoul",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        126.978,
+        37.5665
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/kr.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/korea-hanok-tower.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "MN",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "몽골",
+      "name": "Mongolia",
+      "capitalKo": "울란바토르",
+      "capital": "Ulaanbaatar",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        106.937,
+        47.9129
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/mn.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/1081/",
+        "https://ich.unesco.org/en/RL/naadam-mongolian-traditional-festival-00395",
+        "https://ich.unesco.org/en/RL/traditional-music-of-the-morin-khuur-00068"
+      ]
+    },
+    {
+      "code": "VN",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "베트남",
+      "name": "Vietnam",
+      "capitalKo": "하노이",
+      "capital": "Hanoi",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        105.8342,
+        21.0278
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/vn.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/vietnam-ha-long-bay.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "SG",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "싱가포르",
+      "name": "Singapore",
+      "capitalKo": "싱가포르",
+      "capital": "Singapore",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        103.85,
+        1.28941
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/sg.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/",
+        "https://www.visitsingapore.com/things-to-do/top-things-to-do/city-in-nature/",
+        "https://www.visitsingapore.com/content/visitsingapore/en/travel-tips/travelling-to-singapore/itineraries/singapore-city-tour-guide/"
+      ]
+    },
+    {
+      "code": "AE",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "아랍에미리트",
+      "name": "United Arab Emirates",
+      "capitalKo": "아부다비",
+      "capital": "Abu Dhabi",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        54.3705,
+        24.4764
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ae.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://u.ae/en/about-the-uae/fact-sheet",
+        "https://u.ae/en/about-the-uae/the-seven-emirates",
+        "https://whc.unesco.org/en/statesparties/ae/"
+      ]
+    },
+    {
+      "code": "UZ",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "우즈베키스탄",
+      "name": "Uzbekistan",
+      "capitalKo": "타슈켄트",
+      "capital": "Tashkent",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        69.269,
+        41.3052
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/uz.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/603/",
+        "https://whc.unesco.org/en/statesparties/uz/",
+        "https://ich.unesco.org/en/RL/palov-culture-and-tradition-01166"
+      ]
+    },
+    {
+      "code": "IN",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "인도",
+      "name": "India",
+      "capitalKo": "뉴델리",
+      "capital": "New Delhi",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        77.209,
+        28.6139
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/in.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/india-taj-mahal.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "JP",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "일본",
+      "name": "Japan",
+      "capitalKo": "도쿄",
+      "capital": "Tokyo",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        139.6917,
+        35.6895
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/jp.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/japan-fuji-pagoda.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "CN",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "중국",
+      "name": "China",
+      "capitalKo": "베이징",
+      "capital": "Beijing",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        116.4074,
+        39.9042
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/cn.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/china-great-wall.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "TH",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "태국",
+      "name": "Thailand",
+      "capitalKo": "방콕",
+      "capital": "Bangkok",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        100.5018,
+        13.7563
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/th.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/thailand-grand-palace.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "TR",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "튀르키예",
+      "name": "Türkiye",
+      "capitalKo": "앙카라",
+      "capital": "Ankara",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        32.8597,
+        39.9334
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/tr.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/turkiye-hagia-sophia.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "PH",
+      "continent": "Asia",
+      "continentKo": "아시아",
+      "nameKo": "필리핀",
+      "name": "Philippines",
+      "capitalKo": "마닐라",
+      "capital": "Manila",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        120.9842,
+        14.5995
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ph.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/philippines-banaue-terraces.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "NL",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "네덜란드",
+      "name": "Netherlands",
+      "capitalKo": "암스테르담",
+      "capital": "Amsterdam",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": {
+        "ko": "수도는 암스테르담이지만 정부와 의회는 헤이그에 있어요.",
+        "en": "Amsterdam is the capital, while the government and parliament are in The Hague."
+      },
+      "coordinates": [
+        4.89095,
+        52.3738
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/nl.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/818/",
+        "https://whc.unesco.org/en/list/1349/",
+        "https://www.holland.com/de/tourist/lass-dich-inspirieren"
+      ]
+    },
+    {
+      "code": "DK",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "덴마크",
+      "name": "Denmark",
+      "capitalKo": "코펜하겐",
+      "capital": "Copenhagen",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        12.5681,
+        55.6763
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/dk.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://www.visitdenmark.com/denmark/plan-your-trip/nyhavn-harbour-gdk426287",
+        "https://www.visitdenmark.com/denmark/plan-your-trip/the-little-mermaid-gdk586951",
+        "https://www.visitcopenhagen.com/"
+      ]
+    },
+    {
+      "code": "DE",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "독일",
+      "name": "Germany",
+      "capitalKo": "베를린",
+      "capital": "Berlin",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        13.405,
+        52.52
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/de.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/germany-brandenburg-gate.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "RU",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "러시아",
+      "name": "Russia",
+      "capitalKo": "모스크바",
+      "capital": "Moscow",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        37.6173,
+        55.7558
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ru.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/russia-st-basils.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "CH",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "스위스",
+      "name": "Switzerland",
+      "capitalKo": "베른",
+      "capital": "Bern",
+      "capitalRole": {
+        "ko": "연방도시",
+        "en": "Federal city"
+      },
+      "capitalNote": {
+        "ko": "베른은 스위스의 연방도시로, 연방 정부가 있는 곳이에요.",
+        "en": "Bern is Switzerland’s federal city and the seat of its federal government."
+      },
+      "coordinates": [
+        7.44821,
+        46.948
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ch.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://www.aboutswitzerland.eda.admin.ch/en/political-system",
+        "https://www.aboutswitzerland.eda.admin.ch/en/geography",
+        "https://www.aboutswitzerland.eda.admin.ch/en/languages-and-dialects"
+      ]
+    },
+    {
+      "code": "ES",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "스페인",
+      "name": "Spain",
+      "capitalKo": "마드리드",
+      "capital": "Madrid",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -3.7038,
+        40.4168
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/es.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/spain-sagrada-familia.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "GB",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "영국",
+      "name": "United Kingdom",
+      "capitalKo": "런던",
+      "capital": "London",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -0.1276,
+        51.5072
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/gb.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/uk-big-ben.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "IT",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "이탈리아",
+      "name": "Italy",
+      "capitalKo": "로마",
+      "capital": "Rome",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        12.4964,
+        41.9028
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/it.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/italy-colosseum.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "CZ",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "체코",
+      "name": "Czechia",
+      "capitalKo": "프라하",
+      "capital": "Prague",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        14.4205,
+        50.0878
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/cz.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/616/",
+        "https://prague.eu/en/objevujte/charles-bridge-karluv-most/"
+      ]
+    },
+    {
+      "code": "PT",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "포르투갈",
+      "name": "Portugal",
+      "capitalKo": "리스본",
+      "capital": "Lisbon",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -9.1393,
+        38.7223
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/pt.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/portugal-belem-tower.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "FR",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "프랑스",
+      "name": "France",
+      "capitalKo": "파리",
+      "capital": "Paris",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        2.3522,
+        48.8566
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/fr.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/paris-eiffel.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "FI",
+      "continent": "Europe",
+      "continentKo": "유럽",
+      "nameKo": "핀란드",
+      "name": "Finland",
+      "capitalKo": "헬싱키",
+      "capital": "Helsinki",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        24.9384,
+        60.1699
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/fi.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/finland-helsinki-cathedral.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "MX",
+      "continent": "NorthAmerica",
+      "continentKo": "북아메리카",
+      "nameKo": "멕시코",
+      "name": "Mexico",
+      "capitalKo": "멕시코시티",
+      "capital": "Mexico City",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -99.1332,
+        19.4326
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/mx.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/mexico-chichen-itza.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "US",
+      "continent": "NorthAmerica",
+      "continentKo": "북아메리카",
+      "nameKo": "미국",
+      "name": "United States",
+      "capitalKo": "워싱턴 D.C.",
+      "capital": "Washington D.C.",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -77.0365,
+        38.8977
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/us.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/mount-rushmore.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "CA",
+      "continent": "NorthAmerica",
+      "continentKo": "북아메리카",
+      "nameKo": "캐나다",
+      "name": "Canada",
+      "capitalKo": "오타와",
+      "capital": "Ottawa",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -75.6972,
+        45.4215
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ca.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/canada-niagara-falls.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "DO",
+      "continent": "NorthAmerica",
+      "continentKo": "북아메리카",
+      "nameKo": "도미니카 공화국",
+      "name": "Dominican Republic",
+      "capitalKo": "산토도밍고",
+      "capital": "Santo Domingo",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -69.8908,
+        18.479
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/do.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/526/",
+        "https://ich.unesco.org/en/RL/music-and-dance-of-the-merengue-in-the-dominican-republic-01162",
+        "https://github.com/mledoze/countries"
+      ]
+    },
+    {
+      "code": "CR",
+      "continent": "NorthAmerica",
+      "continentKo": "북아메리카",
+      "nameKo": "코스타리카",
+      "name": "Costa Rica",
+      "capitalKo": "산호세",
+      "capital": "San José",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -84.0907,
+        9.9281
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/cr.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://www.visitcostarica.com/where-to-go/central-pacific",
+        "https://whc.unesco.org/en/list/1453/",
+        "https://github.com/mledoze/countries"
+      ]
+    },
+    {
+      "code": "CU",
+      "continent": "NorthAmerica",
+      "continentKo": "북아메리카",
+      "nameKo": "쿠바",
+      "name": "Cuba",
+      "capitalKo": "아바나",
+      "capital": "Havana",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -82.3667,
+        23.1333
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/cu.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/204/",
+        "https://whc.unesco.org/en/list/840/"
+      ]
+    },
+    {
+      "code": "VE",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "베네수엘라",
+      "name": "Venezuela",
+      "capitalKo": "카라카스",
+      "capital": "Caracas",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -66.9036,
+        10.4806
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ve.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/701/",
+        "https://whc.unesco.org/document/218578",
+        "https://github.com/mledoze/countries"
+      ]
+    },
+    {
+      "code": "BO",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "볼리비아",
+      "name": "Bolivia",
+      "capitalKo": "수크레",
+      "capital": "Sucre",
+      "capitalRole": {
+        "ko": "헌법상 수도",
+        "en": "Constitutional capital"
+      },
+      "capitalNote": {
+        "ko": "헌법상 수도는 수크레이고, 정부와 의회는 라파스에 있어요.",
+        "en": "Sucre is the constitutional capital; La Paz is the seat of government and parliament."
+      },
+      "coordinates": [
+        -65.2592,
+        -19.0196
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/bo.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": true,
+      "postcard": "/assets/postcards/bo.webp",
+      "sources": [
+        "https://whc.unesco.org/en/list/566/",
+        "https://whc.unesco.org/en/list/567/",
+        "https://github.com/mledoze/countries"
+      ]
+    },
+    {
+      "code": "BR",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "브라질",
+      "name": "Brazil",
+      "capitalKo": "브라질리아",
+      "capital": "Brasília",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -47.8825,
+        -15.7942
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/br.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/brazil-christ.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "AR",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "아르헨티나",
+      "name": "Argentina",
+      "capitalKo": "부에노스아이레스",
+      "capital": "Buenos Aires",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -58.3816,
+        -34.6037
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ar.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/argentina-buenos-aires.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "UY",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "우루과이",
+      "name": "Uruguay",
+      "capitalKo": "몬테비데오",
+      "capital": "Montevideo",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -56.0675,
+        -34.8941
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/uy.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://montevideo.gub.uy/areas-tematicas/amiga-del-futbol/descubri-montevideo",
+        "https://www.montevideo.gub.uy/areas-tematicas/cultura-y-tiempo-libre/parques/rambla",
+        "https://ich.unesco.org/en/RL/candombe-and-its-socio-cultural-space-a-community-practice-00182"
+      ]
+    },
+    {
+      "code": "CL",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "칠레",
+      "name": "Chile",
+      "capitalKo": "산티아고",
+      "capital": "Santiago",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -70.6693,
+        -33.4489
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/cl.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/chile-rapa-nui.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "CO",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "콜롬비아",
+      "name": "Colombia",
+      "capitalKo": "보고타",
+      "capital": "Bogotá",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -74.0721,
+        4.711
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/co.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/colombia-cartagena.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "PE",
+      "continent": "SouthAmerica",
+      "continentKo": "남아메리카",
+      "nameKo": "페루",
+      "name": "Peru",
+      "capitalKo": "리마",
+      "capital": "Lima",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -77.0428,
+        -12.0464
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/pe.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/peru-machu-picchu.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "GH",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "가나",
+      "name": "Ghana",
+      "capitalKo": "아크라",
+      "capital": "Accra",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        -0.20795,
+        5.57045
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/gh.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://ich.unesco.org/en/RL/craftsmanship-of-traditional-woven-textile-kente-02130",
+        "https://whc.unesco.org/en/list/34/"
+      ]
+    },
+    {
+      "code": "NG",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "나이지리아",
+      "name": "Nigeria",
+      "capitalKo": "아부자",
+      "capital": "Abuja",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        7.4951,
+        9.0579
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ng.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/nigeria-aso-rock.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "ZA",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "남아프리카공화국",
+      "name": "South Africa",
+      "capitalKo": "프리토리아",
+      "capital": "Pretoria",
+      "capitalRole": {
+        "ko": "행정 수도",
+        "en": "Administrative capital"
+      },
+      "capitalNote": {
+        "ko": "프리토리아는 행정 수도, 케이프타운은 입법 수도, 블룸폰테인은 사법 수도예요.",
+        "en": "Pretoria is the administrative capital, Cape Town the legislative capital, and Bloemfontein the judicial capital."
+      },
+      "coordinates": [
+        28.2293,
+        -25.7479
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/za.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/south-africa-table-mountain.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "BW",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "보츠와나",
+      "name": "Botswana",
+      "capitalKo": "가보로네",
+      "capital": "Gaborone",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        25.9201,
+        -24.6544
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/bw.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": true,
+      "postcard": "/assets/postcards/bw.webp",
+      "sources": [
+        "https://whc.unesco.org/en/list/1432/",
+        "https://whc.unesco.org/en/list/1021/",
+        "https://github.com/mledoze/countries"
+      ]
+    },
+    {
+      "code": "ET",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "에티오피아",
+      "name": "Ethiopia",
+      "capitalKo": "아디스아바바",
+      "capital": "Addis Ababa",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        38.7468,
+        9.02274
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/et.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": true,
+      "postcardReady": false,
+      "postcard": null,
+      "sources": [
+        "https://whc.unesco.org/en/list/18/",
+        "https://www.unesco.org/en/mab/yayu?hub=66369",
+        "https://github.com/mledoze/countries"
+      ]
+    },
+    {
+      "code": "EG",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "이집트",
+      "name": "Egypt",
+      "capitalKo": "카이로",
+      "capital": "Cairo",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        31.2357,
+        30.0444
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/eg.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/egypt-pyramids.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "KE",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "케냐",
+      "name": "Kenya",
+      "capitalKo": "나이로비",
+      "capital": "Nairobi",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        36.8219,
+        -1.2921
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/ke.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/kenya-maasai-mara.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "TZ",
+      "continent": "Africa",
+      "continentKo": "아프리카",
+      "nameKo": "탄자니아",
+      "name": "Tanzania",
+      "capitalKo": "도도마",
+      "capital": "Dodoma",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        35.7516,
+        -6.163
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/tz.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/tanzania-kilimanjaro.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "NZ",
+      "continent": "Oceania",
+      "continentKo": "오세아니아",
+      "nameKo": "뉴질랜드",
+      "name": "New Zealand",
+      "capitalKo": "웰링턴",
+      "capital": "Wellington",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        174.7633,
+        -41.2865
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/nz.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/new-zealand-milford-sound.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    {
+      "code": "AU",
+      "continent": "Oceania",
+      "continentKo": "오세아니아",
+      "nameKo": "호주",
+      "name": "Australia",
+      "capitalKo": "캔버라",
+      "capital": "Canberra",
+      "capitalRole": {
+        "ko": "수도",
+        "en": "Capital"
+      },
+      "capitalNote": null,
+      "coordinates": [
+        149.13,
+        -35.2809
+      ],
+      "coordinateReview": "presence_and_numeric_range_only",
+      "flag": "/flags/au.svg",
+      "storyCount": 3,
+      "keywordCount": 10,
+      "textUpdatedThisReview": false,
+      "postcardReady": true,
+      "postcard": "/assets/australia-sydney-opera.webp",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    }
+  ]
+}

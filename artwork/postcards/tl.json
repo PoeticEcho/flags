@@ -1,0 +1,20 @@
+{
+  "code": "TL",
+  "nameKo": "동티모르",
+  "filename": "timor-leste-dili-cristo-rei.webp",
+  "landmark": "Dili and Cristo Rei hill",
+  "landmarkKo": "딜리와 크리스투 레이 언덕",
+  "sources": [
+    "https://timorleste.tl/destinations/cristo-rei"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for TL in a children's world atlas.\nPrimary request / scene: Dili, Timor-Leste: Cristo Rei at the tip of Cape Fatucama, a statue of Christ with outstretched arms standing on a globe atop a modest pedestal on a green coastal headland, blue Timor Sea and quiet sandy bays on either side, Dili's low waterfront buildings curving along the distant bay. View from a nearby coastal hill, landmark medium-sized and geographically coherent. No Rio de Janeiro skyline, Sugarloaf mountain or enormous floating statue.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "timor-leste-dili-cristo-rei.webp",
+  "inspection": "파투카마곶의 지구본 위 크리스투 레이와 딜리만 해안을 확인했습니다. 리우의 풍경과 구분됩니다.",
+  "originalFile": "TL.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/tl.webp",
+  "exportFile": "tl.webp"
+}

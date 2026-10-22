@@ -1,0 +1,20 @@
+{
+  "code": "LI",
+  "nameKo": "리히텐슈타인",
+  "filename": "liechtenstein-vaduz-castle.webp",
+  "landmark": "Vaduz Castle and Alpine Rhine Valley",
+  "landmarkKo": "파두츠성과 알프스 라인 계곡",
+  "sources": [
+    "https://en.tourismus.li/map/poi/schloss-vaduz-8fb7e6cf-99b5-4ffb-b600-9e4c66398e1f.html"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for LI in a children's world atlas.\nPrimary request / scene: Vaduz Castle in Liechtenstein, compact pale stone castle with broad round defensive bastions with flat battlement tops, adjoining red-brown tiled roofs and a square keep, perched on a wooded hillside above Vaduz and the wide Alpine Rhine Valley. Vineyard greenery in foreground, orderly valley farms and villages, layered Alps beyond. A real modest inhabited castle, not a huge fairy-tale palace with needle spires.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "liechtenstein-vaduz-castle.webp",
+  "inspection": "파두츠성의 둥근 방어벽과 붉은 지붕, 라인 계곡과 알프스 배경을 확인했습니다.",
+  "originalFile": "LI.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/li.webp",
+  "exportFile": "li.webp"
+}

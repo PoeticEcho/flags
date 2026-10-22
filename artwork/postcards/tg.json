@@ -1,0 +1,19 @@
+{
+  "code": "TG",
+  "landmark": "Koutammakou and Batammariba earth houses",
+  "landmarkKo": "쿠타마쿠의 바탐마리바 흙집",
+  "filename": "togo-koutammakou.webp",
+  "sources": [
+    "https://whc.unesco.org/en/list/1140/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for TG in a children's world atlas.\nPrimary request / scene: Koutammakou in northern Togo, a small cluster of traditional Batammariba takienta earthen tower-houses in a gently rolling warm green rural landscape. Recognizable compact fortress-like earth dwellings with round clay towers linked by low walls, roof terraces and small thatched caps on some upper storage structures. Warm ochre hand-shaped mud walls, low entrances, a few trees and fields; houses have believable small village scale and irregular hand-built details. Do not substitute European stone castles, generic conical huts, a giant palace or caricatured people.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "togo-koutammakou.webp",
+  "inspection": "둥근 흙벽 탑과 연결된 테라스, 작은 초가지붕을 가진 쿠타마쿠의 타키엔타 주거 형태를 확인했습니다.",
+  "originalFile": "TG.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/tg.webp",
+  "exportFile": "tg.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "PS",
+  "nameKo": "팔레스타인",
+  "filename": "palestine-jericho-tell-es-sultan.webp",
+  "landmark": "Ancient Jericho / Tell es-Sultan",
+  "landmarkKo": "고대 예리코와 텔에스술탄",
+  "sources": [
+    "https://whc.unesco.org/en/list/1687/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for PS in a children's world atlas.\nPrimary request / scene: Tell es-Sultan archaeological mound at Jericho in Palestine, a low oval dusty earthen mound with exposed ancient stone wall foundations and excavated terraces, a small visible round stone tower remnant partly below ground, palm trees and green oasis beyond with dry Jordan Valley hills. Present-day preserved archaeological ruins, no reconstructed intact ancient city, no huge medieval castle or biblical fantasy city.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "palestine-jericho-tell-es-sultan.webp",
+  "inspection": "텔에스술탄의 낮은 흙 언덕, 노출된 돌 기초와 일부 발굴된 둥근 탑, 주변 오아시스를 확인했습니다. 고대 도시의 완전한 복원 장면이 아닙니다.",
+  "originalFile": "PS.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/ps.webp",
+  "exportFile": "ps.webp"
+}

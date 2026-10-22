@@ -1,0 +1,17 @@
+{
+  "code": "AL",
+  "landmark": "Butrint",
+  "landmarkKo": "부트린트 유적",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Albania\nPrimary request: Butrint's ancient stone theatre ruins surrounded by lush Mediterranean greenery beside the Butrint lagoon.\nSubject: Recognizable modest semicircular tiers of weathered pale stone seating, curved orchestra floor and low archaeological walls. Show an open ancient Greek theatre, not a fully enclosed stadium.\nScene/backdrop: Wooded low hill, leafy trees and grass around the ruins; a subtle blue-green glimpse of lagoon beyond the trees.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable archaeological geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Slightly elevated view clearly showing the curved seating; main theatre safely inside the central 75% of width and height, with breathing room for cropping.\nLighting/mood: Warm natural daylight, blue sky, peaceful and inviting.\nConstraints: Stylized educational illustration. No readable text or letters, UI, flags, logos, watermark, postcard frame or stamp. No Colosseum, giant intact temple, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/570/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Semicircular tiered pale-stone theatre, open orchestra and low ruins among lush greenery beside lagoon; no Colosseum. Painterly style matches reference. No readable text/UI/flags/logos. Seating extends beyond central 75% horizontally; root reviewed and accepted with contain sizing. Stylized scenic view.",
+  "originalFile": "AL-butrint.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/al.webp",
+  "exportFile": "al.webp"
+}

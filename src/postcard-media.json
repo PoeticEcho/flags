@@ -1,0 +1,1578 @@
+{
+  "AF": {
+    "previewImage": "/assets/postcards/preview/af.webp",
+    "fullImage": "/assets/postcards/full/af.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AO": {
+    "previewImage": "/assets/postcards/preview/ao.webp",
+    "fullImage": "/assets/postcards/full/ao.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AL": {
+    "previewImage": "/assets/postcards/preview/al.webp",
+    "fullImage": "/assets/postcards/full/al.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AD": {
+    "previewImage": "/assets/postcards/preview/ad.webp",
+    "fullImage": "/assets/postcards/full/ad.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AE": {
+    "previewImage": "/assets/postcards/preview/ae.webp",
+    "fullImage": "/assets/postcards/full/ae.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AR": {
+    "previewImage": "/assets/postcards/preview/ar.webp",
+    "fullImage": "/assets/argentina-buenos-aires.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AM": {
+    "previewImage": "/assets/postcards/preview/am.webp",
+    "fullImage": "/assets/postcards/full/am.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AG": {
+    "previewImage": "/assets/postcards/preview/ag.webp",
+    "fullImage": "/assets/postcards/full/ag.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AU": {
+    "previewImage": "/assets/postcards/preview/au.webp",
+    "fullImage": "/assets/australia-sydney-opera.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AT": {
+    "previewImage": "/assets/postcards/preview/at.webp",
+    "fullImage": "/assets/postcards/full/at.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "AZ": {
+    "previewImage": "/assets/postcards/preview/az.webp",
+    "fullImage": "/assets/postcards/full/az.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BI": {
+    "previewImage": "/assets/postcards/preview/bi.webp",
+    "fullImage": "/assets/postcards/full/bi.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BE": {
+    "previewImage": "/assets/postcards/preview/be.webp",
+    "fullImage": "/assets/postcards/full/be.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BJ": {
+    "previewImage": "/assets/postcards/preview/bj.webp",
+    "fullImage": "/assets/postcards/full/bj.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BF": {
+    "previewImage": "/assets/postcards/preview/bf.webp",
+    "fullImage": "/assets/postcards/full/bf.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BD": {
+    "previewImage": "/assets/postcards/preview/bd.webp",
+    "fullImage": "/assets/bangladesh-lalbagh-fort.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BG": {
+    "previewImage": "/assets/postcards/preview/bg.webp",
+    "fullImage": "/assets/postcards/full/bg.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BH": {
+    "previewImage": "/assets/postcards/preview/bh.webp",
+    "fullImage": "/assets/postcards/full/bh.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BS": {
+    "previewImage": "/assets/postcards/preview/bs.webp",
+    "fullImage": "/assets/postcards/full/bs.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BA": {
+    "previewImage": "/assets/postcards/preview/ba.webp",
+    "fullImage": "/assets/postcards/full/ba.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BY": {
+    "previewImage": "/assets/postcards/preview/by.webp",
+    "fullImage": "/assets/postcards/full/by.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BZ": {
+    "previewImage": "/assets/postcards/preview/bz.webp",
+    "fullImage": "/assets/postcards/full/bz.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BO": {
+    "previewImage": "/assets/postcards/preview/bo.webp",
+    "fullImage": "/assets/postcards/full/bo.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BR": {
+    "previewImage": "/assets/postcards/preview/br.webp",
+    "fullImage": "/assets/brazil-christ.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BB": {
+    "previewImage": "/assets/postcards/preview/bb.webp",
+    "fullImage": "/assets/postcards/full/bb.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BN": {
+    "previewImage": "/assets/postcards/preview/bn.webp",
+    "fullImage": "/assets/postcards/full/bn.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BT": {
+    "previewImage": "/assets/postcards/preview/bt.webp",
+    "fullImage": "/assets/postcards/full/bt.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "BW": {
+    "previewImage": "/assets/postcards/preview/bw.webp",
+    "fullImage": "/assets/postcards/full/bw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CF": {
+    "previewImage": "/assets/postcards/preview/cf.webp",
+    "fullImage": "/assets/postcards/full/cf.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CA": {
+    "previewImage": "/assets/postcards/preview/ca.webp",
+    "fullImage": "/assets/canada-niagara-falls.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CH": {
+    "previewImage": "/assets/postcards/preview/ch.webp",
+    "fullImage": "/assets/postcards/full/ch.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CL": {
+    "previewImage": "/assets/postcards/preview/cl.webp",
+    "fullImage": "/assets/chile-rapa-nui.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CN": {
+    "previewImage": "/assets/postcards/preview/cn.webp",
+    "fullImage": "/assets/china-great-wall.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CI": {
+    "previewImage": "/assets/postcards/preview/ci.webp",
+    "fullImage": "/assets/postcards/full/ci.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CM": {
+    "previewImage": "/assets/postcards/preview/cm.webp",
+    "fullImage": "/assets/postcards/full/cm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CD": {
+    "previewImage": "/assets/postcards/preview/cd.webp",
+    "fullImage": "/assets/postcards/full/cd.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CG": {
+    "previewImage": "/assets/postcards/preview/cg.webp",
+    "fullImage": "/assets/postcards/full/cg.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CO": {
+    "previewImage": "/assets/postcards/preview/co.webp",
+    "fullImage": "/assets/colombia-cartagena.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KM": {
+    "previewImage": "/assets/postcards/preview/km.webp",
+    "fullImage": "/assets/postcards/full/km.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CV": {
+    "previewImage": "/assets/postcards/preview/cv.webp",
+    "fullImage": "/assets/postcards/full/cv.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CR": {
+    "previewImage": "/assets/postcards/preview/cr.webp",
+    "fullImage": "/assets/postcards/full/cr.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CU": {
+    "previewImage": "/assets/postcards/preview/cu.webp",
+    "fullImage": "/assets/postcards/full/cu.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CY": {
+    "previewImage": "/assets/postcards/preview/cy.webp",
+    "fullImage": "/assets/postcards/full/cy.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "CZ": {
+    "previewImage": "/assets/postcards/preview/cz.webp",
+    "fullImage": "/assets/postcards/full/cz.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "DE": {
+    "previewImage": "/assets/postcards/preview/de.webp",
+    "fullImage": "/assets/germany-brandenburg-gate.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "DJ": {
+    "previewImage": "/assets/postcards/preview/dj.webp",
+    "fullImage": "/assets/postcards/full/dj.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "DM": {
+    "previewImage": "/assets/postcards/preview/dm.webp",
+    "fullImage": "/assets/postcards/full/dm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "DK": {
+    "previewImage": "/assets/postcards/preview/dk.webp",
+    "fullImage": "/assets/postcards/full/dk.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "DO": {
+    "previewImage": "/assets/postcards/preview/do.webp",
+    "fullImage": "/assets/postcards/full/do.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "DZ": {
+    "previewImage": "/assets/postcards/preview/dz.webp",
+    "fullImage": "/assets/postcards/full/dz.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "EC": {
+    "previewImage": "/assets/postcards/preview/ec.webp",
+    "fullImage": "/assets/postcards/full/ec.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "EG": {
+    "previewImage": "/assets/postcards/preview/eg.webp",
+    "fullImage": "/assets/egypt-pyramids.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ER": {
+    "previewImage": "/assets/postcards/preview/er.webp",
+    "fullImage": "/assets/postcards/full/er.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ES": {
+    "previewImage": "/assets/postcards/preview/es.webp",
+    "fullImage": "/assets/spain-sagrada-familia.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "EE": {
+    "previewImage": "/assets/postcards/preview/ee.webp",
+    "fullImage": "/assets/postcards/full/ee.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ET": {
+    "previewImage": "/assets/postcards/preview/et.webp",
+    "fullImage": "/assets/postcards/full/et.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "FI": {
+    "previewImage": "/assets/postcards/preview/fi.webp",
+    "fullImage": "/assets/finland-helsinki-cathedral.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "FJ": {
+    "previewImage": "/assets/postcards/preview/fj.webp",
+    "fullImage": "/assets/postcards/full/fj.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "FR": {
+    "previewImage": "/assets/postcards/preview/fr.webp",
+    "fullImage": "/assets/paris-eiffel.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "FM": {
+    "previewImage": "/assets/postcards/preview/fm.webp",
+    "fullImage": "/assets/postcards/full/fm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GA": {
+    "previewImage": "/assets/postcards/preview/ga.webp",
+    "fullImage": "/assets/postcards/full/ga.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GB": {
+    "previewImage": "/assets/postcards/preview/gb.webp",
+    "fullImage": "/assets/uk-big-ben.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GE": {
+    "previewImage": "/assets/postcards/preview/ge.webp",
+    "fullImage": "/assets/postcards/full/ge.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GH": {
+    "previewImage": "/assets/postcards/preview/gh.webp",
+    "fullImage": "/assets/postcards/full/gh.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GN": {
+    "previewImage": "/assets/postcards/preview/gn.webp",
+    "fullImage": "/assets/postcards/full/gn.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GM": {
+    "previewImage": "/assets/postcards/preview/gm.webp",
+    "fullImage": "/assets/postcards/full/gm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GW": {
+    "previewImage": "/assets/postcards/preview/gw.webp",
+    "fullImage": "/assets/postcards/full/gw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GQ": {
+    "previewImage": "/assets/postcards/preview/gq.webp",
+    "fullImage": "/assets/postcards/full/gq.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GR": {
+    "previewImage": "/assets/postcards/preview/gr.webp",
+    "fullImage": "/assets/greece-acropolis.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GD": {
+    "previewImage": "/assets/postcards/preview/gd.webp",
+    "fullImage": "/assets/postcards/full/gd.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GT": {
+    "previewImage": "/assets/postcards/preview/gt.webp",
+    "fullImage": "/assets/postcards/full/gt.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "GY": {
+    "previewImage": "/assets/postcards/preview/gy.webp",
+    "fullImage": "/assets/postcards/full/gy.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "HN": {
+    "previewImage": "/assets/postcards/preview/hn.webp",
+    "fullImage": "/assets/postcards/full/hn.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "HR": {
+    "previewImage": "/assets/postcards/preview/hr.webp",
+    "fullImage": "/assets/postcards/full/hr.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "HT": {
+    "previewImage": "/assets/postcards/preview/ht.webp",
+    "fullImage": "/assets/postcards/full/ht.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "HU": {
+    "previewImage": "/assets/postcards/preview/hu.webp",
+    "fullImage": "/assets/postcards/full/hu.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ID": {
+    "previewImage": "/assets/postcards/preview/id.webp",
+    "fullImage": "/assets/indonesia-borobudur.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IN": {
+    "previewImage": "/assets/postcards/preview/in.webp",
+    "fullImage": "/assets/india-taj-mahal.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IE": {
+    "previewImage": "/assets/postcards/preview/ie.webp",
+    "fullImage": "/assets/postcards/full/ie.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IR": {
+    "previewImage": "/assets/postcards/preview/ir.webp",
+    "fullImage": "/assets/postcards/full/ir.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IQ": {
+    "previewImage": "/assets/postcards/preview/iq.webp",
+    "fullImage": "/assets/postcards/full/iq.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IS": {
+    "previewImage": "/assets/postcards/preview/is.webp",
+    "fullImage": "/assets/postcards/full/is.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IL": {
+    "previewImage": "/assets/postcards/preview/il.webp",
+    "fullImage": "/assets/postcards/full/il.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "IT": {
+    "previewImage": "/assets/postcards/preview/it.webp",
+    "fullImage": "/assets/italy-colosseum.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "JM": {
+    "previewImage": "/assets/postcards/preview/jm.webp",
+    "fullImage": "/assets/postcards/full/jm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "JO": {
+    "previewImage": "/assets/postcards/preview/jo.webp",
+    "fullImage": "/assets/postcards/full/jo.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "JP": {
+    "previewImage": "/assets/postcards/preview/jp.webp",
+    "fullImage": "/assets/japan-fuji-pagoda.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KZ": {
+    "previewImage": "/assets/postcards/preview/kz.webp",
+    "fullImage": "/assets/postcards/full/kz.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KE": {
+    "previewImage": "/assets/postcards/preview/ke.webp",
+    "fullImage": "/assets/kenya-maasai-mara.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KG": {
+    "previewImage": "/assets/postcards/preview/kg.webp",
+    "fullImage": "/assets/postcards/full/kg.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KH": {
+    "previewImage": "/assets/postcards/preview/kh.webp",
+    "fullImage": "/assets/postcards/full/kh.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KI": {
+    "previewImage": "/assets/postcards/preview/ki.webp",
+    "fullImage": "/assets/postcards/full/ki.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KN": {
+    "previewImage": "/assets/postcards/preview/kn.webp",
+    "fullImage": "/assets/postcards/full/kn.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KR": {
+    "previewImage": "/assets/postcards/preview/kr.webp",
+    "fullImage": "/assets/korea-hanok-tower.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "XK": {
+    "previewImage": "/assets/postcards/preview/xk.webp",
+    "fullImage": "/assets/postcards/full/xk.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KW": {
+    "previewImage": "/assets/postcards/preview/kw.webp",
+    "fullImage": "/assets/postcards/full/kw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LA": {
+    "previewImage": "/assets/postcards/preview/la.webp",
+    "fullImage": "/assets/postcards/full/la.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LB": {
+    "previewImage": "/assets/postcards/preview/lb.webp",
+    "fullImage": "/assets/postcards/full/lb.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LR": {
+    "previewImage": "/assets/postcards/preview/lr.webp",
+    "fullImage": "/assets/postcards/full/lr.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LY": {
+    "previewImage": "/assets/postcards/preview/ly.webp",
+    "fullImage": "/assets/postcards/full/ly.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LC": {
+    "previewImage": "/assets/postcards/preview/lc.webp",
+    "fullImage": "/assets/postcards/full/lc.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LI": {
+    "previewImage": "/assets/postcards/preview/li.webp",
+    "fullImage": "/assets/postcards/full/li.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LK": {
+    "previewImage": "/assets/postcards/preview/lk.webp",
+    "fullImage": "/assets/postcards/full/lk.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LS": {
+    "previewImage": "/assets/postcards/preview/ls.webp",
+    "fullImage": "/assets/postcards/full/ls.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LT": {
+    "previewImage": "/assets/postcards/preview/lt.webp",
+    "fullImage": "/assets/postcards/full/lt.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LU": {
+    "previewImage": "/assets/postcards/preview/lu.webp",
+    "fullImage": "/assets/postcards/full/lu.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "LV": {
+    "previewImage": "/assets/postcards/preview/lv.webp",
+    "fullImage": "/assets/postcards/full/lv.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MA": {
+    "previewImage": "/assets/postcards/preview/ma.webp",
+    "fullImage": "/assets/morocco-marrakech.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MC": {
+    "previewImage": "/assets/postcards/preview/mc.webp",
+    "fullImage": "/assets/postcards/full/mc.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MD": {
+    "previewImage": "/assets/postcards/preview/md.webp",
+    "fullImage": "/assets/postcards/full/md.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MG": {
+    "previewImage": "/assets/postcards/preview/mg.webp",
+    "fullImage": "/assets/postcards/full/mg.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MV": {
+    "previewImage": "/assets/postcards/preview/mv.webp",
+    "fullImage": "/assets/postcards/full/mv.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MX": {
+    "previewImage": "/assets/postcards/preview/mx.webp",
+    "fullImage": "/assets/mexico-chichen-itza.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MH": {
+    "previewImage": "/assets/postcards/preview/mh.webp",
+    "fullImage": "/assets/postcards/full/mh.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MK": {
+    "previewImage": "/assets/postcards/preview/mk.webp",
+    "fullImage": "/assets/postcards/full/mk.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ML": {
+    "previewImage": "/assets/postcards/preview/ml.webp",
+    "fullImage": "/assets/postcards/full/ml.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MT": {
+    "previewImage": "/assets/postcards/preview/mt.webp",
+    "fullImage": "/assets/postcards/full/mt.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MM": {
+    "previewImage": "/assets/postcards/preview/mm.webp",
+    "fullImage": "/assets/postcards/full/mm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ME": {
+    "previewImage": "/assets/postcards/preview/me.webp",
+    "fullImage": "/assets/postcards/full/me.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MN": {
+    "previewImage": "/assets/postcards/preview/mn.webp",
+    "fullImage": "/assets/postcards/full/mn.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MZ": {
+    "previewImage": "/assets/postcards/preview/mz.webp",
+    "fullImage": "/assets/postcards/full/mz.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MR": {
+    "previewImage": "/assets/postcards/preview/mr.webp",
+    "fullImage": "/assets/postcards/full/mr.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MU": {
+    "previewImage": "/assets/postcards/preview/mu.webp",
+    "fullImage": "/assets/postcards/full/mu.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MW": {
+    "previewImage": "/assets/postcards/preview/mw.webp",
+    "fullImage": "/assets/postcards/full/mw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "MY": {
+    "previewImage": "/assets/postcards/preview/my.webp",
+    "fullImage": "/assets/postcards/full/my.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NA": {
+    "previewImage": "/assets/postcards/preview/na.webp",
+    "fullImage": "/assets/postcards/full/na.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NE": {
+    "previewImage": "/assets/postcards/preview/ne.webp",
+    "fullImage": "/assets/postcards/full/ne.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NG": {
+    "previewImage": "/assets/postcards/preview/ng.webp",
+    "fullImage": "/assets/nigeria-aso-rock.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NI": {
+    "previewImage": "/assets/postcards/preview/ni.webp",
+    "fullImage": "/assets/postcards/full/ni.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NL": {
+    "previewImage": "/assets/postcards/preview/nl.webp",
+    "fullImage": "/assets/postcards/full/nl.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NO": {
+    "previewImage": "/assets/postcards/preview/no.webp",
+    "fullImage": "/assets/norway-geirangerfjord.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NP": {
+    "previewImage": "/assets/postcards/preview/np.webp",
+    "fullImage": "/assets/postcards/full/np.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NR": {
+    "previewImage": "/assets/postcards/preview/nr.webp",
+    "fullImage": "/assets/postcards/full/nr.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "NZ": {
+    "previewImage": "/assets/postcards/preview/nz.webp",
+    "fullImage": "/assets/new-zealand-milford-sound.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "OM": {
+    "previewImage": "/assets/postcards/preview/om.webp",
+    "fullImage": "/assets/postcards/full/om.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PK": {
+    "previewImage": "/assets/postcards/preview/pk.webp",
+    "fullImage": "/assets/pakistan-faisal-mosque.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PA": {
+    "previewImage": "/assets/postcards/preview/pa.webp",
+    "fullImage": "/assets/postcards/full/pa.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PE": {
+    "previewImage": "/assets/postcards/preview/pe.webp",
+    "fullImage": "/assets/peru-machu-picchu.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PH": {
+    "previewImage": "/assets/postcards/preview/ph.webp",
+    "fullImage": "/assets/philippines-banaue-terraces.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PW": {
+    "previewImage": "/assets/postcards/preview/pw.webp",
+    "fullImage": "/assets/postcards/full/pw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PG": {
+    "previewImage": "/assets/postcards/preview/pg.webp",
+    "fullImage": "/assets/postcards/full/pg.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PL": {
+    "previewImage": "/assets/postcards/preview/pl.webp",
+    "fullImage": "/assets/poland-warsaw-old-town.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "KP": {
+    "previewImage": "/assets/postcards/preview/kp.webp",
+    "fullImage": "/assets/postcards/full/kp.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PT": {
+    "previewImage": "/assets/postcards/preview/pt.webp",
+    "fullImage": "/assets/portugal-belem-tower.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PY": {
+    "previewImage": "/assets/postcards/preview/py.webp",
+    "fullImage": "/assets/postcards/full/py.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "PS": {
+    "previewImage": "/assets/postcards/preview/ps.webp",
+    "fullImage": "/assets/postcards/full/ps.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "QA": {
+    "previewImage": "/assets/postcards/preview/qa.webp",
+    "fullImage": "/assets/postcards/full/qa.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "RO": {
+    "previewImage": "/assets/postcards/preview/ro.webp",
+    "fullImage": "/assets/postcards/full/ro.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "RU": {
+    "previewImage": "/assets/postcards/preview/ru.webp",
+    "fullImage": "/assets/russia-st-basils.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "RW": {
+    "previewImage": "/assets/postcards/preview/rw.webp",
+    "fullImage": "/assets/postcards/full/rw.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SA": {
+    "previewImage": "/assets/postcards/preview/sa.webp",
+    "fullImage": "/assets/saudi-arabia-hegra.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SD": {
+    "previewImage": "/assets/postcards/preview/sd.webp",
+    "fullImage": "/assets/postcards/full/sd.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SN": {
+    "previewImage": "/assets/postcards/preview/sn.webp",
+    "fullImage": "/assets/postcards/full/sn.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SG": {
+    "previewImage": "/assets/postcards/preview/sg.webp",
+    "fullImage": "/assets/postcards/full/sg.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SB": {
+    "previewImage": "/assets/postcards/preview/sb.webp",
+    "fullImage": "/assets/postcards/full/sb.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SL": {
+    "previewImage": "/assets/postcards/preview/sl.webp",
+    "fullImage": "/assets/postcards/full/sl.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SV": {
+    "previewImage": "/assets/postcards/preview/sv.webp",
+    "fullImage": "/assets/postcards/full/sv.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SM": {
+    "previewImage": "/assets/postcards/preview/sm.webp",
+    "fullImage": "/assets/postcards/full/sm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SO": {
+    "previewImage": "/assets/postcards/preview/so.webp",
+    "fullImage": "/assets/postcards/full/so.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "RS": {
+    "previewImage": "/assets/postcards/preview/rs.webp",
+    "fullImage": "/assets/postcards/full/rs.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SS": {
+    "previewImage": "/assets/postcards/preview/ss.webp",
+    "fullImage": "/assets/postcards/full/ss.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ST": {
+    "previewImage": "/assets/postcards/preview/st.webp",
+    "fullImage": "/assets/postcards/full/st.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SR": {
+    "previewImage": "/assets/postcards/preview/sr.webp",
+    "fullImage": "/assets/postcards/full/sr.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SK": {
+    "previewImage": "/assets/postcards/preview/sk.webp",
+    "fullImage": "/assets/postcards/full/sk.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SI": {
+    "previewImage": "/assets/postcards/preview/si.webp",
+    "fullImage": "/assets/postcards/full/si.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SE": {
+    "previewImage": "/assets/postcards/preview/se.webp",
+    "fullImage": "/assets/sweden-stockholm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SZ": {
+    "previewImage": "/assets/postcards/preview/sz.webp",
+    "fullImage": "/assets/postcards/full/sz.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SC": {
+    "previewImage": "/assets/postcards/preview/sc.webp",
+    "fullImage": "/assets/postcards/full/sc.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "SY": {
+    "previewImage": "/assets/postcards/preview/sy.webp",
+    "fullImage": "/assets/postcards/full/sy.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TD": {
+    "previewImage": "/assets/postcards/preview/td.webp",
+    "fullImage": "/assets/postcards/full/td.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TG": {
+    "previewImage": "/assets/postcards/preview/tg.webp",
+    "fullImage": "/assets/postcards/full/tg.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TH": {
+    "previewImage": "/assets/postcards/preview/th.webp",
+    "fullImage": "/assets/thailand-grand-palace.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TJ": {
+    "previewImage": "/assets/postcards/preview/tj.webp",
+    "fullImage": "/assets/postcards/full/tj.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TM": {
+    "previewImage": "/assets/postcards/preview/tm.webp",
+    "fullImage": "/assets/postcards/full/tm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TL": {
+    "previewImage": "/assets/postcards/preview/tl.webp",
+    "fullImage": "/assets/postcards/full/tl.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TO": {
+    "previewImage": "/assets/postcards/preview/to.webp",
+    "fullImage": "/assets/postcards/full/to.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TT": {
+    "previewImage": "/assets/postcards/preview/tt.webp",
+    "fullImage": "/assets/postcards/full/tt.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TN": {
+    "previewImage": "/assets/postcards/preview/tn.webp",
+    "fullImage": "/assets/postcards/full/tn.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TR": {
+    "previewImage": "/assets/postcards/preview/tr.webp",
+    "fullImage": "/assets/turkiye-hagia-sophia.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TV": {
+    "previewImage": "/assets/postcards/preview/tv.webp",
+    "fullImage": "/assets/postcards/full/tv.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TW": {
+    "previewImage": "/assets/postcards/preview/tw.webp",
+    "fullImage": "/assets/postcards/full/tw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "TZ": {
+    "previewImage": "/assets/postcards/preview/tz.webp",
+    "fullImage": "/assets/tanzania-kilimanjaro.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "UG": {
+    "previewImage": "/assets/postcards/preview/ug.webp",
+    "fullImage": "/assets/postcards/full/ug.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "UA": {
+    "previewImage": "/assets/postcards/preview/ua.webp",
+    "fullImage": "/assets/postcards/full/ua.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "UY": {
+    "previewImage": "/assets/postcards/preview/uy.webp",
+    "fullImage": "/assets/postcards/full/uy.webp",
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "US": {
+    "previewImage": "/assets/postcards/preview/us.webp",
+    "fullImage": "/assets/mount-rushmore.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "UZ": {
+    "previewImage": "/assets/postcards/preview/uz.webp",
+    "fullImage": "/assets/postcards/full/uz.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "VA": {
+    "previewImage": "/assets/postcards/preview/va.webp",
+    "fullImage": "/assets/postcards/full/va.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "VC": {
+    "previewImage": "/assets/postcards/preview/vc.webp",
+    "fullImage": "/assets/postcards/full/vc.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "VE": {
+    "previewImage": "/assets/postcards/preview/ve.webp",
+    "fullImage": "/assets/postcards/full/ve.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "VN": {
+    "previewImage": "/assets/postcards/preview/vn.webp",
+    "fullImage": "/assets/vietnam-ha-long-bay.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "VU": {
+    "previewImage": "/assets/postcards/preview/vu.webp",
+    "fullImage": "/assets/postcards/full/vu.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "WS": {
+    "previewImage": "/assets/postcards/preview/ws.webp",
+    "fullImage": "/assets/postcards/full/ws.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "YE": {
+    "previewImage": "/assets/postcards/preview/ye.webp",
+    "fullImage": "/assets/postcards/full/ye.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ZA": {
+    "previewImage": "/assets/postcards/preview/za.webp",
+    "fullImage": "/assets/south-africa-table-mountain.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ZM": {
+    "previewImage": "/assets/postcards/preview/zm.webp",
+    "fullImage": "/assets/postcards/full/zm.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  },
+  "ZW": {
+    "previewImage": "/assets/postcards/preview/zw.webp",
+    "fullImage": "/assets/postcards/full/zw.webp",
+    "width": 1536,
+    "height": 1024,
+    "previewWidth": 640,
+    "previewHeight": 427
+  }
+}

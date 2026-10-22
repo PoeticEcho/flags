@@ -1,0 +1,37 @@
+Little World Explorers — 197-country five-story education edition, 2026-10-02
+
+The bilingual educational paragraphs are original child-oriented summaries of
+facts, not copies of complete third-party articles. Country-specific primary
+references and the expansion review scope are in learning-story-expansion-sources.json.
+This edition preserves all 591 bilingual stories and 1,970 keyword pairs from
+the three-story edition, then adds two bilingual passages per country: 394
+additional pairs, 985 total, five per country. New passages include original
+explanations and guided comparisons, observations and diagram activities.
+Primary references support factual anchors; authored teaching activities are
+not quoted source statements. Country/capital comparisons reuse the app's
+existing roster. This expansion is not an independent all-capital coordinate audit.
+The earlier 137-country enrichment is recorded in learning-enrichment-sources.json.
+
+Country names, borders, languages and related baseline database material:
+Mohammed Le Doze / mledoze/countries (world-countries 5.1.0), ODbL 1.0.
+https://github.com/mledoze/countries
+https://opendatacommons.org/licenses/odbl/1-0/
+The original baseline attribution and license notice remain at
+/data/country-data-license.txt and the baseline at /data/learning-basics.json.
+
+Heritage fact references: UNESCO World Heritage Centre and UNESCO Intangible
+Cultural Heritage. UNESCO WHC descriptions identify CC BY-SA IGO 3.0 licensing:
+https://creativecommons.org/licenses/by-sa/3.0/igo/
+UNESCO is credited as the source of the referenced heritage information;
+it does not endorse this app. Tentative nominations are not inscriptions.
+Other primary sources include official governments, museums, conservation
+project organisations and national tourism bodies, linked per country.
+No third-party webpage images are included in this education ZIP.
+
+Population: United Nations, World Population Prospects 2024, Medium variant,
+1 July 2025 projection (GEN/01/REV1), CC BY 3.0 IGO.
+https://population.un.org/wpp/
+These values are projections, not 2026 live counts or censuses.
+
+Postcard captions identify scenes separately from capital locations.
+The education ZIP contains captions, not postcard image files or app binaries.

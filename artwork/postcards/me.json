@@ -1,0 +1,20 @@
+{
+  "code": "ME",
+  "nameKo": "몬테네그로",
+  "filename": "montenegro-kotor.webp",
+  "landmark": "Kotor region",
+  "landmarkKo": "코토르 자연과 역사 지구",
+  "sources": [
+    "https://whc.unesco.org/en/list/125/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for ME in a children's world atlas.\nPrimary request / scene: Kotor in Montenegro, the red tiled roofs of the compact stone-walled old town on a narrow shore beside the deep blue Bay of Kotor, steep grey limestone mountains with green vegetation rising behind. Ancient town walls zigzag up the rocky slope above the old town, modest church towers inside. Wide elevated view showing the sheltered winding bay and mountain setting, not a flat tropical beach or invented hilltop palace.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "montenegro-kotor.webp",
+  "inspection": "코토르만의 물길, 산비탈을 따라 올라가는 성벽과 붉은 지붕 구시가지를 확인했습니다. 건물 배치는 단순화한 여행 삽화입니다.",
+  "originalFile": "ME.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/me.webp",
+  "exportFile": "me.webp"
+}

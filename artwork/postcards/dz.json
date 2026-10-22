@@ -1,0 +1,17 @@
+{
+  "code": "DZ",
+  "landmark": "Kasbah of Algiers",
+  "landmarkKo": "알제의 카스바",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Algeria\nPrimary request: The Kasbah of Algiers, a dense historic Mediterranean hillside neighbourhood overlooking a bright blue bay.\nSubject: White and cream plaster houses with flat roofs, stepped terraces, tiny shaded Ottoman-style lanes and traditional arched doorways, clustered on a real sloping coastal hill.\nScene/backdrop: Mediterranean bay and a simple distant harbour below the neighbourhood; a few green trees, blue sky. Emphasize the old urban fabric, not one giant monument.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable architectural geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. A broad scenic view, the distinctive hillside house cluster centered and inside the central 75% of width and height, with outer breathing room for cropping.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No desert dunes, European fairy castle, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/565/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Dense stepped white and cream hillside houses, arched old lane, Mediterranean bay and modest harbour; no Sahara dunes. Bright brush-textured children's-book style. Central old-town fabric survives crop; foreground lane extends to edges. No text/UI/flags/logos/unrelated landmark. Stylized neighbourhood rather than exact city panorama.",
+  "originalFile": "DZ-algiers-kasbah.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/dz.webp",
+  "exportFile": "dz.webp"
+}

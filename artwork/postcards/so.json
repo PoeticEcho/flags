@@ -1,0 +1,21 @@
+{
+  "code": "SO",
+  "nameKo": "소말리아",
+  "filename": "somalia-mogadishu.webp",
+  "landmark": "Mogadishu historic coast",
+  "landmarkKo": "모가디슈의 오래된 해안 도시",
+  "sources": [
+    "https://whc.unesco.org/en/tentativelists/6754/",
+    "https://www.unesco.org/en/articles/building-resilience-future-mogadishus-old-town?hub=378"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: 소말리아 country-learning postcard for a children's world atlas.\nPrimary request / scene: The old coastal city of Mogadishu, Somalia, opening toward the Indian Ocean. A wide calm elevated view of dense modest low white and pale sand-coloured historic coastal buildings on flat terrain, narrow lanes, weathered coral-stone seawalls meeting gently breaking turquoise surf, a few restrained simple mosque domes and slim minarets within the old city's skyline. The emphasis is the historic waterfront and ocean, not a particular restored lighthouse or invented monument. Some buildings should show believable weathering; do not portray a freshly rebuilt ideal resort. No skyscrapers, towering cliffs, mountain coast, Taj Mahal, Dubai skyline or landmarks from other cities.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the atlas's Korean hanok and Great Wall paintings: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile painted paper, luminous cream clouds and blue sky, gently saturated greens and teal, warm ochre and terracotta. Believable landscape/landmark geometry, simplified just enough for young children. Not photographic, not flat vector or sticker art.\nComposition/framing: One independent full-bleed landscape image, exact 3:2 aspect ratio, intended 1536x1024. A clear layered foreground, midground and background; the key scene remains readable on a small card, inside the frame with breathing room. No collage.\nLighting/mood: Welcoming warm natural daylight, cheerful and calm.\nConstraints: No text, letters, writing, signs, flags, coats of arms, maps, logos, watermark, borders, stamps or UI. No invented landmarks or unrelated scenery.",
+  "inspection": "Low weathered white and sand-colour historic waterfront with Indian Ocean surf, modest domes and minarets. Does not reconstruct or claim the current condition of the partially collapsed Secondo-Lido lighthouse.",
+  "reviewedAt": "2026-10-01",
+  "guideFilename": "somalia-mogadishu.webp",
+  "originalFile": "SO.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "webImage": "/assets/postcards/so.webp",
+  "exportFile": "so.webp"
+}

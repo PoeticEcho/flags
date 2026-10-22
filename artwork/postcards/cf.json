@@ -1,0 +1,19 @@
+{
+  "code": "CF",
+  "landmark": "Sangha Trinational",
+  "landmarkKo": "상가강의 삼국 국립공원 지역",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Central African Republic\nPrimary request: Dzanga Bai forest clearing in the Central African Republic part of Sangha Trinational.\nSubject: A broad natural sandy and muddy mineral clearing encircled by dense tall tropical rainforest, with a shallow winding stream and puddles crossing the sand pan. Show a small plausible group of African forest elephants, two adults, one subadult and one calf, quietly drinking, walking and probing the wet ground with their trunks.\nScene/backdrop: The actual type of Dzanga Bai habitat: an open lowland forest clearing surrounded by an unbroken green wall of humid rainforest. Forest elephants have rounded ears and relatively slender downward tusks; keep their anatomy and proportions credible.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local habitat and wildlife, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Slightly elevated wide view into the bai; elephants are a modest middle-ground group comfortably inside central 75% width and height, with plenty of clearing and forest around them.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. No zoo-like mixed animal gathering, cages, savanna grassland, mountains, ocean, buildings or unrelated animals. No text or letters, UI, flags, logos, watermark, postcard frame or stamp.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1380/",
+    "https://dzanga-sangha.org/stories/bais/",
+    "https://dzanga-sangha.org/stories/first-ever-dzanga-sangha-day/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: Dzanga Bai-type sandy and muddy mineral clearing with a shallow winding stream and puddles enclosed by dense lowland rainforest. A small group of four forest elephants of different ages drinks and walks with plausible anatomy and proportions; no mixed zoo-like animal gathering. Scene is in the Central African Republic component, distinct from a generic Sangha river view. No buildings, mountains, readable text, flags, UI or logos.",
+  "originalFile": "CF-dzanga-bai.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/cf.webp",
+  "exportFile": "cf.webp"
+}

@@ -1,0 +1,19 @@
+{
+  "code": "KW",
+  "landmark": "Kuwait City waterfront and Kuwait Towers",
+  "landmarkKo": "쿠웨이트시티 해안과 쿠웨이트 타워",
+  "filename": "kuwait-kuwait-city.webp",
+  "sources": [
+    "https://www.e.gov.kw/sites/kgoenglish/Pages/Visitors/TourismInKuwait/ActivitiesInKuwaitAttractiveSpots.aspx"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for KW in a children's world atlas.\nPrimary request / scene: Kuwait City waterfront with the recognizable three Kuwait Towers beside the calm Gulf. Exactly three slender pale concrete spires: the tallest bears two distinct turquoise-green mosaic spheres at different heights, the second has one larger sphere, the third is a plain slender lighting spire without a sphere. A modest palm-lined waterfront promenade, blue-green sea, low sandy coastal city and a restrained distant modern skyline. The three towers comfortably centered and fully visible. No Dubai Burj Khalifa, giant mosque, mountains, excess spheres or extra tower copies.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "kuwait-kuwait-city.webp",
+  "inspection": "가장 큰 탑의 구체 둘, 둘째 탑의 구체 하나, 구체 없는 세 번째 탑을 확인했습니다.",
+  "originalFile": "KW.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/kw.webp",
+  "exportFile": "kw.webp"
+}

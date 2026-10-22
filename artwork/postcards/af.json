@@ -1,0 +1,17 @@
+{
+  "code": "AF",
+  "landmark": "Minaret and Archaeological Remains of Jam",
+  "landmarkKo": "잠의 미나레트와 고고 유적",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Afghanistan\nPrimary request: The Minaret and Archaeological Remains of Jam, a slender medieval baked-brick minaret in its remote, steep, arid Afghan mountain river valley.\nSubject: Recognizable four stacked tapering cylindrical shafts on an octagonal base, rich geometric relief brick patterns and a subtle turquoise decorative tile band. Warm weathered brick; simple open ruin ground at its feet.\nScene/backdrop: Narrow Hari-rud river winding between rugged ochre-brown mountain slopes, sparse valley greenery, blue sky. The isolated tower is the only monumental structure.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable landmark geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Show the complete tower with breathing room; all important subject geometry within the central 75% of width and height, safe for cropping.\nLighting/mood: Warm natural daylight, welcoming and calm.\nConstraints: Stylized educational illustration. No readable text or letters, UI, flags, logos, watermark, postcard frame or stamp. No city skyline, giant neighbouring mosque, unrelated landmark, invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/211/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Slender patterned warm-brick minaret, turquoise ornamental band, rugged arid river valley; painterly children's-book style matches reference. No readable text, UI, flags, logos or unrelated landmarks. Complete tower is visible, but its top exceeds central 75% vertical crop-safe zone; root reviewed and accepted with contain sizing. Stylized educational view rather than exact photograph.",
+  "originalFile": "AF-jam.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/af.webp",
+  "exportFile": "af.webp"
+}

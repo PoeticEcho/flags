@@ -1,0 +1,23 @@
+{
+  "code": "VA",
+  "nameKo": "바티칸",
+  "filename": "vatican-city.webp",
+  "landmark": "Vatican City",
+  "landmarkKo": "바티칸시국",
+  "sources": [
+    "https://whc.unesco.org/en/list/286/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for VA in a children's world atlas.\nPrimary request / scene: Vatican City, St Peter's Basilica with its broad cream stone classical facade and large ribbed dome rising behind, viewed across St Peter's Square. Sweeping elliptical colonnades curve on either side around an open pale paved square, central obelisk and two modest fountains, gardens and Roman rooftops in background. Architectural proportions lightly simplified but recognizable, no gigantic cathedral spires, lettering on the facade, signs or flags.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "vatican-city.webp",
+  "inspection": "성베드로 대성당의 돔·넓은 정면과 광장 양쪽의 회랑, 오벨리스크를 확인했습니다. 1차 결과의 유사 문자는 편집으로 제거하고 재검수했습니다.",
+  "repairOriginalFile": "VA-before-text-removal.png",
+  "repairPrompt": "Remove tiny pseudo-Latin marks on the facade into plain warm stone; preserve the full scene and composition.",
+  "repairGenerator": "built-in image_gen",
+  "originalFile": "VA.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/va.webp",
+  "exportFile": "va.webp"
+}

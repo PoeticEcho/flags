@@ -1,0 +1,19 @@
+{
+  "code": "LB",
+  "landmark": "Baalbek Roman temple ruins",
+  "landmarkKo": "바알베크의 로마 신전 유적",
+  "filename": "lebanon-baalbek.webp",
+  "sources": [
+    "https://whc.unesco.org/en/list/294/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for LB in a children's world atlas.\nPrimary request / scene: Baalbek in Lebanon: the massive ancient Roman temple platform with the famous row of six very tall surviving Corinthian columns of the Temple of Jupiter bearing a shared entablature, adjacent warm honey-stone temple ruins and carved stone fragments, dry sunlit ground and distant gentle hills. Broad three-quarter view shows column scale, weathered masonry and archaeological setting. No complete fantasy Parthenon, no extra dozen intact columns in the iconic row, no pyramids, flags or modern skyscrapers.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "lebanon-baalbek.webp",
+  "inspection": "바알베크의 여섯 기둥과 연결된 상부 구조 및 주변 신전 유적을 확인했습니다.",
+  "originalFile": "LB.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/lb.webp",
+  "exportFile": "lb.webp"
+}

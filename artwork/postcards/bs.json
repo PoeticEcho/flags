@@ -1,0 +1,21 @@
+{
+  "code": "BS",
+  "nameKo": "바하마",
+  "filename": "bahamas-deans-blue-hole.webp",
+  "landmark": "Dean's Blue Hole, Long Island",
+  "landmarkKo": "롱아일랜드의 딘스 블루홀",
+  "sources": [
+    "https://www.bahamas.com/natural-wonders/deans-blue-hole"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for BS in a children's world atlas.\nPrimary request / scene: Dean's Blue Hole on Long Island in the Bahamas, a small coastal ocean sinkhole with intensely deep sapphire blue water beside a powdery white beach. Three sides of its immediate shore are enclosed by a low pale limestone rocky amphitheatre with scrubby green vegetation, and the fourth opens into shallow turquoise lagoon water and a sandy bay. Elevated oblique view from the nearby low limestone shore showing the clearly defined deep blue hole and gentle shallow-water colour transition. Low Bahamian landscape, quiet and natural. NOT Belize's enormous offshore Great Blue Hole surrounded by a ring of coral, not a volcanic crater lake or a tall mountain lagoon. No diving platforms, boats crowding the hole, signage, swimmers or fantasy waterfall.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "bahamas-deans-blue-hole.webp",
+  "inspection": "롱아일랜드 딘스 블루홀의 짙은 푸른 물, 주변 낮은 석회암 암벽과 모래 해변·얕은 청록 물을 확인했습니다. 벨리즈의 거대한 산호초 원형 구멍이나 나소 항구와 구분됩니다.",
+  "originalFile": "BS.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bs-deans-blue-hole.webp",
+  "exportFile": "bs-deans-blue-hole.webp",
+  "previousSceneMetadata": "bs-nassau-coast.json"
+}

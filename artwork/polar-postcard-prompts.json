@@ -1,0 +1,25 @@
+{
+  "generated_on": "2026-10-02",
+  "mode": "built-in image_gen",
+  "use_case": "illustration-story",
+  "style_reference": "/workspace/scratch/2b06cd914ad0/flags-evaluation/public/assets/norway-geirangerfjord.webp",
+  "style_reference_usage": "Inspected visually and translated into style wording; no input-image generation parameters.",
+  "factual_sources": {
+    "greenland": "https://whc.unesco.org/en/list/1149/"
+  },
+  "requested_dimensions": [
+    1536,
+    1024
+  ],
+  "requested_aspect_ratio": "3:2",
+  "assets": [
+    {
+      "id": "greenland-ilulissat-icefjord",
+      "prompt": "Use case: illustration-story\nAsset type: educational children's travel-book postcard illustration\nPrimary request: Create one independent full-bleed landscape illustration of Ilulissat Icefjord on the west coast of Greenland, north of the Arctic Circle. This is a stylized educational postcard, not a factual photograph.\nScene/backdrop: A vast ice fjord filled with many massive irregular blue-white floating icebergs and smaller brash ice, with calm dark turquoise channels weaving among them. Low rocky tundra shore, a distant glacier flowing from the Greenland ice sheet, and pale distant mountains. The ice and sea dominate.\nStyle/medium: Match the cheerful, detailed gouache-and-watercolour children's travel-book character of the visually inspected Norway Geirangerfjord postcard: soft painterly colour washes, precise but natural opaque brushwork, fine coloured-pencil texture, tactile paper grain, inviting luminous scenery, and crisp readable landforms. Use that painterly visual language only, with the entirely new Arctic subject specified here.\nComposition/framing: Single panoramic view, full bleed with no border, landscape 3:2 aspect ratio, preferably 1536 by 1024 pixels. Clear foreground, middle distance and distant glacier; distinct iceberg silhouettes that remain readable at small card size.\nLighting/mood: Luminous Arctic summer daylight, pale blue sky, warm inviting sunlight on white ice, cool blue ice shadows, quiet and awe-inspiring.\nConstraints: No penguins, no polar bears, no people, no buildings, no towns, no ships, no invented monuments. Only the natural landscape.\nAvoid: Text, letters, numerals, flags, logos, watermarks, frames, UI, collage, photorealism, dramatic darkness."
+    },
+    {
+      "id": "antarctica-peninsula-gentoo",
+      "prompt": "Use case: illustration-story\nAsset type: educational children's travel-book postcard illustration\nPrimary request: Create one independent full-bleed landscape illustration of an Antarctic Peninsula coastal landscape. This is a stylized educational postcard, not a factual photograph.\nScene/backdrop: Blue-white icebergs floating in a cold turquoise sea, distant snow-covered rugged mountain peaks, and a rocky coastal foreground with a small recognizable group of gentoo penguins.\nSubject: A small group of gentoo penguins on the rocky foreground shore, with black backs, white bellies, a clear white patch above each eye extending over the crown, orange-red beaks and orange feet. Their markings must read as gentoo penguins; do not use emperor-penguin yellow or orange neck colouring.\nStyle/medium: Match the cheerful, detailed gouache-and-watercolour children's travel-book character of the visually inspected Norway Geirangerfjord postcard: soft painterly colour washes, precise but natural opaque brushwork, fine coloured-pencil texture, tactile paper grain, inviting luminous scenery, and crisp readable landforms. Use that painterly visual language only, with the entirely new Antarctic subject specified here.\nComposition/framing: Single panoramic view, full bleed with no border, landscape 3:2 aspect ratio, preferably 1536 by 1024 pixels. The coastal landscape and icebergs occupy most of the view; the small foreground penguin group is easy to recognize at small card size, with distinct natural poses.\nLighting/mood: Clear austral summer daylight, pale blue sky, warm inviting sunlight on white snow and ice, cool blue shadows, cheerful serene atmosphere.\nConstraints: No polar bears, no towns, no research buildings, no invented monuments, no people, no ships. Only the natural landscape and gentoo penguins.\nAvoid: Text, letters, numerals, flags, logos, watermarks, frames, UI, collage, photorealism, dramatic darkness."
+    }
+  ]
+}

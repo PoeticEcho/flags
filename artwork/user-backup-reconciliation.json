@@ -1,0 +1,3551 @@
+{
+  "schemaVersion": 1,
+  "recordedAtLocalDate": "2026-10-01",
+  "timezone": "Asia/Seoul",
+  "scope": "45개국 제작 가이드 완료 및 사용자 분할 ZIP 실제 파일 통합: 새 장면 41개·재사용 4개·백업에서 87개국 추가 연결. 197개국 미리보기와 큰 그림 연결, 브라우저 QA 대기.",
+  "imageGenerationPaused": false,
+  "backupEvidenceLevel": "Actual split-ZIP CRC and all 166 received image decodes verified; 87 selected imports and scene captions reviewed in labelled contact sheets.",
+  "summary": {
+    "targetCountries": 197,
+    "listedWebpFiles": 168,
+    "listedCountryImageFiles": 166,
+    "listedUiImageFiles": 2,
+    "listedZeroByteCountryImages": 2,
+    "listedNonzeroCountryImageFiles": 164,
+    "extraNonzeroVariants": 12,
+    "listedNonzeroCountryCoverage": 152,
+    "guideCountries": 45,
+    "guideNewCountries": 43,
+    "guideZeroByteReplacements": 2,
+    "verifiedCurrentAppConnectedCountries": 197,
+    "currentAppUnconnectedCountries": 0,
+    "backupCountriesNotYetConnectedToApp": 0,
+    "listedCountryCoverageIncludingApp": 157,
+    "countryCoverageGap": 40,
+    "currentAppCountryOverlapWithGuide": 5,
+    "reuseReviewCandidates": 0,
+    "guideSceneReplacementCandidates": 1,
+    "plannedNewImagesIfReusePasses": 41,
+    "priorityAppConnectedCountries": 48,
+    "priorityBackupImportCandidates": 0,
+    "priorityNewImageCandidates": 0,
+    "reuseApprovedCountries": 4,
+    "remainingNewGuideImages": 0,
+    "newGuideImagesGenerated": 41,
+    "guideItemsCompleted": 45,
+    "publishedCurrentAppConnectedCountries": 197,
+    "receivedFiles": 166,
+    "receivedDecodedCountryImageFiles": 164,
+    "receivedUiFiles": 2,
+    "backupCountriesImported": 87
+  },
+  "sources": [
+    {
+      "uploadedFilename": "world-atlas-image-generation-guide-45(1).md",
+      "preservedPath": "artwork/references/user-image-generation-guide-45.md",
+      "sha256": "fd8e12590661d37f399af074cefc6aaaa02edbc222d5931c8abcfeef2a5178ce",
+      "evidence": "user_attachment"
+    },
+    {
+      "uploadedFilename": "붙여넣은 마크다운.md",
+      "preservedPath": "artwork/references/user-backup-file-list.md",
+      "sha256": "33f89bb313db02fdf283c57f5a493e1a2a4f44f5d1707e6e4de39863690a45bd",
+      "evidence": "user_attachment"
+    }
+  ],
+  "currentAppSourceCommit": "223216212949b862bb34431dee56241e8e8b8b2b",
+  "currentAppLiveVersion": 22,
+  "guideEntries": [
+    {
+      "code": "CD",
+      "nameKo": "콩고민주공화국",
+      "name": "DR Congo",
+      "workType": "신규 국가 그림",
+      "scene": "Virunga volcanoes and mountain gorillas — Virunga National Park, a mountain gorilla family beneath the misty volcanoes of the Albertine Rift",
+      "guideWorkOrder": 1,
+      "guideFilename": "democratic-republic-of-the-congo-virunga.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "01. 콩고민주공화국 · DR Congo (CD)"
+      },
+      "currentAppCatalogueNumber": 80,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/cd.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "GQ",
+      "nameKo": "적도기니",
+      "name": "Equatorial Guinea",
+      "workType": "신규 국가 그림",
+      "scene": "Pico Basilé volcano on Bioko — the forested volcanic peak of Pico Basilé above the island landscape of Bioko",
+      "guideWorkOrder": 2,
+      "guideFilename": "equatorial-guinea-pico-baslie.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "02. 적도기니 · Equatorial Guinea (GQ)"
+      },
+      "currentAppCatalogueNumber": 83,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/gq.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "ER",
+      "nameKo": "에리트레아",
+      "name": "Eritrea",
+      "workType": "신규 국가 그림",
+      "scene": "아스마라의 근대 도시 경관 — Asmara: A Modernist African City",
+      "guideWorkOrder": 3,
+      "guideFilename": "eritrea-asmara.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "03. 에리트레아 · Eritrea (ER)"
+      },
+      "currentAppCatalogueNumber": 84,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/er.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "GW",
+      "nameKo": "기니비사우",
+      "name": "Guinea-Bissau",
+      "workType": "신규 국가 그림",
+      "scene": "비자고스 제도의 해안과 바다 생태계 — Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+      "guideWorkOrder": 4,
+      "guideFilename": "guinea-bissau-bijagos.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "04. 기니비사우 · Guinea-Bissau (GW)"
+      },
+      "currentAppCatalogueNumber": 96,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/gw.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "LY",
+      "nameKo": "리비아",
+      "name": "Libya",
+      "workType": "신규 국가 그림",
+      "scene": "렙티스마그나 유적 — Archaeological Site of Leptis Magna",
+      "guideWorkOrder": 5,
+      "guideFilename": "libya-leptis-magna.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "05. 리비아 · Libya (LY)"
+      },
+      "currentAppCatalogueNumber": 119,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ly.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "MU",
+      "nameKo": "모리셔스",
+      "name": "Mauritius",
+      "workType": "신규 국가 그림",
+      "scene": "르몬의 문화 경관 — Le Morne Cultural Landscape",
+      "guideWorkOrder": 6,
+      "guideFilename": "mauritius-le-morne.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "06. 모리셔스 · Mauritius (MU)"
+      },
+      "currentAppCatalogueNumber": 131,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/mu.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "CG",
+      "nameKo": "콩고공화국",
+      "name": "Republic of the Congo",
+      "workType": "신규 국가 그림",
+      "scene": "상가강의 삼국 국립공원 지역 — Sangha Trinational",
+      "guideWorkOrder": 7,
+      "guideFilename": "republic-of-the-congo-sangha.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "07. 콩고공화국 · Republic of the Congo (CG)"
+      },
+      "currentAppCatalogueNumber": 154,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/cg.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "SO",
+      "nameKo": "소말리아",
+      "name": "Somalia",
+      "workType": "신규 국가 그림",
+      "scene": "Mogadishu coast and historic city — the old coastal city of Mogadishu opening toward the Indian Ocean",
+      "guideWorkOrder": 8,
+      "guideFilename": "somalia-mogadishu.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "08. 소말리아 · Somalia (SO)"
+      },
+      "currentAppCatalogueNumber": 171,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/so.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "SS",
+      "nameKo": "남수단",
+      "name": "South Sudan",
+      "workType": "신규 국가 그림",
+      "scene": "Sudd wetlands on the White Nile — the vast Sudd wetlands, papyrus islands and shining channels of the White Nile floodplain",
+      "guideWorkOrder": 9,
+      "guideFilename": "south-sudan-sudd.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "09. 남수단 · South Sudan (SS)"
+      },
+      "currentAppCatalogueNumber": 172,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ss.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "SD",
+      "nameKo": "수단",
+      "name": "Sudan",
+      "workType": "신규 국가 그림",
+      "scene": "메로에섬의 고고 유적 — Archaeological Sites of the Island of Meroe",
+      "guideWorkOrder": 10,
+      "guideFilename": "sudan-meroe.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "10. 수단 · Sudan (SD)"
+      },
+      "currentAppCatalogueNumber": 174,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/sd.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "ST",
+      "nameKo": "상투메 프린시페",
+      "name": "São Tomé and Príncipe",
+      "workType": "신규 국가 그림",
+      "scene": "Pico Cão Grande and São Tomé rainforest — a lush São Tomé volcanic island with the Pico Cão Grande basalt spire rising through rainforest",
+      "guideWorkOrder": 11,
+      "guideFilename": "sao-tome-pico-cao-grande.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "11. 상투메 프린시페 · São Tomé and Príncipe (ST)"
+      },
+      "currentAppCatalogueNumber": 162,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/st.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "TG",
+      "nameKo": "토고",
+      "name": "Togo",
+      "workType": "신규 국가 그림",
+      "scene": "바탐마리바 사람들의 쿠타마쿠 경관 — Koutammakou, the Land of the Batammariba",
+      "guideWorkOrder": 12,
+      "guideFilename": "togo-koutammakou.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "12. 토고 · Togo (TG)"
+      },
+      "currentAppCatalogueNumber": 181,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/tg.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "UG",
+      "nameKo": "우간다",
+      "name": "Uganda",
+      "workType": "신규 국가 그림",
+      "scene": "브윈디 원시림 국립공원 — Bwindi Impenetrable National Park",
+      "guideWorkOrder": 13,
+      "guideFilename": "uganda-bwindi.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "13. 우간다 · Uganda (UG)"
+      },
+      "currentAppCatalogueNumber": 187,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ug.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "ZW",
+      "nameKo": "짐바브웨",
+      "name": "Zimbabwe",
+      "workType": "신규 국가 그림",
+      "scene": "그레이트짐바브웨 유적 — Great Zimbabwe National Monument",
+      "guideWorkOrder": 14,
+      "guideFilename": "zimbabwe-great-zimbabwe.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "14. 짐바브웨 · Zimbabwe (ZW)"
+      },
+      "currentAppCatalogueNumber": 197,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/zw.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "BH",
+      "nameKo": "바레인",
+      "name": "Bahrain",
+      "workType": "신규 국가 그림",
+      "scene": "바레인 요새 — Qal’at al-Bahrain",
+      "guideWorkOrder": 15,
+      "guideFilename": "bahrain-qalat-al-bahrain.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "15. 바레인 · Bahrain (BH)"
+      },
+      "currentAppCatalogueNumber": 51,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/bh.webp",
+      "status": "reuse_approved",
+      "generationComplete": false,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Existing full-size image and current WebP opened and compared with guide. Scene and painterly style fit; reuse the original, no generation. Not a new country added to app count.",
+      "reuseReviewedScene": {
+        "code": "BH",
+        "image": "/assets/postcards/bh.webp",
+        "bytes": 214092,
+        "width": 1024,
+        "height": 683,
+        "landmark": "Qal’at al-Bahrain",
+        "landmarkKo": "바레인 요새"
+      }
+    },
+    {
+      "code": "IL",
+      "nameKo": "이스라엘",
+      "name": "Israel",
+      "workType": "신규 국가 그림",
+      "scene": "하이파와 갈릴리 서부의 바하이 성지 — Bahá’i Holy Places in Haifa and the Western Galilee",
+      "guideWorkOrder": 16,
+      "guideFilename": "israel-bahai-haifa.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "16. 이스라엘 · Israel (IL)"
+      },
+      "currentAppCatalogueNumber": 105,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/il.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "KW",
+      "nameKo": "쿠웨이트",
+      "name": "Kuwait",
+      "workType": "신규 국가 그림",
+      "scene": "쿠웨이트시티와 주변 풍경 — Kuwait City and its surroundings",
+      "guideWorkOrder": 17,
+      "guideFilename": "kuwait-kuwait-city.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "17. 쿠웨이트 · Kuwait (KW)"
+      },
+      "currentAppCatalogueNumber": 112,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/kw.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "KG",
+      "nameKo": "키르기스스탄",
+      "name": "Kyrgyzstan",
+      "workType": "신규 국가 그림",
+      "scene": "술라이만 성산 — Sulaiman-Too Sacred Mountain",
+      "guideWorkOrder": 18,
+      "guideFilename": "kyrgyzstan-sulaiman-too.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "18. 키르기스스탄 · Kyrgyzstan (KG)"
+      },
+      "currentAppCatalogueNumber": 113,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/kg.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "LB",
+      "nameKo": "레바논",
+      "name": "Lebanon",
+      "workType": "신규 국가 그림",
+      "scene": "바알베크 유적 — Baalbek",
+      "guideWorkOrder": 19,
+      "guideFilename": "lebanon-baalbek.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "19. 레바논 · Lebanon (LB)"
+      },
+      "currentAppCatalogueNumber": 116,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/lb.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "KP",
+      "nameKo": "북한",
+      "name": "North Korea",
+      "workType": "신규 국가 그림",
+      "scene": "Mount Paektu and crater lake — the sacred volcanic crater lake of Mount Paektu, framed by high mountain slopes",
+      "guideWorkOrder": 20,
+      "guideFilename": "north-korea-mount-paektu.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "20. 북한 · North Korea (KP)"
+      },
+      "currentAppCatalogueNumber": 145,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/kp.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "PS",
+      "nameKo": "팔레스타인",
+      "name": "Palestine",
+      "workType": "신규 국가 그림",
+      "scene": "Ancient Jericho and Tell es-Sultan — the ancient stone settlement mound of Tell es-Sultan at Jericho, with palms and desert hills",
+      "guideWorkOrder": 21,
+      "guideFilename": "palestine-jericho-tell-es-sultan.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "21. 팔레스타인 · Palestine (PS)"
+      },
+      "currentAppCatalogueNumber": 149,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ps.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "QA",
+      "nameKo": "카타르",
+      "name": "Qatar",
+      "workType": "신규 국가 그림",
+      "scene": "알주바라 유적 — Al Zubarah Archaeological Site",
+      "guideWorkOrder": 22,
+      "guideFilename": "qatar-al-zubarah.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "22. 카타르 · Qatar (QA)"
+      },
+      "currentAppCatalogueNumber": 153,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/qa.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "SY",
+      "nameKo": "시리아",
+      "name": "Syria",
+      "workType": "신규 국가 그림",
+      "scene": "보스라 고대 도시 — Ancient City of Bosra",
+      "guideWorkOrder": 23,
+      "guideFilename": "syria-bosra.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "23. 시리아 · Syria (SY)"
+      },
+      "currentAppCatalogueNumber": 177,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/sy.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "TW",
+      "nameKo": "대만",
+      "name": "Taiwan",
+      "workType": "신규 국가 그림",
+      "scene": "Taipei 101 and Taipei basin — Taipei 101 above the city with forested Elephant Mountain and layered green hills",
+      "guideWorkOrder": 24,
+      "guideFilename": "taiwan-taipei-101.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "24. 대만 · Taiwan (TW)"
+      },
+      "currentAppCatalogueNumber": 178,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/tw.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "TL",
+      "nameKo": "동티모르",
+      "name": "Timor-Leste",
+      "workType": "신규 국가 그림",
+      "scene": "Dili and Cristo Rei hill — Dili waterfront with Cristo Rei hill overlooking the blue Timor Sea",
+      "guideWorkOrder": 25,
+      "guideFilename": "timor-leste-dili-cristo-rei.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "25. 동티모르 · Timor-Leste (TL)"
+      },
+      "currentAppCatalogueNumber": 180,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/tl.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "TM",
+      "nameKo": "투르크메니스탄",
+      "name": "Turkmenistan",
+      "workType": "신규 국가 그림",
+      "scene": "메르브의 옛 오아시스 도시 — State Historical and Cultural Park “Ancient Merv”",
+      "guideWorkOrder": 26,
+      "guideFilename": "turkmenistan-ancient-merv.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "26. 투르크메니스탄 · Turkmenistan (TM)"
+      },
+      "currentAppCatalogueNumber": 185,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/tm.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "AE",
+      "nameKo": "아랍에미리트",
+      "name": "United Arab Emirates",
+      "workType": "신규 국가 그림",
+      "scene": "알아인의 오아시스와 문화 유적 — Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+      "guideWorkOrder": 27,
+      "guideFilename": "united-arab-emirates-al-ain-oasis.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "27. 아랍에미리트 · United Arab Emirates (AE)"
+      },
+      "currentAppCatalogueNumber": 189,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ae.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Generated and visually inspected 1536x1024 painting; decoded and connected with bilingual scene caption. Browser card inspection remains pending."
+    },
+    {
+      "code": "YE",
+      "nameKo": "예멘",
+      "name": "Yemen",
+      "workType": "신규 국가 그림",
+      "scene": "사나 구시가지 — Old City of Sana’a",
+      "guideWorkOrder": 28,
+      "guideFilename": "yemen-old-sanaa.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "28. 예멘 · Yemen (YE)"
+      },
+      "currentAppCatalogueNumber": 195,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ye.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "AD",
+      "nameKo": "안도라",
+      "name": "Andorra",
+      "workType": "신규 국가 그림",
+      "scene": "Pyrenees mountain valley — a dramatic glacial valley in the Pyrenees with stone shepherd huts and high peaks",
+      "guideWorkOrder": 29,
+      "guideFilename": "andorra-pyrenees.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "29. 안도라 · Andorra (AD)"
+      },
+      "currentAppCatalogueNumber": 44,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ad.webp",
+      "status": "reuse_approved",
+      "generationComplete": false,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Existing full-size image and current WebP opened and compared with guide. Scene and painterly style fit; reuse the original, no generation. Not a new country added to app count.",
+      "reuseReviewedScene": {
+        "code": "AD",
+        "image": "/assets/postcards/ad.webp",
+        "bytes": 329110,
+        "width": 1024,
+        "height": 683,
+        "landmark": "Madriu-Perafita-Claror Valley",
+        "landmarkKo": "마드리우·페라피타·클라로 계곡"
+      }
+    },
+    {
+      "code": "BY",
+      "nameKo": "벨라루스",
+      "name": "Belarus",
+      "workType": "신규 국가 그림",
+      "scene": "미르성 — Mir Castle Complex",
+      "guideWorkOrder": 30,
+      "guideFilename": "belarus-mir-castle.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "30. 벨라루스 · Belarus (BY)"
+      },
+      "currentAppCatalogueNumber": 53,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/by.webp",
+      "status": "reuse_approved",
+      "generationComplete": false,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Existing full-size image and current WebP opened and compared with guide. Scene and painterly style fit; reuse the original, no generation. Not a new country added to app count.",
+      "reuseReviewedScene": {
+        "code": "BY",
+        "image": "/assets/postcards/by.webp",
+        "bytes": 242170,
+        "width": 1024,
+        "height": 683,
+        "landmark": "Mir Castle Complex",
+        "landmarkKo": "미르성"
+      }
+    },
+    {
+      "code": "BA",
+      "nameKo": "보스니아 헤르체고비나",
+      "name": "Bosnia and Herzegovina",
+      "workType": "신규 국가 그림",
+      "scene": "모스타르의 옛 다리 지역 — Old Bridge Area of the Old City of Mostar",
+      "guideWorkOrder": 31,
+      "guideFilename": "bosnia-mostar-old-bridge.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "31. 보스니아 헤르체고비나 · Bosnia and Herzegovina (BA)"
+      },
+      "currentAppCatalogueNumber": 59,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/ba.webp",
+      "status": "reuse_approved",
+      "generationComplete": false,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "Existing full-size image and current WebP opened and compared with guide. Scene and painterly style fit; reuse the original, no generation. Not a new country added to app count.",
+      "reuseReviewedScene": {
+        "code": "BA",
+        "image": "/assets/postcards/ba.webp",
+        "bytes": 278540,
+        "width": 1024,
+        "height": 683,
+        "landmark": "Old Bridge Area of the Old City of Mostar",
+        "landmarkKo": "모스타르의 옛 다리 지역"
+      }
+    },
+    {
+      "code": "XK",
+      "nameKo": "코소보",
+      "name": "Kosovo",
+      "workType": "신규 국가 그림",
+      "scene": "프리슈티나와 주변 풍경 — Pristina and its surroundings",
+      "guideWorkOrder": 32,
+      "guideFilename": "kosovo-pristina.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "32. 코소보 · Kosovo (XK)"
+      },
+      "currentAppCatalogueNumber": 111,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/xk.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "LI",
+      "nameKo": "리히텐슈타인",
+      "name": "Liechtenstein",
+      "workType": "신규 국가 그림",
+      "scene": "Vaduz Castle and Alpine Rhine Valley — Vaduz Castle perched above the Rhine Valley beneath the Alps",
+      "guideWorkOrder": 33,
+      "guideFilename": "liechtenstein-vaduz-castle.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "33. 리히텐슈타인 · Liechtenstein (LI)"
+      },
+      "currentAppCatalogueNumber": 120,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/li.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "LU",
+      "nameKo": "룩셈부르크",
+      "name": "Luxembourg",
+      "workType": "신규 국가 그림",
+      "scene": "룩셈부르크의 옛 시가지와 요새 — City of Luxembourg: its Old Quarters and Fortifications",
+      "guideWorkOrder": 34,
+      "guideFilename": "luxembourg-old-quarter.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "34. 룩셈부르크 · Luxembourg (LU)"
+      },
+      "currentAppCatalogueNumber": 122,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/lu.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "MC",
+      "nameKo": "모나코",
+      "name": "Monaco",
+      "workType": "신규 국가 그림",
+      "scene": "Monaco harbor and Mediterranean coast — the compact Monaco harbor, pastel buildings and Mediterranean cliffs",
+      "guideWorkOrder": 35,
+      "guideFilename": "monaco-harbor.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "35. 모나코 · Monaco (MC)"
+      },
+      "currentAppCatalogueNumber": 134,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/mc.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "ME",
+      "nameKo": "몬테네그로",
+      "name": "Montenegro",
+      "workType": "신규 국가 그림",
+      "scene": "코토르의 자연과 역사 지구 — Natural and Culturo-Historical Region of Kotor",
+      "guideWorkOrder": 36,
+      "guideFilename": "montenegro-kotor.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "36. 몬테네그로 · Montenegro (ME)"
+      },
+      "currentAppCatalogueNumber": 136,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/me.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "SM",
+      "nameKo": "산마리노",
+      "name": "San Marino",
+      "workType": "신규 국가 그림",
+      "scene": "산마리노 구시가지와 티타노산 — San Marino Historic Centre and Mount Titano",
+      "guideWorkOrder": 37,
+      "guideFilename": "san-marino-mount-titano.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "37. 산마리노 · San Marino (SM)"
+      },
+      "currentAppCatalogueNumber": 161,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/sm.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "SK",
+      "nameKo": "슬로바키아",
+      "name": "Slovakia",
+      "workType": "신규 국가 그림",
+      "scene": "스피시성의 역사 유적 — Levoča, Spišský Hrad and the Associated Cultural Monuments",
+      "guideWorkOrder": 38,
+      "guideFilename": "slovakia-spis-castle.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "38. 슬로바키아 · Slovakia (SK)"
+      },
+      "currentAppCatalogueNumber": 168,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/sk.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "SI",
+      "nameKo": "슬로베니아",
+      "name": "Slovenia",
+      "workType": "신규 국가 그림",
+      "scene": "슈코치안 동굴 — Škocjan Caves",
+      "guideWorkOrder": 39,
+      "guideFilename": "slovenia-skocjan-caves.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "39. 슬로베니아 · Slovenia (SI)"
+      },
+      "currentAppCatalogueNumber": 169,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/si.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "VA",
+      "nameKo": "바티칸",
+      "name": "Vatican City",
+      "workType": "신규 국가 그림",
+      "scene": "바티칸시국 — Vatican City",
+      "guideWorkOrder": 40,
+      "guideFilename": "vatican-city.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "40. 바티칸 · Vatican City (VA)"
+      },
+      "currentAppCatalogueNumber": 193,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/va.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "KN",
+      "nameKo": "세인트키츠 네비스",
+      "name": "Saint Kitts and Nevis",
+      "workType": "신규 국가 그림",
+      "scene": "브림스톤힐 요새 국립공원 — Brimstone Hill Fortress National Park",
+      "guideWorkOrder": 41,
+      "guideFilename": "saint-kitts-brimstone-hill.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "41. 세인트키츠 네비스 · Saint Kitts and Nevis (KN)"
+      },
+      "currentAppCatalogueNumber": 157,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/kn.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "LC",
+      "nameKo": "세인트루시아",
+      "name": "Saint Lucia",
+      "workType": "신규 국가 그림",
+      "scene": "피통의 자연 경관 — Pitons Management Area",
+      "guideWorkOrder": 42,
+      "guideFilename": "saint-lucia-pitons.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "42. 세인트루시아 · Saint Lucia (LC)"
+      },
+      "currentAppCatalogueNumber": 158,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/lc.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "VC",
+      "nameKo": "세인트빈센트 그레나딘",
+      "name": "Saint Vincent and the Grenadines",
+      "workType": "신규 국가 그림",
+      "scene": "킹스타운와 주변 풍경 — Kingstown and its surroundings",
+      "guideWorkOrder": 43,
+      "guideFilename": "saint-vincent-grenadines-kingstown.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "43. 세인트빈센트 그레나딘 · Saint Vincent and the Grenadines (VC)"
+      },
+      "currentAppCatalogueNumber": 159,
+      "externalCatalogueNumberFromGuide": null,
+      "backupListedFiles": [],
+      "currentAppImage": "/assets/postcards/vc.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "SC",
+      "nameKo": "세이셸",
+      "name": "Seychelles",
+      "workType": "기존 0바이트 이미지 교체",
+      "scene": "Vallée de Mai palm forest — the Vallée de Mai palm forest on Praslin, with endemic coco de mer palms arching over a shaded path",
+      "guideWorkOrder": 44,
+      "guideFilename": "seychelles-vallee-de-mai.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "44. 세이셸 · Seychelles (SC)"
+      },
+      "currentAppCatalogueNumber": 165,
+      "externalCatalogueNumberFromGuide": 104,
+      "backupListedFiles": [
+        {
+          "filename": "seychelles-vallee-de-mai.webp",
+          "listedSize": "0 B",
+          "listedModified": "26. 9. 30. 오전 10:08:45",
+          "countryCode": "SC",
+          "kind": "country_postcard",
+          "listedZeroBytes": true
+        }
+      ],
+      "currentAppImage": "/assets/postcards/sc.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기."
+    },
+    {
+      "code": "BS",
+      "nameKo": "바하마",
+      "name": "Bahamas",
+      "workType": "기존 0바이트 이미지 교체",
+      "scene": "Dean’s Blue Hole on Long Island — Dean's Blue Hole on Long Island, a deep sapphire-blue ocean sinkhole beside pale limestone shore and turquoise shallows",
+      "guideWorkOrder": 45,
+      "guideFilename": "bahamas-deans-blue-hole.webp",
+      "promptSource": {
+        "path": "artwork/references/user-image-generation-guide-45.md",
+        "section": "45. 바하마 · Bahamas (BS)"
+      },
+      "currentAppCatalogueNumber": 50,
+      "externalCatalogueNumberFromGuide": 139,
+      "backupListedFiles": [
+        {
+          "filename": "bahamas-deans-blue-hole.webp",
+          "listedSize": "0 B",
+          "listedModified": "26. 9. 30. 오전 10:08:45",
+          "countryCode": "BS",
+          "kind": "country_postcard",
+          "listedZeroBytes": true
+        }
+      ],
+      "currentAppImage": "/assets/postcards/bs-deans-blue-hole.webp",
+      "status": "generated_reviewed_connected",
+      "generationComplete": true,
+      "appConnectionVerifiedForGuideScene": true,
+      "reviewNote": "별도 이미지 생성, 육안 장면 검수, 1536×1024 원본 디코딩 및 작업본 자산 연결 완료. 실제 브라우저 카드 표시는 검수 대기.",
+      "guideExportFile": "bs-deans-blue-hole.webp",
+      "previousImage": "/assets/postcards/bs.webp",
+      "previousSceneMetadata": "bs-nassau-coast.json"
+    }
+  ],
+  "newGenerationBatches": [
+    {
+      "batch": 1,
+      "codes": [
+        "AE",
+        "CD",
+        "GQ",
+        "ER",
+        "GW",
+        "LY",
+        "MU",
+        "CG",
+        "SO",
+        "SS"
+      ],
+      "guideWorkOrders": [
+        27,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "status": "published",
+      "publishedVersion": 14
+    },
+    {
+      "batch": 2,
+      "codes": [
+        "SD",
+        "ST",
+        "TG",
+        "UG",
+        "ZW",
+        "IL",
+        "KW",
+        "KG",
+        "LB",
+        "KP"
+      ],
+      "guideWorkOrders": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "status": "published",
+      "publishedVersion": 14
+    },
+    {
+      "batch": 3,
+      "codes": [
+        "PS",
+        "QA",
+        "SY",
+        "TW",
+        "TL",
+        "TM",
+        "YE",
+        "XK",
+        "LI",
+        "LU"
+      ],
+      "guideWorkOrders": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        32,
+        33,
+        34
+      ],
+      "status": "published",
+      "publishedVersion": 14
+    },
+    {
+      "batch": 4,
+      "codes": [
+        "MC",
+        "ME",
+        "SM",
+        "SK",
+        "SI",
+        "VA",
+        "KN",
+        "LC",
+        "VC",
+        "SC"
+      ],
+      "guideWorkOrders": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "status": "published",
+      "publishedVersion": 14
+    },
+    {
+      "batch": 5,
+      "codes": [
+        "BS"
+      ],
+      "guideWorkOrders": [
+        45
+      ],
+      "status": "published",
+      "publishedVersion": 14
+    }
+  ],
+  "backupImportCandidates": [
+    {
+      "code": "CH",
+      "nameKo": "스위스",
+      "files": [
+        "switzerland-zytglogge.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ch.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "CI",
+      "nameKo": "코트디부아르",
+      "files": [
+        "cote-divoire-basilica.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ci.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "CR",
+      "nameKo": "코스타리카",
+      "files": [
+        "costa-rica-arenal.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/cr.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "CU",
+      "nameKo": "쿠바",
+      "files": [
+        "cuba-old-havana.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/cu.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "CY",
+      "nameKo": "키프로스",
+      "files": [
+        "cyprus-paphos-mosaics.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/cy.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "CZ",
+      "nameKo": "체코",
+      "files": [
+        "czechia-prague-charles-bridge.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/cz.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "DJ",
+      "nameKo": "지부티",
+      "files": [
+        "djibouti-lake-assal.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/dj.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "DK",
+      "nameKo": "덴마크",
+      "files": [
+        "denmark-nyhavn.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/dk.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "DM",
+      "nameKo": "도미니카 연방",
+      "files": [
+        "dominica-boiling-lake.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/dm.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "DO",
+      "nameKo": "도미니카 공화국",
+      "files": [
+        "dominican-colonial-city.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/do.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "EC",
+      "nameKo": "에콰도르",
+      "files": [
+        "ecuador-quito-basilica.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ec.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "EE",
+      "nameKo": "에스토니아",
+      "files": [
+        "estonia-tallinn-old-town.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ee.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "ET",
+      "nameKo": "에티오피아",
+      "files": [
+        "ethiopia-lalibela.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/et.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "FJ",
+      "nameKo": "피지",
+      "files": [
+        "fiji-bouma-falls.webp",
+        "fiji-drua-coral-reef.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/fj.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "FM",
+      "nameKo": "미크로네시아",
+      "files": [
+        "micronesia-nan-madol.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/fm.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GA",
+      "nameKo": "가봉",
+      "files": [
+        "gabon-lope-okanda-mandrill.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ga.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GD",
+      "nameKo": "그레나다",
+      "files": [
+        "grenada-st-georges-carenage.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/gd.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GE",
+      "nameKo": "조지아",
+      "files": [
+        "georgia-tbilisi-narikala.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ge.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GH",
+      "nameKo": "가나",
+      "files": [
+        "ghana-black-star-square.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/gh.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GM",
+      "nameKo": "감비아",
+      "files": [
+        "gambia-senegambia-stone-circles.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/gm.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GN",
+      "nameKo": "기니",
+      "files": [
+        "guinea-mount-nimba.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/gn.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GT",
+      "nameKo": "과테말라",
+      "files": [
+        "guatemala-tikal.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/gt.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "GY",
+      "nameKo": "가이아나",
+      "files": [
+        "guyana-kaieteur-falls.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/gy.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "HN",
+      "nameKo": "온두라스",
+      "files": [
+        "honduras-copan.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/hn.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "HR",
+      "nameKo": "크로아티아",
+      "files": [
+        "croatia-dubrovnik.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/hr.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "HT",
+      "nameKo": "아이티",
+      "files": [
+        "haiti-citadelle-laferriere.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ht.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "HU",
+      "nameKo": "헝가리",
+      "files": [
+        "hungary-budapest-parliament.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/hu.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "IE",
+      "nameKo": "아일랜드",
+      "files": [
+        "ireland-cliffs-moher.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ie.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "IQ",
+      "nameKo": "이라크",
+      "files": [
+        "iraq-ziggurat-of-ur.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/iq.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "IR",
+      "nameKo": "이란",
+      "files": [
+        "iran-persepolis.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ir.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "IS",
+      "nameKo": "아이슬란드",
+      "files": [
+        "iceland-reykjavik-aurora.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/is.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "JM",
+      "nameKo": "자메이카",
+      "files": [
+        "jamaica-blue-mountains.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/jm.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "JO",
+      "nameKo": "요르단",
+      "files": [
+        "jordan-petra.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/jo.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "KI",
+      "nameKo": "키리바시",
+      "files": [
+        "kiribati-maneaba.webp",
+        "kiribati-tarawa-lagoon.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ki.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "KZ",
+      "nameKo": "카자흐스탄",
+      "files": [
+        "kazakhstan-astana-baiterek.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/kz.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "LA",
+      "nameKo": "라오스",
+      "files": [
+        "laos-pha-that-luang.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/la.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "LK",
+      "nameKo": "스리랑카",
+      "files": [
+        "sri-lanka-sigiriya.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/lk.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "LR",
+      "nameKo": "라이베리아",
+      "files": [
+        "liberia-sapo.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/lr.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "LS",
+      "nameKo": "레소토",
+      "files": [
+        "lesotho-maletsunyane-falls.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ls.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "LT",
+      "nameKo": "리투아니아",
+      "files": [
+        "lithuania-vilnius-old-town.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/lt.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "LV",
+      "nameKo": "라트비아",
+      "files": [
+        "latvia-riga-art-nouveau.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/lv.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MD",
+      "nameKo": "몰도바",
+      "files": [
+        "moldova-old-orhei.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/md.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MG",
+      "nameKo": "마다가스카르",
+      "files": [
+        "madagascar-baobabs.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mg.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MH",
+      "nameKo": "마셜 제도",
+      "files": [
+        "marshall-islands-majuro-atoll.webp",
+        "marshall-islands-majuro.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mh.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MK",
+      "nameKo": "북마케도니아",
+      "files": [
+        "north-macedonia-stone-bridge.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mk.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "ML",
+      "nameKo": "말리",
+      "files": [
+        "mali-great-mosque-djenne.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ml.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MM",
+      "nameKo": "미얀마",
+      "files": [
+        "myanmar-bagan.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mm.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MN",
+      "nameKo": "몽골",
+      "files": [
+        "mongolia-gobi-ger.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mn.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MR",
+      "nameKo": "모리타니",
+      "files": [
+        "mauritania-banc-d-arguin.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mr.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MT",
+      "nameKo": "몰타",
+      "files": [
+        "malta-valletta-grand-harbour.webp",
+        "malta-valletta.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mt.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MV",
+      "nameKo": "몰디브",
+      "files": [
+        "maldives-atoll.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mv.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MW",
+      "nameKo": "말라위",
+      "files": [
+        "malawi-lake-malawi.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mw.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MY",
+      "nameKo": "말레이시아",
+      "files": [
+        "malaysia-petronas-towers.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/my.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MZ",
+      "nameKo": "모잠비크",
+      "files": [
+        "mozambique-maputo-station.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/mz.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "NA",
+      "nameKo": "나미비아",
+      "files": [
+        "namibia-sossusvlei.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/na.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "NE",
+      "nameKo": "니제르",
+      "files": [
+        "niger-air-tenere-desert.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ne.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "NI",
+      "nameKo": "니카라과",
+      "files": [
+        "nicaragua-ometepe.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ni.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "NL",
+      "nameKo": "네덜란드",
+      "files": [
+        "netherlands-amsterdam-canals.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/nl.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "NP",
+      "nameKo": "네팔",
+      "files": [
+        "nepal-swayambhunath.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/np.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "NR",
+      "nameKo": "나우루",
+      "files": [
+        "naoero-buada-lagoon.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/nr.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "OM",
+      "nameKo": "오만",
+      "files": [
+        "oman-grand-mosque.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/om.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "PA",
+      "nameKo": "파나마",
+      "files": [
+        "panama-canal-locks.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/pa.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "PG",
+      "nameKo": "파푸아뉴기니",
+      "files": [
+        "png-parliament-haus.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/pg.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "PW",
+      "nameKo": "팔라우",
+      "files": [
+        "palau-rock-islands-lagoon.webp",
+        "palau-rock-islands.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/pw.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "PY",
+      "nameKo": "파라과이",
+      "files": [
+        "paraguay-itaipu-dam.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/py.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "RO",
+      "nameKo": "루마니아",
+      "files": [
+        "romania-bran-castle.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ro.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "RS",
+      "nameKo": "세르비아",
+      "files": [
+        "serbia-kalemegdan.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/rs.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "RW",
+      "nameKo": "르완다",
+      "files": [
+        "rwanda-volcanoes-gorillas.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/rw.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SB",
+      "nameKo": "솔로몬 제도",
+      "files": [
+        "solomon-islands-marovo-lagoon.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sb.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SG",
+      "nameKo": "싱가포르",
+      "files": [
+        "singapore-supertrees.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sg.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SL",
+      "nameKo": "시에라리온",
+      "files": [
+        "sierra-leone-tacugama.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sl.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SN",
+      "nameKo": "세네갈",
+      "files": [
+        "senegal-lake-retba.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sn.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SR",
+      "nameKo": "수리남",
+      "files": [
+        "suriname-paramaribo.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sr.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SV",
+      "nameKo": "엘살바도르",
+      "files": [
+        "el-salvador-joya-de-ceren.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sv.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "SZ",
+      "nameKo": "에스와티니",
+      "files": [
+        "eswatini-mantenga-falls.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/sz.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TJ",
+      "nameKo": "타지키스탄",
+      "files": [
+        "tajikistan-iskanderkul.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/tj.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TN",
+      "nameKo": "튀니지",
+      "files": [
+        "tunisia-carthage.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/tn.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TO",
+      "nameKo": "통가",
+      "files": [
+        "tonga-haamonga-a-maui.webp",
+        "tonga-humpback-whale.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/to.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TT",
+      "nameKo": "트리니다드 토바고",
+      "files": [
+        "trinidad-tobago-carnival.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/tt.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TV",
+      "nameKo": "투발루",
+      "files": [
+        "tuvalu-funafuti-conservation-area.webp",
+        "tuvalu-funafuti.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/tv.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "UA",
+      "nameKo": "우크라이나",
+      "files": [
+        "ukraine-saint-sophia.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ua.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "UY",
+      "nameKo": "우루과이",
+      "files": [
+        "uruguay-montevideo.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/uy.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "UZ",
+      "nameKo": "우즈베키스탄",
+      "files": [
+        "uzbekistan-registan.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/uz.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "VE",
+      "nameKo": "베네수엘라",
+      "files": [
+        "venezuela-angel-falls.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ve.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "VU",
+      "nameKo": "바누아투",
+      "files": [
+        "vanuatu-mele-cascades.webp",
+        "vanuatu-mount-yasur.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/vu.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "WS",
+      "nameKo": "사모아",
+      "files": [
+        "samoa-to-sua-trench.webp",
+        "samoa-to-sua.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/ws.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "ZM",
+      "nameKo": "잠비아",
+      "files": [
+        "zambia-victoria-falls.webp"
+      ],
+      "status": "decoded_reviewed_connected",
+      "currentAppImage": "/assets/postcards/full/zm.webp",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    }
+  ],
+  "variantSelectionCandidates": [
+    {
+      "code": "AL",
+      "nameKo": "알바니아",
+      "files": [
+        "albania-berat.webp",
+        "albania-butrint.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "BT",
+      "nameKo": "부탄",
+      "files": [
+        "bhutan-taktsang-monastery.webp",
+        "bhutan-tigers-nest.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "FJ",
+      "nameKo": "피지",
+      "files": [
+        "fiji-bouma-falls.webp",
+        "fiji-drua-coral-reef.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "KI",
+      "nameKo": "키리바시",
+      "files": [
+        "kiribati-maneaba.webp",
+        "kiribati-tarawa-lagoon.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "KM",
+      "nameKo": "코모로",
+      "files": [
+        "comoros-karthala.webp",
+        "comoros-moheli-marine-park.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MH",
+      "nameKo": "마셜 제도",
+      "files": [
+        "marshall-islands-majuro-atoll.webp",
+        "marshall-islands-majuro.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "MT",
+      "nameKo": "몰타",
+      "files": [
+        "malta-valletta-grand-harbour.webp",
+        "malta-valletta.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "PW",
+      "nameKo": "팔라우",
+      "files": [
+        "palau-rock-islands-lagoon.webp",
+        "palau-rock-islands.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TO",
+      "nameKo": "통가",
+      "files": [
+        "tonga-haamonga-a-maui.webp",
+        "tonga-humpback-whale.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "TV",
+      "nameKo": "투발루",
+      "files": [
+        "tuvalu-funafuti-conservation-area.webp",
+        "tuvalu-funafuti.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "VU",
+      "nameKo": "바누아투",
+      "files": [
+        "vanuatu-mele-cascades.webp",
+        "vanuatu-mount-yasur.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    },
+    {
+      "code": "WS",
+      "nameKo": "사모아",
+      "files": [
+        "samoa-to-sua-trench.webp",
+        "samoa-to-sua.webp"
+      ],
+      "status": "representative_selected_originals_preserved",
+      "reviewRecord": "artwork/backup-import-selection.json"
+    }
+  ],
+  "listedFiles": [
+    {
+      "filename": "afghanistan-band-e-amir.webp",
+      "listedSize": "499 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "AF",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "albania-berat.webp",
+      "listedSize": "534 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:42",
+      "countryCode": "AL",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "albania-butrint.webp",
+      "listedSize": "548 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "AL",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "algeria-casbah.webp",
+      "listedSize": "312 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "DZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "angola-kalandula-falls.webp",
+      "listedSize": "195 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "AO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "antigua-barbuda-nelsons-dockyard.webp",
+      "listedSize": "567 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "AG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "argentina-buenos-aires.webp",
+      "listedSize": "357 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "AR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "armenia-geghard.webp",
+      "listedSize": "614 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "AM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "australia-sydney-opera.webp",
+      "listedSize": "292 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "AU",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "austria-schonbrunn.webp",
+      "listedSize": "333 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "AT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "azerbaijan-gobustan.webp",
+      "listedSize": "531 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "AZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "bahamas-deans-blue-hole.webp",
+      "listedSize": "0 B",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BS",
+      "kind": "country_postcard",
+      "listedZeroBytes": true
+    },
+    {
+      "filename": "bangladesh-lalbagh-fort.webp",
+      "listedSize": "344 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BD",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "barbados-harrisons-cave.webp",
+      "listedSize": "566 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BB",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "belgium-atomium.webp",
+      "listedSize": "407 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "BE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "belize-blue-hole.webp",
+      "listedSize": "338 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "BZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "benin-abomey.webp",
+      "listedSize": "371 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "BJ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "bhutan-taktsang-monastery.webp",
+      "listedSize": "474 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:36",
+      "countryCode": "BT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "bhutan-tigers-nest.webp",
+      "listedSize": "277 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "BT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "bolivia-salar-uyuni.webp",
+      "listedSize": "137 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "BO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "botswana-okavango-delta.webp",
+      "listedSize": "269 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BW",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "brazil-christ.webp",
+      "listedSize": "252 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "brunei-kampong-ayer.webp",
+      "listedSize": "399 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:36",
+      "countryCode": "BN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "bulgaria-rila-monastery.webp",
+      "listedSize": "554 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "BG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "burkina-faso-loropeni.webp",
+      "listedSize": "526 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BF",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "burundi-royal-drums.webp",
+      "listedSize": "381 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "BI",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "cabo-verde-cidade-velha.webp",
+      "listedSize": "551 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CV",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "cambodia-angkor-wat.webp",
+      "listedSize": "196 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "KH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "cameroon-mount-cameroon.webp",
+      "listedSize": "445 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "canada-niagara-falls.webp",
+      "listedSize": "298 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "CA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "central-african-republic-dzanga-bai.webp",
+      "listedSize": "514 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CF",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "chad-ounianga-lakes.webp",
+      "listedSize": "339 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "TD",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "chile-rapa-nui.webp",
+      "listedSize": "280 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CL",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "china-great-wall.webp",
+      "listedSize": "256 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "CN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "colombia-cartagena.webp",
+      "listedSize": "310 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "CO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "comoros-karthala.webp",
+      "listedSize": "500 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "KM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "comoros-moheli-marine-park.webp",
+      "listedSize": "498 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:34",
+      "countryCode": "KM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "costa-rica-arenal.webp",
+      "listedSize": "291 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "CR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "cote-divoire-basilica.webp",
+      "listedSize": "172 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "CI",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "croatia-dubrovnik.webp",
+      "listedSize": "241 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "HR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "cuba-old-havana.webp",
+      "listedSize": "244 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CU",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "cyprus-paphos-mosaics.webp",
+      "listedSize": "594 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "CY",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "czechia-prague-charles-bridge.webp",
+      "listedSize": "194 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "denmark-nyhavn.webp",
+      "listedSize": "452 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "DK",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "djibouti-lake-assal.webp",
+      "listedSize": "353 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:34",
+      "countryCode": "DJ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "dominica-boiling-lake.webp",
+      "listedSize": "509 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:38",
+      "countryCode": "DM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "dominican-colonial-city.webp",
+      "listedSize": "474 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "DO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "ecuador-quito-basilica.webp",
+      "listedSize": "304 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "EC",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "egypt-pyramids.webp",
+      "listedSize": "245 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "EG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "el-salvador-joya-de-ceren.webp",
+      "listedSize": "527 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "SV",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "estonia-tallinn-old-town.webp",
+      "listedSize": "460 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "EE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "eswatini-mantenga-falls.webp",
+      "listedSize": "479 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:36",
+      "countryCode": "SZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "ethiopia-lalibela.webp",
+      "listedSize": "341 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "ET",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "fiji-bouma-falls.webp",
+      "listedSize": "651 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:14",
+      "countryCode": "FJ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "fiji-drua-coral-reef.webp",
+      "listedSize": "294 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "FJ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "finland-helsinki-cathedral.webp",
+      "listedSize": "235 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "FI",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "gabon-lope-okanda-mandrill.webp",
+      "listedSize": "470 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "GA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "gambia-senegambia-stone-circles.webp",
+      "listedSize": "463 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "GM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "georgia-tbilisi-narikala.webp",
+      "listedSize": "571 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "GE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "germany-brandenburg-gate.webp",
+      "listedSize": "272 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "DE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "ghana-black-star-square.webp",
+      "listedSize": "203 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "GH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "globe-mascot.webp",
+      "listedSize": "93.8 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": null,
+      "kind": "ui_asset",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "greece-acropolis.webp",
+      "listedSize": "332 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "GR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "grenada-st-georges-carenage.webp",
+      "listedSize": "466 kB",
+      "listedModified": "26. 9. 30. 오전 9:34:44",
+      "countryCode": "GD",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "guatemala-tikal.webp",
+      "listedSize": "240 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "GT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "guinea-mount-nimba.webp",
+      "listedSize": "551 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:38",
+      "countryCode": "GN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "guyana-kaieteur-falls.webp",
+      "listedSize": "502 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "GY",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "haiti-citadelle-laferriere.webp",
+      "listedSize": "494 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "HT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "honduras-copan.webp",
+      "listedSize": "293 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "HN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "hungary-budapest-parliament.webp",
+      "listedSize": "467 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "HU",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "iceland-reykjavik-aurora.webp",
+      "listedSize": "188 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "IS",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "india-taj-mahal.webp",
+      "listedSize": "213 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "IN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "indonesia-borobudur.webp",
+      "listedSize": "253 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "ID",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "iran-persepolis.webp",
+      "listedSize": "343 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "IR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "iraq-ziggurat-of-ur.webp",
+      "listedSize": "426 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "IQ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "ireland-cliffs-moher.webp",
+      "listedSize": "328 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "IE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "italy-colosseum.webp",
+      "listedSize": "223 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "IT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "jamaica-blue-mountains.webp",
+      "listedSize": "272 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "JM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "japan-fuji-pagoda.webp",
+      "listedSize": "291 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "JP",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "jordan-petra.webp",
+      "listedSize": "405 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "JO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "kazakhstan-astana-baiterek.webp",
+      "listedSize": "198 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "KZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "kenya-maasai-mara.webp",
+      "listedSize": "287 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "KE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "kiribati-maneaba.webp",
+      "listedSize": "193 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "KI",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "kiribati-tarawa-lagoon.webp",
+      "listedSize": "519 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:14",
+      "countryCode": "KI",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "korea-hanok-tower.webp",
+      "listedSize": "250 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "KR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "laos-pha-that-luang.webp",
+      "listedSize": "259 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "LA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "latvia-riga-art-nouveau.webp",
+      "listedSize": "477 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "LV",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "lesotho-maletsunyane-falls.webp",
+      "listedSize": "473 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:36",
+      "countryCode": "LS",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "liberia-sapo.webp",
+      "listedSize": "517 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:38",
+      "countryCode": "LR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "lithuania-vilnius-old-town.webp",
+      "listedSize": "447 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "LT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "madagascar-baobabs.webp",
+      "listedSize": "184 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "malawi-lake-malawi.webp",
+      "listedSize": "483 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MW",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "malaysia-petronas-towers.webp",
+      "listedSize": "375 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MY",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "maldives-atoll.webp",
+      "listedSize": "211 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MV",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "mali-great-mosque-djenne.webp",
+      "listedSize": "368 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "ML",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "malta-valletta-grand-harbour.webp",
+      "listedSize": "350 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:38",
+      "countryCode": "MT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "malta-valletta.webp",
+      "listedSize": "387 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "marshall-islands-majuro-atoll.webp",
+      "listedSize": "407 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:14",
+      "countryCode": "MH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "marshall-islands-majuro.webp",
+      "listedSize": "360 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "mauritania-banc-d-arguin.webp",
+      "listedSize": "331 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:38",
+      "countryCode": "MR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "mexico-chichen-itza.webp",
+      "listedSize": "352 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "MX",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "micronesia-nan-madol.webp",
+      "listedSize": "607 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:16",
+      "countryCode": "FM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "moldova-old-orhei.webp",
+      "listedSize": "497 kB",
+      "listedModified": "26. 9. 30. 오전 9:33:38",
+      "countryCode": "MD",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "mongolia-gobi-ger.webp",
+      "listedSize": "234 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "morocco-marrakech.webp",
+      "listedSize": "285 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "MA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "mount-rushmore.webp",
+      "listedSize": "270 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "US",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "mozambique-maputo-station.webp",
+      "listedSize": "495 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "MZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "myanmar-bagan.webp",
+      "listedSize": "409 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:40",
+      "countryCode": "MM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "namibia-sossusvlei.webp",
+      "listedSize": "119 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "NA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "naoero-buada-lagoon.webp",
+      "listedSize": "447 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "NR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "nepal-swayambhunath.webp",
+      "listedSize": "319 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "NP",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "netherlands-amsterdam-canals.webp",
+      "listedSize": "389 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "NL",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "new-zealand-milford-sound.webp",
+      "listedSize": "311 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "NZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "nicaragua-ometepe.webp",
+      "listedSize": "356 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "NI",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "niger-air-tenere-desert.webp",
+      "listedSize": "364 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "NE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "nigeria-aso-rock.webp",
+      "listedSize": "288 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "NG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "north-macedonia-stone-bridge.webp",
+      "listedSize": "499 kB",
+      "listedModified": "26. 9. 30. 오전 8:54:06",
+      "countryCode": "MK",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "norway-geirangerfjord.webp",
+      "listedSize": "357 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "NO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "oman-grand-mosque.webp",
+      "listedSize": "209 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "OM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "pakistan-faisal-mosque.webp",
+      "listedSize": "262 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "PK",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "palau-rock-islands-lagoon.webp",
+      "listedSize": "489 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:16",
+      "countryCode": "PW",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "palau-rock-islands.webp",
+      "listedSize": "218 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "PW",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "panama-canal-locks.webp",
+      "listedSize": "191 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "PA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "paraguay-itaipu-dam.webp",
+      "listedSize": "201 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "PY",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "paris-eiffel.webp",
+      "listedSize": "228 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "FR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "peru-machu-picchu.webp",
+      "listedSize": "327 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "PE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "philippines-banaue-terraces.webp",
+      "listedSize": "338 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "PH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "png-parliament-haus.webp",
+      "listedSize": "341 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "PG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "poland-warsaw-old-town.webp",
+      "listedSize": "279 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:47",
+      "countryCode": "PL",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "portugal-belem-tower.webp",
+      "listedSize": "221 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "PT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "romania-bran-castle.webp",
+      "listedSize": "241 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "RO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "russia-st-basils.webp",
+      "listedSize": "258 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "RU",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "rwanda-volcanoes-gorillas.webp",
+      "listedSize": "212 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "RW",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "samoa-to-sua-trench.webp",
+      "listedSize": "617 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:16",
+      "countryCode": "WS",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "samoa-to-sua.webp",
+      "listedSize": "415 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "WS",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "saudi-arabia-hegra.webp",
+      "listedSize": "191 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "SA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "senegal-lake-retba.webp",
+      "listedSize": "190 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "SN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "serbia-kalemegdan.webp",
+      "listedSize": "215 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "RS",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "seychelles-vallee-de-mai.webp",
+      "listedSize": "0 B",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "SC",
+      "kind": "country_postcard",
+      "listedZeroBytes": true
+    },
+    {
+      "filename": "sierra-leone-tacugama.webp",
+      "listedSize": "510 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:40",
+      "countryCode": "SL",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "singapore-supertrees.webp",
+      "listedSize": "513 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "SG",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "solomon-islands-marovo-lagoon.webp",
+      "listedSize": "576 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:18",
+      "countryCode": "SB",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "south-africa-table-mountain.webp",
+      "listedSize": "300 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "ZA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "spain-sagrada-familia.webp",
+      "listedSize": "326 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "ES",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "sri-lanka-sigiriya.webp",
+      "listedSize": "233 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "LK",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "suriname-paramaribo.webp",
+      "listedSize": "527 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:42",
+      "countryCode": "SR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "sweden-stockholm.webp",
+      "listedSize": "364 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "SE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "switzerland-zytglogge.webp",
+      "listedSize": "332 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "CH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tajikistan-iskanderkul.webp",
+      "listedSize": "468 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:40",
+      "countryCode": "TJ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tanzania-kilimanjaro.webp",
+      "listedSize": "282 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "TZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "thailand-grand-palace.webp",
+      "listedSize": "320 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "TH",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tonga-haamonga-a-maui.webp",
+      "listedSize": "581 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:40",
+      "countryCode": "TO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tonga-humpback-whale.webp",
+      "listedSize": "178 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "TO",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "travel-plane.webp",
+      "listedSize": "39.7 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": null,
+      "kind": "ui_asset",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "trinidad-tobago-carnival.webp",
+      "listedSize": "511 kB",
+      "listedModified": "26. 9. 30. 오전 8:44:42",
+      "countryCode": "TT",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tunisia-carthage.webp",
+      "listedSize": "430 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "TN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "turkiye-hagia-sophia.webp",
+      "listedSize": "294 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "TR",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tuvalu-funafuti-conservation-area.webp",
+      "listedSize": "537 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:18",
+      "countryCode": "TV",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "tuvalu-funafuti.webp",
+      "listedSize": "182 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "TV",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "uk-big-ben.webp",
+      "listedSize": "205 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "GB",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "ukraine-saint-sophia.webp",
+      "listedSize": "216 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "UA",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "uruguay-montevideo.webp",
+      "listedSize": "202 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "UY",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "uzbekistan-registan.webp",
+      "listedSize": "442 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "UZ",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "vanuatu-mele-cascades.webp",
+      "listedSize": "426 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:44",
+      "countryCode": "VU",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "vanuatu-mount-yasur.webp",
+      "listedSize": "435 kB",
+      "listedModified": "26. 9. 30. 오전 10:06:18",
+      "countryCode": "VU",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "venezuela-angel-falls.webp",
+      "listedSize": "475 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:45",
+      "countryCode": "VE",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "vietnam-ha-long-bay.webp",
+      "listedSize": "250 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "VN",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    },
+    {
+      "filename": "zambia-victoria-falls.webp",
+      "listedSize": "414 kB",
+      "listedModified": "26. 9. 30. 오전 10:08:46",
+      "countryCode": "ZM",
+      "kind": "country_postcard",
+      "listedZeroBytes": false
+    }
+  ],
+  "unavailableReferencedFiles": [
+    "world-atlas-remaining-45.md",
+    "world-atlas-remaining-45-prompt-pack/README.md",
+    "world-atlas-remaining-45-prompt-pack/manifest.csv",
+    "world-atlas-remaining-45-prompt-pack/style-reference/korea-hanok-tower.webp",
+    "world-atlas-remaining-45-prompt-pack/style-reference/china-great-wall.webp"
+  ],
+  "countingRule": "Do not add backup-list or proposed-reuse counts to artwork/postcard-progress.json until actual file import, image review and app connection are verified.",
+  "currentAppVersion": 22,
+  "publishedAtUtc": "2026-10-01T12:44:29.019870+00:00",
+  "currentAppPublishedAtUtc": "2026-10-01T15:41:27.960671+00:00"
+}

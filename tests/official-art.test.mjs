@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {splitFlagPixels,regionAt,gradePixels,makePaperPixels} from '../src/official-art.js';
+function fixture(){const width=36,height=12,pixels=new Uint8ClampedArray(width*height*4);for(let y=0;y<height;y++)for(let x=0;x<width;x++)pixels.set(x<12||x>=24?[230,20,40,255]:[255,255,255,255],(y*width+x)*4);return splitFlagPixels(pixels,width,height);}
+test('disconnected stripes of the same colour have separate bucket boundaries',()=>{const m=fixture();assert.notEqual(regionAt(m,4,4),regionAt(m,30,4));assert.equal(m.regions.length,3);assert.equal(m.palette.length,2);assert.equal(regionAt(m,-1,0),-1);});
+test('untouched white paper earns white-region credit only',()=>{const m=fixture();const score=gradePixels(m,new Uint8ClampedArray(m.sourcePixels.length));assert.equal(score.percent,33);assert.equal(score.complete,false);assert.equal(gradePixels(m,makePaperPixels(m)).complete,false);});
+test('correct semantic paint completes every region regardless of brush texture',()=>{const m=fixture(),p=new Uint8ClampedArray(m.sourcePixels.length);for(let i=0;i<m.labels.length;i++){p.set([...m.regions[m.labels[i]].rgb,255],i*4);}const score=gradePixels(m,p);assert.equal(score.complete,true);assert.equal(score.percent,100);});
+test('wrong overpainting reduces completion',()=>{const m=fixture(),p=m.sourcePixels.slice();for(let i=0;i<100;i++)p.set([0,0,180,255],i*4);const score=gradePixels(m,p);assert.equal(score.complete,false);assert.ok(score.percent<100);});
+test('transparent SVG areas and tiny untappable emblems remain outside grading',()=>{const p=new Uint8ClampedArray(20*20*4);for(let i=0;i<300;i++)p.set([255,0,0,255],i*4);p.set([0,0,0,255],20*20*4-4);const m=splitFlagPixels(p,20,20);assert.equal(regionAt(m,19,18),-1);assert.equal(regionAt(m,19,19),-1);assert.ok(m.regions.some(r=>r.locked));});
+test('source colours prevent antialiasing at boundaries becoming extra paint regions',()=>{const m=fixture(),pixels=m.sourcePixels.slice();for(let y=0;y<12;y++)pixels.set([243,138,148,255],(y*36+11)*4);const flag=splitFlagPixels(pixels,36,12,[[230,20,40],[255,255,255]]);assert.equal(flag.palette.length,2);assert.ok(flag.regions.length<=3);});
+
+test('wrong ink on a white region loses credit; erasing it restores credit',()=>{const m=fixture(),p=new Uint8ClampedArray(m.sourcePixels.length);for(let y=0;y<m.height;y++)for(let x=12;x<24;x++)p.set([0,0,180,255],(y*m.width+x)*4);assert.equal(gradePixels(m,p).percent,0);p.fill(0);assert.equal(gradePixels(m,p).percent,33);});

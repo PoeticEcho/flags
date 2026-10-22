@@ -1,0 +1,20 @@
+{
+  "code": "ST",
+  "landmark": "Pico Cão Grande and São Tomé rainforest",
+  "landmarkKo": "피코카우그란드와 상투메의 열대우림",
+  "filename": "sao-tome-pico-cao-grande.webp",
+  "sources": [
+    "https://turismo.gov.st/en",
+    "https://turismo.gov.st/en/pourquoi-sao-tome-et-principe/nature/island-paradise"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for ST in a children's world atlas.\nPrimary request / scene: The iconic Pico Cao Grande volcanic plug in the southern part of Sao Tome Island, Sao Tome and Principe: a very tall narrow steep-sided rounded-tipped basalt rock spire rising dramatically out of a lush tropical rainforest canopy, damp deep green vegetation, palms and ferns, gentle mist around the upper rock, a small clear foreground opening. The rock is a vertical volcanic needle, not a symmetrical cone, snowy mountain, tower or fairy castle. A ground-level broad landscape view, with the whole spire comfortably in frame.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "sao-tome-pico-cao-grande.webp",
+  "inspection": "열대 우림 위에 솟은 둥근 꼭대기의 피코카우그란드 암봉을 확인했습니다. 일반적인 원뿔 화산과 구분됩니다.",
+  "originalFile": "ST.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/st.webp",
+  "exportFile": "st.webp"
+}

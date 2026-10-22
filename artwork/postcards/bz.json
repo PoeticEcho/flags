@@ -1,0 +1,17 @@
+{
+  "code": "BZ",
+  "landmark": "Belize Barrier Reef Reserve System",
+  "landmarkKo": "벨리즈 산호초 보호 구역",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Belize\nPrimary request: Belize Barrier Reef Reserve System, a beautiful Caribbean reef seascape with sandy cays and mangrove islets.\nSubject: Clear shallow turquoise water revealing believable patch-reef shapes and subtle coral textures below the surface, a low white-sand cay with a few palms and a nearby dense green mangrove islet; an outer reef line with gentle white breakers beyond.\nScene/backdrop: Wide calm coastal lagoon, deeper blue sea in the distance and bright blue sky. Natural low islands and reef geography, no giant buildings.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable tropical habitat, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Slightly elevated scenic view so reef patterns beneath clear water are visible; main cay, mangrove islet and reef safely inside central 75% width and height, generous sky and water around them.\nLighting/mood: Warm natural daylight, inviting and peaceful.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No invented giant coral towers above sea, high mountains, overwater palace, unrelated architecture or famous landmark.",
+  "sources": [
+    "https://whc.unesco.org/en/list/764/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: clear shallow turquoise water with plausible patch reefs and small fish, a low white-sand palm cay, a green mangrove islet, and outer reef breakers toward deeper blue sea. No unrelated architecture, giant coral mountains, readable text, flags, UI or logos. Main reef and cays are comfortably framed.",
+  "originalFile": "BZ-barrier-reef.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bz.webp",
+  "exportFile": "bz.webp"
+}

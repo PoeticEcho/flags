@@ -1,0 +1,20 @@
+{
+  "code": "TW",
+  "nameKo": "대만",
+  "filename": "taiwan-taipei-101.webp",
+  "landmark": "Taipei 101 and Taipei basin",
+  "landmarkKo": "타이베이 101과 타이베이 분지",
+  "sources": [
+    "https://www.taipei-101.com.tw/en/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for TW in a children's world atlas.\nPrimary request / scene: Taipei skyline in Taiwan viewed from green forested Elephant Mountain: the distinct blue-green Taipei 101 skyscraper with eight stacked pagoda-like tapering sections and a narrow spire rises clearly above a dense modern city in a basin, layered green hills beyond. Leafy rocky foreground, bright blue sky. Correct single Taipei 101 silhouette, not Burj Khalifa, no generic twin towers, signs or text.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "taiwan-taipei-101.webp",
+  "inspection": "타이베이 101의 청록색 층층이 이어지는 실루엣과 숲이 있는 전망대, 분지 시가지가 보입니다.",
+  "originalFile": "TW.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/tw.webp",
+  "exportFile": "tw.webp"
+}

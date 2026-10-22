@@ -1,0 +1,20 @@
+{
+  "code": "SK",
+  "nameKo": "슬로바키아",
+  "filename": "slovakia-spis-castle.webp",
+  "landmark": "Spiš Castle",
+  "landmarkKo": "스피시성",
+  "sources": [
+    "https://whc.unesco.org/en/list/620/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for SK in a children's world atlas.\nPrimary request / scene: Spiš Castle in Slovakia, a sprawling pale limestone medieval castle ruin atop a broad grassy limestone hill, roofless high walls and square ruined buildings surrounding a round defensive tower at the upper castle, large lower courtyards and long enclosing walls spreading down the slope. Green rural fields, a small village and soft distant ridges. Sunny elevated three-quarter view, not an intact red-roofed Disney castle or steep alpine needle peak.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "slovakia-spis-castle.webp",
+  "inspection": "스피시성의 지붕 없는 넓은 석회암 성벽과 둥근 탑, 낮은 외성 및 풀밭 언덕을 확인했습니다.",
+  "originalFile": "SK.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/sk.webp",
+  "exportFile": "sk.webp"
+}

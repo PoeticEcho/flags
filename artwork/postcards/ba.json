@@ -1,0 +1,17 @@
+{
+  "code": "BA",
+  "landmark": "Old Bridge Area of the Old City of Mostar",
+  "landmarkKo": "모스타르의 옛 다리 지역",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Bosnia and Herzegovina\nPrimary request: The Old Bridge Area of Mostar, with recognizable Stari Most arching over the Neretva River.\nSubject: A narrow pale-limestone humpback bridge with one graceful high stone arch and no intermediate river piers, modest stone bridge-end towers and the old town's warm stone houses with red-tiled roofs.\nScene/backdrop: Clear green-turquoise Neretva flowing between steep rocky banks below the bridge, leafy riverside trees and layered low hills, blue sky. Believable Mostar Ottoman old-town setting.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, faithful recognizable bridge geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad river-level three-quarter view clearly showing the entire single arch, both bridge ends and water beneath; important geometry comfortably inside central 75% width and height, with breathing room.\nLighting/mood: Warm natural daylight, peaceful and inviting.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No multi-arch viaduct, suspension bridge, fairy castle, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/946/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: one high graceful limestone Stari Most arch without river piers, modest bridge-end towers, turquoise-green Neretva between rocky banks, red-roofed old town, distant minarets and green hills. Main arch is comfortably centered. No multi-arch substitute, readable text, flags, UI or logos. Stylized historic town composition.",
+  "originalFile": "BA-mostar-old-bridge.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/ba.webp",
+  "exportFile": "ba.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "XK",
+  "nameKo": "코소보",
+  "filename": "kosovo-pristina.webp",
+  "landmark": "Pristina and its surroundings",
+  "landmarkKo": "프리슈티나와 주변 풍경",
+  "sources": [
+    "https://dtk.rks-gov.net/Objekti?heritageId=9495"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for XK in a children's world atlas.\nPrimary request / scene: Pristina in Kosovo, the recognisable National Library of Kosovo as the medium-distance focal point: an irregular cluster of rectilinear stone building volumes wrapped in a fine silver metal lattice, topped by many rounded white domes of different sizes. Surrounding green park, ordinary low and mid-rise Pristina city buildings and rolling hills beyond. A coherent urban landscape, no signs, letters or flags, no exaggerated mosque spires or invented castles.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "kosovo-pristina.webp",
+  "inspection": "프리슈티나 국립도서관의 금속 격자와 다양한 크기의 흰 돔, 공원과 도시 배경을 확인했습니다.",
+  "originalFile": "XK.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/xk.webp",
+  "exportFile": "xk.webp"
+}

@@ -1,0 +1,18 @@
+{
+  "code": "AM",
+  "landmark": "Echmiatsin Cathedral",
+  "landmarkKo": "에치미아진 대성당",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Armenia\nPrimary request: Echmiatsin Cathedral in its garden, a recognizable historic Armenian church.\nSubject: Compact central-domed cross-shaped stone church, grey-warm tuff walls and warm rose-tuff details, one tall many-sided central drum crowned with a pointed faceted cone; the distinctive three-storey arched west bell tower has a smaller pointed cone. Rounded side apses, stone carvings and restrained smaller bell-domes, believable Armenian form.\nScene/backdrop: Peaceful paved garden grounds with grass, leafy trees and modest flowers, blue sky.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, warm natural materials, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide three-quarter view showing the central dome and arched bell tower; complete church occupies about 60% width and height, entirely inside the central 75% of width and height, with generous sky and garden for cropping.\nLighting/mood: Warm natural daylight, calm and inviting.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No onion domes, European Gothic cathedral, fairy castle, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1011/",
+    "https://www.armenianchurch.org/en/Premices-of-the-Mother-See/mother-cathedral-of-holy-etchmiadzin-4th-century"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Recognizable Armenian pointed conical central dome, three-storey arched west bell tower, warm tuff stone, rounded side apses and garden. Painterly style matches reference. Full church visible, highest cross exceeds central 75% vertical crop-safe zone; root reviewed and accepted with contain sizing. No readable caption/UI/flags/logos/unrelated landmark. Ornamental stone motifs are stylized.",
+  "originalFile": "AM-echmiatsin-cathedral.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/am.webp",
+  "exportFile": "am.webp"
+}

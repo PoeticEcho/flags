@@ -1,0 +1,83 @@
+[
+  {
+    "code": "BH",
+    "guideFilename": "bahrain-qalat-al-bahrain.webp",
+    "guideScene": "바레인 요새 — Qal’at al-Bahrain",
+    "appImage": {
+      "code": "BH",
+      "image": "/assets/postcards/bh.webp",
+      "bytes": 214092,
+      "width": 1024,
+      "height": 683,
+      "landmark": "Qal’at al-Bahrain",
+      "landmarkKo": "바레인 요새"
+    },
+    "sources": [
+      "https://whc.unesco.org/en/list/1192/",
+      "https://culture.gov.bh/en/visitingbahrain/CulturalTourism/Destinations/QalatalBahrainsiteandmuseum/"
+    ],
+    "status": "reuse_approved",
+    "reviewedAt": "2026-10-01",
+    "inspection": "Low honey-stone coastal fort, rounded bastions and excavated foundations match Qalat al-Bahrain."
+  },
+  {
+    "code": "AD",
+    "guideFilename": "andorra-pyrenees.webp",
+    "guideScene": "Pyrenees mountain valley — a dramatic glacial valley in the Pyrenees with stone shepherd huts and high peaks",
+    "appImage": {
+      "code": "AD",
+      "image": "/assets/postcards/ad.webp",
+      "bytes": 329110,
+      "width": 1024,
+      "height": 683,
+      "landmark": "Madriu-Perafita-Claror Valley",
+      "landmarkKo": "마드리우·페라피타·클라로 계곡"
+    },
+    "sources": [
+      "https://whc.unesco.org/en/list/1160/"
+    ],
+    "status": "reuse_approved",
+    "reviewedAt": "2026-10-01",
+    "inspection": "Pyrenean mountain valley, stream, stone hut and alpine vegetation match the guide mountain-valley scene."
+  },
+  {
+    "code": "BY",
+    "guideFilename": "belarus-mir-castle.webp",
+    "guideScene": "미르성 — Mir Castle Complex",
+    "appImage": {
+      "code": "BY",
+      "image": "/assets/postcards/by.webp",
+      "bytes": 242170,
+      "width": 1024,
+      "height": 683,
+      "landmark": "Mir Castle Complex",
+      "landmarkKo": "미르성"
+    },
+    "sources": [
+      "https://whc.unesco.org/en/list/625/"
+    ],
+    "status": "reuse_approved",
+    "reviewedAt": "2026-10-01",
+    "inspection": "Red-brick towers with pale stone detail and adjacent lake match Mir Castle."
+  },
+  {
+    "code": "BA",
+    "guideFilename": "bosnia-mostar-old-bridge.webp",
+    "guideScene": "모스타르의 옛 다리 지역 — Old Bridge Area of the Old City of Mostar",
+    "appImage": {
+      "code": "BA",
+      "image": "/assets/postcards/ba.webp",
+      "bytes": 278540,
+      "width": 1024,
+      "height": 683,
+      "landmark": "Old Bridge Area of the Old City of Mostar",
+      "landmarkKo": "모스타르의 옛 다리 지역"
+    },
+    "sources": [
+      "https://whc.unesco.org/en/list/946/"
+    ],
+    "status": "reuse_approved",
+    "reviewedAt": "2026-10-01",
+    "inspection": "Single stone arch bridge, flanking towers and green Neretva river match Mostar."
+  }
+]

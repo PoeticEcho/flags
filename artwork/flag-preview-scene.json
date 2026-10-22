@@ -1,0 +1,19 @@
+{
+  "purpose": "Sky background for the on-demand custom flag WebGL preview",
+  "origin": "One original built-in image generation request, inspected before integration",
+  "prompt": "High-quality natural brilliant blue daytime sky with soft sunlit white cumulus clouds; photographic atmospheric realism; airy upper sky; clouds lower third and along right edge; quiet centre and left for a flag overlay; wide landscape; no flag, pole, buildings, ground, people, text or watermarks.",
+  "originalDimensions": [
+    1536,
+    1024
+  ],
+  "appDimensions": [
+    1440,
+    960
+  ],
+  "appPath": "/assets/scenes/flag-sky.webp",
+  "appBytes": 101570,
+  "sha256": "30c8ef0094015abe4775c67879dc2eb804c94769d188a550e18945138c457ee4",
+  "review": "Sky asset inspected. Actual WebGL/browser scene review pending.",
+  "referenceImage": "artwork/references/flag-pole-sky-reference.png",
+  "referenceUse": "Composition reference only; stock image pixels and watermark are not used in the app."
+}

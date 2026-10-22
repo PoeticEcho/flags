@@ -1,0 +1,21 @@
+{
+  "code": "AE",
+  "nameKo": "아랍에미리트",
+  "filename": "united-arab-emirates-al-ain-oasis.webp",
+  "landmark": "Al Ain Oasis and falaj irrigation",
+  "landmarkKo": "알아인 오아시스와 팔라지 수로",
+  "prompt": "Use case: illustration-story\nAsset type: United Arab Emirates country-learning postcard for a children's world atlas.\nPrimary request: One independent, bright and detailed painted landscape of Al Ain Oasis, showing the historic date-palm oasis and traditional falaj irrigation. This is Al Ain in the UAE, not Dubai.\nScene/backdrop: A lush grove of tall date palms in a dry desert setting. A shallow narrow stone-lined irrigation channel with clear water runs beside a shaded earth-toned walking path into the grove, gentle tawny low earthen walls and a small traditional plain earth-built gateway in the midground. Distant dry mountain ridges and a pale warm desert edge, no sea or city skyline. Use a realistic modest open irrigation channel, not a large river. Fruit clusters are naturally small.\nStyle/medium: Match the existing atlas's warm detailed children's travel-book paintings: soft watercolour washes combined with opaque gouache brushwork, visible fine painterly paper texture and occasional coloured-pencil detail, rich but gentle teal greens, sunny honey and terracotta stone, blue sky with luminous cream clouds. Believable landscape and architecture, lightly simplified, not flat vector, not photographic, not cartoon stickers.\nComposition/framing: A single full-bleed landscape image, exact 3:2 ratio, 1536x1024. Spacious eye-level three-quarter view with a clear foreground path/channel leading toward palms, layered natural depth. The main palm grove and channel must read clearly in a small card; comfortably within the frame with breathing room. No collage.\nLighting/mood: Warm clear daylight, peaceful, welcoming and vivid.\nConstraints: No text, letters, signs, watermark, logos, border, stamps, flags, coats of arms or maps. No Burj Khalifa, grand mosque, fantasy castle, unrelated landmark, camel caravan or people added as decoration.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1343/",
+    "https://dct.gov.ae/en/what.we.do/culture/tangible.intangible.heritage/al.ain.oasis.aspx"
+  ],
+  "inspection": "Palm grove, falaj channel, shaded pathway and low earth-tone walls form one coherent oasis scene; no text, flags or skyline. Painted educational landscape rather than a survey of every Al Ain monument.",
+  "reviewedAt": "2026-10-01",
+  "guideFilename": "united-arab-emirates-al-ain-oasis.webp",
+  "originalFile": "AE.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "webImage": "/assets/postcards/ae.webp",
+  "exportFile": "ae.webp"
+}

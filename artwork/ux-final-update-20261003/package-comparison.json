@@ -1,0 +1,21 @@
+{
+  "clientFiles": 703,
+  "zipFiles": 704,
+  "allClientBytesMatchActualUploadedArchive": true,
+  "zipCRC": "pass",
+  "uploadArchive": {
+    "filename": "flags-v30-final-uiux-20261003.tar.gz",
+    "bytes": 150703757,
+    "sha256": "58f7e1cd88f82e8a5988894f019a64822dc72b1abe6e2cd9e73f4d6109828c9e"
+  },
+  "clientZip": {
+    "filename": "flags-final-uiux-20261003.zip",
+    "bytes": 150751745,
+    "files": 704,
+    "sha256": "d57ad5ec33a2da732b2788db2ff12aa68b879414a8b81b5619ccd77e1c5e0049",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly"
+    ]
+  }
+}

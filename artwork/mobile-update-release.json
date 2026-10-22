@@ -1,0 +1,39 @@
+{
+  "edition": "v27",
+  "sourceCommit": "75ae13ad24fe59ced1e8d1c4270b8ebe1d25b8f5",
+  "versionId": "appgprj_6abccfeeee548191b571dbf28dcee2f7~appgver_4aca630f76188191b8d306171980686d",
+  "deploymentId": "appgdep_6abfb9ac50bc8191a33583697d95336f",
+  "status": "succeeded",
+  "url": "https://flags.zap15.chatgpt.site",
+  "publishedAt": "2026-10-02T14:03:40.943179+00:00",
+  "archive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000006fa88209852db73558104e0e",
+    "content_hash": "sha256:711ada78559ebf92886362e06a5414bd00c5427ddcb837b95992a8f788382bfa",
+    "size_bytes": 159160320,
+    "file_count": 700
+  },
+  "automatedTests": 111,
+  "placeCount": 199,
+  "changes": [
+    "Mobile flag and quiz vertical stack with wrapping population",
+    "Compact horizontal mobile map controls",
+    "Repeated worlds and nearest-world framing",
+    "Immediate same-question retries after wrong answers",
+    "Sky or associated postcard in waving preview"
+  ],
+  "tagSearch": "Reviewed only; recommend explicit #keyword queries. Existing country/capital search preserved.",
+  "browserQA": "Unverified: supervised preview infrastructure unavailable; Q16 and earlier touch/GPU checks remain open.",
+  "clientZip": {
+    "filename": "flags-mobile-update-20261002.zip",
+    "bytes": 150745714,
+    "files": 699,
+    "sha256": "1be83f4eda6c3b751df7349dee96e3ea2b87851cec4e4b2032a57f17325ecc8a",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly",
+      "every client file exactly matches the archive saved and deployed as v27"
+    ]
+  },
+  "archiveClientFiles": 698
+}

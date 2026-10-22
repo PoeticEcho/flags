@@ -1,0 +1,51 @@
+{
+  "edition": "v31-final-uiux",
+  "projectId": "appgprj_6abccfeeee548191b571dbf28dcee2f7",
+  "sourceCommit": "e41f3599777a76d7773fd67a5b1f211c60145ea5",
+  "savedVersionId": "appgprj_6abccfeeee548191b571dbf28dcee2f7~appgver_eb3999d0fd9c81918954e07c5a990614",
+  "versionNumber": 31,
+  "deploymentId": "appgdep_6abfdf0ad9348191aeae65b161b94efe",
+  "deploymentStatus": "succeeded",
+  "deployedAt": "2026-10-02T16:43:08.285087+00:00",
+  "productionUrl": "https://flags.zap15.chatgpt.site",
+  "verifiedVersionUrl": "https://flags.zap15.chatgpt.site/?v=31",
+  "nativeSavedArchive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000071a08209af829bfd89c58b9f",
+    "content_hash": "sha256:1d04edfdd63f146f291eb128bca5dbc5939cc8a1dab6cf2fb38ce80803748cd8",
+    "size_bytes": 159180800,
+    "file_count": 707
+  },
+  "uploadedArchivePath": "/workspace/scratch/2b06cd914ad0/flags-v31-final-release-20261003.tar.gz",
+  "packageComparison": "ux-final-update-20261003/final-package-comparison.json",
+  "compiledClientZipRecord": "final-release-client-zip.json",
+  "automatedTests": {
+    "total": 125,
+    "pass": 125,
+    "fail": 0,
+    "skipped": 0,
+    "sitesChecks": 4,
+    "sitesChecksIncludedInTotal": true,
+    "finalBuild": "pass"
+  },
+  "content": {
+    "places": 199,
+    "baseCountries": 197,
+    "additionalPlaces": [
+      "GL",
+      "AQ"
+    ],
+    "storyPairs": 995,
+    "keywordPairs": 1990,
+    "postcards": 199
+  },
+  "browserQA": {
+    "evidence": "ux-final-update-20261003/browser-evidence.json",
+    "desktopRepresentativeFlows": "verified",
+    "actualMobileTouch": "not verified",
+    "graphics": "WebGL2 unavailable in this browser; map/3D not manually verified",
+    "soundAudibility": "not verified",
+    "fullAccessibilityAudit": "not completed"
+  },
+  "preservesPreviousReleases": true
+}

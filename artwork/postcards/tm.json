@@ -1,0 +1,20 @@
+{
+  "code": "TM",
+  "nameKo": "투르크메니스탄",
+  "filename": "turkmenistan-ancient-merv.webp",
+  "landmark": "Ancient Merv",
+  "landmarkKo": "고대 메르브",
+  "sources": [
+    "https://whc.unesco.org/en/list/886/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for TM in a children's world atlas.\nPrimary request / scene: Ancient Merv archaeological park in Turkmenistan: weathered ochre mud-brick Great Kyz Kala ruins with distinctive tall corrugated rounded vertical ribs in the foreground, Sultan Sanjar's square brick mausoleum with a broad pale dome visible farther away across the flat arid oasis landscape. Low remnants of earthen walls, sparse grasses and distant green oasis belt. Believable ruins rather than an intact fantasy Silk Road palace; do not add Samarkand's turquoise tiled domes or snowy mountains.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "turkmenistan-ancient-merv.webp",
+  "inspection": "메르브의 세로 골이 있는 흙벽 유적과 별도로 떨어진 산자르 영묘를 확인했습니다. 그림은 유적을 단순화한 삽화이며 측량도가 아닙니다.",
+  "originalFile": "TM.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/tm.webp",
+  "exportFile": "tm.webp"
+}

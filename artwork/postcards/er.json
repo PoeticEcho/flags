@@ -1,0 +1,21 @@
+{
+  "code": "ER",
+  "nameKo": "에리트레아",
+  "filename": "eritrea-asmara.webp",
+  "landmark": "Asmara modernist city and Fiat Tagliero",
+  "landmarkKo": "아스마라의 근대 건축과 피아트 탈리에로",
+  "sources": [
+    "https://whc.unesco.org/en/list/1550/",
+    "https://whc.unesco.org/en/intassistance/2946/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: 에리트레아 country-learning postcard for a children's world atlas.\nPrimary request / scene: Asmara, Eritrea, an airy sunny highland African city street with the recognizable Fiat Tagliero building as the main subject: a low cream modernist former filling station with a compact central stepped tower and two broad thin horizontal concrete wings cantilevered symmetrically on either side, streamlined airplane-inspired architectural form. No words on the building. Surrounding modest early-20th-century pastel modernist facades with simple geometric balconies and rounded corners, a few palms and clear highland sky. A broad street-level three-quarter architectural view, not an airport, airplane, skyscraper, fantasy cathedral or beach.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the atlas's Korean hanok and Great Wall paintings: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile painted paper, luminous cream clouds and blue sky, gently saturated greens and teal, warm ochre and terracotta. Believable landscape/landmark geometry, simplified just enough for young children. Not photographic, not flat vector or sticker art.\nComposition/framing: One independent full-bleed landscape image, exact 3:2 aspect ratio, intended 1536x1024. A clear layered foreground, midground and background; the key scene remains readable on a small card, inside the frame with breathing room. No collage.\nLighting/mood: Welcoming warm natural daylight, cheerful and calm.\nConstraints: No text, letters, writing, signs, flags, coats of arms, maps, logos, watermark, borders, stamps or UI. No invented landmarks or unrelated scenery.",
+  "inspection": "Central streamlined stepped tower and broad symmetrical cantilever wings identify Fiat Tagliero amid modernist streetscape. No readable building words. Architecture is painterly and simplified, not a measured reconstruction.",
+  "reviewedAt": "2026-10-01",
+  "guideFilename": "eritrea-asmara.webp",
+  "originalFile": "ER.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "webImage": "/assets/postcards/er.webp",
+  "exportFile": "er.webp"
+}

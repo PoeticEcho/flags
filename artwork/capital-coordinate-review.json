@@ -1,0 +1,33 @@
+{
+  "reviewedAt": "2026-10-01",
+  "scope": "TV correction only; not a full 197-country precision audit",
+  "countries": {
+    "TV": {
+      "capital": "Funafuti",
+      "pinPlace": "Government of Tuvalu, Vaiaku, Fongafale",
+      "previousCoordinates": [
+        179.089567,
+        -8.6314877
+      ],
+      "coordinates": [
+        179.194547,
+        -8.524263
+      ],
+      "shortPlusCode": "F5GV+7RV",
+      "fullPlusCode": "6V3XF5GV+7RV",
+      "method": "Recover the four omitted characters using the existing Funafuti coordinate as a nearby one-degree reference, then decode the government-published Plus Code and use the cell centre. The capital name remains Funafuti; it is the entire atoll, not a single building.",
+      "cellHeightDegrees": 2.5e-05,
+      "cellWidthDegrees": 3.125e-05,
+      "sources": [
+        "https://finance.gov.tv/contact-us/",
+        "https://finance.gov.tv/wp-content/uploads/2023/11/181024-TvICT-ESMP-Rev-G-2.pdf",
+        "https://github.com/google/open-location-code"
+      ],
+      "browserZoomPanVerification": "pending"
+    }
+  },
+  "pendingCandidates": [
+    "UY"
+  ],
+  "pendingNote": "The existing Montevideo coordinate is in the eastern city area; do not move it without a sourced reference point. Other coastal capital pins were not snapped to generalized land polygons."
+}

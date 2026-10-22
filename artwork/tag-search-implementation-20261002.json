@@ -1,0 +1,582 @@
+{
+  "date": "2026-10-02",
+  "mode": "ordinary bilingual queries; no prefix required",
+  "corpus": {
+    "destinations": 199,
+    "keywordsPerDestination": 10,
+    "bilingualKeywordPairs": 1990
+  },
+  "ordering": [
+    "existing country/alias/capital ranking",
+    "exact keyword",
+    "keyword prefix",
+    "keyword substring"
+  ],
+  "deduplication": "A primary match takes precedence over a matching keyword for the same country.",
+  "surfaces": [
+    "map search",
+    "colouring country picker",
+    "real country card collection"
+  ],
+  "personalCountries": "Saved names only",
+  "resultLimit": "No seven-result truncation; existing scrollable popup",
+  "examples": [
+    {
+      "query": "석회암",
+      "results": [
+        {
+          "code": "MG",
+          "countryKo": "마다가스카르",
+          "countryEn": "Madagascar",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "SI",
+          "countryKo": "슬로베니아",
+          "countryEn": "Slovenia",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "CU",
+          "countryKo": "쿠바",
+          "countryEn": "Cuba",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "HR",
+          "countryKo": "크로아티아",
+          "countryEn": "Croatia",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "BS",
+          "countryKo": "바하마",
+          "countryEn": "Bahamas",
+          "kind": "tag",
+          "keywordKo": "석회암 해안",
+          "keywordEn": "Limestone shore"
+        },
+        {
+          "code": "SB",
+          "countryKo": "솔로몬 제도",
+          "countryEn": "Solomon Islands",
+          "kind": "tag",
+          "keywordKo": "석회암 섬",
+          "keywordEn": "limestone islets"
+        },
+        {
+          "code": "PW",
+          "countryKo": "팔라우",
+          "countryEn": "Palau",
+          "kind": "tag",
+          "keywordKo": "석회암 섬",
+          "keywordEn": "limestone islands"
+        }
+      ]
+    },
+    {
+      "query": "limestone",
+      "results": [
+        {
+          "code": "MG",
+          "countryKo": "마다가스카르",
+          "countryEn": "Madagascar",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "SI",
+          "countryKo": "슬로베니아",
+          "countryEn": "Slovenia",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "CU",
+          "countryKo": "쿠바",
+          "countryEn": "Cuba",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "HR",
+          "countryKo": "크로아티아",
+          "countryEn": "Croatia",
+          "kind": "tag",
+          "keywordKo": "석회암",
+          "keywordEn": "limestone"
+        },
+        {
+          "code": "BS",
+          "countryKo": "바하마",
+          "countryEn": "Bahamas",
+          "kind": "tag",
+          "keywordKo": "석회암 해안",
+          "keywordEn": "Limestone shore"
+        },
+        {
+          "code": "SB",
+          "countryKo": "솔로몬 제도",
+          "countryEn": "Solomon Islands",
+          "kind": "tag",
+          "keywordKo": "석회암 섬",
+          "keywordEn": "limestone islets"
+        },
+        {
+          "code": "PW",
+          "countryKo": "팔라우",
+          "countryEn": "Palau",
+          "kind": "tag",
+          "keywordKo": "석회암 섬",
+          "keywordEn": "limestone islands"
+        }
+      ]
+    },
+    {
+      "query": "빙산",
+      "results": [
+        {
+          "code": "GL",
+          "countryKo": "그린란드",
+          "countryEn": "Greenland",
+          "kind": "tag",
+          "keywordKo": "빙산",
+          "keywordEn": "icebergs"
+        },
+        {
+          "code": "AQ",
+          "countryKo": "남극",
+          "countryEn": "Antarctica",
+          "kind": "tag",
+          "keywordKo": "빙산",
+          "keywordEn": "icebergs"
+        }
+      ]
+    },
+    {
+      "query": "icebergs",
+      "results": [
+        {
+          "code": "GL",
+          "countryKo": "그린란드",
+          "countryEn": "Greenland",
+          "kind": "tag",
+          "keywordKo": "빙산",
+          "keywordEn": "icebergs"
+        },
+        {
+          "code": "AQ",
+          "countryKo": "남극",
+          "countryEn": "Antarctica",
+          "kind": "tag",
+          "keywordKo": "빙산",
+          "keywordEn": "icebergs"
+        }
+      ]
+    },
+    {
+      "query": "사막",
+      "results": [
+        {
+          "code": "ML",
+          "countryKo": "말리",
+          "countryEn": "Mali",
+          "kind": "tag",
+          "keywordKo": "사막",
+          "keywordEn": "desert"
+        },
+        {
+          "code": "AE",
+          "countryKo": "아랍에미리트",
+          "countryEn": "United Arab Emirates",
+          "kind": "tag",
+          "keywordKo": "사막",
+          "keywordEn": "desert"
+        },
+        {
+          "code": "NE",
+          "countryKo": "니제르",
+          "countryEn": "Niger",
+          "kind": "tag",
+          "keywordKo": "사막 생물",
+          "keywordEn": "desert wildlife"
+        },
+        {
+          "code": "QA",
+          "countryKo": "카타르",
+          "countryEn": "Qatar",
+          "kind": "tag",
+          "keywordKo": "사막 모래",
+          "keywordEn": "desert sand"
+        },
+        {
+          "code": "NA",
+          "countryKo": "나미비아",
+          "countryEn": "Namibia",
+          "kind": "tag",
+          "keywordKo": "해안 사막",
+          "keywordEn": "coastal desert"
+        },
+        {
+          "code": "MA",
+          "countryKo": "모로코",
+          "countryEn": "Morocco",
+          "kind": "tag",
+          "keywordKo": "사하라 사막",
+          "keywordEn": "Sahara Desert"
+        },
+        {
+          "code": "SA",
+          "countryKo": "사우디아라비아",
+          "countryEn": "Saudi Arabia",
+          "kind": "tag",
+          "keywordKo": "아라비아 사막",
+          "keywordEn": "Arabian Desert"
+        },
+        {
+          "code": "EG",
+          "countryKo": "이집트",
+          "countryEn": "Egypt",
+          "kind": "tag",
+          "keywordKo": "사하라 사막",
+          "keywordEn": "Sahara Desert"
+        },
+        {
+          "code": "CL",
+          "countryKo": "칠레",
+          "countryEn": "Chile",
+          "kind": "tag",
+          "keywordKo": "아타카마 사막",
+          "keywordEn": "Atacama Desert"
+        }
+      ]
+    },
+    {
+      "query": "desert",
+      "results": [
+        {
+          "code": "ML",
+          "countryKo": "말리",
+          "countryEn": "Mali",
+          "kind": "tag",
+          "keywordKo": "사막",
+          "keywordEn": "desert"
+        },
+        {
+          "code": "AE",
+          "countryKo": "아랍에미리트",
+          "countryEn": "United Arab Emirates",
+          "kind": "tag",
+          "keywordKo": "사막",
+          "keywordEn": "desert"
+        },
+        {
+          "code": "NE",
+          "countryKo": "니제르",
+          "countryEn": "Niger",
+          "kind": "tag",
+          "keywordKo": "사막 생물",
+          "keywordEn": "desert wildlife"
+        },
+        {
+          "code": "QA",
+          "countryKo": "카타르",
+          "countryEn": "Qatar",
+          "kind": "tag",
+          "keywordKo": "사막 모래",
+          "keywordEn": "desert sand"
+        },
+        {
+          "code": "NA",
+          "countryKo": "나미비아",
+          "countryEn": "Namibia",
+          "kind": "tag",
+          "keywordKo": "해안 사막",
+          "keywordEn": "coastal desert"
+        },
+        {
+          "code": "MA",
+          "countryKo": "모로코",
+          "countryEn": "Morocco",
+          "kind": "tag",
+          "keywordKo": "사하라 사막",
+          "keywordEn": "Sahara Desert"
+        },
+        {
+          "code": "SA",
+          "countryKo": "사우디아라비아",
+          "countryEn": "Saudi Arabia",
+          "kind": "tag",
+          "keywordKo": "아라비아 사막",
+          "keywordEn": "Arabian Desert"
+        },
+        {
+          "code": "EG",
+          "countryKo": "이집트",
+          "countryEn": "Egypt",
+          "kind": "tag",
+          "keywordKo": "사하라 사막",
+          "keywordEn": "Sahara Desert"
+        },
+        {
+          "code": "CL",
+          "countryKo": "칠레",
+          "countryEn": "Chile",
+          "kind": "tag",
+          "keywordKo": "아타카마 사막",
+          "keywordEn": "Atacama Desert"
+        }
+      ]
+    },
+    {
+      "query": "island",
+      "results": [
+        {
+          "code": "MH",
+          "countryKo": "마셜 제도",
+          "countryEn": "Marshall Islands",
+          "kind": "country"
+        },
+        {
+          "code": "SB",
+          "countryKo": "솔로몬 제도",
+          "countryEn": "Solomon Islands",
+          "kind": "country"
+        },
+        {
+          "code": "NR",
+          "countryKo": "나우루",
+          "countryEn": "Nauru",
+          "kind": "tag",
+          "keywordKo": "섬 안쪽",
+          "keywordEn": "island interior"
+        },
+        {
+          "code": "MZ",
+          "countryKo": "모잠비크",
+          "countryEn": "Mozambique",
+          "kind": "tag",
+          "keywordKo": "모잠비크섬",
+          "keywordEn": "Island of Mozambique"
+        },
+        {
+          "code": "FM",
+          "countryKo": "미크로네시아",
+          "countryEn": "Micronesia",
+          "kind": "tag",
+          "keywordKo": "섬의 배치",
+          "keywordEn": "island layout"
+        },
+        {
+          "code": "WS",
+          "countryKo": "사모아",
+          "countryEn": "Samoa",
+          "kind": "tag",
+          "keywordKo": "섬의 지형",
+          "keywordEn": "island landforms"
+        },
+        {
+          "code": "ST",
+          "countryKo": "상투메 프린시페",
+          "countryEn": "São Tomé and Príncipe",
+          "kind": "tag",
+          "keywordKo": "섬의 형성",
+          "keywordEn": "island formation"
+        },
+        {
+          "code": "KM",
+          "countryKo": "코모로",
+          "countryEn": "Comoros",
+          "kind": "tag",
+          "keywordKo": "섬마을",
+          "keywordEn": "island towns"
+        },
+        {
+          "code": "CU",
+          "countryKo": "쿠바",
+          "countryEn": "Cuba",
+          "kind": "tag",
+          "keywordKo": "섬나라",
+          "keywordEn": "island country"
+        },
+        {
+          "code": "TV",
+          "countryKo": "투발루",
+          "countryEn": "Tuvalu",
+          "kind": "tag",
+          "keywordKo": "섬과 바다",
+          "keywordEn": "islands and sea"
+        },
+        {
+          "code": "GM",
+          "countryKo": "감비아",
+          "countryEn": "Gambia",
+          "kind": "tag",
+          "keywordKo": "쿤타킨테 섬",
+          "keywordEn": "Kunta Kinteh Island"
+        },
+        {
+          "code": "GR",
+          "countryKo": "그리스",
+          "countryEn": "Greece",
+          "kind": "tag",
+          "keywordKo": "그리스 섬",
+          "keywordEn": "Greek islands"
+        },
+        {
+          "code": "AQ",
+          "countryKo": "남극",
+          "countryEn": "Antarctica",
+          "kind": "tag",
+          "keywordKo": "킹조지섬",
+          "keywordEn": "King George Island"
+        },
+        {
+          "code": "ZA",
+          "countryKo": "남아프리카공화국",
+          "countryEn": "South Africa",
+          "kind": "tag",
+          "keywordKo": "로벤섬",
+          "keywordEn": "Robben Island"
+        },
+        {
+          "code": "NI",
+          "countryKo": "니카라과",
+          "countryEn": "Nicaragua",
+          "kind": "tag",
+          "keywordKo": "오메테페섬",
+          "keywordEn": "Ometepe Island"
+        },
+        {
+          "code": "KR",
+          "countryKo": "대한민국",
+          "countryEn": "Republic of Korea",
+          "kind": "tag",
+          "keywordKo": "제주도",
+          "keywordEn": "Jeju Island"
+        },
+        {
+          "code": "DM",
+          "countryKo": "도미니카 연방",
+          "countryEn": "Dominica",
+          "kind": "tag",
+          "keywordKo": "화산섬",
+          "keywordEn": "volcanic island"
+        },
+        {
+          "code": "BS",
+          "countryKo": "바하마",
+          "countryEn": "Bahamas",
+          "kind": "tag",
+          "keywordKo": "롱아일랜드",
+          "keywordEn": "Long Island"
+        },
+        {
+          "code": "SL",
+          "countryKo": "시에라리온",
+          "countryEn": "Sierra Leone",
+          "kind": "tag",
+          "keywordKo": "강의 섬",
+          "keywordEn": "river island"
+        },
+        {
+          "code": "EC",
+          "countryKo": "에콰도르",
+          "countryEn": "Ecuador",
+          "kind": "tag",
+          "keywordKo": "갈라파고스제도",
+          "keywordEn": "Galápagos Islands"
+        },
+        {
+          "code": "GQ",
+          "countryKo": "적도 기니",
+          "countryEn": "Equatorial Guinea",
+          "kind": "tag",
+          "keywordKo": "비오코섬",
+          "keywordEn": "Bioko Island"
+        },
+        {
+          "code": "CV",
+          "countryKo": "카보베르데",
+          "countryEn": "Cape Verde",
+          "kind": "tag",
+          "keywordKo": "산티아구섬",
+          "keywordEn": "Santiago Island"
+        },
+        {
+          "code": "KI",
+          "countryKo": "키리바시",
+          "countryEn": "Kiribati",
+          "kind": "tag",
+          "keywordKo": "피닉스 제도",
+          "keywordEn": "Phoenix Islands"
+        },
+        {
+          "code": "PW",
+          "countryKo": "팔라우",
+          "countryEn": "Palau",
+          "kind": "tag",
+          "keywordKo": "록 아일랜드",
+          "keywordEn": "Rock Islands"
+        }
+      ]
+    },
+    {
+      "query": "서울",
+      "results": [
+        {
+          "code": "KR",
+          "countryKo": "대한민국",
+          "countryEn": "Republic of Korea",
+          "kind": "country"
+        }
+      ]
+    },
+    {
+      "query": "Seoul",
+      "results": [
+        {
+          "code": "KR",
+          "countryKo": "대한민국",
+          "countryEn": "Republic of Korea",
+          "kind": "country"
+        }
+      ]
+    },
+    {
+      "query": "누크",
+      "results": [
+        {
+          "code": "GL",
+          "countryKo": "그린란드",
+          "countryEn": "Greenland",
+          "kind": "country"
+        }
+      ]
+    },
+    {
+      "query": "Nuuk",
+      "results": [
+        {
+          "code": "GL",
+          "countryKo": "그린란드",
+          "countryEn": "Greenland",
+          "kind": "country"
+        }
+      ]
+    }
+  ],
+  "educationChanges": "None. Original 1,990 keyword pairs and 995 story pairs preserved.",
+  "browserQA": "Unverified; supervised preview infrastructure unavailable."
+}

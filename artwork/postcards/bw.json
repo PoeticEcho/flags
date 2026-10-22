@@ -1,0 +1,17 @@
+{
+  "code": "BW",
+  "landmark": "Okavango Delta",
+  "landmarkKo": "오카방고 델타",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Botswana\nPrimary request: The Okavango Delta with winding clear wetland channels and a small, plausible African elephant family.\nSubject: A broad inland wetland landscape, crystal-clear teal water flowing in sinuous channels between reed and papyrus beds, grassy islands and scattered low woodland. Two adult African elephants and one calf wade calmly near a grassy bank, with credible anatomy, large ears, trunks and proportions.\nScene/backdrop: Flat seasonal floodplain stretching to a low distant horizon under a blue sky, with green marsh plants and hints of dry ochre grass beyond the wetland. This is an inland delta, with no sea, mountains or city.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable wetland geography and wildlife, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Slightly elevated scenic view showing the winding channels clearly; the elephant family and main channel comfortably inside central 75% width and height, with generous breathing room.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No giant buildings, waterfalls, ocean beach, invented mountains, unrelated landmarks or fantasy animal anatomy.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1432/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: winding clear teal wetland channels among reeds, papyrus, grassy islands and scattered trees, with a flat seasonal floodplain horizon. Two adult African elephants and one calf wade together with plausible ears, trunks and proportions; the group is comfortably framed. No sea, mountains, buildings, readable text, flags, UI or logos.",
+  "originalFile": "BW-okavango-delta.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bw.webp",
+  "exportFile": "bw.webp"
+}

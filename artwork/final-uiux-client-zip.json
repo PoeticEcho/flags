@@ -1,0 +1,16 @@
+{
+  "edition": "v30",
+  "sourceCommit": "8e4dbf1ea2aa9a6a4b8e1d7d720a69f70809399c",
+  "clientZip": {
+    "filename": "flags-final-uiux-20261003.zip",
+    "bytes": 150751745,
+    "files": 704,
+    "sha256": "d57ad5ec33a2da732b2788db2ff12aa68b879414a8b81b5619ccd77e1c5e0049",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly"
+    ]
+  },
+  "automatedTests": 125,
+  "browserQA": "Desktop representative flows verified on the public v30 app: randomized entry, cached-entry recovery, tag search, postcard, immediate quiz retry and three-star progress, keyboard paint grade 100 and save. Actual phone touch, repeated map pan/pinch and 3D waving remain unverified because this browser lacks WebGL2."
+}

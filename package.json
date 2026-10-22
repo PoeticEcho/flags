@@ -1,0 +1,26 @@
+{
+  "name": "kids-world-atlas",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/prepare-flag-assets.mjs && vite build && node scripts/prepare-sites-build.mjs && node scripts/prepare-release-compat.mjs",
+    "preview": "vite preview",
+    "test:sites": "node --test tests/sites-worker.test.mjs",
+    "build:learning": "node scripts/build-learning-enrichment.mjs",
+    "check:learning": "node scripts/build-learning-enrichment.mjs --check"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "@vitejs/plugin-react": "5.0.4",
+    "flag-icons": "^7.5.0",
+    "maplibre-gl": "^6.11.2",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "topojson-client": "^3.1.0",
+    "vite": "6.4.2",
+    "world-atlas": "^2.0.2",
+    "world-countries": "^5.1.0"
+  }
+}

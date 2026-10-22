@@ -1,0 +1,18 @@
+{
+  "code": "KH",
+  "landmark": "Angkor",
+  "landmarkKo": "앙코르 유적",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Cambodia\nPrimary request: Recognizable Angkor Wat within the Angkor archaeological site.\nSubject: The weathered warm grey-brown sandstone temple with its characteristic lotus-bud tower silhouette, a taller central tower and four corner towers arranged around it, stepped terraces, long low galleries and Khmer carved ornament. Use a western view where some towers naturally overlap, without adding extra towers.\nScene/backdrop: A calm foreground reflecting pond with a few lotus leaves, green grass and tropical trees around the temple beneath a blue sky. Keep the temple grounded on its actual low terraced base.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Khmer geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad view across the pond toward the temple; important tower silhouette comfortably inside central 75% width and height, generous sky and water.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. Carved decoration must remain abstract with no inscriptions, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No Thai golden roofs, unrelated temples, fantasy spires or invented mountains.",
+  "sources": [
+    "https://whc.unesco.org/en/list/668/",
+    "https://apsaraauthority.gov.kh/events-and-news/news/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: recognizable Angkor Wat sandstone silhouette with five lotus-bud towers, taller central tower, stepped terraces and low galleries, reflected in a pond with lotus leaves and tropical greenery. Ornament stays abstract with no readable inscriptions, flags, UI or logos. Temple geometry and tower spacing are stylized; the upper tip is just outside the central 75% height and contain sizing preserves it.",
+  "originalFile": "KH-angkor-wat.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/kh.webp",
+  "exportFile": "kh.webp"
+}

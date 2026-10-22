@@ -1,0 +1,514 @@
+{
+  "reviewDate": "2026-10-02",
+  "status": "review-only; current search behavior preserved",
+  "corpus": {
+    "destinations": 199,
+    "bilingualKeywords": 1990,
+    "fields": [
+      "keyword.ko",
+      "keyword.en"
+    ],
+    "excluded": [
+      "long stories",
+      "image captions",
+      "sources"
+    ]
+  },
+  "recommendation": {
+    "mode": "Explicit #keyword queries; ordinary input keeps country/capital search",
+    "examples": [
+      "#빙산",
+      "#icebergs",
+      "#사막"
+    ],
+    "ranking": "Exact keyword before partial keyword, one result per destination, show matched keyword",
+    "manyMatches": "Provide all results through country cards instead of silently truncating the map seven-result list",
+    "reason": "Separate topic discovery from country navigation; existing name/capital priority and Enter behavior remain predictable"
+  },
+  "queries": [
+    {
+      "query": "피라미드",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "EG",
+          "words": [
+            {
+              "ko": "기자의 피라미드",
+              "en": "Pyramids of Giza"
+            }
+          ]
+        },
+        {
+          "code": "SD",
+          "words": [
+            {
+              "ko": "피라미드",
+              "en": "pyramids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "pyramid",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "EG",
+          "words": [
+            {
+              "ko": "기자의 피라미드",
+              "en": "Pyramids of Giza"
+            }
+          ]
+        },
+        {
+          "code": "SD",
+          "words": [
+            {
+              "ko": "피라미드",
+              "en": "pyramids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "빙산",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "AQ",
+          "words": [
+            {
+              "ko": "빙산",
+              "en": "icebergs"
+            }
+          ]
+        },
+        {
+          "code": "GL",
+          "words": [
+            {
+              "ko": "빙산",
+              "en": "icebergs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "icebergs",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "AQ",
+          "words": [
+            {
+              "ko": "빙산",
+              "en": "icebergs"
+            }
+          ]
+        },
+        {
+          "code": "GL",
+          "words": [
+            {
+              "ko": "빙산",
+              "en": "icebergs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "펭귄",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "AQ",
+          "words": [
+            {
+              "ko": "젠투펭귄",
+              "en": "gentoo penguin"
+            }
+          ]
+        },
+        {
+          "code": "ZA",
+          "words": [
+            {
+              "ko": "아프리카펭귄",
+              "en": "African penguin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "penguin",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "AQ",
+          "words": [
+            {
+              "ko": "젠투펭귄",
+              "en": "gentoo penguin"
+            }
+          ]
+        },
+        {
+          "code": "ZA",
+          "words": [
+            {
+              "ko": "아프리카펭귄",
+              "en": "African penguin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "사막",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "CL",
+          "words": [
+            {
+              "ko": "아타카마 사막",
+              "en": "Atacama Desert"
+            }
+          ]
+        },
+        {
+          "code": "EG",
+          "words": [
+            {
+              "ko": "사하라 사막",
+              "en": "Sahara Desert"
+            }
+          ]
+        },
+        {
+          "code": "ML",
+          "words": [
+            {
+              "ko": "사막",
+              "en": "desert"
+            },
+            {
+              "ko": "사막화",
+              "en": "desertification"
+            }
+          ]
+        },
+        {
+          "code": "MA",
+          "words": [
+            {
+              "ko": "사하라 사막",
+              "en": "Sahara Desert"
+            }
+          ]
+        },
+        {
+          "code": "NA",
+          "words": [
+            {
+              "ko": "해안 사막",
+              "en": "coastal desert"
+            }
+          ]
+        },
+        {
+          "code": "NE",
+          "words": [
+            {
+              "ko": "테네레 사막",
+              "en": "Ténéré desert"
+            },
+            {
+              "ko": "사막 생물",
+              "en": "desert wildlife"
+            },
+            {
+              "ko": "아이르·테네레 사막",
+              "en": "Aïr and Ténéré desert"
+            }
+          ]
+        },
+        {
+          "code": "QA",
+          "words": [
+            {
+              "ko": "사막 모래",
+              "en": "desert sand"
+            }
+          ]
+        },
+        {
+          "code": "SA",
+          "words": [
+            {
+              "ko": "아라비아 사막",
+              "en": "Arabian Desert"
+            }
+          ]
+        },
+        {
+          "code": "AE",
+          "words": [
+            {
+              "ko": "사막",
+              "en": "desert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "desert",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "CL",
+          "words": [
+            {
+              "ko": "아타카마 사막",
+              "en": "Atacama Desert"
+            }
+          ]
+        },
+        {
+          "code": "EG",
+          "words": [
+            {
+              "ko": "사하라 사막",
+              "en": "Sahara Desert"
+            }
+          ]
+        },
+        {
+          "code": "ML",
+          "words": [
+            {
+              "ko": "사막",
+              "en": "desert"
+            },
+            {
+              "ko": "사막화",
+              "en": "desertification"
+            }
+          ]
+        },
+        {
+          "code": "MA",
+          "words": [
+            {
+              "ko": "사하라 사막",
+              "en": "Sahara Desert"
+            }
+          ]
+        },
+        {
+          "code": "NA",
+          "words": [
+            {
+              "ko": "해안 사막",
+              "en": "coastal desert"
+            }
+          ]
+        },
+        {
+          "code": "NE",
+          "words": [
+            {
+              "ko": "테네레 사막",
+              "en": "Ténéré desert"
+            },
+            {
+              "ko": "사막 생물",
+              "en": "desert wildlife"
+            },
+            {
+              "ko": "아이르·테네레 사막",
+              "en": "Aïr and Ténéré desert"
+            }
+          ]
+        },
+        {
+          "code": "QA",
+          "words": [
+            {
+              "ko": "사막 모래",
+              "en": "desert sand"
+            }
+          ]
+        },
+        {
+          "code": "SA",
+          "words": [
+            {
+              "ko": "아라비아 사막",
+              "en": "Arabian Desert"
+            }
+          ]
+        },
+        {
+          "code": "AE",
+          "words": [
+            {
+              "ko": "사막",
+              "en": "desert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "축구",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "AR",
+          "words": [
+            {
+              "ko": "축구",
+              "en": "football"
+            }
+          ]
+        },
+        {
+          "code": "BR",
+          "words": [
+            {
+              "ko": "축구",
+              "en": "football"
+            }
+          ]
+        },
+        {
+          "code": "DE",
+          "words": [
+            {
+              "ko": "축구",
+              "en": "football"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "football",
+      "nameAndCapitalMatches": [],
+      "keywordMatches": [
+        {
+          "code": "AR",
+          "words": [
+            {
+              "ko": "축구",
+              "en": "football"
+            }
+          ]
+        },
+        {
+          "code": "BR",
+          "words": [
+            {
+              "ko": "축구",
+              "en": "football"
+            }
+          ]
+        },
+        {
+          "code": "DE",
+          "words": [
+            {
+              "ko": "축구",
+              "en": "football"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "누크",
+      "nameAndCapitalMatches": [
+        "GL"
+      ],
+      "keywordMatches": [
+        {
+          "code": "GL",
+          "words": [
+            {
+              "ko": "누크",
+              "en": "Nuuk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Nuuk",
+      "nameAndCapitalMatches": [
+        "GL"
+      ],
+      "keywordMatches": [
+        {
+          "code": "GL",
+          "words": [
+            {
+              "ko": "누크",
+              "en": "Nuuk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "서울",
+      "nameAndCapitalMatches": [
+        "KR"
+      ],
+      "keywordMatches": [
+        {
+          "code": "KR",
+          "words": [
+            {
+              "ko": "서울",
+              "en": "Seoul"
+            },
+            {
+              "ko": "N서울타워",
+              "en": "N Seoul Tower"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Seoul",
+      "nameAndCapitalMatches": [
+        "KR"
+      ],
+      "keywordMatches": [
+        {
+          "code": "KR",
+          "words": [
+            {
+              "ko": "서울",
+              "en": "Seoul"
+            },
+            {
+              "ko": "N서울타워",
+              "en": "N Seoul Tower"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

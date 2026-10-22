@@ -1,0 +1,27 @@
+import {useEffect,useRef,useState} from 'react';
+import {createPortal} from 'react-dom';
+import {MagnifyingGlass,X} from '@phosphor-icons/react';
+import CountrySearchOptions from './CountrySearchOptions.jsx';
+export default function CountrySearch({language,value,open,openRequest=0,onOpen,onChange,onSelect,selectedCode,results,inputRef}) {
+ const host=useRef(),popup=useRef(),restoringFocus=useRef(false),ko=language==='ko';
+ const [compact,setCompact]=useState(()=>window.matchMedia('(max-width:600px)').matches),[expanded,setExpanded]=useState(false),[position,setPosition]=useState({});
+ const showing=compact?expanded:open&&Boolean(value.trim());
+ const lastRequest=useRef(0);
+ useEffect(()=>{if(!openRequest||lastRequest.current===openRequest)return;lastRequest.current=openRequest;if(compact)setExpanded(true);onOpen(true);requestAnimationFrame(()=>inputRef.current?.focus());},[openRequest,compact,inputRef,onOpen]);
+ useEffect(()=>{const media=window.matchMedia('(max-width:600px)'),change=()=>{setCompact(media.matches);setExpanded(false);onOpen(false);};media.addEventListener('change',change);return ()=>media.removeEventListener('change',change);},[onOpen]);
+ useEffect(()=>{const outside=e=>{if(!host.current?.contains(e.target)&&!popup.current?.contains(e.target)){onOpen(false);setExpanded(false);}};document.addEventListener('pointerdown',outside);return ()=>document.removeEventListener('pointerdown',outside);},[onOpen]);
+ useEffect(()=>{const keyboard=e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();if(compact){setExpanded(true);onOpen(true);}requestAnimationFrame(()=>inputRef.current?.focus());}};window.addEventListener('keydown',keyboard);return ()=>window.removeEventListener('keydown',keyboard);},[compact,inputRef,onOpen]);
+ useEffect(()=>{if(!showing)return;const update=()=>{const rect=host.current.getBoundingClientRect(),width=compact?window.innerWidth-20:Math.min(340,window.innerWidth-20);setPosition({top:rect.bottom+8,left:compact?10:Math.max(10,Math.min(window.innerWidth-width-10,rect.left)),width});};update();window.addEventListener('resize',update);window.addEventListener('scroll',update,true);if(compact)requestAnimationFrame(()=>inputRef.current?.focus());return ()=>{window.removeEventListener('resize',update);window.removeEventListener('scroll',update,true);};},[showing,compact,inputRef]);
+ const restoreFocus=()=>requestAnimationFrame(()=>{restoringFocus.current=true;try{if(compact)host.current?.querySelector('.compact-search-trigger')?.focus();else inputRef.current?.focus();}finally{restoringFocus.current=false;}});
+ const choose=code=>{onSelect(code);onOpen(false);setExpanded(false);restoreFocus();};
+ const close=()=>{onOpen(false);setExpanded(false);restoreFocus();};
+ const optionKeyboard=e=>{if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();const options=Array.from(popup.current?.querySelectorAll('[role="option"]')||[]),index=options.indexOf(e.currentTarget),next=index+(e.key==='ArrowDown'?1:-1);if(next<0)inputRef.current?.focus();else options[next]?.focus();}if(e.key==='Escape')close();};
+ const input=<><label className="sr-only" htmlFor="country-search">{ko?'나라, 수도 또는 태그 검색':'Search countries, capitals or tags'}</label><input id="country-search" ref={inputRef} role="combobox" aria-autocomplete="list" aria-expanded={showing&&Boolean(value.trim())} aria-controls={showing?'country-search-results':undefined} value={value} placeholder={ko?'나라·수도·태그 검색':'Country · capital · tag'} onFocus={()=>{if(!restoringFocus.current)onOpen(compact||Boolean(value.trim()));}} onPointerDown={()=>onOpen(compact||Boolean(value.trim()))} onChange={e=>{onChange(e.target.value);if(compact)onOpen(true);}} onKeyDown={e=>{if(e.nativeEvent.isComposing||e.keyCode===229)return;if(e.key==='Enter'&&results.length){e.preventDefault();choose(results[0].country.code);}if(e.key==='ArrowDown'&&results.length){e.preventDefault();onOpen(true);requestAnimationFrame(()=>popup.current?.querySelector('[role="option"]')?.focus());}if(e.key==='Escape')close();}}/></>;
+ return <div ref={host} className={`map-search-wrap global-search ${compact?'compact-search':''}`}>
+ {compact?<button className="compact-search-trigger" aria-label={ko?'나라 검색 열기':'Open country search'} aria-expanded={expanded} onClick={()=>{const next=!expanded;setExpanded(next);onOpen(next);}}><MagnifyingGlass size={21}/></button>:<><MagnifyingGlass size={20} weight="bold" aria-hidden="true"/>{input}{value&&<button className="clear-search" aria-label={ko?'검색 지우기':'Clear search'} onClick={()=>{onChange('');inputRef.current?.focus();}}><X size={18}/></button>}</>}
+ {showing&&createPortal(<div ref={popup} className="search-popover global-search-popover" style={position}>
+  {compact&&<div className="compact-search-field"><MagnifyingGlass size={20}/>{input}<button aria-label={ko?'검색 닫기':'Close search'} onClick={close}><X size={20}/></button></div>}
+  <div id="country-search-results" role="listbox" aria-label={ko?'나라·수도·태그 검색 결과':'Country, capital and tag search results'}>{value.trim()?results.length?<CountrySearchOptions results={results} language={language} currentCode={selectedCode} onSelect={country=>choose(country.code)} getOptionProps={()=>({onKeyDown:optionKeyboard})}/>:<div className="no-search-result">{ko?'검색에 맞는 나라가 없어요':'No matching countries'}</div>:<div className="no-search-result">{ko?'나라, 수도 또는 태그를 입력해 주세요.':'Enter a country, capital or tag.'}</div>}</div>
+ </div>,document.body)}
+ </div>;
+}

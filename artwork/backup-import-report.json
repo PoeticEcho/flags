@@ -1,0 +1,1366 @@
+{
+  "schemaVersion": 1,
+  "receivedAtLocalDate": "2026-10-01",
+  "archives": [
+    {
+      "filename": "postcard_assets.z01",
+      "bytes": 31457280,
+      "sha256": "4300872b63ee1053ddc12ce56e1e01ca17e270e9053a588955ac4fc3330487c0"
+    },
+    {
+      "filename": "postcard_assets.zip",
+      "bytes": 29576580,
+      "sha256": "21227a4a7e2eda9c7d5dd4215e8fbcd21a2cb373d72a08f6a7d6bd8e657d8903"
+    }
+  ],
+  "zipCrcVerified": true,
+  "receivedFiles": 166,
+  "decodedFiles": 166,
+  "decodedCountryFiles": 164,
+  "uiFiles": [
+    "globe-mascot.webp",
+    "travel-plane.webp"
+  ],
+  "nonzeroCountryCoverage": 152,
+  "importedCountries": 87,
+  "preservedExistingSelectedCountries": 110,
+  "emptyReceivedFiles": 0,
+  "records": [
+    {
+      "filename": "afghanistan-band-e-amir.webp",
+      "bytes": 511474,
+      "sha256": "80660062c1a3732d03ce38a888c432e8b1459a795566afcc64b6899d611eebed",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "albania-berat.webp",
+      "bytes": 547258,
+      "sha256": "59688268038be972e09d7fcc0ca4a912a1f171f4fbb171459c59cca380e1e550",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "albania-butrint.webp",
+      "bytes": 561058,
+      "sha256": "be981e927f625f940ac9ec1949fc6764869d08d25a3a37707c1933f9acbe01b3",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "algeria-casbah.webp",
+      "bytes": 319448,
+      "sha256": "a3812756b3dd1d30157def67f9976d31c7acfb77aa4de5f32ef544a50e7019b1",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "angola-kalandula-falls.webp",
+      "bytes": 199520,
+      "sha256": "29251b6212f1ea2adb3db552cb1c366647b61aa9df7d1dbfcd6e76b9faf3cd83",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "antigua-barbuda-nelsons-dockyard.webp",
+      "bytes": 580878,
+      "sha256": "899c224cda06197412dd774364dc243f8e279d5b452209b8d0f09f96373d6ab5",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "argentina-buenos-aires.webp",
+      "bytes": 365178,
+      "sha256": "7296961f96f79b7227f5a72abf5e2f1374c508fdcd12dec5cca278fc480b257b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "armenia-geghard.webp",
+      "bytes": 628466,
+      "sha256": "009efa31da6f794b136e4be44edcf875dedd36311381de014d2fc9a4d4b88791",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "australia-sydney-opera.webp",
+      "bytes": 298728,
+      "sha256": "91dac32aee81e1148e0ff3fae6eafa88a3b883f53cd5cc5115e1eec03d62b871",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "austria-schonbrunn.webp",
+      "bytes": 341424,
+      "sha256": "58d57eb9c1f2e46d27d3c1214fefa7147650c4d02a5df57debd0211f76e31490",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "azerbaijan-gobustan.webp",
+      "bytes": 543284,
+      "sha256": "508e0e93c3f36dee2131a281c7ad617c73edb3a0a037053c57ba77105e3c787b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "bangladesh-lalbagh-fort.webp",
+      "bytes": 352432,
+      "sha256": "87b8effab02100fd8226443308ce0e034f400c45deebd1378b1ecb0ec4d13524",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "barbados-harrisons-cave.webp",
+      "bytes": 579196,
+      "sha256": "2f4bd87f807c190e702ff9214e59a181f702b91d2f86be743d8b0a8076faa87a",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "belgium-atomium.webp",
+      "bytes": 416344,
+      "sha256": "90c2b6d2bd01f31701571984703da72934377dee5567b49cff5532a5ccb1c620",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "belize-blue-hole.webp",
+      "bytes": 345732,
+      "sha256": "a8abb677b501fbb2669b580479282aff6d18f5316faff5824fc948b12ac64911",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "benin-abomey.webp",
+      "bytes": 379746,
+      "sha256": "38ce952eb67e2c8a26d9d84f4dba41c0ac0de9f9584ce0cf12eed5726c0b2e85",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "bhutan-taktsang-monastery.webp",
+      "bytes": 485168,
+      "sha256": "6d8bf81184935d4a78ee416be7c3b3d8428662db93cf4ba0466ce33adc14bb08",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "bhutan-tigers-nest.webp",
+      "bytes": 284082,
+      "sha256": "594c928c335302de17219194495fc9763e02ccb04f110d80bbb4f2c9057300db",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "bolivia-salar-uyuni.webp",
+      "bytes": 140520,
+      "sha256": "d1fb80c825b607eb98cbdaf0d9100469607a81e5f1f2c62eee56fc6d0521a34d",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "botswana-okavango-delta.webp",
+      "bytes": 275498,
+      "sha256": "972a0f17c3a63e37d9812c8dc6b6ff2a70e565a3b8b42bc676ad1443645973e0",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "brazil-christ.webp",
+      "bytes": 258404,
+      "sha256": "11dbe40f0997ef6cc49253324023c0ad40ada0a8e9ff6d3c07eeadcabf27764c",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "brunei-kampong-ayer.webp",
+      "bytes": 408478,
+      "sha256": "25218c7d69d417c2f12bde2e5395ed4754159c18ae12f05b1dea7cd86233bdef",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "bulgaria-rila-monastery.webp",
+      "bytes": 567018,
+      "sha256": "9f0a55761d6a04f23b2754f1490c986831c5163d3f6b32aedfd98a0293b77bb3",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "burkina-faso-loropeni.webp",
+      "bytes": 538292,
+      "sha256": "729db197265dc8e7f9f7b985871b1e798360b2d3e8fc70fa8f40ba2c6910c47f",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "burundi-royal-drums.webp",
+      "bytes": 389778,
+      "sha256": "0ca02e22facca3e80c26de72a10dbea4c42cb6d175aa3008d1b1498386bcaeb4",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "cabo-verde-cidade-velha.webp",
+      "bytes": 564582,
+      "sha256": "8cd09a1d32a227e153226710da09ce56f3d2ec1e9ca669a58b6d66d670cb893a",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "cambodia-angkor-wat.webp",
+      "bytes": 200860,
+      "sha256": "25b35c8e5e0bc01a25f6fe6d64f1627d99071eed0dd577b25f47cda9a886986c",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "cameroon-mount-cameroon.webp",
+      "bytes": 455604,
+      "sha256": "5acaa70dad766c97ed7accbefbd3eceb5def53f17940c2a5cbbbb79a52b206a1",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "canada-niagara-falls.webp",
+      "bytes": 304806,
+      "sha256": "80594289aef713b90a2c3c2e0f2eaba36da5a64020aa3c562b1609e2dffe23b9",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "central-african-republic-dzanga-bai.webp",
+      "bytes": 525942,
+      "sha256": "25626ddb77f4d8730abb4d20fae26e388162d2aaa3d60afdb00736913821a1b3",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "chad-ounianga-lakes.webp",
+      "bytes": 347054,
+      "sha256": "1c1e5a11b6f511d573e51280b5b53a3546eca0fda179aec909966308f52a648b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "chile-rapa-nui.webp",
+      "bytes": 286322,
+      "sha256": "feaa565da8e8d1277f5794fc226d791dcdbb2364862ace7255efb3caeebd4ff1",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "china-great-wall.webp",
+      "bytes": 262388,
+      "sha256": "0a6e89731e133355f7f43d4e294679c7954512080803b93b62f24a9242bf7530",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "colombia-cartagena.webp",
+      "bytes": 317428,
+      "sha256": "39800372faa98a34f9a9f3b85d30a160236be0bc832515389f6efdbb65333a90",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "comoros-karthala.webp",
+      "bytes": 512170,
+      "sha256": "dba45c4712cb8c2ff99a9eda76ae8d437915e997262c9c63dcc8b421b7db4aea",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "comoros-moheli-marine-park.webp",
+      "bytes": 510290,
+      "sha256": "ccf4630058918f8650088bff0272d2b033ab05c9bae4fc5f86c576a5c37ef6f7",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "costa-rica-arenal.webp",
+      "bytes": 298092,
+      "sha256": "dbca12baad7880482650e4b4c199a66b2fbecd46ba6eacfe988dd4faef1ac660",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "cote-divoire-basilica.webp",
+      "bytes": 176052,
+      "sha256": "5cfef2445852e8a336b0b2c50cece1de44e2b449097601247589c4def0fc37bc",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "croatia-dubrovnik.webp",
+      "bytes": 246530,
+      "sha256": "a233d226111c869ae9a8655e8af56b4c7a6047a747d38dbbdb47861b1dd6218e",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "cuba-old-havana.webp",
+      "bytes": 249992,
+      "sha256": "1ad87bc85b06b4de72b9fbaab3eed4158542621415217f94243ada143550b97d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "cyprus-paphos-mosaics.webp",
+      "bytes": 608552,
+      "sha256": "98d75baed4861e22610e4298b50828c590117735744a9e2dcf5b915da225ec9c",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "czechia-prague-charles-bridge.webp",
+      "bytes": 198204,
+      "sha256": "981ff3a355d46ba57f6072e684a3ca5a140b32720df5b0d282db3d095dcc98e2",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "denmark-nyhavn.webp",
+      "bytes": 463324,
+      "sha256": "81402940e776a67db8994b49cc38d280a11cb694ba77106a2f703ca4cdbaffd9",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "djibouti-lake-assal.webp",
+      "bytes": 361730,
+      "sha256": "6c4987056546e14247f793eb8357f3592b6dacbc8715e9dbc318b982867b103f",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "dominica-boiling-lake.webp",
+      "bytes": 520770,
+      "sha256": "9d2e4f10e7dba877ed0a2259dd620f17e564f4427ad3c37a4588412c2338df87",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "dominican-colonial-city.webp",
+      "bytes": 485624,
+      "sha256": "1d579595b330f87b673adc0a8ca73e5308a9b3f9eb1e1fa8f1170bfff7dcc18e",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "ecuador-quito-basilica.webp",
+      "bytes": 311802,
+      "sha256": "421ca6fcf42faa10f0771b1fed1abb7a204825b7529d55eee00eb1157dacc2cb",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "egypt-pyramids.webp",
+      "bytes": 251164,
+      "sha256": "f7654d454d541c72eb72b9c03bbdc375b04b26a1b88f9855cd667113cdf96579",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "el-salvador-joya-de-ceren.webp",
+      "bytes": 539866,
+      "sha256": "d167cff65582476092f4531a0a04bb794012e02146fef2f31f56a9f54fdf9489",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "estonia-tallinn-old-town.webp",
+      "bytes": 471342,
+      "sha256": "fe675c7e4b6e7999c2aae82767055701579a7d8d1a200ff4ab94c235423240a2",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "eswatini-mantenga-falls.webp",
+      "bytes": 490128,
+      "sha256": "a929c7a135199e23c33e9a42f5444ff25dc11a51b15776dcd0a0eba8b0f18fd7",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "ethiopia-lalibela.webp",
+      "bytes": 349482,
+      "sha256": "2ba7eb9e6e1ee7d7ae77bad40a9cb6b936d3598d4b94fbdf56bf2afde31ae258",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "fiji-bouma-falls.webp",
+      "bytes": 666280,
+      "sha256": "b1ef6220be66840f0e3f0107e65166a635dda5c0a97c7486382596cfe93993fb",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "fiji-drua-coral-reef.webp",
+      "bytes": 301128,
+      "sha256": "c24ab2c3fcb8641d8464654677e1bc00ff41f8dae5d4f94168d173e11ab326ca",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "finland-helsinki-cathedral.webp",
+      "bytes": 240598,
+      "sha256": "602968b65e60977edd2f6b56e4e3de68c7048ef82e466ef483d2c5b338a776b7",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "gabon-lope-okanda-mandrill.webp",
+      "bytes": 481216,
+      "sha256": "6c845581f0c01651bc237c9b5404139c5a51537fd450e929d2f92512a7597598",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "gambia-senegambia-stone-circles.webp",
+      "bytes": 473816,
+      "sha256": "d45cecc5eb9c36ee151a9db0112efb4c6e72284e974069a6dcbe28b7d0e2ed20",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "georgia-tbilisi-narikala.webp",
+      "bytes": 584300,
+      "sha256": "baa8deee50bcbb0ab9e86e2680edc9ab55d6378c1db60fb614d446c11d97e3e9",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "germany-brandenburg-gate.webp",
+      "bytes": 278032,
+      "sha256": "4e2bd152d0710afabcc628f4f513d5894fc440b792c4e951603dcbf09392314e",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "ghana-black-star-square.webp",
+      "bytes": 208140,
+      "sha256": "d12209e03505dab7da72392949d85769d647080959edaa86b48841305a49e615",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "globe-mascot.webp",
+      "bytes": 96074,
+      "sha256": "3d2667ebdb48ef69a81fa8b40873122e7dd09892322a0583eddd24068d8eb182",
+      "width": 866,
+      "height": 900,
+      "format": "WEBP"
+    },
+    {
+      "filename": "greece-acropolis.webp",
+      "bytes": 340168,
+      "sha256": "eaea3fd767257438974750ce95b4914314fd8eb6187bc3a8d94dce4a35895b18",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "grenada-st-georges-carenage.webp",
+      "bytes": 477652,
+      "sha256": "8254a2bc2ec424ba6845a777d11513d3a4e63ece860ca71366fd2ead14db4a92",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "guatemala-tikal.webp",
+      "bytes": 245676,
+      "sha256": "6a730a87cffe2ebe2a271567833849556c6ee9e42e7b78223ef0ce28e3b7d242",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "guinea-mount-nimba.webp",
+      "bytes": 564274,
+      "sha256": "b314f5fce34cece3a248513a9c42b84144c972ef687ae21529454e97b5cbb8fd",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "guyana-kaieteur-falls.webp",
+      "bytes": 513750,
+      "sha256": "96f516be6fc3111a8900ae860e38a27cb3df20cbfbf1ffc0b330d1789b138a06",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "haiti-citadelle-laferriere.webp",
+      "bytes": 505584,
+      "sha256": "46a09d3c763cfc9f487a19fb079afb6a580db007c8468c0067c138ed7f472bfe",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "honduras-copan.webp",
+      "bytes": 299954,
+      "sha256": "4f14d1c739a0fba8555f818c2f7eff58a06eed8f3856a95f1718a9dc40df513c",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "hungary-budapest-parliament.webp",
+      "bytes": 478566,
+      "sha256": "6e3cefa7babf2dcaa46e137bf3a2e6f06b02f598159890225c4af6b74685a631",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "iceland-reykjavik-aurora.webp",
+      "bytes": 192776,
+      "sha256": "7fedb61b8ed14158aff6f86706e3d648d4906aeb3c7818bbe4922ff2ec92cf45",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "india-taj-mahal.webp",
+      "bytes": 217742,
+      "sha256": "6a98e0626cf360e4c1070e123c2b87c1bea2ace1b262d251dc74bac5b169fafa",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "indonesia-borobudur.webp",
+      "bytes": 259186,
+      "sha256": "2054d60c5aa8e05036d8455c705ff60a677dafbad5f118ec22b1da7836a4cadd",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "iran-persepolis.webp",
+      "bytes": 351718,
+      "sha256": "732d6eb8040b48e2674495ead72adde4ecfc2fac28b8ad1c685958a8c49c8593",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "iraq-ziggurat-of-ur.webp",
+      "bytes": 436412,
+      "sha256": "4bf8b7c85e0d0557446d78e288db2e72c4b7396ab3276c45ae5e0f60e53169dc",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "ireland-cliffs-moher.webp",
+      "bytes": 335892,
+      "sha256": "940732634b49d1217a1dc97b659542a444e6f81dff36b3427781a50506a5f0c7",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "italy-colosseum.webp",
+      "bytes": 228644,
+      "sha256": "5d623fa9f2500eca126717d86334c4d599321e25aae30a261c0bb12cdd9c0bdb",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "jamaica-blue-mountains.webp",
+      "bytes": 278030,
+      "sha256": "431f06fcb21798782c73eb9ed98583dc6129a80070ad9176016d3e804790b4a2",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "japan-fuji-pagoda.webp",
+      "bytes": 297530,
+      "sha256": "ffb316d64530fb0fdb7fbc1dbc20ea70e7dc5fff2da03c47334291e3900f5ab9",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "jordan-petra.webp",
+      "bytes": 414762,
+      "sha256": "69f4f5c691c4119cf26d1473bd6577399e8335b346c09656e005418409e0c095",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "kazakhstan-astana-baiterek.webp",
+      "bytes": 202720,
+      "sha256": "f42cfa1d73900ae7bdf5787dbc74033f4a045987262da1be0c750c641c66ff79",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "kenya-maasai-mara.webp",
+      "bytes": 294292,
+      "sha256": "f819554aefa3dc44471110f01c9a3be3000a00d2d4b2498050e391a0148dd4fb",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "kiribati-maneaba.webp",
+      "bytes": 198142,
+      "sha256": "0d50a93e84deab17ba5e9c08b538911401ffc800b4279976bf849a2d0f69f95d",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "kiribati-tarawa-lagoon.webp",
+      "bytes": 531120,
+      "sha256": "c2c2571e174a7bd6d6236a2515ca1fe8921560600ced097ebf8785445359494d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "korea-hanok-tower.webp",
+      "bytes": 256434,
+      "sha256": "d474ec4bd81327ba3efb2774e3a5c5b70b9b8932261e09b6034c6f8893462405",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "laos-pha-that-luang.webp",
+      "bytes": 265498,
+      "sha256": "74980485ab876e818f4566c11e626116ab6e8cd91adc967ab150602352bf40dc",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "latvia-riga-art-nouveau.webp",
+      "bytes": 488908,
+      "sha256": "cc13301bb5014a6f08d8902b8b734622a5f29409e63bc205c871ecd19f31d40b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "lesotho-maletsunyane-falls.webp",
+      "bytes": 484748,
+      "sha256": "c77b3f3ff644f72a07355d89a3c8fdc2bb251a818622b297808dfcdbadca8305",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "liberia-sapo.webp",
+      "bytes": 529596,
+      "sha256": "16b5914c35a40e833b07670993f541b537798d0e395a9cb7b1be9babb329f164",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "lithuania-vilnius-old-town.webp",
+      "bytes": 458072,
+      "sha256": "e0a63f2ee15a7a6d3d88a8a0933260fa81e56fd031eb82d07717b1666edffcd2",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "madagascar-baobabs.webp",
+      "bytes": 188014,
+      "sha256": "a6f78cfc7e558ffa7bf3ee0f06b4c94aa60c87cae4c74b34469f325a7d49bff2",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "malawi-lake-malawi.webp",
+      "bytes": 494610,
+      "sha256": "b04cb060dca25528ecb53799a3dae22537c830db366f4a46fb8cbeda2631aad2",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "malaysia-petronas-towers.webp",
+      "bytes": 383676,
+      "sha256": "f9201a02951f22a44ae38d305baece9b03da579fadcb6f3442edaa5140c257cd",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "maldives-atoll.webp",
+      "bytes": 216226,
+      "sha256": "057acee6703d71585df0a46d7bb58184bc8e1be5ebd1447e93dd4e4aef73ace7",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "mali-great-mosque-djenne.webp",
+      "bytes": 377078,
+      "sha256": "53ad6279f3e60bc0991657e8a1ae27e8d44c17b4897989bd8c0780545d0ada37",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "malta-valletta-grand-harbour.webp",
+      "bytes": 358324,
+      "sha256": "73f91d7e97532b1fbb0bb49f9ae220bcf8aa301b2a723b94901c52da51495c8f",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "malta-valletta.webp",
+      "bytes": 396574,
+      "sha256": "4c2c7005db4d5bdde1ee465b609edc668a1ecededad57b565fe26d3ef076df46",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "marshall-islands-majuro-atoll.webp",
+      "bytes": 416334,
+      "sha256": "d62b61d890c2cea7412c6f0035dea889104bfa49425bcabecaf27f04780375d3",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "marshall-islands-majuro.webp",
+      "bytes": 368284,
+      "sha256": "8359b01efda68902a41534c2ad3993556e06115f55aebbaef6a831f2d7e72dbd",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "mauritania-banc-d-arguin.webp",
+      "bytes": 339234,
+      "sha256": "3a173420ccf8e3ed9197f5ac3111eb2830ba34d906ae9ab77c4e13c9947e617e",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "mexico-chichen-itza.webp",
+      "bytes": 360006,
+      "sha256": "a9fe0a0c19a6307c17a2b32d9a8f461174fff425609f2230fa4e5c431c5d3f3d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "micronesia-nan-madol.webp",
+      "bytes": 621118,
+      "sha256": "4418eba8baa68a40e301e623c6694ef177d7f41aeefd9329a14141d99ab6c831",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "moldova-old-orhei.webp",
+      "bytes": 509120,
+      "sha256": "78941e0fa34391d4bdf958cadc0d99d9ee7fe91728a958bc572b18e7bb974d1e",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "mongolia-gobi-ger.webp",
+      "bytes": 239276,
+      "sha256": "5f74cf687859c3b965d6497cb0d00bd91e087052e297c64acb38b1ff6e7eb210",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "morocco-marrakech.webp",
+      "bytes": 292240,
+      "sha256": "0a7928c8c1bb1c00d58ee5d09523cb60b5d48030374af787f68285e4ecdcc7d3",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "mount-rushmore.webp",
+      "bytes": 276792,
+      "sha256": "9143e03c2ff3823e64c79b53720864535711ec78691527ca110e07e99f2a0f9b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "mozambique-maputo-station.webp",
+      "bytes": 506406,
+      "sha256": "ad259f5b8f5dd102096845a91ad7c2adadf32466817fd2af51f8a907ee7f4e14",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "myanmar-bagan.webp",
+      "bytes": 418310,
+      "sha256": "688c68de4e9d3c5f2645637480be254bec12b265462456f23fe71489b667d583",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "namibia-sossusvlei.webp",
+      "bytes": 122012,
+      "sha256": "fed97bbc4f0fb6f203ba8d644fc8ae246ce0adfea4634810f745c82b6edf051f",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "naoero-buada-lagoon.webp",
+      "bytes": 457572,
+      "sha256": "49bfab38672bfec9b80d814f4d9d72e0a13456b01b298343ad5ea6f0596a5da2",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "nepal-swayambhunath.webp",
+      "bytes": 326260,
+      "sha256": "cda78a381e98fc9d90e1d9bec74123d220ecb74f42f55a9c0827d958ec2f6b63",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "netherlands-amsterdam-canals.webp",
+      "bytes": 398146,
+      "sha256": "5ad83c9c733d5eb5c9831dbc5958462427c8e3e020f7c20bea7c3afbca80b496",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "new-zealand-milford-sound.webp",
+      "bytes": 318606,
+      "sha256": "afd7a94c30c43a285937182fc3754f9b8f1b364741a5865499f1d2119ed6847a",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "nicaragua-ometepe.webp",
+      "bytes": 364524,
+      "sha256": "3eedebe9f96387d061a09580ef0136151d90b9e2bbf889590c032631829301ef",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "niger-air-tenere-desert.webp",
+      "bytes": 372538,
+      "sha256": "32d53d2f3267791b2a1035fdfe7f9571e57956cffbc67f0d1a3f014328f2c76d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "nigeria-aso-rock.webp",
+      "bytes": 294820,
+      "sha256": "af2e19ae8dec09e5a3a248934cfed309bd31123ea17e48f8d4c92b2f096ef66b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "north-macedonia-stone-bridge.webp",
+      "bytes": 510984,
+      "sha256": "27bce1bef2275fbfde724318ef6053714501b8c8909a9e8a23a431d80713dc71",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "norway-geirangerfjord.webp",
+      "bytes": 365706,
+      "sha256": "661971377e78edbebeba4333c7945baab5b838747b8c14d516e1b977060888ae",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "oman-grand-mosque.webp",
+      "bytes": 214206,
+      "sha256": "d3e0613d451d688288d6c5a3458292b41fa18e621f6c1a4051a5cf0891882e4f",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "pakistan-faisal-mosque.webp",
+      "bytes": 267986,
+      "sha256": "ba6bceb3afc73c60f84eeec45305dff3bbbb38c782dc9a703e493b3f3f1d53d2",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "palau-rock-islands-lagoon.webp",
+      "bytes": 500536,
+      "sha256": "fe54dbae8f02e637b148b1ba603f1ff5560eb0e875f11c1747e86d75444c1c17",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "palau-rock-islands.webp",
+      "bytes": 223634,
+      "sha256": "2f96ebdf48febe79542fa382049791d87cddd2d74f62a49ff1f1562d50e3b177",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "panama-canal-locks.webp",
+      "bytes": 195168,
+      "sha256": "3a67c60a85af10aac0fe1d0eba77611aff8665141a733e510745a5bc0d2343c7",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "paraguay-itaipu-dam.webp",
+      "bytes": 206178,
+      "sha256": "8948fea6c160592513dd825f0bb634405c1f610f9f74e8ffc660b92818cc5491",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "paris-eiffel.webp",
+      "bytes": 233272,
+      "sha256": "ffb6f625eef214bc51a1f9cc93b099764a41d14022cf558a453c598323a2cf65",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "peru-machu-picchu.webp",
+      "bytes": 334518,
+      "sha256": "3d7ba1eda89267454ef6dffbe616cf91ee3162a983f006d7086450bd7a65aeb1",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "philippines-banaue-terraces.webp",
+      "bytes": 346352,
+      "sha256": "abfa59639d9f3e87a08e001308b841d3576d78aaa198dc3e1360a28410003198",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "png-parliament-haus.webp",
+      "bytes": 349372,
+      "sha256": "25fc7c5983ba082acb8c4561b28c9814b3f6ca43533d621c6f512d673e4d4f66",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "poland-warsaw-old-town.webp",
+      "bytes": 286130,
+      "sha256": "5b5098b94f52d0ab4580aca06674ae343aaae5e84dcaa3351aa883ec19716178",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "portugal-belem-tower.webp",
+      "bytes": 226672,
+      "sha256": "7130535ae2c77ff285b8ce239b97d10b2190eccafcf606bc9ffbb4249934ffff",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "romania-bran-castle.webp",
+      "bytes": 246762,
+      "sha256": "ad47a6b1869b546cfe96fcb64014459e322e6ed8104a0360bad422ee7256f606",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "russia-st-basils.webp",
+      "bytes": 263872,
+      "sha256": "620a34ca3e284a6dc55deb1f4b9702fb12ab486ccc330acbe0df58b1e881b97c",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "rwanda-volcanoes-gorillas.webp",
+      "bytes": 217396,
+      "sha256": "d0ee5d14a46ce4660c76ee022ba47eed62b327eb865feed33426073ea7b1df9f",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "samoa-to-sua-trench.webp",
+      "bytes": 631788,
+      "sha256": "8579faafefa400fa727946d8f5e16dce9354157a50fac56bcfb01dfd785cea22",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "samoa-to-sua.webp",
+      "bytes": 424476,
+      "sha256": "056ad4d110714728cec4ec84eb559c68dfb1196a0d6dc6b97623aadcc280ae41",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "saudi-arabia-hegra.webp",
+      "bytes": 195222,
+      "sha256": "b7d40c0c082bbef36e425518c252a344c4b07e9375d0a85906b6edb9738340a9",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "senegal-lake-retba.webp",
+      "bytes": 194622,
+      "sha256": "0c716a3150305a18405feaa4d387305c0452bc726d6f99773e51ac39feac22f6",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "serbia-kalemegdan.webp",
+      "bytes": 220146,
+      "sha256": "e49e1ee8e4da2cdf792aa25e3b590a27a20ddc6ede351bc0919a3f355f1e80fa",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "sierra-leone-tacugama.webp",
+      "bytes": 522172,
+      "sha256": "4ece9a93b436ba084d5dc52f825f06523e1bb9609a579c964d2e753fb783b3ac",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "singapore-supertrees.webp",
+      "bytes": 525386,
+      "sha256": "324eab27d2884f0cdee4de057871a9b54f45681d545cf07b0f8614a1253b53ff",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "solomon-islands-marovo-lagoon.webp",
+      "bytes": 590282,
+      "sha256": "c8961371a008f476c0256b4dc364a88b2bb2c59f0fc3c99e02ec5b65b457653d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "south-africa-table-mountain.webp",
+      "bytes": 307190,
+      "sha256": "2395b351baedc5a1be62a04ca18a1038d19b9af3dc209384c3f2dc55e48a8280",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "spain-sagrada-familia.webp",
+      "bytes": 333518,
+      "sha256": "ce486859ba784239347efe6a5b35a279549fb31a1bd5c47f6863273132e39ab9",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "sri-lanka-sigiriya.webp",
+      "bytes": 238468,
+      "sha256": "8029018d3181db90d8c9b6137c030dc8720166db2facda60d0ce82bd33f529b5",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "suriname-paramaribo.webp",
+      "bytes": 539722,
+      "sha256": "ee8b484a1c6f11845688c69004094e07006f87222b2f48b5cb18c5ca2b187579",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "sweden-stockholm.webp",
+      "bytes": 372462,
+      "sha256": "55688f9dedf974fb74e8047002fbcc635b7b40050a2a23c7129839831a1b83a8",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "switzerland-zytglogge.webp",
+      "bytes": 340296,
+      "sha256": "04b8b87b53ef72c8942d1c32e75526aad5369080e55d0e31d5f2ddf0ae01dc79",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tajikistan-iskanderkul.webp",
+      "bytes": 479210,
+      "sha256": "a93fe0731bf1cb369b7d5a694b89ff93edcf9f26f705be84669adafeb7531409",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tanzania-kilimanjaro.webp",
+      "bytes": 288794,
+      "sha256": "72f92b342f77945bfee6920ed30d7cce43118e91ebaba655155dd3004e1f8c4d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "thailand-grand-palace.webp",
+      "bytes": 328120,
+      "sha256": "7ea32ffa985eb3abd9d8f5267b0371742d4b09b6324f2be18eea9c603097db7d",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tonga-haamonga-a-maui.webp",
+      "bytes": 594814,
+      "sha256": "3f17784ce696b1dea69acb151446c24f5573204d9af6d8db3c3ccef8e169eee7",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tonga-humpback-whale.webp",
+      "bytes": 181860,
+      "sha256": "2b45eff7681da535305dab8bd5ca180cabb057441a8f6552b4b1f6dae1757a8b",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "travel-plane.webp",
+      "bytes": 40650,
+      "sha256": "0f8db2eb58fe0d4d925990004820db92a796b0b1d60e5dd53c6ab96a4c5aa011",
+      "width": 900,
+      "height": 600,
+      "format": "WEBP"
+    },
+    {
+      "filename": "trinidad-tobago-carnival.webp",
+      "bytes": 523330,
+      "sha256": "285a00584b956f0eb58bf6c881068ba25290f1c9200f899b2c5d476b461cec7e",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tunisia-carthage.webp",
+      "bytes": 439980,
+      "sha256": "f9bfe65997c7e497a8cfc29c9d0bf553f0596b434b27e6733c922aa197a7d816",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "turkiye-hagia-sophia.webp",
+      "bytes": 300978,
+      "sha256": "7733a920e9b385c8bbd8e236834ea6550f6a37e7b542a02688dec94851d48b53",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tuvalu-funafuti-conservation-area.webp",
+      "bytes": 549536,
+      "sha256": "aa5401f180527cc9900c06c41f0a1ffc4f79e92c99fd8e403b7044096f6b2e3f",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "tuvalu-funafuti.webp",
+      "bytes": 186706,
+      "sha256": "c605f9b7b493ab6f6db61964d946984587f113757009074b7732538a0a3f3462",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "uk-big-ben.webp",
+      "bytes": 209598,
+      "sha256": "13d9a0965e0d5e8fb047357d0e3e7a828dea7ab6a7a5419bd50a4ca58bc5cb02",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "ukraine-saint-sophia.webp",
+      "bytes": 221524,
+      "sha256": "1b2167bd24a871c3d0f97693e81eb398bc0a65234cdb8459e9380c9378c50d7a",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "uruguay-montevideo.webp",
+      "bytes": 206888,
+      "sha256": "46f2f9b9974bdce727f70b49207e8066bfa49e69d19c516d90557a5569ca5fec",
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP"
+    },
+    {
+      "filename": "uzbekistan-registan.webp",
+      "bytes": 452956,
+      "sha256": "82b2a09157256ea5614166dc31aabe46c0d1a04d56e216cfca402b055beba71b",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "vanuatu-mele-cascades.webp",
+      "bytes": 436020,
+      "sha256": "dbaffcfaa4daa6e726b35e2f0a90d3a6fe5d3a154c73aa7227be85651080f414",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "vanuatu-mount-yasur.webp",
+      "bytes": 445034,
+      "sha256": "81a06db0bf9e6d94d34b70d0cd13cc8c75c8b39c62b0cf6411bb5a7562f48925",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "venezuela-angel-falls.webp",
+      "bytes": 486458,
+      "sha256": "b48743288852eb62a5f693aef55a395110ff92a0debae75dd8f7329f4394e49f",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "vietnam-ha-long-bay.webp",
+      "bytes": 256194,
+      "sha256": "c02bcc0dfde59cfca56e2bba42b042be1ddae56f2275cf78994cc12cd39e8469",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    },
+    {
+      "filename": "zambia-victoria-falls.webp",
+      "bytes": 424058,
+      "sha256": "924894168e9cc848bb7871db8e00c6451a85203ad034fe7fd63a2c188a456a66",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP"
+    }
+  ],
+  "review": "Selected missing-country scenes reviewed in labelled contact sheets; original forty uploads match current asset hashes. Existing selected scenes, including Nassau/Dean’s Blue Hole alternatives, remain unchanged. Browser QA pending.",
+  "repairs": [
+    {
+      "code": "BJ",
+      "file": "generated export bj.webp",
+      "action": "Restored corrupted high-quality WebP from preserved 1536x1024 BJ-abomey-palaces.png; corrupted export retained outside app. Existing app image unchanged."
+    }
+  ]
+}

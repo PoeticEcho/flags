@@ -1,0 +1,21 @@
+{
+  "code": "TD",
+  "landmark": "Ennedi Massif: Natural and Cultural Landscape",
+  "landmarkKo": "엔네디의 자연과 문화 경관",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Chad\nPrimary request: The Aloba sandstone arch landscape within the Ennedi Massif.\nSubject: A massive natural orange-brown sandstone arch with a tall open window through rugged layered cliffs, adjoining weathered buttes and rocky outcrops. Sandy ochre ground, scattered stones and very sparse hardy vegetation. Two distant single-humped dromedaries and a small herder provide believable local scale.\nScene/backdrop: Dry northeast Chadian Sahara, sandstone plateau and canyons beneath a clear blue sky. The arch is formed by erosion in rock, not a built bridge or monument.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, credible recognizable desert geology, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad view with the main arch and its opening comfortably inside central 75% width and height, generous sky and sandy foreground. Dromedaries remain small.\nLighting/mood: Warm natural daylight, welcoming and awe-inspiring.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No Egyptian pyramids, invented temples, giant dunes hiding the rock, dense jungle, snow mountains or fantasy animals.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1475/",
+    "https://whc.unesco.org/en/documents/141117",
+    "https://whc.unesco.org/archive/2016/whc16-40com-inf8B2-en.pdf",
+    "https://www.africanparks.org/the-parks/ennedi",
+    "https://www.africanparks.org/the-parks/ennedi/community-development"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: massive natural orange-brown sandstone arch and opening among layered cliffs and buttes, sandy terrain, scattered rock and sparse vegetation. Two small single-humped dromedaries and a herder give scale. No constructed bridge, pyramids, unrelated monuments, dense jungle, readable text, flags, UI or logos. Aloba-inspired geology is stylized, with arch top beyond the central 75% height; contain sizing preserves it.",
+  "originalFile": "TD-ennedi-aloba.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/td.webp",
+  "exportFile": "td.webp"
+}

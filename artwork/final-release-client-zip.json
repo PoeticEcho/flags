@@ -1,0 +1,16 @@
+{
+  "edition": "v31",
+  "sourceCommit": "e41f3599777a76d7773fd67a5b1f211c60145ea5",
+  "clientZip": {
+    "filename": "flags-final-release-20261003.zip",
+    "bytes": 150752270,
+    "files": 706,
+    "sha256": "8edcb1a1dd3db2dd38df0d477d00786e0103b7f317cc5c4008940c50162bcdfa",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly"
+    ]
+  },
+  "automatedTests": 125,
+  "browserQA": "Representative public desktop flows verified on v30/v31; final v31 cached-version entry, KO/EN localized controls, country-to-tag keyboard navigation, Escape close/focus, GL random entry and postcard, AQ wrong-to-correct retry and next KR quiz verified. Actual mobile viewport/touch, real map wrap/pinch/pins, 3D, sound audibility and full screen-reader/reduced-motion evaluation not completed."
+}

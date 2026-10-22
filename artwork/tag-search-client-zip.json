@@ -1,0 +1,17 @@
+{
+  "edition": "v28",
+  "sourceCommit": "71acdcc9a1c4bca68f3126f449ed43acde0a3117",
+  "clientZip": {
+    "filename": "flags-tag-search-update-20261002.zip",
+    "bytes": 150746643,
+    "files": 699,
+    "sha256": "7c1f6362067b89a44bea8324e80f54e85f8a217ec82e8d54f8c8f8142b12fa71",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly",
+      "every client file exactly matches the archive supplied for the saved/deployed v28"
+    ]
+  },
+  "automatedTests": 115,
+  "browserQA": "Unverified: supervised preview infrastructure unavailable."
+}

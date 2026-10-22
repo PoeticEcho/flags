@@ -1,0 +1,19 @@
+{
+  "code": "CV",
+  "landmark": "Cidade Velha, Historic Centre of Ribeira Grande",
+  "landmarkKo": "시다드벨랴의 옛 도시 중심지",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Cape Verde\nPrimary request: Cidade Velha's historic coastal centre on Santiago island.\nSubject: A modest paved old-town square with its recognizable slender white-marble Manueline Pelourinho column on a low stepped base. Surround it with low basalt-stone and pale-plaster houses, simple reddish roofs, narrow old streets and a few palms. Show the low stone walls of São Filipe fortress discreetly on the dry plateau above the town, without adding castle towers.\nScene/backdrop: The bright Atlantic coast beside the settlement, dark volcanic shore stones, a green river-valley hint and dry ochre-brown Santiago slopes beneath a blue sky. Keep the town small and the column modestly sized.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, credible Cape Verdean architecture and geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide square-and-coast view, the column and historic houses comfortably inside central 75% width and height, generous breathing room.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. Abstract carved ornament with no text or letters, UI, flags, logos, watermark, postcard frame or stamp. No giant European castle, unrelated monument, dense jungle or invented snowy mountains.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1310/",
+    "https://ipc.cv/cv/monumento-e-sitio/pelourinho/",
+    "https://visitcidadevelha.cv/en/tms/places/pelourinho-1"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: modest white Manueline-style column on stepped base in a cobbled square, low basalt-stone and pale-plaster houses, reddish roofs, palms, dark volcanic coast, bright Atlantic water, dry Santiago slopes and low fortress walls above. Town layout and ornament are scenic stylization, not an exact square plan. No giant castle towers, readable text, flags, UI or logos.",
+  "originalFile": "CV-cidade-velha.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/cv.webp",
+  "exportFile": "cv.webp"
+}

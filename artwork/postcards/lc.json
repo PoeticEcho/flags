@@ -1,0 +1,20 @@
+{
+  "code": "LC",
+  "nameKo": "세인트루시아",
+  "filename": "saint-lucia-pitons.webp",
+  "landmark": "Pitons Management Area",
+  "landmarkKo": "피통 자연 경관",
+  "sources": [
+    "https://whc.unesco.org/en/list/1161/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for LC in a children's world atlas.\nPrimary request / scene: Saint Lucia's two Pitons, Gros Piton and Petit Piton, two distinctly different steep forest-covered volcanic peaks rising side by side above a deep blue Caribbean bay, one broader and one slender, linked by a lower green ridge. Tropical shoreline, small quiet bay and a few modest coastal houses. Broad natural landscape, no smoking volcano eruption, snowy peaks or a third matching mountain.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "saint-lucia-pitons.webp",
+  "inspection": "서로 모양이 다른 두 피통 봉우리와 숲이 있는 낮은 연결 능선, 카리브해 만을 확인했습니다.",
+  "originalFile": "LC.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/lc.webp",
+  "exportFile": "lc.webp"
+}

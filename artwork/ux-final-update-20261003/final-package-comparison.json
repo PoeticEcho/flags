@@ -1,0 +1,21 @@
+{
+  "clientFiles": 705,
+  "zipFiles": 706,
+  "allClientBytesMatchActualUploadedArchive": true,
+  "zipCRC": "pass",
+  "uploadArchive": {
+    "filename": "flags-v31-final-release-20261003.tar.gz",
+    "bytes": 150702665,
+    "sha256": "ef05695afdd78b8e1df2af0328b9815346a3eee3121c16c3a54ec48db010b52e"
+  },
+  "clientZip": {
+    "filename": "flags-final-release-20261003.zip",
+    "bytes": 150752270,
+    "files": 706,
+    "sha256": "8edcb1a1dd3db2dd38df0d477d00786e0103b7f317cc5c4008940c50162bcdfa",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly"
+    ]
+  }
+}

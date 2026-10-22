@@ -1,0 +1,980 @@
+{
+  "edition": "2026-10-02-education",
+  "checkedDate": "2026-10-02",
+  "reviewScope": "137 new country-specific bilingual story pairs, linked keywords and a stable Spain architecture correction; retained country/capital baseline and 60 previously detailed cards are not a new all-country coordinate audit.",
+  "method": "Original child-oriented summaries of factual material from UNESCO, governments, museum collections and official tourism bodies. Existing postcard captions identify the artwork separately from the capital.",
+  "countries": {
+    "AD": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1160/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AF": {
+      "sources": [
+        "https://whc.unesco.org/en/list/211/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1499/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AL": {
+      "sources": [
+        "https://whc.unesco.org/en/list/570/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1011/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AO": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1511/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AT": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1033/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "AZ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/958/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/946/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BB": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1376/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BE": {
+      "sources": [
+        "https://whc.unesco.org/en/list/857/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BF": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1713/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/216/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BH": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1192/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BI": {
+      "sources": [
+        "https://ich.unesco.org/en/decisions/9.COM/10.10"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BJ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/323/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BN": {
+      "sources": [
+        "https://www.bruneitourism.com/places/kampong-ayer/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BT": {
+      "sources": [
+        "https://thimphu.gov.bt/tashichho-dzong/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BY": {
+      "sources": [
+        "https://whc.unesco.org/en/list/625/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "BZ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/764/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CD": {
+      "sources": [
+        "https://whc.unesco.org/en/list/63/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CF": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1380/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/692/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CI": {
+      "sources": [
+        "https://whc.unesco.org/en/list/195/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/407/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CV": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1310/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "CY": {
+      "sources": [
+        "https://whc.unesco.org/en/list/848/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "DJ": {
+      "sources": [
+        "https://guide.visitdjibouti.dj/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "DM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/814/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "DZ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/565/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "EC": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "EE": {
+      "sources": [
+        "https://whc.unesco.org/en/list/822/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "ER": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1550/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "FJ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1399/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "FM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1503/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1147/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GD": {
+      "sources": [
+        "https://www.puregrenada.com/de-la-grenade-nutmeg-garden/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GE": {
+      "sources": [
+        "https://whc.unesco.org/en/list/710/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/761/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GN": {
+      "sources": [
+        "https://whc.unesco.org/en/list/155/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GT": {
+      "sources": [
+        "https://whc.unesco.org/en/list/64/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GW": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1431/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "GY": {
+      "sources": [
+        "https://guyanatourism.com/kaieteur-falls/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "HN": {
+      "sources": [
+        "https://whc.unesco.org/en/list/129/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "HR": {
+      "sources": [
+        "https://whc.unesco.org/en/list/98/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "HT": {
+      "sources": [
+        "https://whc.unesco.org/en/list/180/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "HU": {
+      "sources": [
+        "https://whc.unesco.org/en/list/400/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "IE": {
+      "sources": [
+        "https://whc.unesco.org/en/list/659/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "IL": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1220/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "IQ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/278/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "IR": {
+      "sources": [
+        "https://whc.unesco.org/en/list/114/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "IS": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1152/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "JM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1356/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "JO": {
+      "sources": [
+        "https://whc.unesco.org/en/list/326/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1230/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KH": {
+      "sources": [
+        "https://whc.unesco.org/en/list/668/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KI": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1325/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1768/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KN": {
+      "sources": [
+        "https://whc.unesco.org/en/list/910/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KP": {
+      "sources": [
+        "https://www.unesco.org/en/iggp/mt-paektu-unesco-global-geopark"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KW": {
+      "sources": [
+        "https://www.archnet.org/sites/135"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "KZ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1102/",
+        "https://whc.unesco.org/en/list/1103/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/479/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LB": {
+      "sources": [
+        "https://whc.unesco.org/en/list/294/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LC": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1161/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LI": {
+      "sources": [
+        "https://tourismus.li/en/activities/popular-sights-the-countryside/sights/?pn=6&sortBy=0"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LK": {
+      "sources": [
+        "https://whc.unesco.org/en/list/202/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LR": {
+      "sources": [
+        "https://www.fauna-flora.org/projects/implementing-effective-management-sapo-national-park/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LS": {
+      "sources": [
+        "https://whc.unesco.org/en/list/985/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LT": {
+      "sources": [
+        "https://whc.unesco.org/en/list/541/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LU": {
+      "sources": [
+        "https://whc.unesco.org/en/list/699/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LV": {
+      "sources": [
+        "https://whc.unesco.org/en/list/852/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "LY": {
+      "sources": [
+        "https://whc.unesco.org/en/list/183/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MC": {
+      "sources": [
+        "https://musee.oceano.org/en/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MD": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1187/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "ME": {
+      "sources": [
+        "https://whc.unesco.org/en/list/125/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/494/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MH": {
+      "sources": [
+        "https://ocean.si.edu/human-connections/history-cultures/navigating-waters-micronesian-stick-charts"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MK": {
+      "sources": [
+        "https://whc.unesco.org/en/list/99/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "ML": {
+      "sources": [
+        "https://whc.unesco.org/en/list/119/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1588/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MR": {
+      "sources": [
+        "https://whc.unesco.org/en/list/506/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MT": {
+      "sources": [
+        "https://whc.unesco.org/en/list/131/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MU": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1259/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MV": {
+      "sources": [
+        "https://visitmaldives.com/en/experience/mosques-in-maldives-a-standing-testament-to-the-local-craftsmanship",
+        "https://whc.unesco.org/en/tentativelists/5812/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary; tentative nominations are not inscriptions"
+    },
+    "MW": {
+      "sources": [
+        "https://whc.unesco.org/en/list/289/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MY": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1012/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "MZ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/599/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "NA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1430/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "NE": {
+      "sources": [
+        "https://whc.unesco.org/en/list/573/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "NI": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1236/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "NP": {
+      "sources": [
+        "https://whc.unesco.org/en/list/121/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "NR": {
+      "sources": [
+        "https://thecommonwealth.org/our-member-countries/naeoro"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "OM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1207/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "PA": {
+      "sources": [
+        "https://pancanal.com/en/design-of-the-locks/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "PG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/887/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "PS": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1687/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "PW": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1386/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "PY": {
+      "sources": [
+        "https://whc.unesco.org/en/list/648/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "QA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1402/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "RO": {
+      "sources": [
+        "https://whc.unesco.org/en/list/588/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "RS": {
+      "sources": [
+        "https://whc.unesco.org/en/list/389/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "RW": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1697/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SB": {
+      "sources": [
+        "https://whc.unesco.org/en/list/854/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SC": {
+      "sources": [
+        "https://whc.unesco.org/en/list/261/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SD": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1336/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SI": {
+      "sources": [
+        "https://whc.unesco.org/en/list/390/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SK": {
+      "sources": [
+        "https://whc.unesco.org/en/list/620/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SL": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1746/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1245/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SN": {
+      "sources": [
+        "https://whc.unesco.org/en/list/25/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SO": {
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/6754/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary; tentative nominations are not inscriptions"
+    },
+    "SR": {
+      "sources": [
+        "https://whc.unesco.org/en/list/940/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "ST": {
+      "sources": [
+        "https://www.unesco.org/en/mab/island-principe"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SV": {
+      "sources": [
+        "https://whc.unesco.org/en/list/675/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SY": {
+      "sources": [
+        "https://whc.unesco.org/en/list/22/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "SZ": {
+      "sources": [
+        "https://www.thekingdomofeswatini.com/central-eswatini/sibebe-rock/",
+        "https://www.thekingdomofeswatini.com/news-blogs/backpacker-tours-visitor-guide-to-the-2026-umhlanga-reed-dance/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TD": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1475/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1140/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TJ": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1252/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TL": {
+      "sources": [
+        "https://ich.unesco.org/en/USL/tais-traditional-textile-01688"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/886/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TN": {
+      "sources": [
+        "https://whc.unesco.org/en/list/37/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TO": {
+      "sources": [
+        "https://thekingdomoftonga.com/true-culture/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TT": {
+      "sources": [
+        "https://foreign.gov.tt/about/trinidad-tobago/national-symbols/national-instrument/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TV": {
+      "sources": [
+        "https://thecommonwealth.org/our-member-countries/tuvalu"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "TW": {
+      "sources": [
+        "https://www.taipei-101.com.tw/en/observatory/feature",
+        "https://www.taipei-101.com.tw/en/observatory/feature/damper"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "UA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/527/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "UG": {
+      "sources": [
+        "https://whc.unesco.org/en/list/682/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "VA": {
+      "sources": [
+        "https://whc.unesco.org/en/list/286/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "VC": {
+      "sources": [
+        "https://discoversvg.com/what-to-do/eco-adventures/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "VU": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1280/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "WS": {
+      "sources": [
+        "https://www.samoa.travel/pagepreview/must-dos-in-samoa"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "XK": {
+      "sources": [
+        "https://bkk-pjeterbogdani.rks-gov.net/en/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "YE": {
+      "sources": [
+        "https://whc.unesco.org/en/list/385/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "ZM": {
+      "sources": [
+        "https://whc.unesco.org/en/list/509/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    },
+    "ZW": {
+      "sources": [
+        "https://whc.unesco.org/en/list/364/"
+      ],
+      "checkedDate": "2026-10-02",
+      "sourceKind": "primary"
+    }
+  },
+  "corrections": {
+    "ES": {
+      "sources": [
+        "https://blog.sagradafamilia.org/en/columns-sagrada-familia-geometry-mechanics-materials-stone-forest/"
+      ],
+      "checkedDate": "2026-10-02",
+      "reason": "Replace a time-sensitive construction-status sentence with stable information about Gaudí's branching columns."
+    }
+  }
+}

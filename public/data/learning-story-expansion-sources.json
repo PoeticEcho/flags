@@ -1,0 +1,2779 @@
+{
+  "edition": "2026-10-02-education-5stories",
+  "checkedDate": "2026-10-02",
+  "countryCount": 197,
+  "preservedStoriesPerCountry": 3,
+  "additionalStoriesPerCountry": 2,
+  "additionalStoryCount": 394,
+  "totalBilingualStoryCount": 985,
+  "reviewScope": "Stories 4 and 5 for all 197 roster countries. The v23 first three stories and ten keywords are preserved exactly. This is not a new independent audit of every retained fact, capital role or coordinate.",
+  "method": "Original bilingual child-oriented passages. Listed primary references support named places, objects, historical context and natural features. Scientific comparisons, diagram exercises, counting and observation questions are authored teaching extensions, not statements copied from those references. Country/capital comparisons reuse the app roster and its existing evidence. Tentative properties, biosphere reserves and geoparks are distinguished from inscribed World Heritage properties. Unresolved explanations remain questions or qualified hypotheses.",
+  "countries": {
+    "AF": {
+      "name": "Afghanistan",
+      "nameKo": "아프가니스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/211/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AL": {
+      "name": "Albania",
+      "nameKo": "알바니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/570/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "DZ": {
+      "name": "Algeria",
+      "nameKo": "알제리",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/565/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AD": {
+      "name": "Andorra",
+      "nameKo": "안도라",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1160/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AO": {
+      "name": "Angola",
+      "nameKo": "앙골라",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1511/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AG": {
+      "name": "Antigua and Barbuda",
+      "nameKo": "앤티가 바부다",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1499/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AR": {
+      "name": "Argentina",
+      "nameKo": "아르헨티나",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/303/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AM": {
+      "name": "Armenia",
+      "nameKo": "아르메니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1011/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AU": {
+      "name": "Australia",
+      "nameKo": "호주",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/447/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AT": {
+      "name": "Austria",
+      "nameKo": "오스트리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1033/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AZ": {
+      "name": "Azerbaijan",
+      "nameKo": "아제르바이잔",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/958/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BS": {
+      "name": "Bahamas",
+      "nameKo": "바하마",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.bahamas.com/natural-wonders/deans-blue-hole",
+        "https://oceanservice.noaa.gov/facts/oceanblue.html"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BH": {
+      "name": "Bahrain",
+      "nameKo": "바레인",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1192/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "nameKo": "방글라데시",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/798/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BB": {
+      "name": "Barbados",
+      "nameKo": "바베이도스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1376/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BY": {
+      "name": "Belarus",
+      "nameKo": "벨라루스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/625/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BE": {
+      "name": "Belgium",
+      "nameKo": "벨기에",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/857/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BZ": {
+      "name": "Belize",
+      "nameKo": "벨리즈",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/764/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BJ": {
+      "name": "Benin",
+      "nameKo": "베냉",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/323/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BT": {
+      "name": "Bhutan",
+      "nameKo": "부탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://thimphu.gov.bt/tashichho-dzong/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BO": {
+      "name": "Bolivia",
+      "nameKo": "볼리비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/566/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BA": {
+      "name": "Bosnia and Herzegovina",
+      "nameKo": "보스니아 헤르체고비나",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/946/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BW": {
+      "name": "Botswana",
+      "nameKo": "보츠와나",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1432/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BR": {
+      "name": "Brazil",
+      "nameKo": "브라질",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/445/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BN": {
+      "name": "Brunei",
+      "nameKo": "브루나이",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.bruneitourism.com/places/kampong-ayer/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "nameKo": "불가리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/216/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "nameKo": "부르키나파소",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1713/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "BI": {
+      "name": "Burundi",
+      "nameKo": "부룬디",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://ich.unesco.org/en/decisions/9.COM/10.10"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KH": {
+      "name": "Cambodia",
+      "nameKo": "캄보디아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/668/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CM": {
+      "name": "Cameroon",
+      "nameKo": "카메룬",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/407/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CA": {
+      "name": "Canada",
+      "nameKo": "캐나다",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1285/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CV": {
+      "name": "Cape Verde",
+      "nameKo": "카보베르데",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1310/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CF": {
+      "name": "Central African Republic",
+      "nameKo": "중앙아프리카 공화국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1380/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TD": {
+      "name": "Chad",
+      "nameKo": "차드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1475/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CL": {
+      "name": "Chile",
+      "nameKo": "칠레",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1214/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CN": {
+      "name": "China",
+      "nameKo": "중국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/440/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CO": {
+      "name": "Colombia",
+      "nameKo": "콜롬비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1121/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KM": {
+      "name": "Comoros",
+      "nameKo": "코모로",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1768/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "nameKo": "코스타리카",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1453/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "HR": {
+      "name": "Croatia",
+      "nameKo": "크로아티아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/98/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CU": {
+      "name": "Cuba",
+      "nameKo": "쿠바",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/840/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CY": {
+      "name": "Cyprus",
+      "nameKo": "키프로스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/848/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CZ": {
+      "name": "Czechia",
+      "nameKo": "체코",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/901/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "DK": {
+      "name": "Denmark",
+      "nameKo": "덴마크",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/697/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "DJ": {
+      "name": "Djibouti",
+      "nameKo": "지부티",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://guide.visitdjibouti.dj/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "DM": {
+      "name": "Dominica",
+      "nameKo": "도미니카 연방",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/814/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "DO": {
+      "name": "Dominican Republic",
+      "nameKo": "도미니카 공화국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/526/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CD": {
+      "name": "DR Congo",
+      "nameKo": "콩고 민주 공화국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/63/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "EC": {
+      "name": "Ecuador",
+      "nameKo": "에콰도르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "EG": {
+      "name": "Egypt",
+      "nameKo": "이집트",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/88/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SV": {
+      "name": "El Salvador",
+      "nameKo": "엘살바도르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/675/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GQ": {
+      "name": "Equatorial Guinea",
+      "nameKo": "적도 기니",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.unesco.org/en/mab/isla-de-bioko"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ER": {
+      "name": "Eritrea",
+      "nameKo": "에리트레아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1550/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "EE": {
+      "name": "Estonia",
+      "nameKo": "에스토니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/822/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SZ": {
+      "name": "Eswatini",
+      "nameKo": "에스와티니",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.thekingdomofeswatini.com/central-eswatini/sibebe-rock/",
+        "https://www.thekingdomofeswatini.com/news-blogs/backpacker-tours-visitor-guide-to-the-2026-umhlanga-reed-dance/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "nameKo": "에티오피아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/15/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "FJ": {
+      "name": "Fiji",
+      "nameKo": "피지",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1399/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "FI": {
+      "name": "Finland",
+      "nameKo": "핀란드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/583/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "FR": {
+      "name": "France",
+      "nameKo": "프랑스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/80/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GA": {
+      "name": "Gabon",
+      "nameKo": "가봉",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1147/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GM": {
+      "name": "Gambia",
+      "nameKo": "감비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/761/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GE": {
+      "name": "Georgia",
+      "nameKo": "조지아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/710/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "DE": {
+      "name": "Germany",
+      "nameKo": "독일",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/975/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GH": {
+      "name": "Ghana",
+      "nameKo": "가나",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/35/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GR": {
+      "name": "Greece",
+      "nameKo": "그리스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/455/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GD": {
+      "name": "Grenada",
+      "nameKo": "그레나다",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.puregrenada.com/de-la-grenade-nutmeg-garden/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GT": {
+      "name": "Guatemala",
+      "nameKo": "과테말라",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/64/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GN": {
+      "name": "Guinea",
+      "nameKo": "기니",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/155/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GW": {
+      "name": "Guinea-Bissau",
+      "nameKo": "기니비사우",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1431/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GY": {
+      "name": "Guyana",
+      "nameKo": "가이아나",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://guyanatourism.com/kaieteur-falls/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "HT": {
+      "name": "Haiti",
+      "nameKo": "아이티",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/180/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "HN": {
+      "name": "Honduras",
+      "nameKo": "온두라스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/129/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "HU": {
+      "name": "Hungary",
+      "nameKo": "헝가리",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/400/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IS": {
+      "name": "Iceland",
+      "nameKo": "아이슬란드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1152/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IN": {
+      "name": "India",
+      "nameKo": "인도",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/922/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ID": {
+      "name": "Indonesia",
+      "nameKo": "인도네시아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1194/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IR": {
+      "name": "Iran",
+      "nameKo": "이란",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/114/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IQ": {
+      "name": "Iraq",
+      "nameKo": "이라크",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/278/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IE": {
+      "name": "Ireland",
+      "nameKo": "아일랜드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/659/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IL": {
+      "name": "Israel",
+      "nameKo": "이스라엘",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1220/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "IT": {
+      "name": "Italy",
+      "nameKo": "이탈리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/394/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CI": {
+      "name": "Ivory Coast",
+      "nameKo": "코트디부아르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/195/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "JM": {
+      "name": "Jamaica",
+      "nameKo": "자메이카",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1356/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "JP": {
+      "name": "Japan",
+      "nameKo": "일본",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/734/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "JO": {
+      "name": "Jordan",
+      "nameKo": "요르단",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/326/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KZ": {
+      "name": "Kazakhstan",
+      "nameKo": "카자흐스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1102/",
+        "https://whc.unesco.org/en/list/1103/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KE": {
+      "name": "Kenya",
+      "nameKo": "케냐",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1060/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KI": {
+      "name": "Kiribati",
+      "nameKo": "키리바시",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1325/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "XK": {
+      "name": "Kosovo",
+      "nameKo": "코소보",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://bkk-pjeterbogdani.rks-gov.net/en/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KW": {
+      "name": "Kuwait",
+      "nameKo": "쿠웨이트",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.archnet.org/sites/135"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "nameKo": "키르기스스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1230/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LA": {
+      "name": "Laos",
+      "nameKo": "라오스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/479/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LV": {
+      "name": "Latvia",
+      "nameKo": "라트비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/852/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LB": {
+      "name": "Lebanon",
+      "nameKo": "레바논",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/294/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LS": {
+      "name": "Lesotho",
+      "nameKo": "레소토",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/985/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LR": {
+      "name": "Liberia",
+      "nameKo": "라이베리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.fauna-flora.org/projects/implementing-effective-management-sapo-national-park/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LY": {
+      "name": "Libya",
+      "nameKo": "리비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/183/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "nameKo": "리히텐슈타인",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://tourismus.li/en/activities/popular-sights-the-countryside/sights/?pn=6&sortBy=0",
+        "https://en.tourismus.li/reiseland/unser-land/zahlen-fakten.html"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LT": {
+      "name": "Lithuania",
+      "nameKo": "리투아니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/541/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "nameKo": "룩셈부르크",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/699/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MG": {
+      "name": "Madagascar",
+      "nameKo": "마다가스카르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/494/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MW": {
+      "name": "Malawi",
+      "nameKo": "말라위",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/289/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MY": {
+      "name": "Malaysia",
+      "nameKo": "말레이시아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1012/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MV": {
+      "name": "Maldives",
+      "nameKo": "몰디브",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://visitmaldives.com/en/experience/mosques-in-maldives-a-standing-testament-to-the-local-craftsmanship",
+        "https://whc.unesco.org/en/tentativelists/5812/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ML": {
+      "name": "Mali",
+      "nameKo": "말리",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/119/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MT": {
+      "name": "Malta",
+      "nameKo": "몰타",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/131/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MH": {
+      "name": "Marshall Islands",
+      "nameKo": "마셜 제도",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://ocean.si.edu/human-connections/history-cultures/navigating-waters-micronesian-stick-charts"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MR": {
+      "name": "Mauritania",
+      "nameKo": "모리타니",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/506/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MU": {
+      "name": "Mauritius",
+      "nameKo": "모리셔스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1259/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MX": {
+      "name": "Mexico",
+      "nameKo": "멕시코",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/410/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "FM": {
+      "name": "Micronesia",
+      "nameKo": "미크로네시아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1503/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MD": {
+      "name": "Moldova",
+      "nameKo": "몰도바",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1187/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MC": {
+      "name": "Monaco",
+      "nameKo": "모나코",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://musee.oceano.org/en/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MN": {
+      "name": "Mongolia",
+      "nameKo": "몽골",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1081/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ME": {
+      "name": "Montenegro",
+      "nameKo": "몬테네그로",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/125/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MA": {
+      "name": "Morocco",
+      "nameKo": "모로코",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/444/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "nameKo": "모잠비크",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/599/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MM": {
+      "name": "Myanmar",
+      "nameKo": "미얀마",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1588/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NA": {
+      "name": "Namibia",
+      "nameKo": "나미비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1430/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NR": {
+      "name": "Nauru",
+      "nameKo": "나우루",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://thecommonwealth.org/our-member-countries/naeoro"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NP": {
+      "name": "Nepal",
+      "nameKo": "네팔",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/121/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NL": {
+      "name": "Netherlands",
+      "nameKo": "네덜란드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/818/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "nameKo": "뉴질랜드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/421/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "nameKo": "니카라과",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1236/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NE": {
+      "name": "Niger",
+      "nameKo": "니제르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/573/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NG": {
+      "name": "Nigeria",
+      "nameKo": "나이지리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1118/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KP": {
+      "name": "North Korea",
+      "nameKo": "북한",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.unesco.org/en/iggp/mt-paektu-unesco-global-geopark"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "MK": {
+      "name": "North Macedonia",
+      "nameKo": "북마케도니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/99/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "NO": {
+      "name": "Norway",
+      "nameKo": "노르웨이",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/58/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "OM": {
+      "name": "Oman",
+      "nameKo": "오만",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1207/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PK": {
+      "name": "Pakistan",
+      "nameKo": "파키스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/138/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PW": {
+      "name": "Palau",
+      "nameKo": "팔라우",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1386/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PS": {
+      "name": "Palestine",
+      "nameKo": "팔레스타인",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1687/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PA": {
+      "name": "Panama",
+      "nameKo": "파나마",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://pancanal.com/en/design-of-the-locks/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PG": {
+      "name": "Papua New Guinea",
+      "nameKo": "파푸아뉴기니",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/887/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PY": {
+      "name": "Paraguay",
+      "nameKo": "파라과이",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/648/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PE": {
+      "name": "Peru",
+      "nameKo": "페루",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/274/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PH": {
+      "name": "Philippines",
+      "nameKo": "필리핀",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/652/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PL": {
+      "name": "Poland",
+      "nameKo": "폴란드",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/847/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "PT": {
+      "name": "Portugal",
+      "nameKo": "포르투갈",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1046/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "QA": {
+      "name": "Qatar",
+      "nameKo": "카타르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1402/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KR": {
+      "name": "Republic of Korea",
+      "nameKo": "대한민국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/738/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CG": {
+      "name": "Republic of the Congo",
+      "nameKo": "콩고",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/692/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "RO": {
+      "name": "Romania",
+      "nameKo": "루마니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/588/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "RU": {
+      "name": "Russia",
+      "nameKo": "러시아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/768/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "RW": {
+      "name": "Rwanda",
+      "nameKo": "르완다",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1697/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "KN": {
+      "name": "Saint Kitts and Nevis",
+      "nameKo": "세인트키츠 네비스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/910/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LC": {
+      "name": "Saint Lucia",
+      "nameKo": "세인트루시아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1161/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "VC": {
+      "name": "Saint Vincent and the Grenadines",
+      "nameKo": "세인트빈센트 그레나딘",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://discoversvg.com/what-to-do/eco-adventures/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "WS": {
+      "name": "Samoa",
+      "nameKo": "사모아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.samoa.travel/pagepreview/must-dos-in-samoa"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SM": {
+      "name": "San Marino",
+      "nameKo": "산마리노",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1245/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ST": {
+      "name": "São Tomé and Príncipe",
+      "nameKo": "상투메 프린시페",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.unesco.org/en/mab/island-principe"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SA": {
+      "name": "Saudi Arabia",
+      "nameKo": "사우디아라비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1293/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SN": {
+      "name": "Senegal",
+      "nameKo": "세네갈",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/25/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "RS": {
+      "name": "Serbia",
+      "nameKo": "세르비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/389/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SC": {
+      "name": "Seychelles",
+      "nameKo": "세이셸",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/261/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SL": {
+      "name": "Sierra Leone",
+      "nameKo": "시에라리온",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1746/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SG": {
+      "name": "Singapore",
+      "nameKo": "싱가포르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1483/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SK": {
+      "name": "Slovakia",
+      "nameKo": "슬로바키아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/620/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SI": {
+      "name": "Slovenia",
+      "nameKo": "슬로베니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/390/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SB": {
+      "name": "Solomon Islands",
+      "nameKo": "솔로몬 제도",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/854/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SO": {
+      "name": "Somalia",
+      "nameKo": "소말리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/6754/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ZA": {
+      "name": "South Africa",
+      "nameKo": "남아프리카공화국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1099/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SS": {
+      "name": "South Sudan",
+      "nameKo": "남수단",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/6276/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ES": {
+      "name": "Spain",
+      "nameKo": "스페인",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/314/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "nameKo": "스리랑카",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/202/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SD": {
+      "name": "Sudan",
+      "nameKo": "수단",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1336/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SR": {
+      "name": "Suriname",
+      "nameKo": "수리남",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/940/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SE": {
+      "name": "Sweden",
+      "nameKo": "스웨덴",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1134/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "CH": {
+      "name": "Switzerland",
+      "nameKo": "스위스",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1276/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "SY": {
+      "name": "Syria",
+      "nameKo": "시리아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/22/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TW": {
+      "name": "Taiwan",
+      "nameKo": "대만",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://www.taipei-101.com.tw/en/observatory/feature",
+        "https://www.taipei-101.com.tw/en/observatory/feature/damper"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TJ": {
+      "name": "Tajikistan",
+      "nameKo": "타지키스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1252/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "nameKo": "탄자니아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/199/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TH": {
+      "name": "Thailand",
+      "nameKo": "태국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/574/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TL": {
+      "name": "Timor-Leste",
+      "nameKo": "동티모르",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://ich.unesco.org/en/USL/tais-traditional-textile-01688"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TG": {
+      "name": "Togo",
+      "nameKo": "토고",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1140/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TO": {
+      "name": "Tonga",
+      "nameKo": "통가",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://thekingdomoftonga.com/true-culture/",
+        "https://ich.unesco.org/en/RL/lakalaka-dances-and-sung-speeches-of-tonga-00072?RL=00072",
+        "https://ich.unesco.org/en/projects/safeguarding-of-lakalaka-sung-speeches-with-choreographed-movements-00016"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TT": {
+      "name": "Trinidad and Tobago",
+      "nameKo": "트리니다드 토바고",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://foreign.gov.tt/about/trinidad-tobago/national-symbols/national-instrument/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TN": {
+      "name": "Tunisia",
+      "nameKo": "튀니지",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/37/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TR": {
+      "name": "Türkiye",
+      "nameKo": "튀르키예",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/849/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TM": {
+      "name": "Turkmenistan",
+      "nameKo": "투르크메니스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/886/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "TV": {
+      "name": "Tuvalu",
+      "nameKo": "투발루",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://thecommonwealth.org/our-member-countries/tuvalu"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "UG": {
+      "name": "Uganda",
+      "nameKo": "우간다",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/682/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "UA": {
+      "name": "Ukraine",
+      "nameKo": "우크라이나",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/527/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "AE": {
+      "name": "United Arab Emirates",
+      "nameKo": "아랍에미리트",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1343/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "nameKo": "영국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/373/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "US": {
+      "name": "United States",
+      "nameKo": "미국",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/27/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "UY": {
+      "name": "Uruguay",
+      "nameKo": "우루과이",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1464/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "nameKo": "우즈베키스탄",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/603/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "nameKo": "바누아투",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/1280/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "VA": {
+      "name": "Vatican City",
+      "nameKo": "바티칸",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/286/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "VE": {
+      "name": "Venezuela",
+      "nameKo": "베네수엘라",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/701/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "VN": {
+      "name": "Vietnam",
+      "nameKo": "베트남",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/672/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "YE": {
+      "name": "Yemen",
+      "nameKo": "예멘",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/385/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ZM": {
+      "name": "Zambia",
+      "nameKo": "잠비아",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/509/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "nameKo": "짐바브웨",
+      "storyNumbers": [
+        4,
+        5
+      ],
+      "sources": [
+        "https://whc.unesco.org/en/list/364/"
+      ],
+      "sourceKind": "primary",
+      "referenceRole": "Named factual anchors; original explanations and guided activities extend those anchors.",
+      "checkedDate": "2026-10-02"
+    }
+  }
+}

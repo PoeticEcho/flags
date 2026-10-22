@@ -1,0 +1,23 @@
+{
+  "code": "BB",
+  "landmark": "Historic Bridgetown and its Garrison",
+  "landmarkKo": "브리지타운 역사 지구",
+  "prompt": "Use case: precise-object-edit\nAsset type: country learning postcard for Barbados\nPrimary request: Make one factual correction to this Bridgetown painting: change only the prominent stone-arch bridge over the Careenage into a credible low, flat modern pedestrian lift bridge with green metal railings.\nSubject correction: Replace the curved masonry arch and thick stone arch superstructure with a straight horizontal bridge deck, slim structural underside, open rectangular water clearance and green pedestrian railings, connected naturally to the existing quay abutments. The official Barbados tourism reference describes present Chamberlain Bridge as a modern lift bridge primarily used by pedestrians.\nInvariants: Preserve the same composition, framing, colours, brush texture, daylight, Parliament clock tower, all waterfront houses, trees, palms, boats, quay walls, railings outside the bridge, water and reflections. Change only the bridge and the small local water reflection affected by its new shape.\nConstraints: Keep landscape 3:2, 1536x1024. No readable text, clock numerals, flags, logos, UI, watermark, frame or stamp. No new buildings or monuments.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1376/",
+    "https://www.visitbarbados.org/key-buildings",
+    "https://www.visitbarbados.org/heritage-site",
+    "https://www.visitbarbados.org/whats-in-a-town-bridgetown",
+    "https://gisbarbados.gov.bb/blog/new-berthing-arrangements-at-careenage/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected authorized factual edit: the original masonry arch is replaced by a low horizontal pedestrian bridge with green railings and open rectangular water clearance. The pastel Careenage waterfront, Parliament clock tower, boats, composition, colours and brush texture remain. No readable text or flags. Original PNG is preserved as BB-bridgetown.png; v2 is the selected asset.",
+  "originalPrompt": "Use case: illustration-story\nAsset type: country learning postcard for Barbados\nPrimary request: Historic Bridgetown and its Garrison heritage, represented by Bridgetown's Careenage harbour and colourful old town.\nSubject: Modest colourful Caribbean Georgian old bond houses and historic waterfront buildings, a narrow coral-limestone Parliament clock tower rising gently in the background, a simple low bridge and a few small fishing and pleasure boats.\nScene/backdrop: Calm blue-green Careenage inlet with a waterfront boardwalk, palms and bright Caribbean sky; low British colonial old-town architecture that belongs to Bridgetown's maritime and garrison history.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable buildings and harbour geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad view across the Careenage; main buildings, bridge and boats comfortably inside central 75% width and height, generous breathing room for cropping.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No readable text or clock numerals, UI, flags, logos, watermark, postcard frame or stamp. No huge castle, pirate ship, warship, giant cruise ship, unrelated landmark or invented geography.",
+  "originalPath": "/workspace/scratch/173d2a32bea4/postcard-generation/batch02/BB-bridgetown.png",
+  "originalFile": "BB-bridgetown-v2.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bb.webp",
+  "exportFile": "bb.webp"
+}

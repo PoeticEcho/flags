@@ -1,0 +1,18 @@
+{
+  "code": "BF",
+  "landmark": "Royal Court of Tiébélé",
+  "landmarkKo": "티에벨레 왕실 마을",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Burkina Faso\nPrimary request: The recognizable low earthen architecture and painted walls of the Royal Court of Tiébélé.\nSubject: A Kasena royal compound of small rounded, figure-of-eight and rectangular earthen houses, protective low walls and narrow passageways opening into sunlit courtyards. Show characteristic hand-painted black, white and earthy red geometric wall motifs, low flat roofs on some houses and a few modest conical straw roofs, with tiny recessed doorways.\nScene/backdrop: Warm ochre earth at the foot of a low dry green hill, scattered local trees and a clear blue sky. This is a living traditional compound, not a giant monumental palace.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable Kasena building forms, gentle saturated teal, ochre, green and coral. Decorations should read as geometric ornament without letters.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Slightly elevated courtyard view; important painted houses comfortably inside central 75% width and height, generous breathing room. A few small residents provide scale.\nLighting/mood: Warm natural daylight, welcoming and calm.\nConstraints: Stylized educational illustration. No inscriptions, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No European palace, fantasy towers, unrelated landmarks or invented mountains.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1713/",
+    "https://whc.unesco.org/document/208499"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: low rounded, figure-of-eight and rectangular earthen buildings, protective compound walls, narrow passages, sunlit courtyards, flat roofs and a few conical straw roofs. Black, cream and earthy red geometric murals read as ornament without lettering. Small residents provide scale. No European palace, giant towers, readable text, flags, UI or logos. Painted motifs are stylized, not exact reproductions.",
+  "originalFile": "BF-tiebele-royal-court.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bf.webp",
+  "exportFile": "bf.webp"
+}

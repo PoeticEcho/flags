@@ -1,0 +1,17 @@
+{
+  "code": "BJ",
+  "landmark": "Royal Palaces of Abomey",
+  "landmarkKo": "아보메 왕궁",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Benin\nPrimary request: The Royal Palaces of Abomey, a traditional low earthen royal compound and courtyards.\nSubject: Recognizable long low ochre-red cob and laterite walls enclosing an open courtyard, simple rectangular gateways and single-storey palace buildings with modest sloping roofs and timber veranda supports; small coloured figurative bas-relief wall panels, rendered as visual motifs without lettering.\nScene/backdrop: Warm reddish earth courtyard, a few leafy trees and modest grassy edges under blue sky. Emphasize the traditional Aja-Fon earthen compound, human-scale architecture and courtyards.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable traditional materials and geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad slightly elevated courtyard view; important low walls, gateway and buildings comfortably inside central 75% width and height with breathing room.\nLighting/mood: Warm natural daylight, quiet and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No European palace, giant stone castle, domed mosque, high towers, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/323/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: low ochre and red earthen compound, open courtyards, single-storey veranda buildings, timber supports and straw-like sloping roofs. Figurative wall decorations and a few small visitors provide cultural detail. Relief motifs are illustrative rather than exact reproductions of historic panels. No European palace towers, readable text, flags, UI or logos.",
+  "originalFile": "BJ-abomey-palaces.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bj.webp",
+  "exportFile": "bj.webp"
+}

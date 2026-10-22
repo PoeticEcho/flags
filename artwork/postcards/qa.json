@@ -1,0 +1,20 @@
+{
+  "code": "QA",
+  "nameKo": "카타르",
+  "filename": "qatar-al-zubarah.webp",
+  "landmark": "Al Zubarah Archaeological Site",
+  "landmarkKo": "알주바라 유적",
+  "sources": [
+    "https://whc.unesco.org/en/list/1402/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for QA in a children's world atlas.\nPrimary request / scene: Al Zubarah in Qatar, pale low excavated stone and plaster foundation walls of the abandoned coastal pearl-trading town spread across a flat sandy landscape. The distinct squat ochre Al Zubarah Fort of 1938 sits farther away as a separate landmark, with crenellated walls, three round corner towers and one rectangular tower. A thin blue Gulf coast on the horizon. The archaeological ruined town is the main foreground, fort is separated in the distance. No imaginary fully reconstructed medieval city, skyscrapers or huge dunes engulfing the foundations.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "qatar-al-zubarah.webp",
+  "inspection": "낮게 남은 알주바라 해안 도시 유적을 전경에, 후대 요새를 떨어진 배경에 표현했습니다. 요새를 고대 도시의 원형으로 표시하지 않습니다.",
+  "originalFile": "QA.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/qa.webp",
+  "exportFile": "qa.webp"
+}

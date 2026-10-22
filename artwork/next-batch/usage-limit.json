@@ -1,0 +1,55 @@
+{
+  "batch": 4,
+  "status": "blocked_usage_limit",
+  "completed": [],
+  "attemptedCountries": [
+    "CR",
+    "HR",
+    "CU"
+  ],
+  "remainingUnattemptedCountries": [
+    "CY",
+    "CZ",
+    "DK",
+    "DJ",
+    "DM",
+    "DO",
+    "CD"
+  ],
+  "failure": {
+    "httpStatus": 429,
+    "type": "usage_limit_reached",
+    "resetsAtEpoch": 1790835615,
+    "resetsAtUtc": "2026-10-01T06:20:15.000Z",
+    "reportedSecondsUntilReset": 41910
+  },
+  "preparedRequests": [
+    {
+      "code": "CR",
+      "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Costa Rica\nPrimary request: Cocos Island National Park's rainforest-covered Pacific coastline.\nSubject: A remote volcanic island coast with steep dark rocky cliffs covered by dense lush tropical rainforest, one slender waterfall descending toward the bay, smaller offshore rock islets and clear teal water deepening to blue. A few small distant seabirds fly above the shore.\nScene/backdrop: The humid forested oceanic island of Cocos in the eastern tropical Pacific, with rounded green high ground, rocky shoreline and a small sheltered bay under a blue sky with gentle cloud. Keep the land and sea habitat credible.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide view from just offshore; important forest cliffs and waterfall comfortably inside central 75% width and height, generous sky and water.\nLighting/mood: Warm natural daylight, peaceful and welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No beach resort, city, invented giant volcano, savanna animals, crowds of wildlife, pirate ships or unrelated landmarks.",
+      "sources": [
+        "https://whc.unesco.org/en/list/820/",
+        "https://www.sinac.go.cr/ES/docu/Publicaciones/SINAC%20Evolucion%20y%20Perspectivas.pdf"
+      ],
+      "status": "blocked_no_output"
+    },
+    {
+      "code": "HR",
+      "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Croatia\nPrimary request: The recognizable walled Old City of Dubrovnik beside the Adriatic.\nSubject: Compact pale-limestone old-town buildings and terracotta rooftops enclosed by substantial stone defensive walls, round and square bastions, the broad round Minčeta tower on the landward high point, and the small old harbour. Keep the fortification silhouette grounded and credible.\nScene/backdrop: The real coastal city connected to the mainland, clear deep blue and teal Adriatic water beside rocky shore, low green Mediterranean slopes behind and a blue sky. The town is not a castle floating on an isolated island.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable Dalmatian architecture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Broad elevated scenic view of the walled city and coast; important walls and rooftops comfortably inside central 75% width and height, generous sky and sea.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags even on fort towers, logos, watermark, postcard frame or stamp. No unrelated castle, fantasy turrets, invented cliff-city or giant cruise ship.",
+      "sources": [
+        "https://whc.unesco.org/en/list/95/",
+        "https://tzdubrovnik.hr/lang/en/get/gradski_vodic/5302/city_walls_and_fortresses.html"
+      ],
+      "status": "blocked_no_output"
+    },
+    {
+      "code": "CU",
+      "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Cuba\nPrimary request: Plaza Vieja within the UNESCO-listed Old Havana historic centre.\nSubject: A broad paved colonial plaza enclosed by two- and three-storey pastel ochre, coral, turquoise and pale cream buildings, with shaded arched ground-floor arcades, wrought-iron balconies, wooden shutters, simple red tile roofs and weathered details. Small everyday pedestrians and a few cafe tables make the square welcoming.\nScene/backdrop: A credible intimate Old Havana urban square with adjoining narrow streets beneath a blue sky. Keep its Baroque and neoclassical colonial character, without adding a giant invented cathedral or monuments from other countries.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable Cuban architecture and street geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide eye-level square view, important pastel arcades and balconies comfortably inside central 75% width and height with generous breathing room.\nLighting/mood: Warm natural daylight, lively and welcoming.\nConstraints: Stylized educational illustration. No readable shop signs, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No modern skyscrapers, giant cathedral, unrelated landmark, giant classic-car display or invented waterfront inside the plaza.",
+      "sources": [
+        "https://whc.unesco.org/en/list/204/"
+      ],
+      "status": "blocked_no_output"
+    }
+  ],
+  "note": "All three built-in image generation requests failed immediately with the same usage limit. No batch04 PNGs or completed final manifest exist. No retries, variants, fallback generation or background jobs were started."
+}

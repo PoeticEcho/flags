@@ -1,0 +1,80 @@
+{
+  "edition": "v28",
+  "sourceCommit": "71acdcc9a1c4bca68f3126f449ed43acde0a3117",
+  "versionId": "appgprj_6abccfeeee548191b571dbf28dcee2f7~appgver_162912566bcc819197515f646e32a8c8",
+  "deploymentId": "appgdep_6abfc22eec0081918a8e9a8f057aa727",
+  "status": "succeeded",
+  "url": "https://flags.zap15.chatgpt.site",
+  "publishedAt": "2026-10-02T14:40:00.928071+00:00",
+  "archive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000bc508209b61fc307fdbcba94",
+    "content_hash": "sha256:764289276e719af9a731018c3475e7c37992c34f7d1687de6c2348f939d4f179",
+    "size_bytes": 159160320,
+    "file_count": 700
+  },
+  "uploadedArchive": {
+    "filename": "flags-v28-tag-search-20261002.tar.gz",
+    "bytes": 150700096,
+    "sha256": "c2330b383e10b3c639aeb4fd0438c16c442eefaaeafdcdf42dc96aad1ddcff2c",
+    "files": 700
+  },
+  "automatedTests": 115,
+  "placeCount": 199,
+  "bilingualKeywordPairs": 1990,
+  "tagSearch": {
+    "syntax": "Plain queries; no # required",
+    "order": [
+      "Country names, aliases and capitals",
+      "Existing bilingual keyword matches"
+    ],
+    "duplicateCountries": false,
+    "matchedKeywordVisible": true,
+    "allResultsAccessibleByScrolling": true,
+    "examples": {
+      "석회암": [
+        "MG",
+        "SI",
+        "CU",
+        "HR",
+        "BS",
+        "SB",
+        "PW"
+      ],
+      "limestone": [
+        "MG",
+        "SI",
+        "CU",
+        "HR",
+        "BS",
+        "SB",
+        "PW"
+      ]
+    },
+    "connectedPickers": [
+      "Map country search",
+      "Colouring country picker",
+      "Real country collection"
+    ],
+    "keywordCorpusUnchanged": true
+  },
+  "browserQA": "Unverified: supervised preview infrastructure unavailable; Q17 and earlier browser/touch/GPU checks remain open.",
+  "clientZip": {
+    "filename": "flags-tag-search-update-20261002.zip",
+    "bytes": 150746643,
+    "files": 699,
+    "sha256": "7c1f6362067b89a44bea8324e80f54e85f8a217ec82e8d54f8c8f8142b12fa71",
+    "checks": [
+      "CRC",
+      "every ZIP client file matches the built client exactly",
+      "every client file exactly matches the archive supplied for the saved/deployed v28"
+    ]
+  },
+  "archiveClientFiles": 698,
+  "preservedPackages": [
+    "flags-mobile-update-20261002.zip",
+    "flags-final-app-20261002.zip",
+    "flags-final-learning-update-20261002.zip",
+    "flags-197-learning-content-5stories-20261002.zip"
+  ]
+}

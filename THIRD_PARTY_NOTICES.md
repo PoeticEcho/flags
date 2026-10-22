@@ -1,0 +1,12 @@
+# Third-party data and software
+
+- **World boundaries:** `world-atlas` / Natural Earth, 1:10m world countries. Natural Earth data is public domain; `world-atlas` package code is ISC licensed. Used locally; the prototype makes no tile-service calls.
+- **Country names and capitals:** `world-countries` by mledoze, ODbL-1.0. Used for country names, Korean translations, ISO codes, and capital names. See `ODbL-1.0.txt` and https://opendatacommons.org/licenses/odbl/1-0/.
+- **Flag SVGs:** `flag-icons` by lipis, MIT licensed: https://github.com/lipis/flag-icons.
+- **Map rendering:** MapLibre GL JS, BSD-3-Clause: https://github.com/maplibre/maplibre-gl-js.
+- **Population projections:** United Nations, Department of Economic and Social Affairs, Population Division (2024). *World Population Prospects 2024, Online Edition*, GEN/01/REV1, Medium variant, 1 July 2025 population. https://population.un.org/wpp/. Licensed CC BY 3.0 IGO: https://creativecommons.org/licenses/by/3.0/igo/. The source Country/Area rows are extracted, joined to the 197-country learning roster by ISO2 and converted from thousands to rounded persons; displayed numbers are localized approximate values. Source URL, original workbook SHA-256 and reproduction notes are in `sources/un-wpp2024-population-2025-extract.json` and `sources/README.md`. This supersedes the earlier forty-country UNFPA rounded figures.
+- **Country postcard art:** original illustrations generated for this prototype. Generated art is interpretive, not a precise record of every site detail.
+
+The prototype includes the complete `world-countries` database package as an installed dependency. Review ODbL attribution/share-alike requirements before distributing a modified or extracted copy of that database independently.
+- **Vatican geometry precision repair:** full-resolution Natural Earth 1:10m admin-0 polygon, extracted from https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson on 2026-09-30. This replaces only the Vatican ring that was collapsed by the previous topology quantization; Natural Earth data is public domain.
+- **UI and tab icons:** Phosphor Icons React 2.1.10, MIT licensed, Copyright (c) 2020 Phosphor Icons. The existing GlobeHemisphereWest duotone icon is exported as the SVG/PNG favicon and touch icon. The unmodified license is preserved in `PHOSPHOR_ICONS_LICENSE.txt`; export provenance is in `artwork/favicon-icons.json`. These icons do not add country postcard artwork.

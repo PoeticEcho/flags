@@ -1,0 +1,18 @@
+{
+  "code": "AG",
+  "landmark": "Antigua Naval Dockyard",
+  "landmarkKo": "앤티가 해군 조선소",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Antigua and Barbuda\nPrimary request: Antigua Naval Dockyard, Nelson's Dockyard in English Harbour, a sheltered historic dockyard in a turquoise Caribbean bay.\nSubject: Recognizable low Georgian dockyard buildings of weathered warm stone and brick, pale trim, simple hipped roofs and shaded verandas along the quay, with a few modest modern sailing boats.\nScene/backdrop: A deep narrow natural harbour sheltered by green tropical hills, a few palms and blue sky. Dockyard buildings at water level, not perched high in the hills.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable architecture and boats, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Calm broad view across the harbour toward the dockyard; main historic buildings and boats in the central 75% of width and height with breathing room for cropping.\nLighting/mood: Warm natural daylight, bright and inviting.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No pirate ships, warships, giant cruise ship, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1499/",
+    "https://www.visitantiguabarbuda.com/wp-content/uploads/2024/11/ABTA-Tours-and-Attraction-Guide-2.pdf"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. Low warm-stone Georgian dockyard buildings with hipped roofs/verandas along sea-level quay, sheltered turquoise harbour and green hills. Modest modern sailing yachts; no pirate ships/warships/cruise ship. Main buildings well framed; one tall mast extends into upper crop margin. Brush-textured style matches reference. No readable text/UI/flags/logos/unrelated landmark.",
+  "originalFile": "AG-naval-dockyard.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/ag.webp",
+  "exportFile": "ag.webp"
+}

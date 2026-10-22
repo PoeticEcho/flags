@@ -1,0 +1,17 @@
+{
+  "code": "CM",
+  "landmark": "Dja Faunal Reserve",
+  "landmarkKo": "자 동물 보호 구역",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Cameroon\nPrimary request: The dense tropical rainforest and river habitat of Dja Faunal Reserve.\nSubject: A gently curving Dja River bordered by tall broad-leaved rainforest trees, buttress roots, vines, ferns and layered green canopy. A small western lowland gorilla family, one adult and one juvenile, is partly visible under the shaded forest edge, with plausible anatomy and scale.\nScene/backdrop: Humid lowland Congo Basin rainforest, thick vegetation and calm earthy reflective water, with a small opening of blue sky above the canopy. The forest is the main subject.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable local habitat and wildlife, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Scenic river view, gorillas quietly placed in the middle ground inside central 75% width and height, generous habitat around them.\nLighting/mood: Warm natural daylight filtering through leaves, calm and welcoming.\nConstraints: Stylized educational illustration. No zoo-like gathering, cages, safari savanna, lions, giraffes, unrelated animals, buildings or invented mountains. No text or letters, UI, flags, logos, watermark, postcard frame or stamp.",
+  "sources": [
+    "https://whc.unesco.org/en/list/407/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: dense humid riverine rainforest with broad-leaved canopy, vines, ferns, buttress roots and earthy reflective river water. One adult western lowland gorilla and one juvenile remain a small group at the forest edge with plausible anatomy and scale. Habitat dominates; no zoo-like mixed gathering, buildings, mountains, readable text, flags, UI or logos.",
+  "originalFile": "CM-dja-rainforest.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/cm.webp",
+  "exportFile": "cm.webp"
+}

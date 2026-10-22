@@ -1,0 +1,17 @@
+{
+  "code": "AD",
+  "landmark": "Madriu-Perafita-Claror Valley",
+  "landmarkKo": "마드리우·페라피타·클라로 계곡",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Andorra\nPrimary request: The Madriu-Perafita-Claror Valley in the high Pyrenees, a beautiful glacial mountain valley with pastoral heritage.\nSubject: A clear rocky mountain river flowing through green meadow and pine forests beneath craggy grey mountain slopes; one small traditional rough-stone pastoral shelter with a low stone roof beside a simple stone footpath.\nScene/backdrop: A believable broad U-shaped Pyrenean valley, wooded lower slopes and open high pastures, a little distant snow only on the highest peaks, blue sky.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Center the shelter, river bend and main mountain valley safely within the central 75% of width and height. Wide scenic view with generous breathing room for cropping.\nLighting/mood: Warm natural daylight, calm and inviting.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No city, castles, giant resort, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1160/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected original PNG. U-shaped glacial mountain valley, pines, meadow, rocky river and low stone-roof pastoral shelter. Shelter and central valley comfortably framed; outer mountains/river continue to edges. Cheerful brush-textured gouache style. No city/castles/text/UI/flags/logos or unrelated landmark.",
+  "originalFile": "AD-madriu-valley.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/ad.webp",
+  "exportFile": "ad.webp"
+}

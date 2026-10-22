@@ -1,0 +1,18 @@
+{
+  "code": "BH",
+  "landmark": "Qal’at al-Bahrain",
+  "landmarkKo": "바레인 요새",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Bahrain\nPrimary request: Qal'at al-Bahrain, the historic honey-stone fort beside Bahrain's flat northern coast.\nSubject: Recognizable broad low Portuguese fort of weathered pale honey limestone, thick ramparts, rounded bastions and angular defensive walls, simple entrance opening and low archaeological foundations on a gently raised sandy tell.\nScene/backdrop: Flat coastal ground, calm blue-turquoise Gulf visible beyond the fort, a few date palms and sparse green gardens, clear blue sky. The fort sits on land, not an island in an ocean moat.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable landmark geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide three-quarter view; whole low fort comfortably centered inside central 75% width and height, with breathing room for cropping.\nLighting/mood: Warm natural daylight, welcoming and calm.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No towering fairy castle, mountains, giant mosque, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1192/",
+    "https://culture.gov.bh/en/visitingbahrain/CulturalTourism/Destinations/QalatalBahrainsiteandmuseum/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: broad low honey-stone coastal fort with round bastions, angular ramparts, sandy tell, date palms and flat blue coast. No readable text, flags, UI or logos. Fort extends outside the central 75% width; app contain sizing preserves the whole scene. Stylized architecture rather than a measured reconstruction.",
+  "originalFile": "BH-qalat-bahrain.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/bh.webp",
+  "exportFile": "bh.webp"
+}

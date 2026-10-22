@@ -1,0 +1,247 @@
+{
+  "version": 31,
+  "source": {
+    "project_id": "appgprj_6abccfeeee548191b571dbf28dcee2f7",
+    "checkout_path": "/workspace/scratch/2b06cd914ad0/flags-evaluation",
+    "commit_sha": "e41f3599777a76d7773fd67a5b1f211c60145ea5",
+    "archive": "/workspace/scratch/2b06cd914ad0/flags-v31-final-release-20261003.tar.gz"
+  },
+  "savedVersion": {
+    "id": "appgprj_6abccfeeee548191b571dbf28dcee2f7~appgver_eb3999d0fd9c81918954e07c5a990614",
+    "project_id": "appgprj_6abccfeeee548191b571dbf28dcee2f7",
+    "version_number": 31,
+    "source": {
+      "commit_sha": "e41f3599777a76d7773fd67a5b1f211c60145ea5"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_0000000071a08209af829bfd89c58b9f",
+      "content_hash": "sha256:1d04edfdd63f146f291eb128bca5dbc5939cc8a1dab6cf2fb38ce80803748cd8",
+      "size_bytes": 159180800,
+      "file_count": 707
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6abfdf0ad9348191aeae65b161b94efe",
+    "project_id": "appgprj_6abccfeeee548191b571dbf28dcee2f7",
+    "title": "꼬마 세계 탐험대",
+    "version_id": "appgprj_6abccfeeee548191b571dbf28dcee2f7~appgver_eb3999d0fd9c81918954e07c5a990614",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://flags.zap15.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6abccfeeee548191b571dbf28dcee2f7",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-02T16:43:08.285087+00:00"
+  },
+  "qa": {
+    "desktopViewport": {
+      "width": 1363,
+      "height": 936
+    },
+    "verifiedCurrentVersionUrl": "https://flags.zap15.chatgpt.site/?v=31",
+    "randomObservedV30": [
+      "TJ",
+      "EC"
+    ],
+    "randomObservedV31": [
+      "GL"
+    ],
+    "focus": {
+      "postcard": "아바나 구시가지 · 여행 엽서 열기",
+      "wave": "국기 펄럭이기",
+      "collection": "탐험 도장 3/199 · 나라 카드 열기",
+      "search": {
+        "focusedId": "country-search",
+        "inputExpanded": false,
+        "popupPresent": false
+      }
+    },
+    "keyboardSearch": [
+      "Marshall Islands",
+      "Solomon Islands",
+      "Comoros"
+    ],
+    "quizV30": {
+      "wrong": "CU B 세인트조지스",
+      "retryCorrect": "CU A 아바나",
+      "nextQuestions": [
+        "VE",
+        "BO",
+        "BR"
+      ],
+      "correctCount": 3,
+      "uniqueStamps": 3,
+      "threeStars": true,
+      "soundDefaultOff": true,
+      "toggleOnAndOffVerified": true,
+      "soundAudibilityVerified": false
+    },
+    "quizV31": {
+      "destination": "AQ",
+      "question": "남극조약이 중요하게 여기는 것은 무엇일까요?",
+      "wrong": "A 서로 싸우는 군사 훈련",
+      "correct": "B 평화적인 이용과 과학 협력",
+      "retryCount": 1,
+      "uniqueStampAfter": 4,
+      "nextQuestionCountry": "KR"
+    },
+    "officialPaint": {
+      "code": "VN",
+      "method": "keyboard Space and ArrowRight with recommended colours",
+      "gradePercent": 100,
+      "saved": true
+    },
+    "customArt": {
+      "name": "검토용 별빛나라",
+      "englishName": "Review Starlight Land",
+      "palette": [
+        "#2563eb",
+        "#facc15"
+      ],
+      "shape": "circle",
+      "saved": true,
+      "persistedAfterReloadAndV31Deployment": true
+    },
+    "personalActionBounds": {
+      "widthMinimum": 46.09375,
+      "height": 44
+    },
+    "waving": {
+      "backgrounds": [
+        "sky",
+        "VN postcard"
+      ],
+      "flatFallbackVerified": true,
+      "webglAnimationVerified": false
+    },
+    "limitations": [
+      "Actual mobile viewport and phone touch not verified; native browser zoom did not change the 1363px viewport.",
+      "This browser lacks WebGL2: real map rendering, pin selection, wrap/pinch and 3D waving could not be manually checked.",
+      "Screen-reader audio and OS reduced-motion behavior not manually tested.",
+      "Success-chime audibility and perceived loudness not manually tested."
+    ],
+    "searchCloseVerifiedOnV31": true
+  },
+  "cacheObservations": {
+    "v29": {
+      "blankRoot": true,
+      "oldRequests": [
+        {
+          "path": "/assets/index-CoO41y-_.js",
+          "status": 404,
+          "requestId": "a5c98c4ced4b5ab7bae73ffb86b1bcfa"
+        },
+        {
+          "path": "/assets/index-DUONtCPl.css",
+          "status": 404,
+          "requestId": "abe563417cfec02f5f7174c44a60154f"
+        }
+      ]
+    },
+    "v30": {
+      "sameUnparameterizedBrowserRecovered": true
+    },
+    "v31": {
+      "firstUnparameterizedReloadKeptWorkingV30Client": true,
+      "currentVersionEntryVerifiedWithVersionedLink": true,
+      "responseHeadersNotIndependentlyInspected": true
+    }
+  },
+  "screenshots": [
+    {
+      "filename": "01-before-v28.jpg",
+      "bytes": 69706,
+      "sha256": "8d94f7deffbb347e85e964a524a4bb61ff54e396557babe32ee6459159dc59b8"
+    },
+    {
+      "filename": "01b-v29-cached-entry-error.jpg",
+      "bytes": 8277,
+      "sha256": "61d6b80f69d4c53171b731b5994652bf012090c5531e0574d3ce55d0455b1c2b"
+    },
+    {
+      "filename": "02-random-start-and-map-alternative.jpg",
+      "bytes": 67435,
+      "sha256": "f93fd35896f2f98a81a5e28c175f89188ce2a41c8e96d87902eae7e164ce8dbd"
+    },
+    {
+      "filename": "03-tag-search.jpg",
+      "bytes": 87571,
+      "sha256": "2509f87ee6f8866686da5bab9c74af76b0e8f485b223b7c9772029f816e843f8"
+    },
+    {
+      "filename": "04-stories-and-clickable-tags.jpg",
+      "bytes": 77458,
+      "sha256": "7f00846c04649ef06634086ddfbe2041dca7b33a70b44e9f7fcf9cb676015255"
+    },
+    {
+      "filename": "05-postcard.jpg",
+      "bytes": 213418,
+      "sha256": "a209d46820423653b81384a0991e839500ee6266029e5df74277b9979e7dd46f"
+    },
+    {
+      "filename": "06-quiz-retry.jpg",
+      "bytes": 69092,
+      "sha256": "8da98a33f33e29b66bd087e2b19054f13927e6ccadb37c0738808fcc3537d3fe"
+    },
+    {
+      "filename": "07-quiz-three-stars.jpg",
+      "bytes": 64741,
+      "sha256": "dc2b4574b29f4d3cb52d2bc6911a6ef855242ff2f83742e269c6548c23d20a40"
+    },
+    {
+      "filename": "08-keyboard-paint-saved.jpg",
+      "bytes": 82632,
+      "sha256": "f2d5363510389a9499ddfcbc3d2b27929276d19126e056abca747aeff692aa65"
+    },
+    {
+      "filename": "09-postcard-background.jpg",
+      "bytes": 119953,
+      "sha256": "4e9b00be4088c0c36099b8e257ca75d8469a5463c54bc9785fe1aef11e0566e3"
+    },
+    {
+      "filename": "10-personal-card-icons.jpg",
+      "bytes": 43666,
+      "sha256": "e5a7eb94ea8aa69d96c9d923b9ae577ef6141a69abd66a27c4e9dd8582f1713e"
+    },
+    {
+      "filename": "11-draft-after-reload.jpg",
+      "bytes": 80532,
+      "sha256": "eae415d10aebeffcfd3d808603f36124b40a4a49846e49996103685d0e6e91bf"
+    },
+    {
+      "filename": "12-country-before-tags-en.jpg",
+      "bytes": 102335,
+      "sha256": "f3c9f170ab90556ece3e5a28eac22d0233b6af10cebdadb8135c0f16b031aaf4"
+    },
+    {
+      "filename": "13-final-localized-controls-en.jpg",
+      "bytes": 82689,
+      "sha256": "d591924670cef42a97392f6218621cde537a7b38aaf3ef8b2e16812bd0a691f5"
+    },
+    {
+      "filename": "14-final-localized-controls-ko.jpg",
+      "bytes": 80756,
+      "sha256": "fc3eed54fcb50714cc080e0f257a92cc81f1258dfc14c122678cdccf1b263f5b"
+    },
+    {
+      "filename": "15-final-greenland-random-entry.jpg",
+      "bytes": 74488,
+      "sha256": "fa3a251c003b6a9d6d3d606282829eaae2b32179d95b2bd45f9786c39d16c7a4"
+    },
+    {
+      "filename": "16-final-greenland-postcard.jpg",
+      "bytes": 251929,
+      "sha256": "ea5fe67d7fcb5d7aa2ea1882c67cdfd871a125d3a1b5324063023aeb1891c755"
+    },
+    {
+      "filename": "17-final-antarctica-quiz-retry.jpg",
+      "bytes": 74107,
+      "sha256": "63323ea77709957374a6ba78f6acf47a1b958163b8385248400accbe9772271c"
+    }
+  ]
+}

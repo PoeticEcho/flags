@@ -1,0 +1,20 @@
+{
+  "code": "SM",
+  "nameKo": "산마리노",
+  "filename": "san-marino-mount-titano.webp",
+  "landmark": "San Marino Historic Centre and Mount Titano",
+  "landmarkKo": "산마리노 구시가지와 티타노산",
+  "sources": [
+    "https://whc.unesco.org/en/list/1245/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for SM in a children's world atlas.\nPrimary request / scene: Mount Titano in San Marino: the medieval Guaita stone fortress with compact square keep, crenellated walls and small red roof structures stands on a steep limestone cliff in the foreground. A further small fortress tower is visible along the forested ridge in the middle distance. Historic stone town and warm green rolling countryside far below. Emphasize actual modest fortress forms and the ridge landscape, no giant fairy-tale castle or invented snowy Alps.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "san-marino-mount-titano.webp",
+  "inspection": "티타노산 바위 능선의 구아이타 요새와 떨어진 다음 탑, 아래쪽 구시가지와 전원 풍경을 확인했습니다.",
+  "originalFile": "SM.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/sm.webp",
+  "exportFile": "sm.webp"
+}

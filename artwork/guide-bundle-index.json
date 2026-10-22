@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-01",
+  "guideItemsCompleted": 45,
+  "newScenes": 41,
+  "reusedScenes": 4,
+  "appConnectedCountries": 197,
+  "backupImportPendingCountries": 0,
+  "browserReview": "pending",
+  "bundles": [
+    {
+      "filename": "country-postcards-guide-all45-20261001.zip",
+      "bytes": 34184676,
+      "sha256": "18f343a6e7f3279ba89651c9288a58f0cdfca9be60eaeee51a9bb6b97faa2272",
+      "saved": true,
+      "countries": 45
+    },
+    {
+      "filename": "country-postcards-guide-batch01-10-20261001.zip",
+      "bytes": 7248553,
+      "sha256": "7df3a5bb29f962704c772aac08a126c4302216bb747860a3b806afc0aa38ebf4",
+      "saved": true,
+      "countries": 10
+    },
+    {
+      "filename": "country-postcards-guide-batch02-10-20261001.zip",
+      "bytes": 7399171,
+      "sha256": "21646f6a9afebfd25fd9e12b99e07d2e8c4c25deca427376fa28624f033b087f",
+      "saved": true,
+      "countries": 10
+    },
+    {
+      "filename": "country-postcards-guide-batch03-10-20261001.zip",
+      "bytes": 8100603,
+      "sha256": "dcb04e96da917401a6d62190bfd987e302b42e0993c2b1b2ea7b106821e51610",
+      "saved": true,
+      "countries": 10
+    },
+    {
+      "filename": "country-postcards-guide-batch04-10-20261001.zip",
+      "bytes": 7851986,
+      "sha256": "6cc328530bdf9f8862e4a02c3fd2bb4eb57d54b34a5f9c34b8c0ebd454171572",
+      "saved": true,
+      "countries": 10
+    }
+  ],
+  "publishedVersion": 14,
+  "publishedAppSourceCommit": "b8b1f4375defebb02844f22529805b946001e3c6",
+  "publishedAtUtc": "2026-10-01T08:07:50.059909+00:00",
+  "currentAppVersion": 22,
+  "currentAppSourceCommit": "223216212949b862bb34431dee56241e8e8b8b2b",
+  "currentAppPublishedAtUtc": "2026-10-01T15:41:27.960671+00:00",
+  "sourceBackupFilename": "kids-world-atlas-v17-complete-20261001.zip",
+  "sourceBackupVersion": 17,
+  "sourceBackupSourceCommit": "5d56f4626301994c8f8cbaffba26e7014c3bace3"
+}

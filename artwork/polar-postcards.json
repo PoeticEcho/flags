@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "preparedAt": "2026-10-02",
+  "countryCount": 197,
+  "additionalDestinations": 2,
+  "explorationPlaceCount": 199,
+  "flags": [
+    {
+      "code": "GL",
+      "file": "/assets/polar-flags/gl-user.png",
+      "width": 1280,
+      "height": 854,
+      "bytes": 8753,
+      "sha256": "5f46750b24ef94a2d2896796de77babc0c46d11dd9f89839209450237734c3c2",
+      "origin": "user-supplied PNG; exact bytes preserved"
+    },
+    {
+      "code": "AQ",
+      "file": "/assets/polar-flags/aq-proposal-user.png",
+      "width": 1280,
+      "height": 854,
+      "bytes": 30178,
+      "sha256": "8e409aeed208f3f241c320bf7e7f495443ee27f56c34cacfba0ec482a617a9c0",
+      "origin": "user-supplied PNG; exact bytes preserved"
+    },
+    {
+      "code": "AQ",
+      "file": "/assets/polar-flags/aq-treaty-user.png",
+      "width": 1280,
+      "height": 854,
+      "bytes": 175658,
+      "sha256": "9525b835126799128e6b79a665e029652b1cf7a7bbc949e4cd447576725f46a0",
+      "origin": "user-supplied PNG; exact bytes preserved"
+    }
+  ],
+  "postcards": [
+    {
+      "code": "GL",
+      "origin": "built-in image_gen",
+      "width": 1536,
+      "height": 1024,
+      "original": "greenland-ilulissat-icefjord.png",
+      "originalBytes": 3339882,
+      "originalSha256": "4ee4f05ced54de4c74206cb63ffeaa9dfd859c1eeeed084fc6ddfc814bf97714",
+      "fullImage": "/assets/postcards/gl.webp",
+      "fullBytes": 663410,
+      "fullSha256": "d6520c81eaa26db06d5ec1dad5e436e20f47c93807939aa354d3a270e476d5ce",
+      "previewImage": "/assets/postcards/preview/gl.webp",
+      "previewWidth": 640,
+      "previewHeight": 427,
+      "previewBytes": 77668,
+      "previewSha256": "51e6e672e3f0e551079511f727a38b2c9586b2192799d5dc17a910c4559f7dc1",
+      "reviewedAt": "2026-10-02",
+      "inspection": "3:2 decoded and visually reviewed by parent. Greenland landforms are generalized, not an exact surveyed viewpoint. Antarctic scene includes five gentoo penguins, without polar bears or buildings."
+    },
+    {
+      "code": "AQ",
+      "origin": "built-in image_gen",
+      "width": 1536,
+      "height": 1024,
+      "original": "antarctica-peninsula-gentoo.png",
+      "originalBytes": 3593765,
+      "originalSha256": "7c56659db2f3dda481240261e27a4b63c1f773e49d8e2cf05922ef543561102f",
+      "fullImage": "/assets/postcards/aq.webp",
+      "fullBytes": 731726,
+      "fullSha256": "98b5c077198fd5ff5e0e05d71400f1d9a95b57aa89ecea5cd401dd2bc5a37479",
+      "previewImage": "/assets/postcards/preview/aq.webp",
+      "previewWidth": 640,
+      "previewHeight": 427,
+      "previewBytes": 78880,
+      "previewSha256": "717ffa43573a3d22808dea3968b6ae56246979e2da43e2ae8d0f48a1c8af2e55",
+      "reviewedAt": "2026-10-02",
+      "inspection": "3:2 decoded and visually reviewed by parent. Greenland landforms are generalized, not an exact surveyed viewpoint. Antarctic scene includes five gentoo penguins, without polar bears or buildings."
+    }
+  ],
+  "promptFile": "polar-postcard-prompts.json"
+}

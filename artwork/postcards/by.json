@@ -1,0 +1,17 @@
+{
+  "code": "BY",
+  "landmark": "Mir Castle Complex",
+  "landmarkKo": "미르성",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Belarus\nPrimary request: Mir Castle Complex with its distinctive red-brick and white-plaster towers beside its landscaped pond.\nSubject: Recognizable square-plan castle, strong multi-storey corner towers and gate tower, square lower tower sections and faceted upper sections under terracotta pyramidal roofs; rich red brick contrasted with white plaster recessed panels, arcades and palatial inner wings. Show only towers appropriate to the three-quarter viewpoint.\nScene/backdrop: Green park lawn and leafy trees, a calm pond in the foreground reflecting the castle, a grassy bank between water and castle, blue sky. This is a flat Belarusian park setting, not a mountaintop castle.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable landmark geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide scenic three-quarter view with the complete castle comfortably inside central 75% width and height, generous sky and pond around it for cropping.\nLighting/mood: Warm natural daylight, calm and inviting.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No round fairy-tale turrets, mountains, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/625/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: recognizable red-brick and white-plaster Mir Castle, strong corner towers with faceted upper sections and terracotta pyramidal roofs, green park and reflected pond. No readable text, country flags, UI or logos; tiny roof weather-vane silhouettes are present. Tall tower tops extend beyond the central 75% height; contain sizing preserves them.",
+  "originalFile": "BY-mir-castle.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/by.webp",
+  "exportFile": "by.webp"
+}

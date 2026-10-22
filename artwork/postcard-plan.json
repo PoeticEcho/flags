@@ -1,0 +1,5078 @@
+[
+  {
+    "number": 41,
+    "batch": 1,
+    "code": "AF",
+    "name": "Afghanistan",
+    "nameKo": "아프가니스탄",
+    "subject": "Minaret and Archaeological Remains of Jam",
+    "subjectKo": "잠의 미나레트와 고고 유적",
+    "capital": "Kabul",
+    "capitalKo": "카불",
+    "subregion": "Southern Asia",
+    "stories": [
+      {
+        "ko": "아프가니스탄은 아시아에 있어요. 수도는 카불예요.",
+        "en": "Afghanistan is in Asia. Its capital is Kabul."
+      },
+      {
+        "ko": "아프가니스탄은 바다와 직접 닿지 않는 내륙 나라예요. 이란, 파키스탄, 투르크메니스탄 등과 육지로 이어져요.",
+        "en": "Afghanistan is landlocked. Its land neighbours include Iran, Pakistan, Turkmenistan."
+      },
+      {
+        "ko": "잠의 미나레트와 고고 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Minaret and Archaeological Remains of Jam is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/af/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 42,
+    "batch": 1,
+    "code": "AL",
+    "name": "Albania",
+    "nameKo": "알바니아",
+    "subject": "Butrint",
+    "subjectKo": "부트린트 유적",
+    "capital": "Tirana",
+    "capitalKo": "티라나",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "알바니아는 유럽에 있어요. 수도는 티라나예요.",
+        "en": "Albania is in Europe. Its capital is Tirana."
+      },
+      {
+        "ko": "알바니아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 몬테네그로, 그리스, 북마케도니아 등이 있어요.",
+        "en": "Albania has a coast. Its land neighbours include Montenegro, Greece, North Macedonia."
+      },
+      {
+        "ko": "부트린트 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Butrint is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/al/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 43,
+    "batch": 1,
+    "code": "DZ",
+    "name": "Algeria",
+    "nameKo": "알제리",
+    "subject": "Kasbah of Algiers",
+    "subjectKo": "알제의 카스바",
+    "capital": "Algiers",
+    "capitalKo": "알제",
+    "subregion": "Northern Africa",
+    "stories": [
+      {
+        "ko": "알제리는 아프리카에 있어요. 수도는 알제예요.",
+        "en": "Algeria is in Africa. Its capital is Algiers."
+      },
+      {
+        "ko": "알제리에는 바다와 만나는 해안이 있어요. 육지 이웃에는 튀니지, 리비아, 니제르 등이 있어요.",
+        "en": "Algeria has a coast. Its land neighbours include Tunisia, Libya, Niger."
+      },
+      {
+        "ko": "알제의 카스바은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Kasbah of Algiers is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/dz/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 44,
+    "batch": 1,
+    "code": "AD",
+    "name": "Andorra",
+    "nameKo": "안도라",
+    "subject": "Madriu-Perafita-Claror Valley",
+    "subjectKo": "마드리우·페라피타·클라로 계곡",
+    "capital": "Andorra la Vella",
+    "capitalKo": "안도라라베야",
+    "subregion": "Southern Europe",
+    "stories": [
+      {
+        "ko": "안도라는 유럽에 있어요. 수도는 안도라라베야예요.",
+        "en": "Andorra is in Europe. Its capital is Andorra la Vella."
+      },
+      {
+        "ko": "안도라는 바다와 직접 닿지 않는 내륙 나라예요. 프랑스, 스페인 등과 육지로 이어져요.",
+        "en": "Andorra is landlocked. Its land neighbours include France, Spain."
+      },
+      {
+        "ko": "마드리우·페라피타·클라로 계곡은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Madriu-Perafita-Claror Valley is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ad/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 45,
+    "batch": 1,
+    "code": "AO",
+    "name": "Angola",
+    "nameKo": "앙골라",
+    "subject": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
+    "subjectKo": "옛 콩고 왕국의 수도 음반자콩고",
+    "capital": "Luanda",
+    "capitalKo": "루안다",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "앙골라는 아프리카에 있어요. 수도는 루안다예요.",
+        "en": "Angola is in Africa. Its capital is Luanda."
+      },
+      {
+        "ko": "앙골라에는 바다와 만나는 해안이 있어요. 육지 이웃에는 콩고, 콩고 민주 공화국, 잠비아 등이 있어요.",
+        "en": "Angola has a coast. Its land neighbours include Republic of the Congo, DR Congo, Zambia."
+      },
+      {
+        "ko": "옛 콩고 왕국의 수도 음반자콩고은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ao/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 46,
+    "batch": 1,
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "nameKo": "앤티가 바부다",
+    "subject": "Antigua Naval Dockyard and Related Archaeological Sites",
+    "subjectKo": "앤티가의 해군 조선소",
+    "capital": "Saint John's",
+    "capitalKo": "세인트존스",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "앤티가 바부다는 아메리카에 있어요. 수도는 세인트존스예요.",
+        "en": "Antigua and Barbuda is in Americas. Its capital is Saint John's."
+      },
+      {
+        "ko": "앤티가 바부다는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Antigua and Barbuda is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "앤티가의 해군 조선소은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Antigua Naval Dockyard and Related Archaeological Sites is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ag/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 47,
+    "batch": 1,
+    "code": "AM",
+    "name": "Armenia",
+    "nameKo": "아르메니아",
+    "subject": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+    "subjectKo": "에치미아진의 성당과 교회",
+    "capital": "Yerevan",
+    "capitalKo": "예레반",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "아르메니아는 아시아에 있어요. 수도는 예레반예요.",
+        "en": "Armenia is in Asia. Its capital is Yerevan."
+      },
+      {
+        "ko": "아르메니아는 바다와 직접 닿지 않는 내륙 나라예요. 아제르바이잔, 조지아, 이란 등과 육지로 이어져요.",
+        "en": "Armenia is landlocked. Its land neighbours include Azerbaijan, Georgia, Iran."
+      },
+      {
+        "ko": "에치미아진의 성당과 교회은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/am/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 48,
+    "batch": 1,
+    "code": "AT",
+    "name": "Austria",
+    "nameKo": "오스트리아",
+    "subject": "Historic Centre of Vienna",
+    "subjectKo": "빈의 역사 지구",
+    "capital": "Vienna",
+    "capitalKo": "빈",
+    "subregion": "Central Europe",
+    "stories": [
+      {
+        "ko": "오스트리아는 유럽에 있어요. 수도는 빈예요.",
+        "en": "Austria is in Europe. Its capital is Vienna."
+      },
+      {
+        "ko": "오스트리아는 바다와 직접 닿지 않는 내륙 나라예요. 체코, 독일, 헝가리 등과 육지로 이어져요.",
+        "en": "Austria is landlocked. Its land neighbours include Czechia, Germany, Hungary."
+      },
+      {
+        "ko": "빈의 역사 지구은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historic Centre of Vienna is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/at/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 49,
+    "batch": 1,
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "nameKo": "아제르바이잔",
+    "subject": "Walled City of Baku",
+    "subjectKo": "바쿠 성곽 도시",
+    "capital": "Baku",
+    "capitalKo": "바쿠",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "아제르바이잔은 아시아에 있어요. 수도는 바쿠예요.",
+        "en": "Azerbaijan is in Asia. Its capital is Baku."
+      },
+      {
+        "ko": "아제르바이잔은 바다와 직접 닿지 않는 내륙 나라예요. 아르메니아, 조지아, 이란 등과 육지로 이어져요.",
+        "en": "Azerbaijan is landlocked. Its land neighbours include Armenia, Georgia, Iran."
+      },
+      {
+        "ko": "바쿠 성곽 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Walled City of Baku is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/az/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 50,
+    "batch": 1,
+    "code": "BS",
+    "name": "Bahamas",
+    "nameKo": "바하마",
+    "subject": "Nassau and its surroundings",
+    "subjectKo": "나소와 주변 풍경",
+    "capital": "Nassau",
+    "capitalKo": "나소",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "바하마는 아메리카에 있어요. 수도는 나소예요.",
+        "en": "Bahamas is in Americas. Its capital is Nassau."
+      },
+      {
+        "ko": "바하마는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Bahamas is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 51,
+    "batch": 2,
+    "code": "BH",
+    "name": "Bahrain",
+    "nameKo": "바레인",
+    "subject": "Qal’at al-Bahrain",
+    "subjectKo": "바레인 요새",
+    "capital": "Manama",
+    "capitalKo": "마나마",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "바레인은 아시아에 있어요. 수도는 마나마예요.",
+        "en": "Bahrain is in Asia. Its capital is Manama."
+      },
+      {
+        "ko": "바레인은 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Bahrain is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "바레인 요새은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Qal’at al-Bahrain is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bh/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 52,
+    "batch": 2,
+    "code": "BB",
+    "name": "Barbados",
+    "nameKo": "바베이도스",
+    "subject": "Historic Bridgetown and its Garrison",
+    "subjectKo": "브리지타운 역사 지구",
+    "capital": "Bridgetown",
+    "capitalKo": "브리지타운",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "바베이도스는 아메리카에 있어요. 수도는 브리지타운예요.",
+        "en": "Barbados is in Americas. Its capital is Bridgetown."
+      },
+      {
+        "ko": "바베이도스는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Barbados is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "브리지타운 역사 지구은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historic Bridgetown and its Garrison is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bb/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 53,
+    "batch": 2,
+    "code": "BY",
+    "name": "Belarus",
+    "nameKo": "벨라루스",
+    "subject": "Mir Castle Complex",
+    "subjectKo": "미르성",
+    "capital": "Minsk",
+    "capitalKo": "민스크",
+    "subregion": "Eastern Europe",
+    "stories": [
+      {
+        "ko": "벨라루스는 유럽에 있어요. 수도는 민스크예요.",
+        "en": "Belarus is in Europe. Its capital is Minsk."
+      },
+      {
+        "ko": "벨라루스는 바다와 직접 닿지 않는 내륙 나라예요. 라트비아, 리투아니아, 폴란드 등과 육지로 이어져요.",
+        "en": "Belarus is landlocked. Its land neighbours include Latvia, Lithuania, Poland."
+      },
+      {
+        "ko": "미르성은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Mir Castle Complex is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/by/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 54,
+    "batch": 2,
+    "code": "BE",
+    "name": "Belgium",
+    "nameKo": "벨기에",
+    "subject": "La Grand-Place, Brussels",
+    "subjectKo": "브뤼셀의 그랑플라스",
+    "capital": "Brussels",
+    "capitalKo": "브뤼셀",
+    "subregion": "Western Europe",
+    "stories": [
+      {
+        "ko": "벨기에는 유럽에 있어요. 수도는 브뤼셀예요.",
+        "en": "Belgium is in Europe. Its capital is Brussels."
+      },
+      {
+        "ko": "벨기에에는 바다와 만나는 해안이 있어요. 육지 이웃에는 프랑스, 독일, 룩셈부르크 등이 있어요.",
+        "en": "Belgium has a coast. Its land neighbours include France, Germany, Luxembourg."
+      },
+      {
+        "ko": "브뤼셀의 그랑플라스은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "La Grand-Place, Brussels is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/be/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 55,
+    "batch": 2,
+    "code": "BZ",
+    "name": "Belize",
+    "nameKo": "벨리즈",
+    "subject": "Belize Barrier Reef Reserve System",
+    "subjectKo": "벨리즈 산호초 보호 구역",
+    "capital": "Belmopan",
+    "capitalKo": "벨모판",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "벨리즈는 아메리카에 있어요. 수도는 벨모판예요.",
+        "en": "Belize is in Americas. Its capital is Belmopan."
+      },
+      {
+        "ko": "벨리즈에는 바다와 만나는 해안이 있어요. 육지 이웃에는 과테말라, 멕시코 등이 있어요.",
+        "en": "Belize has a coast. Its land neighbours include Guatemala, Mexico."
+      },
+      {
+        "ko": "벨리즈 산호초 보호 구역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Belize Barrier Reef Reserve System is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bz/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 56,
+    "batch": 2,
+    "code": "BJ",
+    "name": "Benin",
+    "nameKo": "베냉",
+    "subject": "Royal Palaces of Abomey",
+    "subjectKo": "아보메 왕궁",
+    "capital": "Porto-Novo",
+    "capitalKo": "포르토노보",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "포르토노보가 공식 수도이고, 많은 정부 기관은 코토누에 있어요.",
+        "en": "Porto-Novo is the official capital; many government offices are in Cotonou."
+      },
+      {
+        "ko": "베냉에는 바다와 만나는 해안이 있어요. 육지 이웃에는 부르키나파소, 니제르, 나이지리아 등이 있어요.",
+        "en": "Benin has a coast. Its land neighbours include Burkina Faso, Niger, Nigeria."
+      },
+      {
+        "ko": "아보메 왕궁은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Royal Palaces of Abomey is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bj/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 57,
+    "batch": 2,
+    "code": "BT",
+    "name": "Bhutan",
+    "nameKo": "부탄",
+    "subject": "Thimphu and its surroundings",
+    "subjectKo": "팀푸와 주변 풍경",
+    "capital": "Thimphu",
+    "capitalKo": "팀푸",
+    "subregion": "Southern Asia",
+    "stories": [
+      {
+        "ko": "부탄은 아시아에 있어요. 수도는 팀푸예요.",
+        "en": "Bhutan is in Asia. Its capital is Thimphu."
+      },
+      {
+        "ko": "부탄은 바다와 직접 닿지 않는 내륙 나라예요. 중국, 인도 등과 육지로 이어져요.",
+        "en": "Bhutan is landlocked. Its land neighbours include China, India."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 종카어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Dzongkha. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 58,
+    "batch": 2,
+    "code": "BO",
+    "name": "Bolivia",
+    "nameKo": "볼리비아",
+    "subject": "City of Potosí",
+    "subjectKo": "포토시 광산 도시",
+    "capital": "Sucre",
+    "capitalKo": "수크레",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "볼리비아의 헌법상 수도는 수크레예요. 정부와 의회는 라파스에 있어서 두 도시의 역할을 나누어 알아두어요.",
+        "en": "Sucre is Bolivia’s constitutional capital. The government and parliament are in La Paz, so the two cities have different roles."
+      },
+      {
+        "ko": "수크레 역사 지구에는 흰 벽의 건물과 오래된 광장·교회가 남아 있어요. 이곳은 유네스코 세계유산이에요.",
+        "en": "Sucre’s UNESCO-listed historic centre preserves white-walled buildings, squares and churches."
+      },
+      {
+        "ko": "티와나쿠 유적은 안데스 지역에서 번성했던 옛 문명의 흔적이에요. 돌로 만든 건축물과 조각을 볼 수 있어요.",
+        "en": "Tiwanaku preserves an ancient Andean civilisation, with stone buildings and carvings."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/566/",
+      "https://whc.unesco.org/en/list/567/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bo/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 32
+  },
+  {
+    "number": 59,
+    "batch": 2,
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "nameKo": "보스니아 헤르체고비나",
+    "subject": "Old Bridge Area of the Old City of Mostar",
+    "subjectKo": "모스타르의 옛 다리 지역",
+    "capital": "Sarajevo",
+    "capitalKo": "사라예보",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "보스니아 헤르체고비나는 유럽에 있어요. 수도는 사라예보예요.",
+        "en": "Bosnia and Herzegovina is in Europe. Its capital is Sarajevo."
+      },
+      {
+        "ko": "보스니아 헤르체고비나에는 바다와 만나는 해안이 있어요. 육지 이웃에는 크로아티아, 몬테네그로, 세르비아 등이 있어요.",
+        "en": "Bosnia and Herzegovina has a coast. Its land neighbours include Croatia, Montenegro, Serbia."
+      },
+      {
+        "ko": "모스타르의 옛 다리 지역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Old Bridge Area of the Old City of Mostar is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ba/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 60,
+    "batch": 2,
+    "code": "BW",
+    "name": "Botswana",
+    "nameKo": "보츠와나",
+    "subject": "Okavango Delta",
+    "subjectKo": "오카방고 델타",
+    "capital": "Gaborone",
+    "capitalKo": "가보로네",
+    "subregion": "Southern Africa",
+    "stories": [
+      {
+        "ko": "보츠와나의 수도는 가보로네예요. 바다와 직접 닿지 않는 남부 아프리카의 내륙 나라예요.",
+        "en": "Gaborone is Botswana’s capital. Botswana is a landlocked country in southern Africa."
+      },
+      {
+        "ko": "오카방고 삼각주는 강물이 바다까지 가지 않고 내륙에 펼쳐지는 습지예요. 건기에도 물이 들어와 많은 동물이 모여요.",
+        "en": "The Okavango Delta is an inland wetland whose waters do not reach the sea. Floods arrive during the dry season and support many animals."
+      },
+      {
+        "ko": "초딜로 언덕에는 오래된 바위 그림이 남아 있어요. 그림과 유적은 이 지역 사람들의 오랜 역사를 보여줘요.",
+        "en": "The Tsodilo Hills preserve ancient rock paintings and archaeological sites that tell the region’s long human history."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/1432/",
+      "https://whc.unesco.org/en/list/1021/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bw/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 42
+  },
+  {
+    "number": 61,
+    "batch": 3,
+    "code": "BN",
+    "name": "Brunei",
+    "nameKo": "브루나이",
+    "subject": "Bandar Seri Begawan and its surroundings",
+    "subjectKo": "반다르스리브가완와 주변 풍경",
+    "capital": "Bandar Seri Begawan",
+    "capitalKo": "반다르스리브가완",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "브루나이는 아시아에 있어요. 수도는 반다르스리브가완예요.",
+        "en": "Brunei is in Asia. Its capital is Bandar Seri Begawan."
+      },
+      {
+        "ko": "브루나이에는 바다와 만나는 해안이 있어요. 육지 이웃에는 말레이시아 등이 있어요.",
+        "en": "Brunei has a coast. Its land neighbours include Malaysia."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 말레이어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Malay. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 62,
+    "batch": 3,
+    "code": "BG",
+    "name": "Bulgaria",
+    "nameKo": "불가리아",
+    "subject": "Rila Monastery",
+    "subjectKo": "릴라 수도원",
+    "capital": "Sofia",
+    "capitalKo": "소피아",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "불가리아는 유럽에 있어요. 수도는 소피아예요.",
+        "en": "Bulgaria is in Europe. Its capital is Sofia."
+      },
+      {
+        "ko": "불가리아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 그리스, 북마케도니아, 루마니아 등이 있어요.",
+        "en": "Bulgaria has a coast. Its land neighbours include Greece, North Macedonia, Romania."
+      },
+      {
+        "ko": "릴라 수도원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Rila Monastery is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bg/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 63,
+    "batch": 3,
+    "code": "BF",
+    "name": "Burkina Faso",
+    "nameKo": "부르키나파소",
+    "subject": "Royal Court of Tiébélé",
+    "subjectKo": "티에벨레 왕실 마을",
+    "capital": "Ouagadougou",
+    "capitalKo": "와가두구",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "부르키나파소는 아프리카에 있어요. 수도는 와가두구예요.",
+        "en": "Burkina Faso is in Africa. Its capital is Ouagadougou."
+      },
+      {
+        "ko": "부르키나파소는 바다와 직접 닿지 않는 내륙 나라예요. 베냉, 코트디부아르, 가나 등과 육지로 이어져요.",
+        "en": "Burkina Faso is landlocked. Its land neighbours include Benin, Ivory Coast, Ghana."
+      },
+      {
+        "ko": "티에벨레 왕실 마을은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Royal Court of Tiébélé is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/bf/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 64,
+    "batch": 3,
+    "code": "BI",
+    "name": "Burundi",
+    "nameKo": "부룬디",
+    "subject": "Gitega and its surroundings",
+    "subjectKo": "기테가와 주변 풍경",
+    "capital": "Gitega",
+    "capitalKo": "기테가",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "부룬디는 아프리카에 있어요. 수도는 기테가예요.",
+        "en": "Burundi is in Africa. Its capital is Gitega."
+      },
+      {
+        "ko": "부룬디는 바다와 직접 닿지 않는 내륙 나라예요. 콩고 민주 공화국, 르완다, 탄자니아 등과 육지로 이어져요.",
+        "en": "Burundi is landlocked. Its land neighbours include DR Congo, Rwanda, Tanzania."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 프랑스어, 키룬디어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include French, Kirundi. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 65,
+    "batch": 3,
+    "code": "KH",
+    "name": "Cambodia",
+    "nameKo": "캄보디아",
+    "subject": "Angkor",
+    "subjectKo": "앙코르 유적",
+    "capital": "Phnom Penh",
+    "capitalKo": "프놈펜",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "캄보디아는 아시아에 있어요. 수도는 프놈펜예요.",
+        "en": "Cambodia is in Asia. Its capital is Phnom Penh."
+      },
+      {
+        "ko": "캄보디아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 라오스, 태국, 베트남 등이 있어요.",
+        "en": "Cambodia has a coast. Its land neighbours include Laos, Thailand, Vietnam."
+      },
+      {
+        "ko": "앙코르 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Angkor is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/kh/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 66,
+    "batch": 3,
+    "code": "CM",
+    "name": "Cameroon",
+    "nameKo": "카메룬",
+    "subject": "Dja Faunal Reserve",
+    "subjectKo": "자 동물 보호 구역",
+    "capital": "Yaoundé",
+    "capitalKo": "야운데",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "카메룬은 아프리카에 있어요. 수도는 야운데예요.",
+        "en": "Cameroon is in Africa. Its capital is Yaoundé."
+      },
+      {
+        "ko": "카메룬에는 바다와 만나는 해안이 있어요. 육지 이웃에는 중앙아프리카 공화국, 차드, 콩고 등이 있어요.",
+        "en": "Cameroon has a coast. Its land neighbours include Central African Republic, Chad, Republic of the Congo."
+      },
+      {
+        "ko": "자 동물 보호 구역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Dja Faunal Reserve is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 67,
+    "batch": 3,
+    "code": "CV",
+    "name": "Cape Verde",
+    "nameKo": "카보베르데",
+    "subject": "Cidade Velha, Historic Centre of Ribeira Grande",
+    "subjectKo": "시다드벨랴의 옛 도시 중심지",
+    "capital": "Praia",
+    "capitalKo": "프라이아",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "카보베르데는 아프리카에 있어요. 수도는 프라이아예요.",
+        "en": "Cape Verde is in Africa. Its capital is Praia."
+      },
+      {
+        "ko": "카보베르데는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Cape Verde is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "시다드벨랴의 옛 도시 중심지은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Cidade Velha, Historic Centre of Ribeira Grande is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cv/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 68,
+    "batch": 3,
+    "code": "CF",
+    "name": "Central African Republic",
+    "nameKo": "중앙아프리카 공화국",
+    "subject": "Sangha Trinational",
+    "subjectKo": "상가강의 삼국 국립공원 지역",
+    "capital": "Bangui",
+    "capitalKo": "방기",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "중앙아프리카 공화국은 아프리카에 있어요. 수도는 방기예요.",
+        "en": "Central African Republic is in Africa. Its capital is Bangui."
+      },
+      {
+        "ko": "중앙아프리카 공화국은 바다와 직접 닿지 않는 내륙 나라예요. 카메룬, 차드, 콩고 민주 공화국 등과 육지로 이어져요.",
+        "en": "Central African Republic is landlocked. Its land neighbours include Cameroon, Chad, DR Congo."
+      },
+      {
+        "ko": "상가강의 삼국 국립공원 지역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Sangha Trinational is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cf/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 69,
+    "batch": 3,
+    "code": "TD",
+    "name": "Chad",
+    "nameKo": "차드",
+    "subject": "Ennedi Massif: Natural and Cultural Landscape",
+    "subjectKo": "엔네디의 자연과 문화 경관",
+    "capital": "N'Djamena",
+    "capitalKo": "은자메나",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "차드는 아프리카에 있어요. 수도는 은자메나예요.",
+        "en": "Chad is in Africa. Its capital is N'Djamena."
+      },
+      {
+        "ko": "차드는 바다와 직접 닿지 않는 내륙 나라예요. 카메룬, 중앙아프리카 공화국, 리비아 등과 육지로 이어져요.",
+        "en": "Chad is landlocked. Its land neighbours include Cameroon, Central African Republic, Libya."
+      },
+      {
+        "ko": "엔네디의 자연과 문화 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Ennedi Massif: Natural and Cultural Landscape is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/td/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 70,
+    "batch": 3,
+    "code": "KM",
+    "name": "Comoros",
+    "nameKo": "코모로",
+    "subject": "The Medinas of the Historic Sultanates of the Comoros",
+    "subjectKo": "코모로의 역사적인 술탄 도시",
+    "capital": "Moroni",
+    "capitalKo": "모로니",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "코모로는 아프리카에 있어요. 수도는 모로니예요.",
+        "en": "Comoros is in Africa. Its capital is Moroni."
+      },
+      {
+        "ko": "코모로는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Comoros is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "코모로의 역사적인 술탄 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "The Medinas of the Historic Sultanates of the Comoros is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/km/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 71,
+    "batch": 4,
+    "code": "CR",
+    "name": "Costa Rica",
+    "nameKo": "코스타리카",
+    "subject": "Cocos Island National Park",
+    "subjectKo": "코코섬 국립공원",
+    "capital": "San José",
+    "capitalKo": "산호세",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "코스타리카의 수도는 산호세예요. 코스타리카는 중앙아메리카에 있으며 북아메리카에 속해요.",
+        "en": "San José is Costa Rica’s capital. Costa Rica is in Central America, which is part of North America."
+      },
+      {
+        "ko": "열대 숲과 국립공원에는 나무늘보·원숭이·여러 새처럼 다양한 동물이 살아요. 자연을 지키는 보호 구역도 있어요.",
+        "en": "Costa Rica’s tropical forests and national parks shelter sloths, monkeys and many birds. Protected areas help conserve this wildlife."
+      },
+      {
+        "ko": "디키스 지역에는 옛사람들이 돌을 깎아 만든 커다란 구체가 있어요. 돌 구체가 있는 유적은 세계유산으로 보호해요.",
+        "en": "The Diquís region has large stone spheres made by earlier communities. Archaeological sites with these spheres are protected as World Heritage."
+      }
+    ],
+    "sources": [
+      "https://www.visitcostarica.com/where-to-go/central-pacific",
+      "https://whc.unesco.org/en/list/1453/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cr/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 29
+  },
+  {
+    "number": 72,
+    "batch": 4,
+    "code": "HR",
+    "name": "Croatia",
+    "nameKo": "크로아티아",
+    "subject": "Old City of Dubrovnik",
+    "subjectKo": "두브로브니크 구시가지",
+    "capital": "Zagreb",
+    "capitalKo": "자그레브",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "크로아티아는 유럽에 있어요. 수도는 자그레브예요.",
+        "en": "Croatia is in Europe. Its capital is Zagreb."
+      },
+      {
+        "ko": "크로아티아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 보스니아 헤르체고비나, 헝가리, 몬테네그로 등이 있어요.",
+        "en": "Croatia has a coast. Its land neighbours include Bosnia and Herzegovina, Hungary, Montenegro."
+      },
+      {
+        "ko": "두브로브니크 구시가지은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Old City of Dubrovnik is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/hr/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 73,
+    "batch": 4,
+    "code": "CU",
+    "name": "Cuba",
+    "nameKo": "쿠바",
+    "subject": "Old Havana and its Fortification System",
+    "subjectKo": "아바나 구시가지",
+    "capital": "Havana",
+    "capitalKo": "아바나",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "쿠바의 수도는 아바나예요. 올드 아바나에는 오래된 광장과 요새, 여러 시대의 건물이 남아 있어요.",
+        "en": "Havana is Cuba’s capital. Old Havana preserves historic squares, fortifications and buildings from different periods."
+      },
+      {
+        "ko": "비냘레스 계곡에는 모고테라고 부르는 둥근 석회암 봉우리들이 솟아 있어요. 산 사이에는 농촌 마을과 들판이 있어요.",
+        "en": "Viñales Valley has rounded limestone hills called mogotes, with farming villages and fields between them."
+      },
+      {
+        "ko": "쿠바는 카리브해 지역의 섬나라예요. 아바나 구시가지와 비냘레스 계곡은 유네스코 세계유산이에요.",
+        "en": "Cuba is an island country in the Caribbean. Old Havana and Viñales Valley are UNESCO World Heritage sites."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/204/",
+      "https://whc.unesco.org/en/list/840/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cu/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 30
+  },
+  {
+    "number": 74,
+    "batch": 4,
+    "code": "CY",
+    "name": "Cyprus",
+    "nameKo": "키프로스",
+    "subject": "Choirokoitia",
+    "subjectKo": "고대 마을 유적 키로키티아",
+    "capital": "Nicosia",
+    "capitalKo": "니코시아",
+    "subregion": "Southern Europe",
+    "stories": [
+      {
+        "ko": "키프로스는 유럽에 있어요. 수도는 니코시아예요.",
+        "en": "Cyprus is in Europe. Its capital is Nicosia."
+      },
+      {
+        "ko": "키프로스는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Cyprus is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "고대 마을 유적 키로키티아은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Choirokoitia is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cy/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 75,
+    "batch": 4,
+    "code": "CZ",
+    "name": "Czechia",
+    "nameKo": "체코",
+    "subject": "Historic Centre of Prague",
+    "subjectKo": "프라하 역사 지구",
+    "capital": "Prague",
+    "capitalKo": "프라하",
+    "subregion": "Central Europe",
+    "stories": [
+      {
+        "ko": "체코의 수도는 프라하예요. 블타바강이 도시를 지나고, 강 양쪽에 오래된 건물이 자리해요.",
+        "en": "Prague is Czechia’s capital. The Vltava River flows through the city, with historic buildings on both banks."
+      },
+      {
+        "ko": "카를교는 블타바강을 건너는 오래된 돌다리예요. 다리에서 프라하성과 도시의 탑들을 바라볼 수 있어요.",
+        "en": "Charles Bridge is a historic stone bridge across the Vltava. It offers views of Prague Castle and the city’s towers."
+      },
+      {
+        "ko": "프라하 역사 지구에는 고딕·르네상스·바로크 시대의 건물이 함께 남아 있어요. 이곳은 유네스코 세계유산이에요.",
+        "en": "Prague’s UNESCO-listed historic centre preserves Gothic, Renaissance and Baroque buildings together."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/616/",
+      "https://prague.eu/en/objevujte/charles-bridge-karluv-most/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cz/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 21
+  },
+  {
+    "number": 76,
+    "batch": 4,
+    "code": "DK",
+    "name": "Denmark",
+    "nameKo": "덴마크",
+    "subject": "Kronborg Castle",
+    "subjectKo": "크론보르성",
+    "capital": "Copenhagen",
+    "capitalKo": "코펜하겐",
+    "subregion": "Northern Europe",
+    "stories": [
+      {
+        "ko": "덴마크의 수도는 코펜하겐이에요. 뉘하운 항구에는 여러 색의 집들과 배가 나란히 있어요.",
+        "en": "Copenhagen is Denmark’s capital. Nyhavn harbour is lined with colourful houses and boats."
+      },
+      {
+        "ko": "안데르센은 덴마크의 동화 작가예요. 코펜하겐의 인어공주 동상은 그의 동화에서 영감을 받았어요.",
+        "en": "Hans Christian Andersen was a Danish storyteller. Copenhagen’s Little Mermaid statue was inspired by his fairy tale."
+      },
+      {
+        "ko": "코펜하겐에서는 자전거로 학교나 일터에 가는 사람들이 많아요. 도시에는 자전거를 위한 길이 잘 이어져 있어요.",
+        "en": "Many people in Copenhagen cycle to school or work, using the city’s connected cycling routes."
+      }
+    ],
+    "sources": [
+      "https://www.visitdenmark.com/denmark/plan-your-trip/nyhavn-harbour-gdk426287",
+      "https://www.visitdenmark.com/denmark/plan-your-trip/the-little-mermaid-gdk586951",
+      "https://www.visitcopenhagen.com/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/dk/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 14
+  },
+  {
+    "number": 77,
+    "batch": 4,
+    "code": "DJ",
+    "name": "Djibouti",
+    "nameKo": "지부티",
+    "subject": "Djibouti and its surroundings",
+    "subjectKo": "지부티와 주변 풍경",
+    "capital": "Djibouti",
+    "capitalKo": "지부티",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "지부티는 아프리카에 있어요. 수도는 지부티예요.",
+        "en": "Djibouti is in Africa. Its capital is Djibouti."
+      },
+      {
+        "ko": "지부티에는 바다와 만나는 해안이 있어요. 육지 이웃에는 에리트레아, 에티오피아, 소말리아 등이 있어요.",
+        "en": "Djibouti has a coast. Its land neighbours include Eritrea, Ethiopia, Somalia."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 아랍어, 프랑스어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Arabic, French. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 78,
+    "batch": 4,
+    "code": "DM",
+    "name": "Dominica",
+    "nameKo": "도미니카 연방",
+    "subject": "Morne Trois Pitons National Park",
+    "subjectKo": "모른트루아피통 국립공원",
+    "capital": "Roseau",
+    "capitalKo": "로조",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "도미니카 연방은 아메리카에 있어요. 수도는 로조예요.",
+        "en": "Dominica is in Americas. Its capital is Roseau."
+      },
+      {
+        "ko": "도미니카 연방은 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Dominica is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "모른트루아피통 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Morne Trois Pitons National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/dm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 79,
+    "batch": 4,
+    "code": "DO",
+    "name": "Dominican Republic",
+    "nameKo": "도미니카 공화국",
+    "subject": "Colonial City of Santo Domingo",
+    "subjectKo": "산토도밍고의 옛 도시",
+    "capital": "Santo Domingo",
+    "capitalKo": "산토도밍고",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "도미니카공화국의 수도는 산토도밍고예요. 오사마강 하구에 오래된 도시 중심지가 자리해요.",
+        "en": "Santo Domingo is the Dominican Republic’s capital. Its historic centre stands near the mouth of the Ozama River."
+      },
+      {
+        "ko": "도미니카공화국은 카리브해의 이스파니올라섬을 아이티와 나누고 있어요. 도미니카 연방과는 다른 나라예요.",
+        "en": "The Dominican Republic shares the Caribbean island of Hispaniola with Haiti. It is a different country from Dominica."
+      },
+      {
+        "ko": "메렝게는 도미니카공화국의 음악과 춤이에요. 축제와 모임에서 함께 즐기며 전통을 이어가요.",
+        "en": "Merengue is music and dance from the Dominican Republic, shared at festivals and gatherings."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/526/",
+      "https://ich.unesco.org/en/RL/music-and-dance-of-the-merengue-in-the-dominican-republic-01162",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/do/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 28
+  },
+  {
+    "number": 80,
+    "batch": 4,
+    "code": "CD",
+    "name": "DR Congo",
+    "nameKo": "콩고 민주 공화국",
+    "subject": "Virunga National Park",
+    "subjectKo": "비룽가 국립공원",
+    "capital": "Kinshasa",
+    "capitalKo": "킨샤사",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "콩고 민주 공화국은 아프리카에 있어요. 수도는 킨샤사예요.",
+        "en": "DR Congo is in Africa. Its capital is Kinshasa."
+      },
+      {
+        "ko": "콩고 민주 공화국에는 바다와 만나는 해안이 있어요. 육지 이웃에는 앙골라, 부룬디, 중앙아프리카 공화국 등이 있어요.",
+        "en": "DR Congo has a coast. Its land neighbours include Angola, Burundi, Central African Republic."
+      },
+      {
+        "ko": "비룽가 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Virunga National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cd/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 81,
+    "batch": 5,
+    "code": "EC",
+    "name": "Ecuador",
+    "nameKo": "에콰도르",
+    "subject": "Galápagos Islands",
+    "subjectKo": "갈라파고스 제도",
+    "capital": "Quito",
+    "capitalKo": "키토",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "에콰도르는 아메리카에 있어요. 수도는 키토예요.",
+        "en": "Ecuador is in Americas. Its capital is Quito."
+      },
+      {
+        "ko": "에콰도르에는 바다와 만나는 해안이 있어요. 육지 이웃에는 콜롬비아, 페루 등이 있어요.",
+        "en": "Ecuador has a coast. Its land neighbours include Colombia, Peru."
+      },
+      {
+        "ko": "갈라파고스 제도은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Galápagos Islands is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ec/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 82,
+    "batch": 5,
+    "code": "SV",
+    "name": "El Salvador",
+    "nameKo": "엘살바도르",
+    "subject": "Joya de Cerén Archaeological Site",
+    "subjectKo": "호야데세렌의 고고 유적",
+    "capital": "San Salvador",
+    "capitalKo": "산살바도르",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "엘살바도르는 아메리카에 있어요. 수도는 산살바도르예요.",
+        "en": "El Salvador is in Americas. Its capital is San Salvador."
+      },
+      {
+        "ko": "엘살바도르에는 바다와 만나는 해안이 있어요. 육지 이웃에는 과테말라, 온두라스 등이 있어요.",
+        "en": "El Salvador has a coast. Its land neighbours include Guatemala, Honduras."
+      },
+      {
+        "ko": "호야데세렌의 고고 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Joya de Cerén Archaeological Site is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sv/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 83,
+    "batch": 5,
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "nameKo": "적도 기니",
+    "subject": "Ciudad de la Paz and its surroundings",
+    "subjectKo": "시우다드데라파스와 주변 풍경",
+    "capital": "Ciudad de la Paz",
+    "capitalKo": "시우다드데라파스",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "2026년 1월에 수도가 말라보에서 시우다드데라파스로 바뀌었어요.",
+        "en": "In January 2026, Ciudad de la Paz replaced Malabo as the capital."
+      },
+      {
+        "ko": "적도 기니에는 바다와 만나는 해안이 있어요. 육지 이웃에는 카메룬, 가봉 등이 있어요.",
+        "en": "Equatorial Guinea has a coast. Its land neighbours include Cameroon, Gabon."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 프랑스어, 포르투갈어, 스페인어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include French, Portuguese, Spanish. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://www.guineaecuatorialpress.com/noticias/decreto_ley_por_el_que_se_declara_la_ciudad_de_la_paz_djibloho_capital_de_la_republica_de_guinea_ecuatorial"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 84,
+    "batch": 5,
+    "code": "ER",
+    "name": "Eritrea",
+    "nameKo": "에리트레아",
+    "subject": "Asmara: A Modernist African City",
+    "subjectKo": "아스마라의 근대 도시 경관",
+    "capital": "Asmara",
+    "capitalKo": "아스마라",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "에리트레아는 아프리카에 있어요. 수도는 아스마라예요.",
+        "en": "Eritrea is in Africa. Its capital is Asmara."
+      },
+      {
+        "ko": "에리트레아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 지부티, 에티오피아, 수단 등이 있어요.",
+        "en": "Eritrea has a coast. Its land neighbours include Djibouti, Ethiopia, Sudan."
+      },
+      {
+        "ko": "아스마라의 근대 도시 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Asmara: A Modernist African City is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/er/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 85,
+    "batch": 5,
+    "code": "EE",
+    "name": "Estonia",
+    "nameKo": "에스토니아",
+    "subject": "Historic Centre (Old Town) of Tallinn",
+    "subjectKo": "탈린 구시가지",
+    "capital": "Tallinn",
+    "capitalKo": "탈린",
+    "subregion": "Northern Europe",
+    "stories": [
+      {
+        "ko": "에스토니아는 유럽에 있어요. 수도는 탈린예요.",
+        "en": "Estonia is in Europe. Its capital is Tallinn."
+      },
+      {
+        "ko": "에스토니아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 라트비아, 러시아 등이 있어요.",
+        "en": "Estonia has a coast. Its land neighbours include Latvia, Russia."
+      },
+      {
+        "ko": "탈린 구시가지은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historic Centre (Old Town) of Tallinn is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ee/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 86,
+    "batch": 5,
+    "code": "SZ",
+    "name": "Eswatini",
+    "nameKo": "에스와티니",
+    "subject": "Mbabane and its surroundings",
+    "subjectKo": "음바바네와 주변 풍경",
+    "capital": "Mbabane",
+    "capitalKo": "음바바네",
+    "subregion": "Southern Africa",
+    "stories": [
+      {
+        "ko": "음바바네는 행정 수도이고, 로밤바에는 왕실과 의회가 있어요.",
+        "en": "Mbabane is the administrative capital; Lobamba is the royal and legislative centre."
+      },
+      {
+        "ko": "에스와티니는 바다와 직접 닿지 않는 내륙 나라예요. 모잠비크, 남아프리카 등과 육지로 이어져요.",
+        "en": "Eswatini is landlocked. Its land neighbours include Mozambique, South Africa."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어, 스와티어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English, Swazi. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 87,
+    "batch": 5,
+    "code": "ET",
+    "name": "Ethiopia",
+    "nameKo": "에티오피아",
+    "subject": "Rock-Hewn Churches, Lalibela",
+    "subjectKo": "랄리벨라의 바위 교회",
+    "capital": "Addis Ababa",
+    "capitalKo": "아디스아바바",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "에티오피아의 수도는 아디스아바바예요. 에티오피아에는 높은 고원과 오래된 문화 유적이 있어요.",
+        "en": "Addis Ababa is Ethiopia’s capital. Ethiopia has highlands and historic cultural sites."
+      },
+      {
+        "ko": "랄리벨라의 교회들은 큰 바위를 깎아 만들었어요. 건물과 통로를 바위 속에서 파낸 독특한 유적이에요.",
+        "en": "Lalibela’s churches were carved from solid rock, with buildings and passageways cut into the stone."
+      },
+      {
+        "ko": "야유 생물권보전지역에는 야생 아라비카 커피가 자라는 산지 숲이 있어요. 커피와 여러 생물의 터전을 함께 지켜요.",
+        "en": "Yayu Biosphere Reserve protects mountain rainforest with wild Arabica coffee and many other living things."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/18/",
+      "https://www.unesco.org/en/mab/yayu?hub=66369",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/et/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 43
+  },
+  {
+    "number": 88,
+    "batch": 5,
+    "code": "FJ",
+    "name": "Fiji",
+    "nameKo": "피지",
+    "subject": "Levuka Historical Port Town",
+    "subjectKo": "레부카의 역사적인 항구 도시",
+    "capital": "Suva",
+    "capitalKo": "수바",
+    "subregion": "Melanesia",
+    "stories": [
+      {
+        "ko": "피지는 오세아니아에 있어요. 수도는 수바예요.",
+        "en": "Fiji is in Oceania. Its capital is Suva."
+      },
+      {
+        "ko": "피지는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Fiji is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "레부카의 역사적인 항구 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Levuka Historical Port Town is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/fj/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 89,
+    "batch": 5,
+    "code": "GA",
+    "name": "Gabon",
+    "nameKo": "가봉",
+    "subject": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+    "subjectKo": "로페·오칸다의 생태와 문화 경관",
+    "capital": "Libreville",
+    "capitalKo": "리브르빌",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "가봉은 아프리카에 있어요. 수도는 리브르빌예요.",
+        "en": "Gabon is in Africa. Its capital is Libreville."
+      },
+      {
+        "ko": "가봉에는 바다와 만나는 해안이 있어요. 육지 이웃에는 카메룬, 콩고, 적도 기니 등이 있어요.",
+        "en": "Gabon has a coast. Its land neighbours include Cameroon, Republic of the Congo, Equatorial Guinea."
+      },
+      {
+        "ko": "로페·오칸다의 생태와 문화 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ga/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 90,
+    "batch": 5,
+    "code": "GM",
+    "name": "Gambia",
+    "nameKo": "감비아",
+    "subject": "Kunta Kinteh Island and Related Sites",
+    "subjectKo": "쿤타킨테 섬과 관련 유적",
+    "capital": "Banjul",
+    "capitalKo": "반줄",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "감비아는 아프리카에 있어요. 수도는 반줄예요.",
+        "en": "Gambia is in Africa. Its capital is Banjul."
+      },
+      {
+        "ko": "감비아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 세네갈 등이 있어요.",
+        "en": "Gambia has a coast. Its land neighbours include Senegal."
+      },
+      {
+        "ko": "쿤타킨테 섬과 관련 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Kunta Kinteh Island and Related Sites is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/gm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 91,
+    "batch": 6,
+    "code": "GE",
+    "name": "Georgia",
+    "nameKo": "조지아",
+    "subject": "Historical Monuments of Mtskheta",
+    "subjectKo": "므츠헤타의 역사 유적",
+    "capital": "Tbilisi",
+    "capitalKo": "트빌리시",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "조지아는 아시아에 있어요. 수도는 트빌리시예요.",
+        "en": "Georgia is in Asia. Its capital is Tbilisi."
+      },
+      {
+        "ko": "조지아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 아르메니아, 아제르바이잔, 러시아 등이 있어요.",
+        "en": "Georgia has a coast. Its land neighbours include Armenia, Azerbaijan, Russia."
+      },
+      {
+        "ko": "므츠헤타의 역사 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historical Monuments of Mtskheta is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ge/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 92,
+    "batch": 6,
+    "code": "GH",
+    "name": "Ghana",
+    "nameKo": "가나",
+    "subject": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+    "subjectKo": "해안의 요새와 성들",
+    "capital": "Accra",
+    "capitalKo": "아크라",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "가나의 수도는 아크라예요. 아크라는 대서양과 만나는 해안에 있는 도시예요.",
+        "en": "Accra is Ghana’s capital, on the country’s Atlantic coast."
+      },
+      {
+        "ko": "켄테는 좁고 긴 천 조각을 짜서 이어 만드는 직물이에요. 색과 무늬에는 공동체의 이야기와 뜻이 담겨 있어요.",
+        "en": "Kente is made by joining narrow woven strips. Its colours and patterns carry meanings and community stories."
+      },
+      {
+        "ko": "해안의 성과 요새에는 무역과 노예무역의 아픈 역사가 남아 있어요. 그 역사를 기억하며 사람의 권리도 배워요.",
+        "en": "Coastal forts and castles preserve the history of trade and the suffering caused by the slave trade. Remembering it helps us learn about human rights."
+      }
+    ],
+    "sources": [
+      "https://ich.unesco.org/en/RL/craftsmanship-of-traditional-woven-textile-kente-02130",
+      "https://whc.unesco.org/en/list/34/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/gh/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 39
+  },
+  {
+    "number": 93,
+    "batch": 6,
+    "code": "GD",
+    "name": "Grenada",
+    "nameKo": "그레나다",
+    "subject": "St. George's and its surroundings",
+    "subjectKo": "세인트조지스와 주변 풍경",
+    "capital": "St. George's",
+    "capitalKo": "세인트조지스",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "그레나다는 아메리카에 있어요. 수도는 세인트조지스예요.",
+        "en": "Grenada is in Americas. Its capital is St. George's."
+      },
+      {
+        "ko": "그레나다는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Grenada is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 94,
+    "batch": 6,
+    "code": "GT",
+    "name": "Guatemala",
+    "nameKo": "과테말라",
+    "subject": "Tikal National Park",
+    "subjectKo": "티칼 국립공원",
+    "capital": "Guatemala City",
+    "capitalKo": "과테말라시티",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "과테말라는 아메리카에 있어요. 수도는 과테말라시티예요.",
+        "en": "Guatemala is in Americas. Its capital is Guatemala City."
+      },
+      {
+        "ko": "과테말라에는 바다와 만나는 해안이 있어요. 육지 이웃에는 벨리즈, 엘살바도르, 온두라스 등이 있어요.",
+        "en": "Guatemala has a coast. Its land neighbours include Belize, El Salvador, Honduras."
+      },
+      {
+        "ko": "티칼 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Tikal National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/gt/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 95,
+    "batch": 6,
+    "code": "GN",
+    "name": "Guinea",
+    "nameKo": "기니",
+    "subject": "Mount Nimba Strict Nature Reserve",
+    "subjectKo": "님바산 자연 보호 구역",
+    "capital": "Conakry",
+    "capitalKo": "코나크리",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "기니는 아프리카에 있어요. 수도는 코나크리예요.",
+        "en": "Guinea is in Africa. Its capital is Conakry."
+      },
+      {
+        "ko": "기니에는 바다와 만나는 해안이 있어요. 육지 이웃에는 코트디부아르, 기니비사우, 라이베리아 등이 있어요.",
+        "en": "Guinea has a coast. Its land neighbours include Ivory Coast, Guinea-Bissau, Liberia."
+      },
+      {
+        "ko": "님바산 자연 보호 구역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Mount Nimba Strict Nature Reserve is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/gn/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 96,
+    "batch": 6,
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "nameKo": "기니비사우",
+    "subject": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+    "subjectKo": "비자고스 제도의 해안과 바다 생태계",
+    "capital": "Bissau",
+    "capitalKo": "비사우",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "기니비사우는 아프리카에 있어요. 수도는 비사우예요.",
+        "en": "Guinea-Bissau is in Africa. Its capital is Bissau."
+      },
+      {
+        "ko": "기니비사우에는 바다와 만나는 해안이 있어요. 육지 이웃에는 기니, 세네갈 등이 있어요.",
+        "en": "Guinea-Bissau has a coast. Its land neighbours include Guinea, Senegal."
+      },
+      {
+        "ko": "비자고스 제도의 해안과 바다 생태계은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/gw/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 97,
+    "batch": 6,
+    "code": "GY",
+    "name": "Guyana",
+    "nameKo": "가이아나",
+    "subject": "Georgetown and its surroundings",
+    "subjectKo": "조지타운와 주변 풍경",
+    "capital": "Georgetown",
+    "capitalKo": "조지타운",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "가이아나는 아메리카에 있어요. 수도는 조지타운예요.",
+        "en": "Guyana is in Americas. Its capital is Georgetown."
+      },
+      {
+        "ko": "가이아나에는 바다와 만나는 해안이 있어요. 육지 이웃에는 브라질, 수리남, 베네수엘라 등이 있어요.",
+        "en": "Guyana has a coast. Its land neighbours include Brazil, Suriname, Venezuela."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 98,
+    "batch": 6,
+    "code": "HT",
+    "name": "Haiti",
+    "nameKo": "아이티",
+    "subject": "National History Park – Citadel, Sans Souci, Ramiers",
+    "subjectKo": "시타델·상수시·라미에 국립 역사 공원",
+    "capital": "Port-au-Prince",
+    "capitalKo": "포르토프랭스",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "아이티는 아메리카에 있어요. 수도는 포르토프랭스예요.",
+        "en": "Haiti is in Americas. Its capital is Port-au-Prince."
+      },
+      {
+        "ko": "아이티에는 바다와 만나는 해안이 있어요. 육지 이웃에는 도미니카 공화국 등이 있어요.",
+        "en": "Haiti has a coast. Its land neighbours include Dominican Republic."
+      },
+      {
+        "ko": "시타델·상수시·라미에 국립 역사 공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "National History Park – Citadel, Sans Souci, Ramiers is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ht/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 99,
+    "batch": 6,
+    "code": "HN",
+    "name": "Honduras",
+    "nameKo": "온두라스",
+    "subject": "Maya Site of Copan",
+    "subjectKo": "코판의 마야 유적",
+    "capital": "Tegucigalpa",
+    "capitalKo": "테구시갈파",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "온두라스는 아메리카에 있어요. 수도는 테구시갈파예요.",
+        "en": "Honduras is in Americas. Its capital is Tegucigalpa."
+      },
+      {
+        "ko": "온두라스에는 바다와 만나는 해안이 있어요. 육지 이웃에는 과테말라, 엘살바도르, 니카라과 등이 있어요.",
+        "en": "Honduras has a coast. Its land neighbours include Guatemala, El Salvador, Nicaragua."
+      },
+      {
+        "ko": "코판의 마야 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Maya Site of Copan is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/hn/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 100,
+    "batch": 6,
+    "code": "HU",
+    "name": "Hungary",
+    "nameKo": "헝가리",
+    "subject": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+    "subjectKo": "부다페스트의 다뉴브강 경관",
+    "capital": "Budapest",
+    "capitalKo": "부다페스트",
+    "subregion": "Central Europe",
+    "stories": [
+      {
+        "ko": "헝가리는 유럽에 있어요. 수도는 부다페스트예요.",
+        "en": "Hungary is in Europe. Its capital is Budapest."
+      },
+      {
+        "ko": "헝가리는 바다와 직접 닿지 않는 내륙 나라예요. 오스트리아, 크로아티아, 루마니아 등과 육지로 이어져요.",
+        "en": "Hungary is landlocked. Its land neighbours include Austria, Croatia, Romania."
+      },
+      {
+        "ko": "부다페스트의 다뉴브강 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/hu/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 101,
+    "batch": 7,
+    "code": "IS",
+    "name": "Iceland",
+    "nameKo": "아이슬란드",
+    "subject": "Þingvellir National Park",
+    "subjectKo": "싱벨리르 국립공원",
+    "capital": "Reykjavik",
+    "capitalKo": "레이캬비크",
+    "subregion": "Northern Europe",
+    "stories": [
+      {
+        "ko": "아이슬란드는 유럽에 있어요. 수도는 레이캬비크예요.",
+        "en": "Iceland is in Europe. Its capital is Reykjavik."
+      },
+      {
+        "ko": "아이슬란드는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Iceland is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "싱벨리르 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Þingvellir National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/is/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 102,
+    "batch": 7,
+    "code": "IR",
+    "name": "Iran",
+    "nameKo": "이란",
+    "subject": "Persepolis",
+    "subjectKo": "페르세폴리스 유적",
+    "capital": "Tehran",
+    "capitalKo": "테헤란",
+    "subregion": "Southern Asia",
+    "stories": [
+      {
+        "ko": "이란은 아시아에 있어요. 수도는 테헤란예요.",
+        "en": "Iran is in Asia. Its capital is Tehran."
+      },
+      {
+        "ko": "이란에는 바다와 만나는 해안이 있어요. 육지 이웃에는 아프가니스탄, 아르메니아, 아제르바이잔 등이 있어요.",
+        "en": "Iran has a coast. Its land neighbours include Afghanistan, Armenia, Azerbaijan."
+      },
+      {
+        "ko": "페르세폴리스 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Persepolis is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ir/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 103,
+    "batch": 7,
+    "code": "IQ",
+    "name": "Iraq",
+    "nameKo": "이라크",
+    "subject": "Babylon",
+    "subjectKo": "바빌론 유적",
+    "capital": "Baghdad",
+    "capitalKo": "바그다드",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "이라크는 아시아에 있어요. 수도는 바그다드예요.",
+        "en": "Iraq is in Asia. Its capital is Baghdad."
+      },
+      {
+        "ko": "이라크에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이란, 요르단, 쿠웨이트 등이 있어요.",
+        "en": "Iraq has a coast. Its land neighbours include Iran, Jordan, Kuwait."
+      },
+      {
+        "ko": "바빌론 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Babylon is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/iq/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 104,
+    "batch": 7,
+    "code": "IE",
+    "name": "Ireland",
+    "nameKo": "아일랜드",
+    "subject": "Brú na Bóinne – Archaeological Ensemble of the Bend of the Boyne",
+    "subjectKo": "브루나보너의 고고 유적",
+    "capital": "Dublin",
+    "capitalKo": "더블린",
+    "subregion": "Northern Europe",
+    "stories": [
+      {
+        "ko": "아일랜드는 유럽에 있어요. 수도는 더블린예요.",
+        "en": "Ireland is in Europe. Its capital is Dublin."
+      },
+      {
+        "ko": "아일랜드에는 바다와 만나는 해안이 있어요. 육지 이웃에는 영국 등이 있어요.",
+        "en": "Ireland has a coast. Its land neighbours include United Kingdom."
+      },
+      {
+        "ko": "브루나보너의 고고 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Brú na Bóinne – Archaeological Ensemble of the Bend of the Boyne is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ie/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 105,
+    "batch": 7,
+    "code": "IL",
+    "name": "Israel",
+    "nameKo": "이스라엘",
+    "subject": "Bahá’i Holy Places in Haifa and the Western Galilee",
+    "subjectKo": "하이파와 갈릴리 서부의 바하이 성지",
+    "capital": "Jerusalem",
+    "capitalKo": "예루살렘",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "이스라엘 정부는 예루살렘을 수도로 두고 있어요. 도시의 국제적 지위는 분쟁 중이에요.",
+        "en": "Israel’s government is based in Jerusalem, which it designates as its capital. The city’s international status is disputed."
+      },
+      {
+        "ko": "이스라엘에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이집트, 요르단, 레바논 등이 있어요.",
+        "en": "Israel has a coast. Its land neighbours include Egypt, Jordan, Lebanon."
+      },
+      {
+        "ko": "하이파와 갈릴리 서부의 바하이 성지은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Bahá’i Holy Places in Haifa and the Western Galilee is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/il/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 106,
+    "batch": 7,
+    "code": "CI",
+    "name": "Ivory Coast",
+    "nameKo": "코트디부아르",
+    "subject": "Historic Town of Grand-Bassam",
+    "subjectKo": "그랑바삼의 역사 도시",
+    "capital": "Yamoussoukro",
+    "capitalKo": "야무수크로",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "코트디부아르는 아프리카에 있어요. 수도는 야무수크로예요.",
+        "en": "Ivory Coast is in Africa. Its capital is Yamoussoukro."
+      },
+      {
+        "ko": "코트디부아르에는 바다와 만나는 해안이 있어요. 육지 이웃에는 부르키나파소, 가나, 기니 등이 있어요.",
+        "en": "Ivory Coast has a coast. Its land neighbours include Burkina Faso, Ghana, Guinea."
+      },
+      {
+        "ko": "그랑바삼의 역사 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historic Town of Grand-Bassam is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ci/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 107,
+    "batch": 7,
+    "code": "JM",
+    "name": "Jamaica",
+    "nameKo": "자메이카",
+    "subject": "Blue and John Crow Mountains",
+    "subjectKo": "블루·존크로 산맥",
+    "capital": "Kingston",
+    "capitalKo": "킹스턴",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "자메이카는 아메리카에 있어요. 수도는 킹스턴예요.",
+        "en": "Jamaica is in Americas. Its capital is Kingston."
+      },
+      {
+        "ko": "자메이카는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Jamaica is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "블루·존크로 산맥은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Blue and John Crow Mountains is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/jm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 108,
+    "batch": 7,
+    "code": "JO",
+    "name": "Jordan",
+    "nameKo": "요르단",
+    "subject": "Petra",
+    "subjectKo": "페트라 유적",
+    "capital": "Amman",
+    "capitalKo": "암만",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "요르단은 아시아에 있어요. 수도는 암만예요.",
+        "en": "Jordan is in Asia. Its capital is Amman."
+      },
+      {
+        "ko": "요르단에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이라크, 이스라엘, 팔레스타인 등이 있어요.",
+        "en": "Jordan has a coast. Its land neighbours include Iraq, Israel, Palestine."
+      },
+      {
+        "ko": "페트라 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Petra is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/jo/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 109,
+    "batch": 7,
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "nameKo": "카자흐스탄",
+    "subject": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+    "subjectKo": "사르야르카의 초원과 호수",
+    "capital": "Astana",
+    "capitalKo": "아스타나",
+    "subregion": "Central Asia",
+    "stories": [
+      {
+        "ko": "카자흐스탄은 아시아에 있어요. 수도는 아스타나예요.",
+        "en": "Kazakhstan is in Asia. Its capital is Astana."
+      },
+      {
+        "ko": "카자흐스탄은 바다와 직접 닿지 않는 내륙 나라예요. 중국, 키르기스스탄, 러시아 등과 육지로 이어져요.",
+        "en": "Kazakhstan is landlocked. Its land neighbours include China, Kyrgyzstan, Russia."
+      },
+      {
+        "ko": "사르야르카의 초원과 호수은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Saryarka – Steppe and Lakes of Northern Kazakhstan is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/kz/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 110,
+    "batch": 7,
+    "code": "KI",
+    "name": "Kiribati",
+    "nameKo": "키리바시",
+    "subject": "Phoenix Islands Protected Area",
+    "subjectKo": "피닉스 제도 보호 구역",
+    "capital": "South Tarawa",
+    "capitalKo": "남타라와",
+    "subregion": "Micronesia",
+    "stories": [
+      {
+        "ko": "키리바시는 오세아니아에 있어요. 수도는 남타라와예요.",
+        "en": "Kiribati is in Oceania. Its capital is South Tarawa."
+      },
+      {
+        "ko": "키리바시는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Kiribati is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "피닉스 제도 보호 구역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Phoenix Islands Protected Area is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ki/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 111,
+    "batch": 8,
+    "code": "XK",
+    "name": "Kosovo",
+    "nameKo": "코소보",
+    "subject": "Pristina and its surroundings",
+    "subjectKo": "프리슈티나와 주변 풍경",
+    "capital": "Pristina",
+    "capitalKo": "프리슈티나",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "코소보는 유럽에 있어요. 수도는 프리슈티나예요.",
+        "en": "Kosovo is in Europe. Its capital is Pristina."
+      },
+      {
+        "ko": "코소보는 바다와 직접 닿지 않는 내륙 나라예요. 알바니아, 북마케도니아, 몬테네그로 등과 육지로 이어져요.",
+        "en": "Kosovo is landlocked. Its land neighbours include Albania, North Macedonia, Montenegro."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 알바니아어, 세르비아어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Albanian, Serbian. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 112,
+    "batch": 8,
+    "code": "KW",
+    "name": "Kuwait",
+    "nameKo": "쿠웨이트",
+    "subject": "Kuwait City and its surroundings",
+    "subjectKo": "쿠웨이트시티와 주변 풍경",
+    "capital": "Kuwait City",
+    "capitalKo": "쿠웨이트시티",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "쿠웨이트는 아시아에 있어요. 수도는 쿠웨이트시티예요.",
+        "en": "Kuwait is in Asia. Its capital is Kuwait City."
+      },
+      {
+        "ko": "쿠웨이트에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이라크, 사우디아라비아 등이 있어요.",
+        "en": "Kuwait has a coast. Its land neighbours include Iraq, Saudi Arabia."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 아랍어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Arabic. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 113,
+    "batch": 8,
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "nameKo": "키르기스스탄",
+    "subject": "Sulaiman-Too Sacred Mountain",
+    "subjectKo": "술라이만 성산",
+    "capital": "Bishkek",
+    "capitalKo": "비슈케크",
+    "subregion": "Central Asia",
+    "stories": [
+      {
+        "ko": "키르기스스탄은 아시아에 있어요. 수도는 비슈케크예요.",
+        "en": "Kyrgyzstan is in Asia. Its capital is Bishkek."
+      },
+      {
+        "ko": "키르기스스탄은 바다와 직접 닿지 않는 내륙 나라예요. 중국, 카자흐스탄, 타지키스탄 등과 육지로 이어져요.",
+        "en": "Kyrgyzstan is landlocked. Its land neighbours include China, Kazakhstan, Tajikistan."
+      },
+      {
+        "ko": "술라이만 성산은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Sulaiman-Too Sacred Mountain is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/kg/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 114,
+    "batch": 8,
+    "code": "LA",
+    "name": "Laos",
+    "nameKo": "라오스",
+    "subject": "Town of Luang Prabang",
+    "subjectKo": "루앙프라방의 옛 도시",
+    "capital": "Vientiane",
+    "capitalKo": "비엔티안",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "라오스는 아시아에 있어요. 수도는 비엔티안예요.",
+        "en": "Laos is in Asia. Its capital is Vientiane."
+      },
+      {
+        "ko": "라오스는 바다와 직접 닿지 않는 내륙 나라예요. 미얀마, 캄보디아, 중국 등과 육지로 이어져요.",
+        "en": "Laos is landlocked. Its land neighbours include Myanmar, Cambodia, China."
+      },
+      {
+        "ko": "루앙프라방의 옛 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Town of Luang Prabang is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/la/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 115,
+    "batch": 8,
+    "code": "LV",
+    "name": "Latvia",
+    "nameKo": "라트비아",
+    "subject": "Historic Centre of Riga",
+    "subjectKo": "리가 역사 지구",
+    "capital": "Riga",
+    "capitalKo": "리가",
+    "subregion": "Northern Europe",
+    "stories": [
+      {
+        "ko": "라트비아는 유럽에 있어요. 수도는 리가예요.",
+        "en": "Latvia is in Europe. Its capital is Riga."
+      },
+      {
+        "ko": "라트비아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 벨라루스, 에스토니아, 리투아니아 등이 있어요.",
+        "en": "Latvia has a coast. Its land neighbours include Belarus, Estonia, Lithuania."
+      },
+      {
+        "ko": "리가 역사 지구은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historic Centre of Riga is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/lv/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 116,
+    "batch": 8,
+    "code": "LB",
+    "name": "Lebanon",
+    "nameKo": "레바논",
+    "subject": "Baalbek",
+    "subjectKo": "바알베크 유적",
+    "capital": "Beirut",
+    "capitalKo": "베이루트",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "레바논은 아시아에 있어요. 수도는 베이루트예요.",
+        "en": "Lebanon is in Asia. Its capital is Beirut."
+      },
+      {
+        "ko": "레바논에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이스라엘, 시리아 등이 있어요.",
+        "en": "Lebanon has a coast. Its land neighbours include Israel, Syria."
+      },
+      {
+        "ko": "바알베크 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Baalbek is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/lb/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 117,
+    "batch": 8,
+    "code": "LS",
+    "name": "Lesotho",
+    "nameKo": "레소토",
+    "subject": "Maloti-Drakensberg Park",
+    "subjectKo": "말로티·드라켄즈버그 공원",
+    "capital": "Maseru",
+    "capitalKo": "마세루",
+    "subregion": "Southern Africa",
+    "stories": [
+      {
+        "ko": "레소토는 아프리카에 있어요. 수도는 마세루예요.",
+        "en": "Lesotho is in Africa. Its capital is Maseru."
+      },
+      {
+        "ko": "레소토는 바다와 직접 닿지 않는 내륙 나라예요. 남아프리카 등과 육지로 이어져요.",
+        "en": "Lesotho is landlocked. Its land neighbours include South Africa."
+      },
+      {
+        "ko": "말로티·드라켄즈버그 공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Maloti-Drakensberg Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ls/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 118,
+    "batch": 8,
+    "code": "LR",
+    "name": "Liberia",
+    "nameKo": "라이베리아",
+    "subject": "Monrovia and its surroundings",
+    "subjectKo": "몬로비아와 주변 풍경",
+    "capital": "Monrovia",
+    "capitalKo": "몬로비아",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "라이베리아는 아프리카에 있어요. 수도는 몬로비아예요.",
+        "en": "Liberia is in Africa. Its capital is Monrovia."
+      },
+      {
+        "ko": "라이베리아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 기니, 코트디부아르, 시에라리온 등이 있어요.",
+        "en": "Liberia has a coast. Its land neighbours include Guinea, Ivory Coast, Sierra Leone."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 119,
+    "batch": 8,
+    "code": "LY",
+    "name": "Libya",
+    "nameKo": "리비아",
+    "subject": "Archaeological Site of Leptis Magna",
+    "subjectKo": "렙티스마그나 유적",
+    "capital": "Tripoli",
+    "capitalKo": "트리폴리",
+    "subregion": "Northern Africa",
+    "stories": [
+      {
+        "ko": "리비아는 아프리카에 있어요. 수도는 트리폴리예요.",
+        "en": "Libya is in Africa. Its capital is Tripoli."
+      },
+      {
+        "ko": "리비아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 알제리, 차드, 이집트 등이 있어요.",
+        "en": "Libya has a coast. Its land neighbours include Algeria, Chad, Egypt."
+      },
+      {
+        "ko": "렙티스마그나 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Archaeological Site of Leptis Magna is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ly/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 120,
+    "batch": 8,
+    "code": "LI",
+    "name": "Liechtenstein",
+    "nameKo": "리히텐슈타인",
+    "subject": "Vaduz and its surroundings",
+    "subjectKo": "파두츠와 주변 풍경",
+    "capital": "Vaduz",
+    "capitalKo": "파두츠",
+    "subregion": "Western Europe",
+    "stories": [
+      {
+        "ko": "리히텐슈타인은 유럽에 있어요. 수도는 파두츠예요.",
+        "en": "Liechtenstein is in Europe. Its capital is Vaduz."
+      },
+      {
+        "ko": "리히텐슈타인은 바다와 직접 닿지 않는 내륙 나라예요. 오스트리아, 스위스 등과 육지로 이어져요.",
+        "en": "Liechtenstein is landlocked. Its land neighbours include Austria, Switzerland."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 독일어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include German. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 121,
+    "batch": 9,
+    "code": "LT",
+    "name": "Lithuania",
+    "nameKo": "리투아니아",
+    "subject": "Vilnius Historic Centre",
+    "subjectKo": "빌뉴스 역사 지구",
+    "capital": "Vilnius",
+    "capitalKo": "빌뉴스",
+    "subregion": "Northern Europe",
+    "stories": [
+      {
+        "ko": "리투아니아는 유럽에 있어요. 수도는 빌뉴스예요.",
+        "en": "Lithuania is in Europe. Its capital is Vilnius."
+      },
+      {
+        "ko": "리투아니아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 벨라루스, 라트비아, 폴란드 등이 있어요.",
+        "en": "Lithuania has a coast. Its land neighbours include Belarus, Latvia, Poland."
+      },
+      {
+        "ko": "빌뉴스 역사 지구은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Vilnius Historic Centre is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/lt/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 122,
+    "batch": 9,
+    "code": "LU",
+    "name": "Luxembourg",
+    "nameKo": "룩셈부르크",
+    "subject": "City of Luxembourg: its Old Quarters and Fortifications",
+    "subjectKo": "룩셈부르크의 옛 시가지와 요새",
+    "capital": "Luxembourg",
+    "capitalKo": "룩셈부르크",
+    "subregion": "Western Europe",
+    "stories": [
+      {
+        "ko": "룩셈부르크는 유럽에 있어요. 수도는 룩셈부르크예요.",
+        "en": "Luxembourg is in Europe. Its capital is Luxembourg."
+      },
+      {
+        "ko": "룩셈부르크는 바다와 직접 닿지 않는 내륙 나라예요. 벨기에, 프랑스, 독일 등과 육지로 이어져요.",
+        "en": "Luxembourg is landlocked. Its land neighbours include Belgium, France, Germany."
+      },
+      {
+        "ko": "룩셈부르크의 옛 시가지와 요새은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "City of Luxembourg: its Old Quarters and Fortifications is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/lu/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 123,
+    "batch": 9,
+    "code": "MG",
+    "name": "Madagascar",
+    "nameKo": "마다가스카르",
+    "subject": "Tsingy de Bemaraha Strict Nature Reserve",
+    "subjectKo": "칭기드베마라하 자연 보호 구역",
+    "capital": "Antananarivo",
+    "capitalKo": "안타나나리보",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "마다가스카르는 아프리카에 있어요. 수도는 안타나나리보예요.",
+        "en": "Madagascar is in Africa. Its capital is Antananarivo."
+      },
+      {
+        "ko": "마다가스카르는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Madagascar is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "칭기드베마라하 자연 보호 구역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Tsingy de Bemaraha Strict Nature Reserve is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mg/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 124,
+    "batch": 9,
+    "code": "MW",
+    "name": "Malawi",
+    "nameKo": "말라위",
+    "subject": "Lake Malawi National Park",
+    "subjectKo": "말라위호 국립공원",
+    "capital": "Lilongwe",
+    "capitalKo": "릴롱궤",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "말라위는 아프리카에 있어요. 수도는 릴롱궤예요.",
+        "en": "Malawi is in Africa. Its capital is Lilongwe."
+      },
+      {
+        "ko": "말라위는 바다와 직접 닿지 않는 내륙 나라예요. 모잠비크, 탄자니아, 잠비아 등과 육지로 이어져요.",
+        "en": "Malawi is landlocked. Its land neighbours include Mozambique, Tanzania, Zambia."
+      },
+      {
+        "ko": "말라위호 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Lake Malawi National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mw/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 125,
+    "batch": 9,
+    "code": "MY",
+    "name": "Malaysia",
+    "nameKo": "말레이시아",
+    "subject": "Kinabalu Park",
+    "subjectKo": "키나발루 공원",
+    "capital": "Kuala Lumpur",
+    "capitalKo": "쿠알라룸푸르",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "수도는 쿠알라룸푸르이고 행정 중심지는 푸트라자야예요.",
+        "en": "Kuala Lumpur is the capital; Putrajaya is the administrative centre."
+      },
+      {
+        "ko": "말레이시아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 브루나이, 인도네시아, 태국 등이 있어요.",
+        "en": "Malaysia has a coast. Its land neighbours include Brunei, Indonesia, Thailand."
+      },
+      {
+        "ko": "키나발루 공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Kinabalu Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/my/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 126,
+    "batch": 9,
+    "code": "MV",
+    "name": "Maldives",
+    "nameKo": "몰디브",
+    "subject": "Malé and its surroundings",
+    "subjectKo": "말레와 주변 풍경",
+    "capital": "Malé",
+    "capitalKo": "말레",
+    "subregion": "Southern Asia",
+    "stories": [
+      {
+        "ko": "몰디브는 아시아에 있어요. 수도는 말레예요.",
+        "en": "Maldives is in Asia. Its capital is Malé."
+      },
+      {
+        "ko": "몰디브는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Maldives is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 디베히어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Maldivian. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 127,
+    "batch": 9,
+    "code": "ML",
+    "name": "Mali",
+    "nameKo": "말리",
+    "subject": "Old Towns of Djenné",
+    "subjectKo": "젠네의 옛 도시",
+    "capital": "Bamako",
+    "capitalKo": "바마코",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "말리는 아프리카에 있어요. 수도는 바마코예요.",
+        "en": "Mali is in Africa. Its capital is Bamako."
+      },
+      {
+        "ko": "말리는 바다와 직접 닿지 않는 내륙 나라예요. 알제리, 부르키나파소, 기니 등과 육지로 이어져요.",
+        "en": "Mali is landlocked. Its land neighbours include Algeria, Burkina Faso, Guinea."
+      },
+      {
+        "ko": "젠네의 옛 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Old Towns of Djenné is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ml/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 128,
+    "batch": 9,
+    "code": "MT",
+    "name": "Malta",
+    "nameKo": "몰타",
+    "subject": "City of Valletta",
+    "subjectKo": "발레타의 옛 도시",
+    "capital": "Valletta",
+    "capitalKo": "발레타",
+    "subregion": "Southern Europe",
+    "stories": [
+      {
+        "ko": "몰타는 유럽에 있어요. 수도는 발레타예요.",
+        "en": "Malta is in Europe. Its capital is Valletta."
+      },
+      {
+        "ko": "몰타는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Malta is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "발레타의 옛 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "City of Valletta is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mt/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 129,
+    "batch": 9,
+    "code": "MH",
+    "name": "Marshall Islands",
+    "nameKo": "마셜 제도",
+    "subject": "Bikini Atoll Nuclear Test Site",
+    "subjectKo": "비키니 환초",
+    "capital": "Majuro",
+    "capitalKo": "마주로",
+    "subregion": "Micronesia",
+    "stories": [
+      {
+        "ko": "마셜 제도는 오세아니아에 있어요. 수도는 마주로예요.",
+        "en": "Marshall Islands is in Oceania. Its capital is Majuro."
+      },
+      {
+        "ko": "마셜 제도는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Marshall Islands is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "비키니 환초은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Bikini Atoll Nuclear Test Site is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mh/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 130,
+    "batch": 9,
+    "code": "MR",
+    "name": "Mauritania",
+    "nameKo": "모리타니",
+    "subject": "Banc d’Arguin National Park",
+    "subjectKo": "방다르갱 국립공원",
+    "capital": "Nouakchott",
+    "capitalKo": "누악쇼트",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "모리타니는 아프리카에 있어요. 수도는 누악쇼트예요.",
+        "en": "Mauritania is in Africa. Its capital is Nouakchott."
+      },
+      {
+        "ko": "모리타니에는 바다와 만나는 해안이 있어요. 육지 이웃에는 알제리, 말리, 세네갈 등이 있어요.",
+        "en": "Mauritania has a coast. Its land neighbours include Algeria, Mali, Senegal."
+      },
+      {
+        "ko": "방다르갱 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Banc d’Arguin National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mr/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 131,
+    "batch": 10,
+    "code": "MU",
+    "name": "Mauritius",
+    "nameKo": "모리셔스",
+    "subject": "Le Morne Cultural Landscape",
+    "subjectKo": "르몬의 문화 경관",
+    "capital": "Port Louis",
+    "capitalKo": "포트루이스",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "모리셔스는 아프리카에 있어요. 수도는 포트루이스예요.",
+        "en": "Mauritius is in Africa. Its capital is Port Louis."
+      },
+      {
+        "ko": "모리셔스는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Mauritius is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "르몬의 문화 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Le Morne Cultural Landscape is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mu/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 132,
+    "batch": 10,
+    "code": "FM",
+    "name": "Micronesia",
+    "nameKo": "미크로네시아",
+    "subject": "Nan Madol: Ceremonial Centre of Eastern Micronesia",
+    "subjectKo": "난마돌의 옛 의례 중심지",
+    "capital": "Palikir",
+    "capitalKo": "팔리키르",
+    "subregion": "Micronesia",
+    "stories": [
+      {
+        "ko": "미크로네시아는 오세아니아에 있어요. 수도는 팔리키르예요.",
+        "en": "Micronesia is in Oceania. Its capital is Palikir."
+      },
+      {
+        "ko": "미크로네시아는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Micronesia is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "난마돌의 옛 의례 중심지은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Nan Madol: Ceremonial Centre of Eastern Micronesia is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/fm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 133,
+    "batch": 10,
+    "code": "MD",
+    "name": "Moldova",
+    "nameKo": "몰도바",
+    "subject": "Struve Geodetic Arc",
+    "subjectKo": "스트루베 측지 아크",
+    "capital": "Chișinău",
+    "capitalKo": "키시너우",
+    "subregion": "Eastern Europe",
+    "stories": [
+      {
+        "ko": "몰도바는 유럽에 있어요. 수도는 키시너우예요.",
+        "en": "Moldova is in Europe. Its capital is Chișinău."
+      },
+      {
+        "ko": "몰도바는 바다와 직접 닿지 않는 내륙 나라예요. 루마니아, 우크라이나 등과 육지로 이어져요.",
+        "en": "Moldova is landlocked. Its land neighbours include Romania, Ukraine."
+      },
+      {
+        "ko": "스트루베 측지 아크은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Struve Geodetic Arc is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/md/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 134,
+    "batch": 10,
+    "code": "MC",
+    "name": "Monaco",
+    "nameKo": "모나코",
+    "subject": "Monaco and its surroundings",
+    "subjectKo": "모나코와 주변 풍경",
+    "capital": "Monaco",
+    "capitalKo": "모나코",
+    "subregion": "Western Europe",
+    "stories": [
+      {
+        "ko": "모나코는 유럽에 있어요. 수도는 모나코예요.",
+        "en": "Monaco is in Europe. Its capital is Monaco."
+      },
+      {
+        "ko": "모나코에는 바다와 만나는 해안이 있어요. 육지 이웃에는 프랑스 등이 있어요.",
+        "en": "Monaco has a coast. Its land neighbours include France."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 프랑스어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include French. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 135,
+    "batch": 10,
+    "code": "MN",
+    "name": "Mongolia",
+    "nameKo": "몽골국",
+    "subject": "Orkhon Valley Cultural Landscape",
+    "subjectKo": "오르혼 계곡의 문화 경관",
+    "capital": "Ulaanbaatar",
+    "capitalKo": "울란바토르",
+    "subregion": "Eastern Asia",
+    "stories": [
+      {
+        "ko": "몽골의 수도는 울란바토르예요. 오르혼 계곡에는 유목 생활과 오랜 도시·사원의 역사가 함께 남아 있어요.",
+        "en": "Ulaanbaatar is Mongolia’s capital. The Orkhon Valley preserves the history of herding communities, old cities and monasteries."
+      },
+      {
+        "ko": "나담 축제에서는 말타기 경주, 씨름, 활쏘기 같은 전통 경기를 즐겨요.",
+        "en": "Naadam is a Mongolian festival celebrating traditional horse racing, wrestling and archery."
+      },
+      {
+        "ko": "모린후르는 머리 부분에 말 모양 장식이 있는 두 줄의 현악기예요. 활로 줄을 문질러 소리를 내요.",
+        "en": "The morin khuur is a two-stringed instrument decorated with a horse’s head. A bow makes its strings sound."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/1081/",
+      "https://ich.unesco.org/en/RL/naadam-mongolian-traditional-festival-00395",
+      "https://ich.unesco.org/en/RL/traditional-music-of-the-morin-khuur-00068",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mn/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 2
+  },
+  {
+    "number": 136,
+    "batch": 10,
+    "code": "ME",
+    "name": "Montenegro",
+    "nameKo": "몬테네그로",
+    "subject": "Natural and Culturo-Historical Region of Kotor",
+    "subjectKo": "코토르의 자연과 역사 지구",
+    "capital": "Podgorica",
+    "capitalKo": "포드고리차",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "몬테네그로는 유럽에 있어요. 수도는 포드고리차예요.",
+        "en": "Montenegro is in Europe. Its capital is Podgorica."
+      },
+      {
+        "ko": "몬테네그로에는 바다와 만나는 해안이 있어요. 육지 이웃에는 알바니아, 보스니아 헤르체고비나, 크로아티아 등이 있어요.",
+        "en": "Montenegro has a coast. Its land neighbours include Albania, Bosnia and Herzegovina, Croatia."
+      },
+      {
+        "ko": "코토르의 자연과 역사 지구은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Natural and Culturo-Historical Region of Kotor is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/me/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 137,
+    "batch": 10,
+    "code": "MZ",
+    "name": "Mozambique",
+    "nameKo": "모잠비크",
+    "subject": "Island of Mozambique",
+    "subjectKo": "모잠비크섬",
+    "capital": "Maputo",
+    "capitalKo": "마푸투",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "모잠비크는 아프리카에 있어요. 수도는 마푸투예요.",
+        "en": "Mozambique is in Africa. Its capital is Maputo."
+      },
+      {
+        "ko": "모잠비크에는 바다와 만나는 해안이 있어요. 육지 이웃에는 말라위, 남아프리카, 에스와티니 등이 있어요.",
+        "en": "Mozambique has a coast. Its land neighbours include Malawi, South Africa, Eswatini."
+      },
+      {
+        "ko": "모잠비크섬은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Island of Mozambique is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mz/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 138,
+    "batch": 10,
+    "code": "MM",
+    "name": "Myanmar",
+    "nameKo": "미얀마",
+    "subject": "Bagan",
+    "subjectKo": "바간의 불교 유적",
+    "capital": "Naypyidaw",
+    "capitalKo": "네피도",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "미얀마는 아시아에 있어요. 수도는 네피도예요.",
+        "en": "Myanmar is in Asia. Its capital is Naypyidaw."
+      },
+      {
+        "ko": "미얀마에는 바다와 만나는 해안이 있어요. 육지 이웃에는 방글라데시, 중국, 인도 등이 있어요.",
+        "en": "Myanmar has a coast. Its land neighbours include Bangladesh, China, India."
+      },
+      {
+        "ko": "바간의 불교 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Bagan is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 139,
+    "batch": 10,
+    "code": "NA",
+    "name": "Namibia",
+    "nameKo": "나미비아",
+    "subject": "Twyfelfontein or /Ui-//aes",
+    "subjectKo": "트위펠폰테인의 바위 그림 유적",
+    "capital": "Windhoek",
+    "capitalKo": "빈트후크",
+    "subregion": "Southern Africa",
+    "stories": [
+      {
+        "ko": "나미비아는 아프리카에 있어요. 수도는 빈트후크예요.",
+        "en": "Namibia is in Africa. Its capital is Windhoek."
+      },
+      {
+        "ko": "나미비아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 앙골라, 보츠와나, 남아프리카 등이 있어요.",
+        "en": "Namibia has a coast. Its land neighbours include Angola, Botswana, South Africa."
+      },
+      {
+        "ko": "트위펠폰테인의 바위 그림 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Twyfelfontein or /Ui-//aes is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/na/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 140,
+    "batch": 10,
+    "code": "NR",
+    "name": "Nauru",
+    "nameKo": "나우루",
+    "subject": "Yaren and its surroundings",
+    "subjectKo": "야렌와 주변 풍경",
+    "capital": "Yaren",
+    "capitalKo": "야렌",
+    "subregion": "Micronesia",
+    "stories": [
+      {
+        "ko": "나우루에는 공식 수도가 없어요. 정부 기관이 있는 야렌 지구를 지도에 표시해요.",
+        "en": "Nauru has no official capital. The map shows Yaren, the district where government offices are located."
+      },
+      {
+        "ko": "나우루는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Nauru is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어, 나우루어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English, Nauru. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://thecommonwealth.org/our-member-countries/nauru"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 141,
+    "batch": 11,
+    "code": "NP",
+    "name": "Nepal",
+    "nameKo": "네팔",
+    "subject": "Kathmandu Valley",
+    "subjectKo": "카트만두 계곡",
+    "capital": "Kathmandu",
+    "capitalKo": "카트만두",
+    "subregion": "Southern Asia",
+    "stories": [
+      {
+        "ko": "네팔은 아시아에 있어요. 수도는 카트만두예요.",
+        "en": "Nepal is in Asia. Its capital is Kathmandu."
+      },
+      {
+        "ko": "네팔은 바다와 직접 닿지 않는 내륙 나라예요. 중국, 인도 등과 육지로 이어져요.",
+        "en": "Nepal is landlocked. Its land neighbours include China, India."
+      },
+      {
+        "ko": "카트만두 계곡은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Kathmandu Valley is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/np/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 142,
+    "batch": 11,
+    "code": "NL",
+    "name": "Netherlands",
+    "nameKo": "네덜란드",
+    "subject": "Mill Network at Kinderdijk-Elshout",
+    "subjectKo": "킨더데이크의 풍차들",
+    "capital": "Amsterdam",
+    "capitalKo": "암스테르담",
+    "subregion": "Western Europe",
+    "stories": [
+      {
+        "ko": "네덜란드의 수도는 암스테르담이에요. 정부와 의회가 있는 도시는 헤이그예요.",
+        "en": "Amsterdam is the capital of the Netherlands. The government and parliament are based in The Hague."
+      },
+      {
+        "ko": "킨더데이크의 풍차와 수로는 낮은 땅에서 물을 빼내는 데 쓰였어요. 풍차는 물을 관리하는 기술의 일부예요.",
+        "en": "Kinderdijk’s windmills and channels helped drain low-lying land. The windmills are part of a water-management system."
+      },
+      {
+        "ko": "암스테르담에는 고리처럼 이어지는 운하가 있어요. 운하 옆으로 오래된 집들과 거리가 이어져요.",
+        "en": "Amsterdam has a ring of canals lined with historic houses and streets."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/818/",
+      "https://whc.unesco.org/en/list/1349/",
+      "https://www.holland.com/de/tourist/lass-dich-inspirieren",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/nl/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 13
+  },
+  {
+    "number": 143,
+    "batch": 11,
+    "code": "NI",
+    "name": "Nicaragua",
+    "nameKo": "니카라과",
+    "subject": "León Cathedral",
+    "subjectKo": "레온 대성당",
+    "capital": "Managua",
+    "capitalKo": "마나과",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "니카라과는 아메리카에 있어요. 수도는 마나과예요.",
+        "en": "Nicaragua is in Americas. Its capital is Managua."
+      },
+      {
+        "ko": "니카라과에는 바다와 만나는 해안이 있어요. 육지 이웃에는 코스타리카, 온두라스 등이 있어요.",
+        "en": "Nicaragua has a coast. Its land neighbours include Costa Rica, Honduras."
+      },
+      {
+        "ko": "레온 대성당은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "León Cathedral is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ni/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 144,
+    "batch": 11,
+    "code": "NE",
+    "name": "Niger",
+    "nameKo": "니제르",
+    "subject": "Air and Ténéré Natural Reserves",
+    "subjectKo": "아이르·테네레 자연 보호 구역",
+    "capital": "Niamey",
+    "capitalKo": "니아메",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "니제르는 아프리카에 있어요. 수도는 니아메예요.",
+        "en": "Niger is in Africa. Its capital is Niamey."
+      },
+      {
+        "ko": "니제르는 바다와 직접 닿지 않는 내륙 나라예요. 알제리, 베냉, 부르키나파소 등과 육지로 이어져요.",
+        "en": "Niger is landlocked. Its land neighbours include Algeria, Benin, Burkina Faso."
+      },
+      {
+        "ko": "아이르·테네레 자연 보호 구역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Air and Ténéré Natural Reserves is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ne/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 145,
+    "batch": 11,
+    "code": "KP",
+    "name": "North Korea",
+    "nameKo": "조선",
+    "subject": "Complex of Koguryo Tombs",
+    "subjectKo": "고구려 고분군",
+    "capital": "Pyongyang",
+    "capitalKo": "평양",
+    "subregion": "Eastern Asia",
+    "stories": [
+      {
+        "ko": "조선은 아시아에 있어요. 수도는 평양예요.",
+        "en": "North Korea is in Asia. Its capital is Pyongyang."
+      },
+      {
+        "ko": "조선에는 바다와 만나는 해안이 있어요. 육지 이웃에는 중국, 한국, 러시아 등이 있어요.",
+        "en": "North Korea has a coast. Its land neighbours include China, South Korea, Russia."
+      },
+      {
+        "ko": "고구려 고분군은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Complex of Koguryo Tombs is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/kp/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 146,
+    "batch": 11,
+    "code": "MK",
+    "name": "North Macedonia",
+    "nameKo": "북마케도니아",
+    "subject": "Natural and Cultural Heritage of the Ohrid Region",
+    "subjectKo": "오흐리드 지역의 자연과 문화유산",
+    "capital": "Skopje",
+    "capitalKo": "스코페",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "북마케도니아는 유럽에 있어요. 수도는 스코페예요.",
+        "en": "North Macedonia is in Europe. Its capital is Skopje."
+      },
+      {
+        "ko": "북마케도니아는 바다와 직접 닿지 않는 내륙 나라예요. 알바니아, 불가리아, 그리스 등과 육지로 이어져요.",
+        "en": "North Macedonia is landlocked. Its land neighbours include Albania, Bulgaria, Greece."
+      },
+      {
+        "ko": "오흐리드 지역의 자연과 문화유산은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Natural and Cultural Heritage of the Ohrid Region is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/mk/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 147,
+    "batch": 11,
+    "code": "OM",
+    "name": "Oman",
+    "nameKo": "오만",
+    "subject": "Bahla Fort",
+    "subjectKo": "바흘라 요새",
+    "capital": "Muscat",
+    "capitalKo": "무스카트",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "오만은 아시아에 있어요. 수도는 무스카트예요.",
+        "en": "Oman is in Asia. Its capital is Muscat."
+      },
+      {
+        "ko": "오만에는 바다와 만나는 해안이 있어요. 육지 이웃에는 사우디아라비아, 아랍에미리트, 예멘 등이 있어요.",
+        "en": "Oman has a coast. Its land neighbours include Saudi Arabia, United Arab Emirates, Yemen."
+      },
+      {
+        "ko": "바흘라 요새은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Bahla Fort is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/om/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 148,
+    "batch": 11,
+    "code": "PW",
+    "name": "Palau",
+    "nameKo": "팔라우",
+    "subject": "Rock Islands Southern Lagoon",
+    "subjectKo": "록아일랜드 남부 석호",
+    "capital": "Ngerulmud",
+    "capitalKo": "응게룰무드",
+    "subregion": "Micronesia",
+    "stories": [
+      {
+        "ko": "팔라우는 오세아니아에 있어요. 수도는 응게룰무드예요.",
+        "en": "Palau is in Oceania. Its capital is Ngerulmud."
+      },
+      {
+        "ko": "팔라우는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Palau is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "록아일랜드 남부 석호은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Rock Islands Southern Lagoon is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/pw/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 149,
+    "batch": 11,
+    "code": "PS",
+    "name": "Palestine",
+    "nameKo": "팔레스타인",
+    "subject": "Ancient Jericho/Tell es-Sultan",
+    "subjectKo": "예리코의 텔에술탄 유적",
+    "capital": "Ramallah",
+    "capitalKo": "라말라",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "팔레스타인은 동예루살렘을 수도로 주장하며, 라말라는 행정 중심지예요.",
+        "en": "Palestine claims East Jerusalem as its capital; Ramallah is its administrative centre."
+      },
+      {
+        "ko": "팔레스타인에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이스라엘, 이집트, 요르단 등이 있어요.",
+        "en": "Palestine has a coast. Its land neighbours include Israel, Egypt, Jordan."
+      },
+      {
+        "ko": "예리코의 텔에술탄 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Ancient Jericho/Tell es-Sultan is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ps/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 150,
+    "batch": 11,
+    "code": "PA",
+    "name": "Panama",
+    "nameKo": "파나마",
+    "subject": "Darien National Park",
+    "subjectKo": "다리엔 국립공원",
+    "capital": "Panama City",
+    "capitalKo": "파나마시티",
+    "subregion": "Central America",
+    "stories": [
+      {
+        "ko": "파나마는 아메리카에 있어요. 수도는 파나마시티예요.",
+        "en": "Panama is in Americas. Its capital is Panama City."
+      },
+      {
+        "ko": "파나마에는 바다와 만나는 해안이 있어요. 육지 이웃에는 콜롬비아, 코스타리카 등이 있어요.",
+        "en": "Panama has a coast. Its land neighbours include Colombia, Costa Rica."
+      },
+      {
+        "ko": "다리엔 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Darien National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/pa/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 151,
+    "batch": 12,
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "nameKo": "파푸아뉴기니",
+    "subject": "Kuk Early Agricultural Site",
+    "subjectKo": "쿠크의 초기 농경 유적",
+    "capital": "Port Moresby",
+    "capitalKo": "포트모르즈비",
+    "subregion": "Melanesia",
+    "stories": [
+      {
+        "ko": "파푸아뉴기니는 오세아니아에 있어요. 수도는 포트모르즈비예요.",
+        "en": "Papua New Guinea is in Oceania. Its capital is Port Moresby."
+      },
+      {
+        "ko": "파푸아뉴기니에는 바다와 만나는 해안이 있어요. 육지 이웃에는 인도네시아 등이 있어요.",
+        "en": "Papua New Guinea has a coast. Its land neighbours include Indonesia."
+      },
+      {
+        "ko": "쿠크의 초기 농경 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Kuk Early Agricultural Site is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/pg/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 152,
+    "batch": 12,
+    "code": "PY",
+    "name": "Paraguay",
+    "nameKo": "파라과이",
+    "subject": "Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue",
+    "subjectKo": "트리니다드와 헤수스의 예수회 선교 유적",
+    "capital": "Asunción",
+    "capitalKo": "아순시온",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "파라과이는 아메리카에 있어요. 수도는 아순시온예요.",
+        "en": "Paraguay is in Americas. Its capital is Asunción."
+      },
+      {
+        "ko": "파라과이는 바다와 직접 닿지 않는 내륙 나라예요. 아르헨티나, 볼리비아, 브라질 등과 육지로 이어져요.",
+        "en": "Paraguay is landlocked. Its land neighbours include Argentina, Bolivia, Brazil."
+      },
+      {
+        "ko": "트리니다드와 헤수스의 예수회 선교 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/py/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 153,
+    "batch": 12,
+    "code": "QA",
+    "name": "Qatar",
+    "nameKo": "카타르",
+    "subject": "Al Zubarah Archaeological Site",
+    "subjectKo": "알주바라 유적",
+    "capital": "Doha",
+    "capitalKo": "도하",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "카타르는 아시아에 있어요. 수도는 도하예요.",
+        "en": "Qatar is in Asia. Its capital is Doha."
+      },
+      {
+        "ko": "카타르에는 바다와 만나는 해안이 있어요. 육지 이웃에는 사우디아라비아 등이 있어요.",
+        "en": "Qatar has a coast. Its land neighbours include Saudi Arabia."
+      },
+      {
+        "ko": "알주바라 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Al Zubarah Archaeological Site is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/qa/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 154,
+    "batch": 12,
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "nameKo": "콩고",
+    "subject": "Sangha Trinational",
+    "subjectKo": "상가강의 삼국 국립공원 지역",
+    "capital": "Brazzaville",
+    "capitalKo": "브라자빌",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "콩고는 아프리카에 있어요. 수도는 브라자빌예요.",
+        "en": "Republic of the Congo is in Africa. Its capital is Brazzaville."
+      },
+      {
+        "ko": "콩고에는 바다와 만나는 해안이 있어요. 육지 이웃에는 앙골라, 카메룬, 중앙아프리카 공화국 등이 있어요.",
+        "en": "Republic of the Congo has a coast. Its land neighbours include Angola, Cameroon, Central African Republic."
+      },
+      {
+        "ko": "상가강의 삼국 국립공원 지역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Sangha Trinational is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/cg/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 155,
+    "batch": 12,
+    "code": "RO",
+    "name": "Romania",
+    "nameKo": "루마니아",
+    "subject": "Danube Delta",
+    "subjectKo": "다뉴브강 삼각주",
+    "capital": "Bucharest",
+    "capitalKo": "부쿠레슈티",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "루마니아는 유럽에 있어요. 수도는 부쿠레슈티예요.",
+        "en": "Romania is in Europe. Its capital is Bucharest."
+      },
+      {
+        "ko": "루마니아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 불가리아, 헝가리, 몰도바 등이 있어요.",
+        "en": "Romania has a coast. Its land neighbours include Bulgaria, Hungary, Moldova."
+      },
+      {
+        "ko": "다뉴브강 삼각주은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Danube Delta is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ro/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 156,
+    "batch": 12,
+    "code": "RW",
+    "name": "Rwanda",
+    "nameKo": "르완다",
+    "subject": "Nyungwe National Park",
+    "subjectKo": "뉴웅궤 국립공원",
+    "capital": "Kigali",
+    "capitalKo": "키갈리",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "르완다는 아프리카에 있어요. 수도는 키갈리예요.",
+        "en": "Rwanda is in Africa. Its capital is Kigali."
+      },
+      {
+        "ko": "르완다는 바다와 직접 닿지 않는 내륙 나라예요. 부룬디, 콩고 민주 공화국, 탄자니아 등과 육지로 이어져요.",
+        "en": "Rwanda is landlocked. Its land neighbours include Burundi, DR Congo, Tanzania."
+      },
+      {
+        "ko": "뉴웅궤 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Nyungwe National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/rw/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 157,
+    "batch": 12,
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "nameKo": "세인트키츠 네비스",
+    "subject": "Brimstone Hill Fortress National Park",
+    "subjectKo": "브림스톤힐 요새 국립공원",
+    "capital": "Basseterre",
+    "capitalKo": "바스테르",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "세인트키츠 네비스는 아메리카에 있어요. 수도는 바스테르예요.",
+        "en": "Saint Kitts and Nevis is in Americas. Its capital is Basseterre."
+      },
+      {
+        "ko": "세인트키츠 네비스는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Saint Kitts and Nevis is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "브림스톤힐 요새 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Brimstone Hill Fortress National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/kn/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 158,
+    "batch": 12,
+    "code": "LC",
+    "name": "Saint Lucia",
+    "nameKo": "세인트루시아",
+    "subject": "Pitons Management Area",
+    "subjectKo": "피통의 자연 경관",
+    "capital": "Castries",
+    "capitalKo": "캐스트리스",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "세인트루시아는 아메리카에 있어요. 수도는 캐스트리스예요.",
+        "en": "Saint Lucia is in Americas. Its capital is Castries."
+      },
+      {
+        "ko": "세인트루시아는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Saint Lucia is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "피통의 자연 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Pitons Management Area is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/lc/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 159,
+    "batch": 12,
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "nameKo": "세인트빈센트 그레나딘",
+    "subject": "Kingstown and its surroundings",
+    "subjectKo": "킹스타운와 주변 풍경",
+    "capital": "Kingstown",
+    "capitalKo": "킹스타운",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "세인트빈센트 그레나딘은 아메리카에 있어요. 수도는 킹스타운예요.",
+        "en": "Saint Vincent and the Grenadines is in Americas. Its capital is Kingstown."
+      },
+      {
+        "ko": "세인트빈센트 그레나딘은 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Saint Vincent and the Grenadines is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 160,
+    "batch": 12,
+    "code": "WS",
+    "name": "Samoa",
+    "nameKo": "사모아",
+    "subject": "Apia and its surroundings",
+    "subjectKo": "아피아와 주변 풍경",
+    "capital": "Apia",
+    "capitalKo": "아피아",
+    "subregion": "Polynesia",
+    "stories": [
+      {
+        "ko": "사모아는 오세아니아에 있어요. 수도는 아피아예요.",
+        "en": "Samoa is in Oceania. Its capital is Apia."
+      },
+      {
+        "ko": "사모아는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Samoa is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어, 사모아어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English, Samoan. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 161,
+    "batch": 13,
+    "code": "SM",
+    "name": "San Marino",
+    "nameKo": "산마리노",
+    "subject": "San Marino Historic Centre and Mount Titano",
+    "subjectKo": "산마리노 구시가지와 티타노산",
+    "capital": "City of San Marino",
+    "capitalKo": "산마리노",
+    "subregion": "Southern Europe",
+    "stories": [
+      {
+        "ko": "산마리노는 유럽에 있어요. 수도는 산마리노예요.",
+        "en": "San Marino is in Europe. Its capital is City of San Marino."
+      },
+      {
+        "ko": "산마리노는 바다와 직접 닿지 않는 내륙 나라예요. 이탈리아 등과 육지로 이어져요.",
+        "en": "San Marino is landlocked. Its land neighbours include Italy."
+      },
+      {
+        "ko": "산마리노 구시가지와 티타노산은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "San Marino Historic Centre and Mount Titano is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 162,
+    "batch": 13,
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "nameKo": "상투메 프린시페",
+    "subject": "São Tomé and its surroundings",
+    "subjectKo": "상투메와 주변 풍경",
+    "capital": "São Tomé",
+    "capitalKo": "상투메",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "상투메 프린시페는 아프리카에 있어요. 수도는 상투메예요.",
+        "en": "São Tomé and Príncipe is in Africa. Its capital is São Tomé."
+      },
+      {
+        "ko": "상투메 프린시페는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "São Tomé and Príncipe is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 포르투갈어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Portuguese. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 163,
+    "batch": 13,
+    "code": "SN",
+    "name": "Senegal",
+    "nameKo": "세네갈",
+    "subject": "Island of Gorée",
+    "subjectKo": "고레섬",
+    "capital": "Dakar",
+    "capitalKo": "다카르",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "세네갈은 아프리카에 있어요. 수도는 다카르예요.",
+        "en": "Senegal is in Africa. Its capital is Dakar."
+      },
+      {
+        "ko": "세네갈에는 바다와 만나는 해안이 있어요. 육지 이웃에는 감비아, 기니, 기니비사우 등이 있어요.",
+        "en": "Senegal has a coast. Its land neighbours include Gambia, Guinea, Guinea-Bissau."
+      },
+      {
+        "ko": "고레섬은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Island of Gorée is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sn/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 164,
+    "batch": 13,
+    "code": "RS",
+    "name": "Serbia",
+    "nameKo": "세르비아",
+    "subject": "Studenica Monastery",
+    "subjectKo": "스투데니차 수도원",
+    "capital": "Belgrade",
+    "capitalKo": "베오그라드",
+    "subregion": "Southeast Europe",
+    "stories": [
+      {
+        "ko": "세르비아는 유럽에 있어요. 수도는 베오그라드예요.",
+        "en": "Serbia is in Europe. Its capital is Belgrade."
+      },
+      {
+        "ko": "세르비아는 바다와 직접 닿지 않는 내륙 나라예요. 보스니아 헤르체고비나, 불가리아, 크로아티아 등과 육지로 이어져요.",
+        "en": "Serbia is landlocked. Its land neighbours include Bosnia and Herzegovina, Bulgaria, Croatia."
+      },
+      {
+        "ko": "스투데니차 수도원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Studenica Monastery is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/rs/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 165,
+    "batch": 13,
+    "code": "SC",
+    "name": "Seychelles",
+    "nameKo": "세이셸",
+    "subject": "Aldabra Atoll",
+    "subjectKo": "알다브라 환초",
+    "capital": "Victoria",
+    "capitalKo": "빅토리아",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "세이셸은 아프리카에 있어요. 수도는 빅토리아예요.",
+        "en": "Seychelles is in Africa. Its capital is Victoria."
+      },
+      {
+        "ko": "세이셸은 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Seychelles is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "알다브라 환초은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Aldabra Atoll is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sc/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 166,
+    "batch": 13,
+    "code": "SL",
+    "name": "Sierra Leone",
+    "nameKo": "시에라리온",
+    "subject": "Gola-Tiwai Complex",
+    "subjectKo": "골라·티와이 자연 지역",
+    "capital": "Freetown",
+    "capitalKo": "프리타운",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "시에라리온은 아프리카에 있어요. 수도는 프리타운예요.",
+        "en": "Sierra Leone is in Africa. Its capital is Freetown."
+      },
+      {
+        "ko": "시에라리온에는 바다와 만나는 해안이 있어요. 육지 이웃에는 기니, 라이베리아 등이 있어요.",
+        "en": "Sierra Leone has a coast. Its land neighbours include Guinea, Liberia."
+      },
+      {
+        "ko": "골라·티와이 자연 지역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Gola-Tiwai Complex is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sl/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 167,
+    "batch": 13,
+    "code": "SG",
+    "name": "Singapore",
+    "nameKo": "싱가포르",
+    "subject": "Singapore Botanic Gardens",
+    "subjectKo": "싱가포르 식물원",
+    "capital": "Singapore",
+    "capitalKo": "싱가포르",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "싱가포르는 나라 이름과 수도 이름이 같은 도시 국가예요. 머라이언은 사자 머리와 물고기 몸을 가진 상징이에요.",
+        "en": "Singapore is a city-state whose capital shares its name. The Merlion combines a lion’s head with a fish’s body."
+      },
+      {
+        "ko": "싱가포르 식물원에는 다양한 식물과 난초가 자라요. 이 식물원은 유네스코 세계유산이에요.",
+        "en": "Singapore Botanic Gardens is a UNESCO World Heritage site where many plants and orchids grow."
+      },
+      {
+        "ko": "호커 센터는 여러 음식 가게가 모여 있는 곳이에요. 치킨라이스처럼 다양한 문화의 음식을 만날 수 있어요.",
+        "en": "Hawker centres bring many food stalls together. Dishes such as chicken rice reflect Singapore’s different cultures."
+      }
+    ],
+    "sources": [
+      "https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/",
+      "https://www.visitsingapore.com/things-to-do/top-things-to-do/city-in-nature/",
+      "https://www.visitsingapore.com/content/visitsingapore/en/travel-tips/travelling-to-singapore/itineraries/singapore-city-tour-guide/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sg/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 4
+  },
+  {
+    "number": 168,
+    "batch": 13,
+    "code": "SK",
+    "name": "Slovakia",
+    "nameKo": "슬로바키아",
+    "subject": "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+    "subjectKo": "스피시성의 역사 유적",
+    "capital": "Bratislava",
+    "capitalKo": "브라티슬라바",
+    "subregion": "Central Europe",
+    "stories": [
+      {
+        "ko": "슬로바키아는 유럽에 있어요. 수도는 브라티슬라바예요.",
+        "en": "Slovakia is in Europe. Its capital is Bratislava."
+      },
+      {
+        "ko": "슬로바키아는 바다와 직접 닿지 않는 내륙 나라예요. 오스트리아, 체코, 헝가리 등과 육지로 이어져요.",
+        "en": "Slovakia is landlocked. Its land neighbours include Austria, Czechia, Hungary."
+      },
+      {
+        "ko": "스피시성의 역사 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Levoča, Spišský Hrad and the Associated Cultural Monuments is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sk/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 169,
+    "batch": 13,
+    "code": "SI",
+    "name": "Slovenia",
+    "nameKo": "슬로베니아",
+    "subject": "Škocjan Caves",
+    "subjectKo": "슈코치안 동굴",
+    "capital": "Ljubljana",
+    "capitalKo": "류블랴나",
+    "subregion": "Central Europe",
+    "stories": [
+      {
+        "ko": "슬로베니아는 유럽에 있어요. 수도는 류블랴나예요.",
+        "en": "Slovenia is in Europe. Its capital is Ljubljana."
+      },
+      {
+        "ko": "슬로베니아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 오스트리아, 크로아티아, 이탈리아 등이 있어요.",
+        "en": "Slovenia has a coast. Its land neighbours include Austria, Croatia, Italy."
+      },
+      {
+        "ko": "슈코치안 동굴은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Škocjan Caves is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/si/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 170,
+    "batch": 13,
+    "code": "SB",
+    "name": "Solomon Islands",
+    "nameKo": "솔로몬 제도",
+    "subject": "East Rennell",
+    "subjectKo": "동렌넬의 자연 지역",
+    "capital": "Honiara",
+    "capitalKo": "호니아라",
+    "subregion": "Melanesia",
+    "stories": [
+      {
+        "ko": "솔로몬 제도는 오세아니아에 있어요. 수도는 호니아라예요.",
+        "en": "Solomon Islands is in Oceania. Its capital is Honiara."
+      },
+      {
+        "ko": "솔로몬 제도는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Solomon Islands is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "동렌넬의 자연 지역은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "East Rennell is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sb/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 171,
+    "batch": 14,
+    "code": "SO",
+    "name": "Somalia",
+    "nameKo": "소말리아",
+    "subject": "Mogadishu and its surroundings",
+    "subjectKo": "모가디슈와 주변 풍경",
+    "capital": "Mogadishu",
+    "capitalKo": "모가디슈",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "소말리아는 아프리카에 있어요. 수도는 모가디슈예요.",
+        "en": "Somalia is in Africa. Its capital is Mogadishu."
+      },
+      {
+        "ko": "소말리아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 지부티, 에티오피아, 케냐 등이 있어요.",
+        "en": "Somalia has a coast. Its land neighbours include Djibouti, Ethiopia, Kenya."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 아랍어, 소말리어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Arabic, Somali. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 172,
+    "batch": 14,
+    "code": "SS",
+    "name": "South Sudan",
+    "nameKo": "남수단",
+    "subject": "Boma–Badingilo Migratory Landscape",
+    "subjectKo": "보마·바딩길로의 동물 이동 경관",
+    "capital": "Juba",
+    "capitalKo": "주바",
+    "subregion": "Middle Africa",
+    "stories": [
+      {
+        "ko": "남수단은 아프리카에 있어요. 수도는 주바예요.",
+        "en": "South Sudan is in Africa. Its capital is Juba."
+      },
+      {
+        "ko": "남수단은 바다와 직접 닿지 않는 내륙 나라예요. 중앙아프리카 공화국, 콩고 민주 공화국, 에티오피아 등과 육지로 이어져요.",
+        "en": "South Sudan is landlocked. Its land neighbours include Central African Republic, DR Congo, Ethiopia."
+      },
+      {
+        "ko": "보마·바딩길로의 동물 이동 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Boma–Badingilo Migratory Landscape is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ss/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 173,
+    "batch": 14,
+    "code": "LK",
+    "name": "Sri Lanka",
+    "nameKo": "스리랑카",
+    "subject": "Ancient City of Sigiriya",
+    "subjectKo": "시기리야 고대 도시",
+    "capital": "Sri Jayewardenepura Kotte",
+    "capitalKo": "스리자야와르데네푸라코테",
+    "subregion": "Southern Asia",
+    "stories": [
+      {
+        "ko": "스리자야와르데네푸라코테에는 의회가 있고, 콜롬보에는 많은 정부 기관이 있어요.",
+        "en": "Sri Jayewardenepura Kotte is the legislative capital; many government offices are in Colombo."
+      },
+      {
+        "ko": "스리랑카에는 바다와 만나는 해안이 있어요. 육지 이웃에는 인도 등이 있어요.",
+        "en": "Sri Lanka has a coast. Its land neighbours include India."
+      },
+      {
+        "ko": "시기리야 고대 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Ancient City of Sigiriya is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/lk/",
+      "https://www.gov.lk/sri-lanka/country-overview"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 174,
+    "batch": 14,
+    "code": "SD",
+    "name": "Sudan",
+    "nameKo": "수단",
+    "subject": "Archaeological Sites of the Island of Meroe",
+    "subjectKo": "메로에섬의 고고 유적",
+    "capital": "Khartoum",
+    "capitalKo": "하르툼",
+    "subregion": "Northern Africa",
+    "stories": [
+      {
+        "ko": "수단은 아프리카에 있어요. 수도는 하르툼예요.",
+        "en": "Sudan is in Africa. Its capital is Khartoum."
+      },
+      {
+        "ko": "수단에는 바다와 만나는 해안이 있어요. 육지 이웃에는 중앙아프리카 공화국, 차드, 이집트 등이 있어요.",
+        "en": "Sudan has a coast. Its land neighbours include Central African Republic, Chad, Egypt."
+      },
+      {
+        "ko": "메로에섬의 고고 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Archaeological Sites of the Island of Meroe is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sd/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 175,
+    "batch": 14,
+    "code": "SR",
+    "name": "Suriname",
+    "nameKo": "수리남",
+    "subject": "Historic Inner City of Paramaribo",
+    "subjectKo": "파라마리보 역사 지구",
+    "capital": "Paramaribo",
+    "capitalKo": "파라마리보",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "수리남은 아메리카에 있어요. 수도는 파라마리보예요.",
+        "en": "Suriname is in Americas. Its capital is Paramaribo."
+      },
+      {
+        "ko": "수리남에는 바다와 만나는 해안이 있어요. 육지 이웃에는 브라질, 프랑스령 기아나, 가이아나 등이 있어요.",
+        "en": "Suriname has a coast. Its land neighbours include Brazil, French Guiana, Guyana."
+      },
+      {
+        "ko": "파라마리보 역사 지구은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Historic Inner City of Paramaribo is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sr/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 176,
+    "batch": 14,
+    "code": "CH",
+    "name": "Switzerland",
+    "nameKo": "스위스",
+    "subject": "Swiss Alps Jungfrau-Aletsch",
+    "subjectKo": "융프라우·알레치의 알프스 경관",
+    "capital": "Bern",
+    "capitalKo": "베른",
+    "subregion": "Western Europe",
+    "stories": [
+      {
+        "ko": "베른은 스위스 정부가 있는 연방도시예요. 보통 수도처럼 소개하지만, 공식 명칭인 연방도시도 함께 알아두어요.",
+        "en": "Bern is Switzerland’s federal city and seat of government. It is commonly described as the capital, while its official title is federal city."
+      },
+      {
+        "ko": "스위스에는 알프스산맥, 쥐라산맥, 그 사이의 고원 지대가 있어요. 산악 철도로 높은 곳까지 오를 수도 있어요.",
+        "en": "Switzerland has the Alps, the Jura Mountains and a plateau between them. Mountain railways reach high into the Alps."
+      },
+      {
+        "ko": "스위스의 국가 언어는 독일어·프랑스어·이탈리아어·로만슈어 네 가지예요. 지역마다 사용하는 언어가 달라요.",
+        "en": "Switzerland has four national languages: German, French, Italian and Romansh. Language use varies by region."
+      }
+    ],
+    "sources": [
+      "https://www.aboutswitzerland.eda.admin.ch/en/political-system",
+      "https://www.aboutswitzerland.eda.admin.ch/en/geography",
+      "https://www.aboutswitzerland.eda.admin.ch/en/languages-and-dialects",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ch/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 17
+  },
+  {
+    "number": 177,
+    "batch": 14,
+    "code": "SY",
+    "name": "Syria",
+    "nameKo": "시리아",
+    "subject": "Ancient City of Bosra",
+    "subjectKo": "보스라 고대 도시",
+    "capital": "Damascus",
+    "capitalKo": "다마스쿠스",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "시리아는 아시아에 있어요. 수도는 다마스쿠스예요.",
+        "en": "Syria is in Asia. Its capital is Damascus."
+      },
+      {
+        "ko": "시리아에는 바다와 만나는 해안이 있어요. 육지 이웃에는 이라크, 이스라엘, 요르단 등이 있어요.",
+        "en": "Syria has a coast. Its land neighbours include Iraq, Israel, Jordan."
+      },
+      {
+        "ko": "보스라 고대 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Ancient City of Bosra is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/sy/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 178,
+    "batch": 14,
+    "code": "TW",
+    "name": "Taiwan",
+    "nameKo": "대만",
+    "subject": "Taipei and its surroundings",
+    "subjectKo": "타이베이와 주변 풍경",
+    "capital": "Taipei",
+    "capitalKo": "타이베이",
+    "subregion": "Eastern Asia",
+    "stories": [
+      {
+        "ko": "대만은 아시아에 있어요. 수도는 타이베이예요.",
+        "en": "Taiwan is in Asia. Its capital is Taipei."
+      },
+      {
+        "ko": "대만은 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Taiwan is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 중국어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Chinese. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 179,
+    "batch": 14,
+    "code": "TJ",
+    "name": "Tajikistan",
+    "nameKo": "타지키스탄",
+    "subject": "Cultural Heritage Sites of Ancient Khuttal",
+    "subjectKo": "고대 후탈의 문화유산",
+    "capital": "Dushanbe",
+    "capitalKo": "두샨베",
+    "subregion": "Central Asia",
+    "stories": [
+      {
+        "ko": "타지키스탄은 아시아에 있어요. 수도는 두샨베예요.",
+        "en": "Tajikistan is in Asia. Its capital is Dushanbe."
+      },
+      {
+        "ko": "타지키스탄은 바다와 직접 닿지 않는 내륙 나라예요. 아프가니스탄, 중국, 키르기스스탄 등과 육지로 이어져요.",
+        "en": "Tajikistan is landlocked. Its land neighbours include Afghanistan, China, Kyrgyzstan."
+      },
+      {
+        "ko": "고대 후탈의 문화유산은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Cultural Heritage Sites of Ancient Khuttal is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/tj/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 180,
+    "batch": 14,
+    "code": "TL",
+    "name": "Timor-Leste",
+    "nameKo": "동티모르",
+    "subject": "Dili and its surroundings",
+    "subjectKo": "딜리와 주변 풍경",
+    "capital": "Dili",
+    "capitalKo": "딜리",
+    "subregion": "South-Eastern Asia",
+    "stories": [
+      {
+        "ko": "동티모르는 아시아에 있어요. 수도는 딜리예요.",
+        "en": "Timor-Leste is in Asia. Its capital is Dili."
+      },
+      {
+        "ko": "동티모르에는 바다와 만나는 해안이 있어요. 육지 이웃에는 인도네시아 등이 있어요.",
+        "en": "Timor-Leste has a coast. Its land neighbours include Indonesia."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 포르투갈어, 테툼어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include Portuguese, Tetum. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 181,
+    "batch": 15,
+    "code": "TG",
+    "name": "Togo",
+    "nameKo": "토고",
+    "subject": "Koutammakou, the Land of the Batammariba",
+    "subjectKo": "바탐마리바 사람들의 쿠타마쿠 경관",
+    "capital": "Lomé",
+    "capitalKo": "로메",
+    "subregion": "Western Africa",
+    "stories": [
+      {
+        "ko": "토고는 아프리카에 있어요. 수도는 로메예요.",
+        "en": "Togo is in Africa. Its capital is Lomé."
+      },
+      {
+        "ko": "토고에는 바다와 만나는 해안이 있어요. 육지 이웃에는 베냉, 부르키나파소, 가나 등이 있어요.",
+        "en": "Togo has a coast. Its land neighbours include Benin, Burkina Faso, Ghana."
+      },
+      {
+        "ko": "바탐마리바 사람들의 쿠타마쿠 경관은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Koutammakou, the Land of the Batammariba is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/tg/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 182,
+    "batch": 15,
+    "code": "TO",
+    "name": "Tonga",
+    "nameKo": "통가",
+    "subject": "Nuku'alofa and its surroundings",
+    "subjectKo": "누쿠알로파와 주변 풍경",
+    "capital": "Nuku'alofa",
+    "capitalKo": "누쿠알로파",
+    "subregion": "Polynesia",
+    "stories": [
+      {
+        "ko": "통가는 오세아니아에 있어요. 수도는 누쿠알로파예요.",
+        "en": "Tonga is in Oceania. Its capital is Nuku'alofa."
+      },
+      {
+        "ko": "통가는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Tonga is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어, 통가어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English, Tongan. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 183,
+    "batch": 15,
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "nameKo": "트리니다드 토바고",
+    "subject": "Port of Spain and its surroundings",
+    "subjectKo": "포트오브스페인와 주변 풍경",
+    "capital": "Port of Spain",
+    "capitalKo": "포트오브스페인",
+    "subregion": "Caribbean",
+    "stories": [
+      {
+        "ko": "트리니다드 토바고는 아메리카에 있어요. 수도는 포트오브스페인예요.",
+        "en": "Trinidad and Tobago is in Americas. Its capital is Port of Spain."
+      },
+      {
+        "ko": "트리니다드 토바고는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Trinidad and Tobago is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 184,
+    "batch": 15,
+    "code": "TN",
+    "name": "Tunisia",
+    "nameKo": "튀니지",
+    "subject": "Amphitheatre of El Jem",
+    "subjectKo": "엘젬 원형 경기장",
+    "capital": "Tunis",
+    "capitalKo": "튀니스",
+    "subregion": "Northern Africa",
+    "stories": [
+      {
+        "ko": "튀니지는 아프리카에 있어요. 수도는 튀니스예요.",
+        "en": "Tunisia is in Africa. Its capital is Tunis."
+      },
+      {
+        "ko": "튀니지에는 바다와 만나는 해안이 있어요. 육지 이웃에는 알제리, 리비아 등이 있어요.",
+        "en": "Tunisia has a coast. Its land neighbours include Algeria, Libya."
+      },
+      {
+        "ko": "엘젬 원형 경기장은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Amphitheatre of El Jem is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/tn/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 185,
+    "batch": 15,
+    "code": "TM",
+    "name": "Turkmenistan",
+    "nameKo": "투르크메니스탄",
+    "subject": "State Historical and Cultural Park “Ancient Merv”",
+    "subjectKo": "메르브의 옛 오아시스 도시",
+    "capital": "Ashgabat",
+    "capitalKo": "아시가바트",
+    "subregion": "Central Asia",
+    "stories": [
+      {
+        "ko": "투르크메니스탄은 아시아에 있어요. 수도는 아시가바트예요.",
+        "en": "Turkmenistan is in Asia. Its capital is Ashgabat."
+      },
+      {
+        "ko": "투르크메니스탄은 바다와 직접 닿지 않는 내륙 나라예요. 아프가니스탄, 이란, 카자흐스탄 등과 육지로 이어져요.",
+        "en": "Turkmenistan is landlocked. Its land neighbours include Afghanistan, Iran, Kazakhstan."
+      },
+      {
+        "ko": "메르브의 옛 오아시스 도시은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "State Historical and Cultural Park “Ancient Merv” is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/tm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 186,
+    "batch": 15,
+    "code": "TV",
+    "name": "Tuvalu",
+    "nameKo": "투발루",
+    "subject": "Funafuti and its surroundings",
+    "subjectKo": "푸나푸티와 주변 풍경",
+    "capital": "Funafuti",
+    "capitalKo": "푸나푸티",
+    "subregion": "Polynesia",
+    "stories": [
+      {
+        "ko": "투발루는 오세아니아에 있어요. 수도는 푸나푸티예요.",
+        "en": "Tuvalu is in Oceania. Its capital is Funafuti."
+      },
+      {
+        "ko": "투발루는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Tuvalu is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "이 나라에서 사용하는 언어에는 영어, 투발루어 등이 있어요. 인사말을 찾아보며 문화를 알아볼 수 있어요.",
+        "en": "Languages used in this country include English, Tuvaluan. Learning a greeting is one way to discover its culture."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 187,
+    "batch": 15,
+    "code": "UG",
+    "name": "Uganda",
+    "nameKo": "우간다",
+    "subject": "Bwindi Impenetrable National Park",
+    "subjectKo": "브윈디 원시림 국립공원",
+    "capital": "Kampala",
+    "capitalKo": "캄팔라",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "우간다는 아프리카에 있어요. 수도는 캄팔라예요.",
+        "en": "Uganda is in Africa. Its capital is Kampala."
+      },
+      {
+        "ko": "우간다는 바다와 직접 닿지 않는 내륙 나라예요. 콩고 민주 공화국, 케냐, 르완다 등과 육지로 이어져요.",
+        "en": "Uganda is landlocked. Its land neighbours include DR Congo, Kenya, Rwanda."
+      },
+      {
+        "ko": "브윈디 원시림 국립공원은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Bwindi Impenetrable National Park is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ug/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 188,
+    "batch": 15,
+    "code": "UA",
+    "name": "Ukraine",
+    "nameKo": "우크라이나",
+    "subject": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+    "subjectKo": "키이우의 성소피아 대성당",
+    "capital": "Kyiv",
+    "capitalKo": "키이우",
+    "subregion": "Eastern Europe",
+    "stories": [
+      {
+        "ko": "우크라이나는 유럽에 있어요. 수도는 키이우예요.",
+        "en": "Ukraine is in Europe. Its capital is Kyiv."
+      },
+      {
+        "ko": "우크라이나에는 바다와 만나는 해안이 있어요. 육지 이웃에는 벨라루스, 헝가리, 몰도바 등이 있어요.",
+        "en": "Ukraine has a coast. Its land neighbours include Belarus, Hungary, Moldova."
+      },
+      {
+        "ko": "키이우의 성소피아 대성당은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ua/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 189,
+    "batch": 15,
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "nameKo": "아랍에미리트",
+    "subject": "Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+    "subjectKo": "알아인의 오아시스와 문화 유적",
+    "capital": "Abu Dhabi",
+    "capitalKo": "아부다비",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "아랍에미리트는 일곱 토후국이 함께 이루는 나라예요. 수도는 아부다비이고, 두바이는 다른 토후국의 도시예요.",
+        "en": "The United Arab Emirates is a federation of seven emirates. Abu Dhabi is the capital; Dubai is a city in another emirate."
+      },
+      {
+        "ko": "아부다비에는 셰이크 자이드 대모스크가 있고, 두바이에는 높은 부르즈 할리파가 있어요.",
+        "en": "Abu Dhabi has the Sheikh Zayed Grand Mosque, while Dubai is home to the tall Burj Khalifa."
+      },
+      {
+        "ko": "아랍에미리트에는 사막과 바다에 닿는 해안이 함께 있어요. 알아인에서는 오아시스와 오래된 문화 유적을 볼 수 있어요.",
+        "en": "The UAE has both deserts and a coast. Al Ain has oases and historic cultural sites."
+      }
+    ],
+    "sources": [
+      "https://u.ae/en/about-the-uae/fact-sheet",
+      "https://u.ae/en/about-the-uae/the-seven-emirates",
+      "https://whc.unesco.org/en/statesparties/ae/",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 5
+  },
+  {
+    "number": 190,
+    "batch": 15,
+    "code": "UY",
+    "name": "Uruguay",
+    "nameKo": "우루과이",
+    "subject": "Historic Quarter of the City of Colonia del Sacramento",
+    "subjectKo": "콜로니아델사크라멘토 역사 지구",
+    "capital": "Montevideo",
+    "capitalKo": "몬테비데오",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "우루과이의 수도는 몬테비데오예요. 도시는 넓은 강 하구인 라플라타강을 따라 자리해요.",
+        "en": "Montevideo is Uruguay’s capital. The city stands beside the wide Río de la Plata estuary."
+      },
+      {
+        "ko": "몬테비데오의 람블라는 물가를 따라 이어지는 길이에요. 산책하거나 자전거를 타며 도시의 해안 풍경을 볼 수 있어요.",
+        "en": "Montevideo’s Rambla follows the waterfront, offering places to walk, cycle and see the coast."
+      },
+      {
+        "ko": "칸돔베는 아프리카계 공동체의 역사와 이어진 북 음악과 춤이에요. 몬테비데오 여러 동네에서 전통을 이어가요.",
+        "en": "Candombe is drum music and dance rooted in communities of African descent. Several Montevideo neighbourhoods keep the tradition alive."
+      }
+    ],
+    "sources": [
+      "https://montevideo.gub.uy/areas-tematicas/amiga-del-futbol/descubri-montevideo",
+      "https://www.montevideo.gub.uy/areas-tematicas/cultura-y-tiempo-libre/parques/rambla",
+      "https://ich.unesco.org/en/RL/candombe-and-its-socio-cultural-space-a-community-practice-00182",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/uy/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 35
+  },
+  {
+    "number": 191,
+    "batch": 16,
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "nameKo": "우즈베키스탄",
+    "subject": "Samarkand – Crossroad of Cultures",
+    "subjectKo": "사마르칸트의 문화 경관",
+    "capital": "Tashkent",
+    "capitalKo": "타슈켄트",
+    "subregion": "Central Asia",
+    "stories": [
+      {
+        "ko": "우즈베키스탄의 수도는 타슈켄트예요. 사마르칸트와 부하라는 실크로드를 따라 여러 문화가 만났던 도시예요.",
+        "en": "Tashkent is Uzbekistan’s capital. Samarkand and Bukhara were meeting places for cultures along the Silk Roads."
+      },
+      {
+        "ko": "사마르칸트에는 오래된 모스크와 큰 광장이 있어요. 건물의 푸른 타일 장식을 살펴볼 수 있어요.",
+        "en": "Samarkand has historic mosques and great squares, with blue tilework decorating its buildings."
+      },
+      {
+        "ko": "팔로브는 쌀을 중심으로 만든 음식이에요. 손님과 이웃이 함께 나누어 먹는 전통도 이어지고 있어요.",
+        "en": "Palov is a rice-based dish. Sharing it with guests and neighbours is an important living tradition."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/603/",
+      "https://whc.unesco.org/en/statesparties/uz/",
+      "https://ich.unesco.org/en/RL/palov-culture-and-tradition-01166",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 6
+  },
+  {
+    "number": 192,
+    "batch": 16,
+    "code": "VU",
+    "name": "Vanuatu",
+    "nameKo": "바누아투",
+    "subject": "Chief Roi Mata’s Domain",
+    "subjectKo": "로이마타 추장의 유산",
+    "capital": "Port Vila",
+    "capitalKo": "포트빌라",
+    "subregion": "Melanesia",
+    "stories": [
+      {
+        "ko": "바누아투는 오세아니아에 있어요. 수도는 포트빌라예요.",
+        "en": "Vanuatu is in Oceania. Its capital is Port Vila."
+      },
+      {
+        "ko": "바누아투는 바다로 둘러싸인 섬나라예요. 지도에서 해안선과 주변 바다를 살펴보세요.",
+        "en": "Vanuatu is an island country. Look for its coastline and surrounding sea on the map."
+      },
+      {
+        "ko": "로이마타 추장의 유산은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Chief Roi Mata’s Domain is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/vu/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 193,
+    "batch": 16,
+    "code": "VA",
+    "name": "Vatican City",
+    "nameKo": "바티칸",
+    "subject": "Vatican City",
+    "subjectKo": "바티칸시국",
+    "capital": "Vatican City",
+    "capitalKo": "바티칸시국",
+    "subregion": "Southern Europe",
+    "stories": [
+      {
+        "ko": "바티칸은 유럽에 있어요. 수도는 바티칸시국예요.",
+        "en": "Vatican City is in Europe. Its capital is Vatican City."
+      },
+      {
+        "ko": "바티칸은 바다와 직접 닿지 않는 내륙 나라예요. 이탈리아 등과 육지로 이어져요.",
+        "en": "Vatican City is landlocked. Its land neighbours include Italy."
+      },
+      {
+        "ko": "바티칸시국은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Vatican City is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/va/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 194,
+    "batch": 16,
+    "code": "VE",
+    "name": "Venezuela",
+    "nameKo": "베네수엘라",
+    "subject": "Canaima National Park",
+    "subjectKo": "카나이마 국립공원",
+    "capital": "Caracas",
+    "capitalKo": "카라카스",
+    "subregion": "South America",
+    "stories": [
+      {
+        "ko": "베네수엘라의 수도는 카라카스예요. 남아메리카 북쪽에 있으며 카리브해와 만나는 해안이 있어요.",
+        "en": "Caracas is Venezuela’s capital. Venezuela lies in northern South America and has a Caribbean coast."
+      },
+      {
+        "ko": "카나이마 국립공원에는 앙헬폭포가 있어요. 높은 절벽 위에서 물이 길게 떨어지는 폭포예요.",
+        "en": "Angel Falls is in Canaima National Park, where water drops a long distance from a high cliff."
+      },
+      {
+        "ko": "카나이마에는 꼭대기가 평평한 테푸이 산들이 있어요. 특별한 지형과 다양한 생물을 세계유산으로 보호해요.",
+        "en": "Canaima has flat-topped mountains called tepuis. Its distinctive landforms and wildlife are protected as World Heritage."
+      }
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/701/",
+      "https://whc.unesco.org/document/218578",
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ve/"
+    ],
+    "status": "pending",
+    "priority": "user_selected_48",
+    "priorityOrder": 31
+  },
+  {
+    "number": 195,
+    "batch": 16,
+    "code": "YE",
+    "name": "Yemen",
+    "nameKo": "예멘",
+    "subject": "Old City of Sana’a",
+    "subjectKo": "사나 구시가지",
+    "capital": "Sana'a",
+    "capitalKo": "사나",
+    "subregion": "Western Asia",
+    "stories": [
+      {
+        "ko": "예멘은 아시아에 있어요. 수도는 사나예요.",
+        "en": "Yemen is in Asia. Its capital is Sana'a."
+      },
+      {
+        "ko": "예멘에는 바다와 만나는 해안이 있어요. 육지 이웃에는 오만, 사우디아라비아 등이 있어요.",
+        "en": "Yemen has a coast. Its land neighbours include Oman, Saudi Arabia."
+      },
+      {
+        "ko": "사나 구시가지은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Old City of Sana’a is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/ye/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 196,
+    "batch": 16,
+    "code": "ZM",
+    "name": "Zambia",
+    "nameKo": "잠비아",
+    "subject": "Mosi-oa-Tunya / Victoria Falls",
+    "subjectKo": "빅토리아 폭포",
+    "capital": "Lusaka",
+    "capitalKo": "루사카",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "잠비아는 아프리카에 있어요. 수도는 루사카예요.",
+        "en": "Zambia is in Africa. Its capital is Lusaka."
+      },
+      {
+        "ko": "잠비아는 바다와 직접 닿지 않는 내륙 나라예요. 앙골라, 보츠와나, 콩고 민주 공화국 등과 육지로 이어져요.",
+        "en": "Zambia is landlocked. Its land neighbours include Angola, Botswana, DR Congo."
+      },
+      {
+        "ko": "빅토리아 폭포은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Mosi-oa-Tunya / Victoria Falls is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/zm/"
+    ],
+    "status": "pending"
+  },
+  {
+    "number": 197,
+    "batch": 16,
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "nameKo": "짐바브웨",
+    "subject": "Great Zimbabwe National Monument",
+    "subjectKo": "그레이트짐바브웨 유적",
+    "capital": "Harare",
+    "capitalKo": "하라레",
+    "subregion": "Eastern Africa",
+    "stories": [
+      {
+        "ko": "짐바브웨는 아프리카에 있어요. 수도는 하라레예요.",
+        "en": "Zimbabwe is in Africa. Its capital is Harare."
+      },
+      {
+        "ko": "짐바브웨는 바다와 직접 닿지 않는 내륙 나라예요. 보츠와나, 모잠비크, 남아프리카 등과 육지로 이어져요.",
+        "en": "Zimbabwe is landlocked. Its land neighbours include Botswana, Mozambique, South Africa."
+      },
+      {
+        "ko": "그레이트짐바브웨 유적은 유네스코 세계유산으로 보호받는 곳이에요. 이 나라의 자연이나 역사 이야기를 만날 수 있어요.",
+        "en": "Great Zimbabwe National Monument is a UNESCO World Heritage site. It is a place to discover this country’s nature or history."
+      }
+    ],
+    "sources": [
+      "https://github.com/mledoze/countries",
+      "https://api.worldbank.org/v2/country?format=json&per_page=400",
+      "https://whc.unesco.org/en/statesparties/zw/"
+    ],
+    "status": "pending"
+  }
+]

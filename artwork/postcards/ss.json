@@ -1,0 +1,20 @@
+{
+  "code": "SS",
+  "nameKo": "남수단",
+  "filename": "south-sudan-sudd.webp",
+  "landmark": "Sudd wetlands on the White Nile",
+  "landmarkKo": "백나일강의 수드 습지",
+  "sources": [
+    "https://whc.unesco.org/en/tentativelists/6276/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: 남수단 country-learning postcard for a children's world atlas.\nPrimary request / scene: The vast flat Sudd wetlands of South Sudan along the White Nile floodplain. An open wide landscape from a gently elevated low viewpoint, shining branching channels between dense green papyrus and reed islands, floating vegetation, distant floodplain reaching a broad sky. A few small distant wetland birds may fly naturally. Papyrus umbels and reed stems clearly visible near the foreground, waterways curve gently through the middle. The defining geography is a huge low flat wetland, not high mountains, a rainforest canyon, rice terraces, seaside islands or a city. No giant animals, safari parade or decorative people.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the atlas's Korean hanok and Great Wall paintings: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile painted paper, luminous cream clouds and blue sky, gently saturated greens and teal, warm ochre and terracotta. Believable landscape/landmark geometry, simplified just enough for young children. Not photographic, not flat vector or sticker art.\nComposition/framing: One independent full-bleed landscape image, exact 3:2 aspect ratio, intended 1536x1024. A clear layered foreground, midground and background; the key scene remains readable on a small card, inside the frame with breathing room. No collage.\nLighting/mood: Welcoming warm natural daylight, cheerful and calm.\nConstraints: No text, letters, writing, signs, flags, coats of arms, maps, logos, watermark, borders, stamps or UI. No invented landmarks or unrelated scenery.",
+  "inspection": "Flat broad wetland, branching channels and papyrus/reed islands; no mountains, safari parade or sea. Caption names Sudd, and the learning text must not describe it as the distinct Boma–Badingilo World Heritage property.",
+  "reviewedAt": "2026-10-01",
+  "guideFilename": "south-sudan-sudd.webp",
+  "originalFile": "SS.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "webImage": "/assets/postcards/ss.webp",
+  "exportFile": "ss.webp"
+}

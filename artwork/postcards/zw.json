@@ -1,0 +1,19 @@
+{
+  "code": "ZW",
+  "landmark": "Great Zimbabwe stone enclosure",
+  "landmarkKo": "그레이트짐바브웨의 돌벽 유적",
+  "filename": "zimbabwe-great-zimbabwe.webp",
+  "sources": [
+    "https://whc.unesco.org/en/list/364/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for ZW in a children's world atlas.\nPrimary request / scene: Great Zimbabwe in Zimbabwe: recognizable vast curving dry-stone granite walls of the Great Enclosure, expertly laid small grey granite blocks without mortar, the solid conical stone tower inside the enclosure visible clearly above a lower foreground wall section, warm grass and a few broad African trees, rounded granite outcrops in the distance. A broad elevated three-quarter view showing curved enclosure form and the distinctive conical tower. Weathered archaeological ruins, no European castle turrets, Egyptian pyramids or intact modern palace.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "zimbabwe-great-zimbabwe.webp",
+  "inspection": "곡선으로 이어지는 마른 돌쌓기 성벽과 원뿔형 돌탑으로 그레이트 짐바브웨를 표현했습니다.",
+  "originalFile": "ZW.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/zw.webp",
+  "exportFile": "zw.webp"
+}

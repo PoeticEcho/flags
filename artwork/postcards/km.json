@@ -1,0 +1,19 @@
+{
+  "code": "KM",
+  "landmark": "The Medinas of the Historic Sultanates of the Comoros",
+  "landmarkKo": "코모로의 역사적인 술탄 도시",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Comoros\nPrimary request: Moroni's historic medina and old harbour, one of the Medinas of the Historic Sultanates of the Comoros.\nSubject: A compact Comorian coastal old town with narrow lanes, low pale-plaster and dark volcanic-stone houses, simple wooden doors and modest roofs. At the harbour edge, show the recognizable white Friday Mosque with its long arcaded frontage and single slender minaret, keeping the building modest rather than adding elaborate towers. A few small local wooden boats rest in the harbour.\nScene/backdrop: Bright Indian Ocean water, a dark volcanic-stone quay, tropical greenery and a gentle green island ridge behind the town beneath a blue sky. Preserve the intimate island medina character.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, credible Swahili-Comorian architecture and geography, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Scenic waterfront view with the mosque and historic houses comfortably inside central 75% width and height, generous harbour foreground and sky.\nLighting/mood: Warm natural daylight, calm and welcoming.\nConstraints: Stylized educational illustration. Ornament stays abstract: no inscriptions, text or letters, UI, flags, logos, watermark, postcard frame or stamp. No giant golden mosque, European castle, unrelated monuments, erupting volcano or invented mountains.",
+  "sources": [
+    "https://whc.unesco.org/en/list/1768/",
+    "https://whc.unesco.org/en/list/1768/maps/",
+    "https://whc.unesco.org/en/list/1768/gallery/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: Moroni component of the serial medina heritage, with compact pale-plaster and volcanic-stone town fabric, a modest white arcaded Friday Mosque and single slender minaret, dark stone quay, small wooden boats and bright Indian Ocean water. Island ridge and building details are stylized rather than an exact harbour survey. No giant golden mosque, castle, erupting volcano, readable text, flags, UI or logos.",
+  "originalFile": "KM-moroni-medina.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/km.webp",
+  "exportFile": "km.webp"
+}

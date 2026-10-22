@@ -1,0 +1,20 @@
+{
+  "code": "SI",
+  "nameKo": "슬로베니아",
+  "filename": "slovenia-skocjan-caves.webp",
+  "landmark": "Škocjan Caves",
+  "landmarkKo": "슈코치안 동굴",
+  "sources": [
+    "https://whc.unesco.org/en/list/390/"
+  ],
+  "prompt": "Use case: illustration-story\nAsset type: Country learning postcard for SI in a children's world atlas.\nPrimary request / scene: Interior of Slovenia's Škocjan Caves: an enormous natural limestone underground canyon chamber with a dark blue-green river deep below, rugged layered stone walls and cave formations. A narrow walking path with simple railings runs along one side and a slender pedestrian bridge crosses high above the gorge. Warm soft visitor lighting along the path and cool reflected river light, readable welcoming painted scene rather than pitch-black photo. No daylight blue sky inside, fantasy crystals, palace pillars or huge artificial suspension bridge.\nStyle/medium: Warm bright detailed children's travel-book illustration matching the existing atlas: soft watercolour washes, opaque gouache brushwork, fine coloured-pencil detail, tactile paper, luminous cream clouds and blue sky, gentle rich greens and teal, warm ochre and stone colours. Believable landmark and landscape geometry, lightly simplified; not photorealistic, flat vector or sticker art.\nComposition: One independent full-bleed landscape, exact 3:2 ratio, 1536x1024. Clear layered foreground/midground/background, whole main landmark comfortably inside the frame and readable in a small card. Warm welcoming daylight. No collage.\nAvoid: Any text, letters, signs, flags, coats of arms, logos, watermarks, frames, stamps, UI, invented landmarks or scenery from another country.",
+  "guideFilename": "slovenia-skocjan-caves.webp",
+  "inspection": "큰 석회암 지하 협곡, 아래쪽 강과 보행로·다리를 확인했습니다. 관람 조명을 사용한 어린이 삽화이며 정확한 동굴 측량·경로 안내 자료가 아닙니다.",
+  "originalFile": "SI.png",
+  "width": 1536,
+  "height": 1024,
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/si.webp",
+  "exportFile": "si.webp"
+}

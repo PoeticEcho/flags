@@ -1,0 +1,17 @@
+{
+  "code": "BE",
+  "landmark": "La Grand-Place, Brussels",
+  "landmarkKo": "브뤼셀의 그랑플라스",
+  "prompt": "Use case: illustration-story\nAsset type: country learning postcard for Belgium\nPrimary request: La Grand-Place in Brussels, its historic cobbled square lined with ornate guildhalls and the Gothic Town Hall.\nSubject: Recognizable Brabant Gothic Town Hall with long asymmetric pale-stone facade and one delicate tall octagonal bell-tower spire; adjoining historic guildhalls with varied sculpted Baroque gables, gold ornament, warm stone and dark slate roofs.\nScene/backdrop: Broad rectangular cobbled public square, a few modest planters and café umbrellas at the edges, blue sky. Emphasize the administrative and merchant square rather than a church.\nStyle/medium: Cheerful detailed children's-book travel illustration, painterly gouache and digital watercolour with visible brush texture, believable recognizable architectural geometry, gentle saturated teal, ochre, green and coral.\nComposition/framing: One landscape 3:2 image, intended 1536x1024. Wide view from within the square, complete Town Hall spire and main guildhalls inside central 75% width and height, plenty of sky above and paving below for cropping.\nLighting/mood: Warm natural daylight, welcoming.\nConstraints: Stylized educational illustration. No text or letters, UI, flags, logos, watermark, postcard frame or stamp. No flower carpet festival, Atomium, cathedral, fairy castle, unrelated landmark or invented geography.",
+  "sources": [
+    "https://whc.unesco.org/en/list/857/"
+  ],
+  "width": 1536,
+  "height": 1024,
+  "inspection": "Inspected: ornate guildhall gables with gold details, a long asymmetric Gothic Town Hall and one tall delicate spire around a cobbled square. Small visitors and cafe umbrellas provide scale. No readable signage, flags, UI or logos. Spire top is near the upper edge; contain sizing preserves it. Decorative architecture is stylized.",
+  "originalFile": "BE-grand-place.png",
+  "generator": "built-in image_gen",
+  "reviewedAt": "2026-10-01",
+  "webImage": "/assets/postcards/be.webp",
+  "exportFile": "be.webp"
+}
