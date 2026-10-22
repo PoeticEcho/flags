@@ -8,7 +8,7 @@ export function readExplorerSettings(storage, countries) {
       selectedCode:countries.has(saved.selectedCode)?saved.selectedCode:defaults.selectedCode,
       mode:['explore','colour','custom'].includes(saved.mode)?saved.mode:'explore',
       poolSize:[20,40,48,60,100,120,197,199].includes(saved.poolSize)?saved.poolSize:defaults.poolSize,
-      difficulty:['word','mixed'].includes(saved.difficulty)?saved.difficulty:defaults.difficulty,
+      difficulty:['word','mixed','flag'].includes(saved.difficulty)?saved.difficulty:defaults.difficulty,
     };
   } catch {return {...defaults};}
 }

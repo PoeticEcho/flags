@@ -756,3 +756,33 @@ button,select,summary{touch-action:manipulation}
  .map-recovery-actions button{font-size:13px;padding:8px 10px}
 }
 @media(prefers-reduced-motion:reduce){.capital-option.wrong,.quiz-celebration span{animation:none}}
+
+/* Official language, currency, national anthem bar & flag quiz */
+.country-extra-info{display:flex;flex-direction:column;gap:6px;margin:2px 0 4px}
+.country-profile-bar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}
+.profile-chip{display:flex;align-items:center;gap:6px;min-width:0;padding:6px 8px;border:1px solid #e6ece2;border-radius:10px;background:#f8faf4;color:#47625c}
+.profile-chip svg{flex:0 0 auto;color:#628b7c}
+.profile-chip span{display:flex;flex-direction:column;min-width:0;gap:1px}
+.profile-chip small{font-size:9px;font-weight:800;color:#7f928c;line-height:1.1}
+.profile-chip strong{font-size:11px;font-weight:900;color:#2c4649;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.country-anthem-bar{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:7px 9px;border:1px solid #eadfcd;border-radius:11px;background:#fffaf0}
+.country-anthem-bar.is-polar{background:#f4f8fb;border-color:#dce7ef}
+.anthem-info{display:flex;align-items:center;gap:7px;min-width:0;flex:1 1 140px}
+.anthem-icon{width:26px;height:26px;flex:0 0 auto;display:grid;place-items:center;border-radius:8px;background:#fcecd2;color:#c98235}
+.country-anthem-bar.is-polar .anthem-icon{background:#e3eef7;color:#4d7a9c}
+.anthem-titles{display:flex;flex-direction:column;min-width:0;gap:1px}
+.anthem-titles small{font-size:9px;font-weight:800;color:#8e7d67;line-height:1.1}
+.anthem-titles strong{font-size:11px;font-weight:900;color:#33494c;line-height:1.25;overflow-wrap:anywhere}
+.anthem-titles em{font-size:10px;font-style:normal;font-weight:700;color:#7c8b88;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.anthem-actions{display:flex;align-items:center;gap:5px;flex:0 0 auto}
+.anthem-play-btn,.anthem-youtube-link{min-height:30px;padding:0 9px;display:inline-flex;align-items:center;gap:4px;border-radius:8px;font-size:11px;font-weight:900;text-decoration:none;cursor:pointer;transition:background .15s ease,transform .15s ease}
+.anthem-play-btn{border:1px solid #cfe0d6;background:#eaf4ee;color:#356352}
+.anthem-play-btn:hover{background:#dcece2}
+.anthem-play-btn.playing{border-color:#df9a57;background:#fff0dc;color:#9e5d1e}
+.anthem-youtube-link{border:1px solid #f0d0cc;background:#fff2f0;color:#b5382a}
+.anthem-youtube-link:hover{background:#ffe5e0}
+.anthem-youtube-link:focus-visible{outline:3px solid #6aadd0;outline-offset:2px}
+.anthem-error-hint{width:100%;margin:2px 0 0;font-size:10px;font-weight:800;color:#9b5343;line-height:1.3}
+.quiz-mystery-flag-wrap{margin:8px 0 6px;padding:10px;display:grid;place-items:center;border:1px solid #e6e8dc;border-radius:14px;background:#f8faf5}
+.quiz-mystery-flag{width:min(100%,180px);max-height:110px;object-fit:contain;border-radius:6px;box-shadow:0 3px 10px rgba(37,59,68,.14)}
+

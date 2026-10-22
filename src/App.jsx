@@ -38,6 +38,7 @@ import {mapFailureKind} from './map-failure.js';
 import {createQuizSound,quizRewardText} from './quiz-reward.js';
 import CountrySearch from "./CountrySearch.jsx";
 import CountryCardFace from "./CountryCardFace.jsx";
+import CountryAnthemBar from "./CountryAnthemBar.jsx";
 import CapitalQuizAnswers from "./CapitalQuizAnswers.jsx";
 import { readProgress, addProgress, quizPool, progressKey } from "./progress.js";
 import { learningData } from "./learning-data.js";
@@ -470,7 +471,7 @@ function App() {
     setQuizStatus("idle");
     setTextChoice("");
     setRetriedQuestion(false);setNewQuizStamp(false);
-    const question=createQuizQuestion(code,mapUnavailable?'word':questionType);
+    const question=createQuizQuestion(code,mapUnavailable&&questionType==='mixed'?'word':questionType);
     setQuizChoices(question);
     setAnnouncement(quizQuestionText(question,countryByCode.get(code),language));
   };
@@ -549,7 +550,7 @@ function App() {
 
         {mode==='quiz' && <section className="learning-controls" aria-label={language==='ko'?'퀴즈 설정':'Quiz settings'}>
           <label>{language==='ko'?'학습 묶음':'Study set'} <select value={poolSize} onChange={e=>setPoolSize(Number(e.target.value))}>{[20,40,48,60,100,120,197,roster.length].map(n=><option key={n} value={n}>{n===48?(language==='ko'?'주요 48개국':'Priority 48'):n===roster.length?(language==='ko'?`전체 ${n}곳`:`All ${n} places`):language==='ko'?`${n}개국`:`${n} countries`}</option>)}</select></label>
-          <label>{language==='ko'?'문제 방식':'Question type'} <select value={mapUnavailable?'word':difficulty} onChange={e=>{setDifficulty(e.target.value);startQuiz(selectedCode,e.target.value);}}><option value="word">{language==='ko'?'수도 이름':'Capital names'}</option><option value="mixed" disabled={mapUnavailable}>{language==='ko'?'지도에서 찾기':'Find on map'}</option></select></label>
+          <label>{language==='ko'?'문제 방식':'Question type'} <select value={mapUnavailable&&difficulty==='mixed'?'word':difficulty} onChange={e=>{setDifficulty(e.target.value);startQuiz(selectedCode,e.target.value);}}><option value="word">{language==='ko'?'수도 이름':'Capital names'}</option><option value="flag">{language==='ko'?'국기 맞추기':'Match the flag'}</option><option value="mixed" disabled={mapUnavailable}>{language==='ko'?'지도에서 찾기':'Find on map'}</option></select></label>
           <button onClick={()=>{selectCountry(pool[0].code,true);startQuiz(pool[0].code);}}>{language==='ko'?'묶음 첫 나라부터':'Start this set'}</button>
           <button className="quiz-sound-toggle" aria-pressed={quizSoundEnabled} aria-label={language==='ko'?`퀴즈 소리 ${quizSoundEnabled?'끄기':'켜기'}`:`Turn quiz sound ${quizSoundEnabled?'off':'on'}`} title={language==='ko'?`퀴즈 소리 ${quizSoundEnabled?'끄기':'켜기'}`:`Quiz sound ${quizSoundEnabled?'off':'on'}`} onClick={()=>setQuizSoundEnabled(value=>!value)}>{quizSoundEnabled?<SpeakerHigh size={20}/>:<SpeakerSlash size={20}/>}</button>
         </section>}
@@ -583,12 +584,13 @@ function App() {
           />
 
           <aside className={`country-card ${mode === "quiz" ? `quiz-card quiz-result-${quizStatus}` : ""}`}>
-            <div className="card-topline"><span className="card-kicker"><Compass size={16} weight="fill" />{mode === "quiz" ? (country.quizKind==='knowledge'?(language==='ko'?'남극 탐험 퀴즈':'Antarctic explorer quiz'):t.quiz) : t.today}</span>{mode==='explore'&&place?.image&&<PostcardPreview compact key={selectedCode} place={place} language={language} onOpen={event=>setPostcardItem({country,place,trigger:event.currentTarget})}/>}<button className="card-sound" onClick={playName} aria-label={t.speak} title={t.speak}><SpeakerHigh size={18} weight="fill" /></button></div>
+            <div className="card-topline"><span className="card-kicker"><Compass size={16} weight="fill" />{mode === "quiz" ? (country.quizKind==='knowledge'?(language==='ko'?'남극 탐험 퀴즈':'Antarctic explorer quiz'):quizChoices?.type==='flag'?(language==='ko'?'국기 맞추기 퀴즈':'Flag quiz'):t.quiz) : t.today}</span>{mode==='explore'&&place?.image&&<PostcardPreview compact key={selectedCode} place={place} language={language} onOpen={event=>setPostcardItem({country,place,trigger:event.currentTarget})}/>}<button className="card-sound" onClick={playName} aria-label={t.speak} title={t.speak}><SpeakerHigh size={18} weight="fill" /></button></div>
 
             {mode === "explore" ? (
               <div className="country-overview">
                 <div className="country-detail-stack">
                 <CountryCardFace country={country} language={language} solved={progress.solved.includes(selectedCode)}/>
+                <CountryAnthemBar country={country} language={language}/>
                 {country.capitalNote?.[language] && <details className="capital-context"><summary>{language==='ko'?'수도 이야기 더 보기':'About the capital'}</summary><p>{country.capitalNote[language]}</p></details>}
                 {!place?.coordinates && <div className="map-only-note"><MapPin size={14} />{t.mapOnly}</div>}
                 <button className="primary-action" onClick={()=>startQuiz() }><span className="action-star"><Sparkle size={17} weight="fill" /></span><span>{t.start}</span><ArrowRight size={20} weight="bold" /></button>
@@ -602,9 +604,9 @@ function App() {
               </div>
             ) : (
               <>
-                <div className="quiz-banner"><div className="quiz-banner-icon"><MapPin size={21} weight="fill" /></div><div><span>{t.selected}</span><strong>{countryName(country, language)} {renderFlag(selectedCode, "small")}</strong></div><span className="quiz-step">{pool.some(entry=>entry.code===selectedCode)?<>{pool.findIndex(entry=>entry.code===selectedCode)+1}<i>/{pool.length}</i></>:<small>{language==='ko'?'개별 탐험':'Individual'}</small>}</span></div>
+                <div className="quiz-banner"><div className="quiz-banner-icon"><MapPin size={21} weight="fill" /></div><div><span>{t.selected}</span><strong>{quizChoices?.type==='flag'&&quizStatus!=='correct'?(language==='ko'?'어느 나라의 국기일까요?':'Mystery flag'):<>{countryName(country, language)} {renderFlag(selectedCode, "small")}</>}</strong></div><span className="quiz-step">{pool.some(entry=>entry.code===selectedCode)?<>{pool.findIndex(entry=>entry.code===selectedCode)+1}<i>/{pool.length}</i></>:<small>{language==='ko'?'개별 탐험':'Individual'}</small>}</span></div>
                 <div className="quiz-journey" aria-label={language==='ko'?`이번 탐험 정답 ${sessionCorrect}개`:`This adventure: ${sessionCorrect} correct answers`}><span className="journey-stars" aria-hidden="true">{[0,1,2].map(index=><Star key={index} size={19} weight={((sessionCorrect-1)%3+1)>index&&sessionCorrect>0?'fill':'regular'}/>)}</span><span>{language==='ko'?`이번 탐험 · 정답 ${sessionCorrect}`:`This adventure · ${sessionCorrect} correct`}</span></div>
-                <div className="quiz-question-wrap"><span className="question-label"><Sparkle size={14} weight="fill" />{quizChoices?.type==='knowledge'?(language==='ko'?'극지 탐험 퀴즈':'Polar explorer quiz'):t.discover}</span><h2 ref={questionHeading} tabIndex={-1}>{quizQuestionText(quizChoices,country,language)}</h2><p>{quizChoices?.type === "map" ? t.lookFor : t.choose}</p></div>
+                <div className="quiz-question-wrap"><span className="question-label"><Sparkle size={14} weight="fill" />{quizChoices?.type==='knowledge'?(language==='ko'?'극지 탐험 퀴즈':'Polar explorer quiz'):quizChoices?.type==='flag'?(language==='ko'?'국기 보고 나라 찾기':'Match the flag'):t.discover}</span>{quizChoices?.type==='flag'&&<div className="quiz-mystery-flag-wrap"><img className="quiz-mystery-flag" src={assetUrl(`/flags/${selectedCode.toLowerCase()}.svg`)} draggable={false} alt={language==='ko'?'어느 나라의 국기일까요?':'Mystery flag to identify'}/></div>}<h2 ref={questionHeading} tabIndex={-1}>{quizQuestionText(quizChoices,country,language)}</h2><p>{quizChoices?.type === "map" ? t.lookFor : t.choose}</p></div>
 
                 <CapitalQuizAnswers options={quizChoices?.options} status={quizStatus} selectedId={textChoice} language={language} onAnswer={answerQuiz} correctText={quizRewardText({count:sessionCorrect,retried:retriedQuestion,newStamp:newQuizStamp,language})} wrongText={language==='ko'?'괜찮아요! 다른 보기를 골라보세요.':'Keep exploring! Try another answer.'}/>
                 {quizStatus === "correct" ? <button className="primary-action next-action" onClick={nextCountry}><span className="action-star"><Star size={17} weight="fill" /></span><span>{t.next}</span><ArrowRight size={20} weight="bold" /></button> : <button className="primary-action" onClick={() => setMode("explore")}><span className="action-star"><Sparkle size={17} weight="fill" /></span><span>{t.exit}</span><ArrowRight size={20} weight="bold" /></button>}

@@ -48,11 +48,34 @@ export function quizMapFrame(options){
  return {coordinates,bounds:[[Math.min(...coordinates.map(p=>p[0])),Math.min(...coordinates.map(p=>p[1]))],[Math.max(...coordinates.map(p=>p[0])),Math.max(...coordinates.map(p=>p[1]))]],wrapped:coordinates.some(p=>p[0]<-180||p[0]>180)};
 }
 export const generatedLocationOptions=Object.fromEntries(roster.map(c=>[c.code,mapQuizOptions(c.code)]));
+export function flagQuizOptions(code,random=Math.random){
+ const country=roster.find(c=>c.code===code);if(!country)return [];
+ const sameContinent=shuffle(roster.filter(c=>c.code!==code&&quizContinent(c)===quizContinent(country)),random);
+ const choices=shuffle([country,...sameContinent.slice(0,3)],random);
+ return choices.map(c=>({
+  id:c.code,
+  code:c.code,
+  answer:c.name,
+  nameKo:c.nameKo,
+  name:c.name,
+  coordinates:capitalPoints[c.code]?.coordinates,
+  correct:c.code===code,
+  hint:{ko:`${c.nameKo}의 ${capitalRole(c,'ko')} · ${c.capitalKo}`,en:`${capitalRole(c,'en')} of ${c.name} · ${c.capital}`}
+ }));
+}
 export function createQuizQuestion(code,questionType='mixed',random=Math.random){
  if(code==='AQ'){
   const question=antarcticQuestions[Math.min(antarcticQuestions.length-1,Math.floor(random()*antarcticQuestions.length))];
   return {...question,type:'knowledge',options:shuffle(question.options,random)};
  }
+ if(questionType==='flag'){
+  return {
+   type:'flag',
+   prompt:{ko:'이 국기는 어느 나라의 국기일까요?',en:'Which country does this flag belong to?'},
+   options:flagQuizOptions(code,random)
+  };
+ }
  return {type:questionType==='word'?'word':'map',options:capitalQuizOptions(code,random)};
 }
 export const quizQuestionText=(question,country,language)=>question?.prompt?.[language]||capitalQuestion(country,language,question?.type==='map');
+
