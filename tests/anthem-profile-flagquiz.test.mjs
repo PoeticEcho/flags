@@ -11,12 +11,14 @@ test("all 197 countries and Greenland have bilingual anthem titles, HTTPS audio 
     const entry = anthemData[country.code];
     assert.ok(entry, `Missing anthem entry for ${country.code}`);
     assert.ok(entry.title && entry.titleKo, `Missing anthem title for ${country.code}`);
-    assert.match(entry.audio, /^https:\/\/commons\.wikimedia\.org\//, country.code);
+    assert.match(entry.audio, /^https:\/\/(commons\.wikimedia|en\.wikipedia)\.org\/wiki\/Special:FilePath\//, country.code);
+    assert.match(entry.mp3, /^https:\/\/upload\.wikimedia\.org\//, country.code);
 
     for (const lang of ["ko", "en"]) {
       const info = getAnthemInfo(country, lang);
       assert.equal(info.isPolar, false, country.code);
       assert.ok(info.title.length > 0, country.code);
+      assert.ok(info.mp3Url && info.mp3Url.startsWith("https://"), country.code);
       assert.match(info.youtubeUrl, /^https:\/\/www\.youtube\.com\/results\?search_query=/);
     }
   }
@@ -24,6 +26,7 @@ test("all 197 countries and Greenland have bilingual anthem titles, HTTPS audio 
   const aq = getAnthemInfo(countryByCode.get("AQ"), "ko");
   assert.equal(aq.isPolar, true);
   assert.equal(aq.audioUrl, "");
+  assert.equal(aq.mp3Url, "");
   assert.equal(aq.youtubeUrl, "");
 });
 

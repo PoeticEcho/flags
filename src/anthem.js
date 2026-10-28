@@ -14,6 +14,7 @@ export function getAnthemInfo(country, language = "ko") {
           ? "남극은 나라가 아닌 대륙이어서 공식 국가가 없어요"
           : "Antarctica is a continent, so it has no official anthem",
       audioUrl: "",
+      mp3Url: "",
       youtubeUrl: "",
     };
   }
@@ -28,6 +29,7 @@ export function getAnthemInfo(country, language = "ko") {
     title,
     subtitle,
     audioUrl: entry.audio || "",
+    mp3Url: entry.mp3 || (/\.mp3$/i.test(entry.audio || "") ? entry.audio : ""),
     youtubeUrl: `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}`,
   };
 }

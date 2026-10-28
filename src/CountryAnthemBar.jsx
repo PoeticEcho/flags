@@ -12,19 +12,20 @@ import { getCountryProfile } from "./country-profile.js";
 
 async function resolveCommonsMp3Fallback(audioUrl) {
   try {
-    const match = audioUrl.match(/Special:FilePath\/(.+)$/);
+    const match = audioUrl.match(/^(https?:\/\/[^/]+)\/wiki\/Special:FilePath\/(.+)$/);
     if (!match) return null;
-    const fileName = decodeURIComponent(match[1]);
-    const api = `https://commons.wikimedia.org/w/api.php?action=query&titles=${encodeURIComponent(
+    const [, origin, rawName] = match;
+    const fileName = decodeURIComponent(rawName);
+    const api = `${origin}/w/api.php?action=query&titles=${encodeURIComponent(
       `File:${fileName}`
-    )}&prop=videoinfo&viprop=url|derivatives&format=json&origin=*`;
+    )}&prop=videoinfo|imageinfo&viprop=url|derivatives&iiprop=url&format=json&origin=*`;
     const res = await fetch(api);
     if (!res.ok) return null;
     const data = await res.json();
     const pages = Object.values(data?.query?.pages || {});
-    const info = pages[0]?.videoinfo?.[0];
+    const info = pages[0]?.videoinfo?.[0] || pages[0]?.imageinfo?.[0];
     const derivatives = info?.derivatives || [];
-    const mp3 = derivatives.find((d) => /mp3/i.test(d.type || d.title || d.src || ""));
+    const mp3 = derivatives.find((d) => /mp3|mpeg/i.test(d.type || d.title || d.src || ""));
     return mp3?.src || info?.url || null;
   } catch {
     return null;
@@ -59,21 +60,40 @@ export default function CountryAnthemBar({ country, language = "ko" }) {
     }
     setStatus("loading");
     try {
-      const isOgg = /\.(ogg|oga)$/i.test(anthem.audioUrl);
-      const canPlayOgg = typeof el.canPlayType === "function" && el.canPlayType("audio/ogg") !== "";
-      let targetUrl = anthem.audioUrl;
-      if (isOgg && !canPlayOgg) {
+      const isOggOrWebm = /\.(ogg|oga|webm)$/i.test(anthem.audioUrl);
+      const canPlayOgg =
+        typeof el.canPlayType === "function" &&
+        el.canPlayType(/\.webm$/i.test(anthem.audioUrl) ? "audio/webm" : "audio/ogg") !== "";
+
+      // 1. Solution 2 (Pre-resolved Direct MP3):
+      // On iOS / iPadOS Safari (which does not natively support Ogg/OGA),
+      // directly and synchronously use the pre-resolved MP3 stream to avoid any async network delay.
+      let targetUrl = !canPlayOgg && anthem.mp3Url ? anthem.mp3Url : anthem.audioUrl;
+
+      // 2. Solution 1 (Audio Priming):
+      // If Ogg is unsupported and no pre-computed MP3 URL was available, prime the audio element
+      // synchronously during the user gesture tick so Safari/WebKit doesn't revoke the User Activation token.
+      if (isOggOrWebm && !canPlayOgg && !anthem.mp3Url) {
+        const SILENT_AUDIO = "data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA";
+        el.src = SILENT_AUDIO;
+        try {
+          await el.play();
+        } catch {}
         const mp3Url = await resolveCommonsMp3Fallback(anthem.audioUrl);
         if (mp3Url) targetUrl = mp3Url;
       }
-      el.src = targetUrl;
+
+      if (el.src !== targetUrl) {
+        el.src = targetUrl;
+      }
       await el.play();
       setStatus("playing");
     } catch {
-      const mp3Url = await resolveCommonsMp3Fallback(anthem.audioUrl);
-      if (mp3Url && el.src !== mp3Url) {
+      // Robust fallback: if direct playback failed (e.g. decode error), try mp3 derivative
+      const fallbackMp3 = anthem.mp3Url || (await resolveCommonsMp3Fallback(anthem.audioUrl));
+      if (fallbackMp3 && el.src !== fallbackMp3) {
         try {
-          el.src = mp3Url;
+          el.src = fallbackMp3;
           await el.play();
           setStatus("playing");
           return;
@@ -201,9 +221,10 @@ export default function CountryAnthemBar({ country, language = "ko" }) {
           <audio
             ref={audioRef}
             preload="none"
+            playsInline
             onEnded={() => setStatus("idle")}
             onError={() => {
-              if (status === "playing") setStatus("error");
+              if (status === "playing" || status === "loading") setStatus("error");
             }}
           />
         </div>

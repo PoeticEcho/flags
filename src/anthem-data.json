@@ -2,991 +2,1189 @@
   "AD": {
     "title": "El gran Carlemany",
     "titleKo": "안도라의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Gran%20Carlemany.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Gran%20Carlemany.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/El_Gran_Carlemany.ogg/El_Gran_Carlemany.ogg.mp3"
   },
   "AE": {
     "title": "Ishy Bilady",
     "titleKo": "아랍에미리트의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/UAE%20national%20anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/UAE%20national%20anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/UAE_national_anthem.ogg/UAE_national_anthem.ogg.mp3"
   },
   "AF": {
     "title": "Afghan National Anthem",
     "titleKo": "아프가니스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Afghan_National_Anthem_by_US_Navy_Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Afghanistan%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav.mp3"
   },
   "AG": {
     "title": "Fair Antigua, We Salute Thee",
     "titleKo": "아름다운 앤티가, 그대에게 경의를",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Antigua%20and%20Barbuda%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Antigua%20and%20Barbuda%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/Antigua_and_Barbuda_National_Anthem.ogg/Antigua_and_Barbuda_National_Anthem.ogg.mp3"
   },
   "AL": {
     "title": "Himni i Flamurit",
     "titleKo": "알바니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymni%20i%20Flamurit%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymni%20i%20Flamurit%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/Hymni_i_Flamurit_instrumental.ogg/Hymni_i_Flamurit_instrumental.ogg.mp3"
   },
   "AM": {
     "title": "Mer Hayrenik",
     "titleKo": "아르메니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mer%20Hayrenik%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mer%20Hayrenik%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Mer_Hayrenik_instrumental.ogg/Mer_Hayrenik_instrumental.ogg.mp3"
   },
   "AO": {
     "title": "Angola Avante",
     "titleKo": "앙골라의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Angolan-National-Anthem-%20US-Navy-Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Angolan-National-Anthem-%20US-Navy-Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/Angolan-National-Anthem-_US-Navy-Band.ogg/Angolan-National-Anthem-_US-Navy-Band.ogg.mp3"
   },
   "AR": {
     "title": "Himno Nacional Argentino",
     "titleKo": "아르헨티나 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno%20Nacional%20Argentino%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno%20Nacional%20Argentino%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Himno_Nacional_Argentino_instrumental.ogg/Himno_Nacional_Argentino_instrumental.ogg.mp3"
   },
   "AT": {
     "title": "Land der Berge, Land am Strome",
     "titleKo": "산의 나라, 강의 나라",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Land%20der%20Berge%20Land%20am%20Strome%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Land%20der%20Berge%20Land%20am%20Strome%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg/Land_der_Berge_Land_am_Strome_instrumental.ogg.mp3"
   },
   "AU": {
     "title": "Advance Australia Fair",
     "titleKo": "전진하라 아름다운 오스트레일리아여",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Advance%20Australia%20Fair%20%281927%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Advance%20Australia%20Fair%20%281927%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Advance_Australia_Fair_%281927%29.ogg/Advance_Australia_Fair_%281927%29.ogg.mp3"
   },
   "AZ": {
     "title": "Azərbaycan marşı",
     "titleKo": "아제르바이잔의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Azerbaijan%20national%20anthem%20%28vocal%20version%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Azerbaijan%20national%20anthem%20%28vocal%20version%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/Azerbaijan_national_anthem_%28vocal_version%29.ogg/Azerbaijan_national_anthem_%28vocal_version%29.ogg.mp3"
   },
   "BA": {
     "title": "National Anthem of Bosnia and Herzegovina",
     "titleKo": "보스니아 헤르체고비나의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnia_and_Herzegovina%27s_National_Anthem.ogg"
+    "audio": "https://en.wikipedia.org/wiki/Special:FilePath/Bosnia%20and%20Herzegovina's%20national%20anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/en/transcoded/d/dd/Bosnia_and_Herzegovina%27s_national_anthem.ogg/Bosnia_and_Herzegovina%27s_national_anthem.ogg.mp3"
   },
   "BB": {
     "title": "National Anthem of Barbados",
     "titleKo": "바베이도스의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20In%20Plenty%20and%20In%20Time%20of%20Need.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20In%20Plenty%20and%20In%20Time%20of%20Need.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/United_States_Navy_Band_-_In_Plenty_and_In_Time_of_Need.ogg/United_States_Navy_Band_-_In_Plenty_and_In_Time_of_Need.ogg.mp3"
   },
   "BD": {
     "title": "Amar Sonar Bangla",
     "titleKo": "방글라데시의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Amar%20Sonar%20Bangla%20-%20official%20vocal%20music%20of%20the%20National%20anthem%20of%20Bangladesh.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Amar%20Sonar%20Bangla%20-%20official%20vocal%20music%20of%20the%20National%20anthem%20of%20Bangladesh.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Amar_Sonar_Bangla_-_official_vocal_music_of_the_National_anthem_of_Bangladesh.ogg/Amar_Sonar_Bangla_-_official_vocal_music_of_the_National_anthem_of_Bangladesh.ogg.mp3"
   },
   "BE": {
     "title": "La Brabançonne",
     "titleKo": "브라방손",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Braban%C3%A7onne.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Braban%C3%A7onne.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/La_Braban%C3%A7onne.oga/La_Braban%C3%A7onne.oga.mp3"
   },
   "BF": {
     "title": "Une Seule Nuit",
     "titleKo": "단 하룻밤",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National_anthem_of_Burkina_Faso.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National_anthem_of_Burkina_Faso.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/National_anthem_of_Burkina_Faso.oga/National_anthem_of_Burkina_Faso.oga.mp3"
   },
   "BG": {
     "title": "Mila Rodino",
     "titleKo": "불가리아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mila%20Rodino.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mila%20Rodino.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Mila_Rodino.ogg/Mila_Rodino.ogg.mp3"
   },
   "BH": {
     "title": "Bahrainona",
     "titleKo": "바레인의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahrainona%20%28vocal%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahrainona%20%28vocal%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Bahrainona_%28vocal%29.ogg/Bahrainona_%28vocal%29.ogg.mp3"
   },
   "BI": {
     "title": "Burundi Bwacu",
     "titleKo": "우리의 부룬디",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Burundi_Bwacu_instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Burundi_Bwacu_instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/71/Burundi_Bwacu_instrumental.ogg/Burundi_Bwacu_instrumental.ogg.mp3"
   },
   "BJ": {
     "title": "L'Aube Nouvelle",
     "titleKo": "베냉의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27Aube%20Nouvelle.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27Aube%20Nouvelle.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/L%27Aube_Nouvelle.ogg/L%27Aube_Nouvelle.ogg.mp3"
   },
   "BN": {
     "title": "Allah Peliharakan Sultan",
     "titleKo": "브루나이의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Allah%20Peliharakan%20Sultan.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Allah%20Peliharakan%20Sultan.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga.mp3"
   },
   "BO": {
     "title": "National Anthem of Bolivia",
     "titleKo": "볼리비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno%20Nacional%20de%20Bolivia%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno%20Nacional%20de%20Bolivia%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg/Himno_Nacional_de_Bolivia_instrumental.ogg.mp3"
   },
   "BR": {
     "title": "Hino Nacional Brasileiro",
     "titleKo": "브라질 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hino-Nacional-Brasil-instrumental-mec.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hino-Nacional-Brasil-instrumental-mec.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg/Hino-Nacional-Brasil-instrumental-mec.ogg.mp3"
   },
   "BS": {
     "title": "March On, Bahamaland",
     "titleKo": "바하마의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Bahamas.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Bahamas.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/National_anthem_of_the_Bahamas.oga/National_anthem_of_the_Bahamas.oga.mp3"
   },
   "BT": {
     "title": "Druk Tsenden",
     "titleKo": "우레 용의 왕국",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Druk_tsenden.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Bhutan%20%E2%80%9CDruk%20tsendhen%E2%80%9D.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/National_Anthem_of_Bhutan_%E2%80%9CDruk_tsendhen%E2%80%9D.ogg/National_Anthem_of_Bhutan_%E2%80%9CDruk_tsendhen%E2%80%9D.ogg.mp3"
   },
   "BW": {
     "title": "Fatshe leno la rona",
     "titleKo": "보츠와나의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Fatshe%20leno%20la%20rona.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Fatshe%20leno%20la%20rona.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg.mp3"
   },
   "BY": {
     "title": "My Belarusy",
     "titleKo": "벨라루스의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/My%20Belarusy.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/My%20Belarusy.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/My_Belarusy.ogg/My_Belarusy.ogg.mp3"
   },
   "BZ": {
     "title": "Land of the Free",
     "titleKo": "벨리즈의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Land%20of%20the%20Free%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Land%20of%20the%20Free%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/Land_of_the_Free_instrumental.ogg/Land_of_the_Free_instrumental.ogg.mp3"
   },
   "CA": {
     "title": "O Canada",
     "titleKo": "오 캐나다",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20O%20Canada.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20O%20Canada.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/United_States_Navy_Band_-_O_Canada.ogg/United_States_Navy_Band_-_O_Canada.ogg.mp3"
   },
   "CD": {
     "title": "Debout Congolais",
     "titleKo": "일어나라 콩고인이여",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Debout_Congolais.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Debout_Congolais.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Debout_Congolais.ogg/Debout_Congolais.ogg.mp3"
   },
   "CF": {
     "title": "La Renaissance",
     "titleKo": "중앙아프리카 공화국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Renaissance%20%281960s%20recording%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Renaissance%20%281960s%20recording%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/La_Renaissance_%281960s_recording%29.ogg/La_Renaissance_%281960s_recording%29.ogg.mp3"
   },
   "CG": {
     "title": "La Congolaise",
     "titleKo": "콩고 공화국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Republic%20of%20the%20Congo.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Republic%20of%20the%20Congo.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/National_anthem_of_the_Republic_of_the_Congo.oga/National_anthem_of_the_Republic_of_the_Congo.oga.mp3"
   },
   "CH": {
     "title": "Swiss Psalm",
     "titleKo": "스위스 찬가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Swiss%20Psalm.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Swiss%20Psalm.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/Swiss_Psalm.ogg/Swiss_Psalm.ogg.mp3"
   },
   "CI": {
     "title": "L'Abidjanaise",
     "titleKo": "아비장의 노래",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27Abidjanaise_(instrumental).ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20National%20Anthem%20of%20C%C3%B4te%20D'Ivoire%20%22L'Abidjanaise%22.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/United_States_Navy_Band_-_National_Anthem_of_C%C3%B4te_D%27Ivoire_%22L%27Abidjanaise%22.ogg/United_States_Navy_Band_-_National_Anthem_of_C%C3%B4te_D%27Ivoire_%22L%27Abidjanaise%22.ogg.mp3"
   },
   "CL": {
     "title": "National Anthem of Chile",
     "titleKo": "칠레의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Gob%202022-2026%20Material%20audiovisual%20Himno%20Nacional%20Cantado.mp3"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Gob%202022-2026%20Material%20audiovisual%20Himno%20Nacional%20Cantado.mp3",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gob_2022-2026_Material_audiovisual_Himno_Nacional_Cantado.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original"
   },
   "CM": {
     "title": "O Cameroon, Cradle of Our Forefathers",
     "titleKo": "오 카메룬, 우리 조상들의 요람이여",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Chant_de_Ralliement.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameroonian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/Cameroonian_national_anthem%2C_performed_by_the_United_States_Navy_Band.ogg/Cameroonian_national_anthem%2C_performed_by_the_United_States_Navy_Band.ogg.mp3"
   },
   "CN": {
     "title": "March of the Volunteers",
     "titleKo": "의용군 행진곡",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/March_of_the_Volunteers_instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/March_of_the_Volunteers_instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/March_of_the_Volunteers_instrumental.ogg/March_of_the_Volunteers_instrumental.ogg.mp3"
   },
   "CO": {
     "title": "National Anthem of Colombia",
     "titleKo": "콜롬비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20%C2%A1Oh%2C%20gloria%20inmarcesible%21.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20%C2%A1Oh%2C%20gloria%20inmarcesible%21.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg.mp3"
   },
   "CR": {
     "title": "Noble patria, tu hermosa bandera",
     "titleKo": "코스타리카의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Costa%20Rica%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Costa%20Rica%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Costa_Rica_National_Anthem.ogg/Costa_Rica_National_Anthem.ogg.mp3"
   },
   "CU": {
     "title": "El Himno de Bayamo",
     "titleKo": "쿠바의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Bayamesa%20%281945%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Bayamesa%20%281945%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/La_Bayamesa_%281945%29.ogg/La_Bayamesa_%281945%29.ogg.mp3"
   },
   "CV": {
     "title": "Cântico da Liberdade",
     "titleKo": "카보베르데의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A2ntico%20da%20Liberdade%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A2ntico%20da%20Liberdade%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/C%C3%A2ntico_da_Liberdade_%28instrumental%29.ogg/C%C3%A2ntico_da_Liberdade_%28instrumental%29.ogg.mp3"
   },
   "CY": {
     "title": "Hymn to Liberty",
     "titleKo": "자유의 찬가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Hymn_to_liberty_instrumental.oga/Hymn_to_liberty_instrumental.oga.mp3"
   },
   "CZ": {
     "title": "Kde domov můj",
     "titleKo": "체코의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kde%20domov%20m%C5%AFj.mid"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kde%20domov%20m%C5%AFj.mid",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Kde_domov_m%C5%AFj.mid/Kde_domov_m%C5%AFj.mid.mp3"
   },
   "DE": {
     "title": "Deutschlandlied",
     "titleKo": "독일의 노래",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Germany%20-%20U.S.%20Army%201st%20Armored%20Division%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Germany%20-%20U.S.%20Army%201st%20Armored%20Division%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg.mp3"
   },
   "DJ": {
     "title": "Djibouti",
     "titleKo": "지부티의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Djibouti%20anthem%20Somali%20lyrics.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Djibouti%20anthem%20Somali%20lyrics.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/Djibouti_anthem_Somali_lyrics.ogg/Djibouti_anthem_Somali_lyrics.ogg.mp3"
   },
   "DK": {
     "title": "Der er et yndigt land",
     "titleKo": "덴마크의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Der%20er%20et%20yndigt%20land%2C%20Hans%20Ernst%20Kr%C3%B8yer%2C%20Erik%20Damskier%2C%202009-09-30.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Der%20er%20et%20yndigt%20land%2C%20Hans%20Ernst%20Kr%C3%B8yer%2C%20Erik%20Damskier%2C%202009-09-30.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Der_er_et_yndigt_land%2C_Hans_Ernst_Kr%C3%B8yer%2C_Erik_Damskier%2C_2009-09-30.ogg/Der_er_et_yndigt_land%2C_Hans_Ernst_Kr%C3%B8yer%2C_Erik_Damskier%2C_2009-09-30.ogg.mp3"
   },
   "DM": {
     "title": "Isle of Beauty, Isle of Splendour",
     "titleKo": "도미니카 연방의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Dominica%20by%20US%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Dominica%20by%20US%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg/National_Anthem_of_Dominica_by_US_Navy_Band.ogg.mp3"
   },
   "DO": {
     "title": "National Anthem of the Dominican Republic",
     "titleKo": "도미니카 공화국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominican%20Republic%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominican%20Republic%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Dominican_Republic_National_Anthem.ogg/Dominican_Republic_National_Anthem.ogg.mp3"
   },
   "DZ": {
     "title": "Kassaman",
     "titleKo": "알제리의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kassaman%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kassaman%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/Kassaman_instrumental.ogg/Kassaman_instrumental.ogg.mp3"
   },
   "EC": {
     "title": "Salve, Oh Patria",
     "titleKo": "에콰도르의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthem%20of%20Ecuador.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthem%20of%20Ecuador.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/Anthem_of_Ecuador.ogg/Anthem_of_Ecuador.ogg.mp3"
   },
   "EE": {
     "title": "Mu isamaa, mu õnn ja rõõm",
     "titleKo": "에스토니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mu%20isamaa%2C%20mu%20%C3%B5nn%20ja%20r%C3%B5%C3%B5m%20%28first%20vocal%20recording%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mu%20isamaa%2C%20mu%20%C3%B5nn%20ja%20r%C3%B5%C3%B5m%20%28first%20vocal%20recording%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/Mu_isamaa%2C_mu_%C3%B5nn_ja_r%C3%B5%C3%B5m_%28first_vocal_recording%29.ogg/Mu_isamaa%2C_mu_%C3%B5nn_ja_r%C3%B5%C3%B5m_%28first_vocal_recording%29.ogg.mp3"
   },
   "EG": {
     "title": "Bilady, Bilady, Bilady",
     "titleKo": "나의 조국, 나의 조국, 나의 조국",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilady%2C%20Bilady%2C%20Bilady.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilady%2C%20Bilady%2C%20Bilady.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg/Bilady%2C_Bilady%2C_Bilady.ogg.mp3"
   },
   "ER": {
     "title": "Ertra, Ertra, Ertra",
     "titleKo": "에리트레아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Eritrea%20by%20US%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Eritrea%20by%20US%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg.mp3"
   },
   "ES": {
     "title": "Marcha Real",
     "titleKo": "왕실 행진곡",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcha_Real-Royal_March_by_US_Navy_Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcha_Real-Royal_March_by_US_Navy_Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg/Marcha_Real-Royal_March_by_US_Navy_Band.ogg.mp3"
   },
   "ET": {
     "title": "March Forward, Dear Mother Ethiopia",
     "titleKo": "에티오피아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Wedefit%20Gesgeshi%20Widd%20Innat%20Ittyoppya.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Wedefit%20Gesgeshi%20Widd%20Innat%20Ittyoppya.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg.mp3"
   },
   "FI": {
     "title": "Maamme",
     "titleKo": "우리의 땅 (마암메)",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Maamme.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Maamme.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/United_States_Navy_Band_-_Maamme.ogg/United_States_Navy_Band_-_Maamme.ogg.mp3"
   },
   "FJ": {
     "title": "God Bless Fiji",
     "titleKo": "피지의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/Fiji_National_Anthem.ogg/Fiji_National_Anthem.ogg.mp3"
   },
   "FM": {
     "title": "Patriots of Micronesia",
     "titleKo": "미크로네시아 연방의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Micronesia%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Micronesia%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/Micronesia_National_Anthem.ogg/Micronesia_National_Anthem.ogg.mp3"
   },
   "FR": {
     "title": "La Marseillaise",
     "titleKo": "라 마르세예즈",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Marseillaise.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Marseillaise.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/La_Marseillaise.ogg/La_Marseillaise.ogg.mp3"
   },
   "GA": {
     "title": "La Concorde",
     "titleKo": "가봉의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Concorde.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Concorde.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/La_Concorde.ogg/La_Concorde.ogg.mp3"
   },
   "GB": {
     "title": "God Save the King",
     "titleKo": "하느님, 국왕을 지켜주소서",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Navy_Band_-_God_Save_the_Queen.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Navy_Band_-_God_Save_the_Queen.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/United_States_Navy_Band_-_God_Save_the_Queen.oga/United_States_Navy_Band_-_God_Save_the_Queen.oga.mp3"
   },
   "GD": {
     "title": "Hail Grenada",
     "titleKo": "그레나다 만세",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/HailGrenada.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/HailGrenada.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/HailGrenada.ogg/HailGrenada.ogg.mp3"
   },
   "GE": {
     "title": "Tavisupleba",
     "titleKo": "조지아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tavisupleba%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tavisupleba%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Tavisupleba_instrumental.ogg/Tavisupleba_instrumental.ogg.mp3"
   },
   "GH": {
     "title": "God Bless Our Homeland Ghana",
     "titleKo": "가나의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Ghana.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Ghana.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/National_Anthem_of_Ghana.ogg/National_Anthem_of_Ghana.ogg.mp3"
   },
   "GL": {
     "title": "Nunarput utoqqarsuanngoravit",
     "titleKo": "우리의 오래된 땅이여 (그린란드 찬가)",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Der%20er%20et%20yndigt%20land.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Der%20er%20et%20yndigt%20land.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg.mp3"
   },
   "GM": {
     "title": "For The Gambia Our Homeland",
     "titleKo": "우리의 조국 감비아를 위하여",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/For_The_Gambia_Our_Homeland.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/For%20The%20Gambia%20Our%20Homeland%20(instrumental).ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/05/For_The_Gambia_Our_Homeland_%28instrumental%29.ogg/For_The_Gambia_Our_Homeland_%28instrumental%29.ogg.mp3"
   },
   "GN": {
     "title": "Liberté",
     "titleKo": "기니의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Libert%C3%A9.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Libert%C3%A9.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/Libert%C3%A9.oga/Libert%C3%A9.oga.mp3"
   },
   "GQ": {
     "title": "Caminemos pisando las sendas de nuestra inmensa felicidad",
     "titleKo": "적도 기니의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Equatorial%20Guinea%27s%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Equatorial%20Guinea%27s%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Equatorial_Guinea%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Equatorial_Guinea%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "GR": {
     "title": "Hymn to Liberty",
     "titleKo": "자유의 찬가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Hymn_to_liberty_instrumental.oga/Hymn_to_liberty_instrumental.oga.mp3"
   },
   "GT": {
     "title": "National Anthem of Guatemala",
     "titleKo": "과테말라의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Guatemala%2C%20by%20the%20U.S.%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Guatemala%2C%20by%20the%20U.S.%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/National_anthem_of_Guatemala%2C_by_the_U.S._Navy_Band.oga/National_anthem_of_Guatemala%2C_by_the_U.S._Navy_Band.oga.mp3"
   },
   "GW": {
     "title": "Esta é a Nossa Pátria bem Amada",
     "titleKo": "이곳은 우리의 사랑받는 조국",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Esta_%C3%A9_a_Nossa_P%C3%A1tria_bem_Amada.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthem%20of%20Guinea%20Bissau.webm",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/Anthem_of_Guinea_Bissau.webm/Anthem_of_Guinea_Bissau.webm.mp3"
   },
   "GY": {
     "title": "National anthem of Guyana",
     "titleKo": "가이아나의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Guyana.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Guyana.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/National_Anthem_of_Guyana.ogg/National_Anthem_of_Guyana.ogg.mp3"
   },
   "HN": {
     "title": "National Anthem of Honduras",
     "titleKo": "온두라스의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Honduras%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Honduras%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Honduras_National_Anthem.ogg/Honduras_National_Anthem.ogg.mp3"
   },
   "HR": {
     "title": "Lijepa naša domovino",
     "titleKo": "크로아티아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lijepa%20nasa%20domovino%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lijepa%20nasa%20domovino%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Lijepa_nasa_domovino_instrumental.ogg/Lijepa_nasa_domovino_instrumental.ogg.mp3"
   },
   "HT": {
     "title": "La Dessalinienne",
     "titleKo": "아이티의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Haiti%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Haiti%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/Haiti_National_Anthem.ogg/Haiti_National_Anthem.ogg.mp3"
   },
   "HU": {
     "title": "Himnusz",
     "titleKo": "헝가리의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himnusz%201920s.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himnusz%201920s.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Himnusz_1920s.ogg/Himnusz_1920s.ogg.mp3"
   },
   "ID": {
     "title": "Indonesia Raya",
     "titleKo": "위대한 인도네시아",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Indonesia%20Raya%20Simfoni%20dan%20Vokal%203%20Bait.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Indonesia%20Raya%20Simfoni%20dan%20Vokal%203%20Bait.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/Indonesia_Raya_Simfoni_dan_Vokal_3_Bait.ogg/Indonesia_Raya_Simfoni_dan_Vokal_3_Bait.ogg.mp3"
   },
   "IE": {
     "title": "Amhrán na bhFiann",
     "titleKo": "아일랜드의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ireland%20National%20Anthem%20%28Amhr%C3%A1n%20na%20bhFiann%29%201960s.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ireland%20National%20Anthem%20%28Amhr%C3%A1n%20na%20bhFiann%29%201960s.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/Ireland_National_Anthem_%28Amhr%C3%A1n_na_bhFiann%29_1960s.ogg/Ireland_National_Anthem_%28Amhr%C3%A1n_na_bhFiann%29_1960s.ogg.mp3"
   },
   "IL": {
     "title": "Hatikvah",
     "titleKo": "이스라엘의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatikvah%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatikvah%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Hatikvah_instrumental.ogg/Hatikvah_instrumental.ogg.mp3"
   },
   "IN": {
     "title": "Jana Gana Mana",
     "titleKo": "자나 가나 마나",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Jana%20Gana%20Mana%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Jana%20Gana%20Mana%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/Jana_Gana_Mana_instrumental.ogg/Jana_Gana_Mana_instrumental.ogg.mp3"
   },
   "IQ": {
     "title": "Mawtini",
     "titleKo": "나의 조국",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mawtini_(instrumental).ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Iraqi_national_anthem%2C_performed_by_the_U.S._Navy_Band.wav/Iraqi_national_anthem%2C_performed_by_the_U.S._Navy_Band.wav.mp3"
   },
   "IR": {
     "title": "National Anthem of the Islamic Republic of Iran",
     "titleKo": "이란의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorud-e%20Mell%C3%AD-e%20Yomhur%C3%AD-e%20Eslam%C3%AD-e%20Ir%C3%A1n%20%28instrumental%29.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorud-e%20Mell%C3%AD-e%20Yomhur%C3%AD-e%20Eslam%C3%AD-e%20Ir%C3%A1n%20%28instrumental%29.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga.mp3"
   },
   "IS": {
     "title": "Lofsöngur",
     "titleKo": "아이슬란드의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lofs%C3%B6ngur%20%28first%20recording%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lofs%C3%B6ngur%20%28first%20recording%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/Lofs%C3%B6ngur_%28first_recording%29.ogg/Lofs%C3%B6ngur_%28first_recording%29.ogg.mp3"
   },
   "IT": {
     "title": "Il Canto degli Italiani",
     "titleKo": "이탈리아인들의 노래",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Inno%20di%20Mameli%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Inno%20di%20Mameli%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/Inno_di_Mameli_instrumental.ogg/Inno_di_Mameli_instrumental.ogg.mp3"
   },
   "JM": {
     "title": "Jamaica, Land We Love",
     "titleKo": "자메이카의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Jamaica%2C%20Land%20We%20Love%22%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Jamaica%2C%20Land%20We%20Love%22%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/%22Jamaica%2C_Land_We_Love%22%2C_performed_by_the_United_States_Navy_Band.oga/%22Jamaica%2C_Land_We_Love%22%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "JO": {
     "title": "The Royal Anthem of Jordan",
     "titleKo": "요르단의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Jordan%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Jordan%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/National_anthem_of_Jordan_instrumental.ogg/National_anthem_of_Jordan_instrumental.ogg.mp3"
   },
   "JP": {
     "title": "Kimigayo",
     "titleKo": "기미가요",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimi%20ga%20Yo%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimi%20ga%20Yo%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Kimi_ga_Yo_instrumental.ogg/Kimi_ga_Yo_instrumental.ogg.mp3"
   },
   "KE": {
     "title": "Ee Mungu Nguvu Yetu",
     "titleKo": "케냐의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Kenya%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Kenya%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/National_anthem_of_Kenya%2C_performed_by_the_United_States_Navy_Band.wav/National_anthem_of_Kenya%2C_performed_by_the_United_States_Navy_Band.wav.mp3"
   },
   "KG": {
     "title": "State Anthem of the Kyrgyz Republic",
     "titleKo": "키르기스스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyrgyzstan%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyrgyzstan%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/Kyrgyzstan_National_Anthem.ogg/Kyrgyzstan_National_Anthem.ogg.mp3"
   },
   "KH": {
     "title": "Nokor Reach",
     "titleKo": "캄보디아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Nokoreach.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Nokoreach.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/United_States_Navy_Band_-_Nokoreach.ogg/United_States_Navy_Band_-_Nokoreach.ogg.mp3"
   },
   "KI": {
     "title": "Kunan Kiribati",
     "titleKo": "일어서라 키리바시여",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Teirake_Kaini_Kiribati.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiribati%20Anthem%20Performed%20by%20US%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/Kiribati_Anthem_Performed_by_US_Navy_Band.oga/Kiribati_Anthem_Performed_by_US_Navy_Band.oga.mp3"
   },
   "KM": {
     "title": "Udzima wa ya Masiwa",
     "titleKo": "코모로의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Comoros%2C%20performed%20by%20the%20U.S.%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Comoros%2C%20performed%20by%20the%20U.S.%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/National_anthem_of_the_Comoros%2C_performed_by_the_U.S._Navy_Band.oga/National_anthem_of_the_Comoros%2C_performed_by_the_U.S._Navy_Band.oga.mp3"
   },
   "KN": {
     "title": "O Land of Beauty!",
     "titleKo": "세인트키츠 네비스의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20O%20Land%20of%20Beauty.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20O%20Land%20of%20Beauty.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg/United_States_Navy_Band_-_O_Land_of_Beauty.ogg.mp3"
   },
   "KP": {
     "title": "Aegukka",
     "titleKo": "애국가 (조선민주주의인민공화국)",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Aegukka_(instrumental).ogg"
+    "audio": "https://en.wikipedia.org/wiki/Special:FilePath/DPRK%20anthem.mp3",
+    "mp3": "https://upload.wikimedia.org/wikipedia/en/0/09/DPRK_anthem.mp3?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
   },
   "KR": {
     "title": "Aegukga",
     "titleKo": "애국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20South%20Korea%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20South%20Korea%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav.mp3"
   },
   "KW": {
     "title": "National Anthem of Kuwait",
     "titleKo": "쿠웨이트의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Kuwait%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Kuwait%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/National_anthem_of_Kuwait_%28instrumental%29.ogg/National_anthem_of_Kuwait_%28instrumental%29.ogg.mp3"
   },
   "KZ": {
     "title": "Menıñ Qazaqstanym",
     "titleKo": "카자흐스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazakhstan%20National%20Anthem%202012.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazakhstan%20National%20Anthem%202012.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/Kazakhstan_National_Anthem_2012.ogg/Kazakhstan_National_Anthem_2012.ogg.mp3"
   },
   "LA": {
     "title": "Pheng Xat Lao",
     "titleKo": "라오스의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Laos.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Laos.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/National_Anthem_of_Laos.ogg/National_Anthem_of_Laos.ogg.mp3"
   },
   "LB": {
     "title": "Lebanese national anthem",
     "titleKo": "레바논의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lebanese%20national%20anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lebanese%20national%20anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Lebanese_national_anthem.ogg/Lebanese_national_anthem.ogg.mp3"
   },
   "LC": {
     "title": "Sons and Daughters of Saint Lucia",
     "titleKo": "세인트루시아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Saint%20Lucia.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Saint%20Lucia.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/National_Anthem_of_Saint_Lucia.ogg/National_Anthem_of_Saint_Lucia.ogg.mp3"
   },
   "LI": {
     "title": "Oben am jungen Rhein",
     "titleKo": "리히텐슈타인의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/God%20Save%20the%20King%20%281927%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/God%20Save%20the%20King%20%281927%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/God_Save_the_King_%281927%29.ogg/God_Save_the_King_%281927%29.ogg.mp3"
   },
   "LK": {
     "title": "Sri Lanka Matha",
     "titleKo": "스리랑카의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Lankan%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Lankan%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Sri_Lankan_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Sri_Lankan_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "LR": {
     "title": "All Hail, Liberia, Hail!",
     "titleKo": "라이베리아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberia%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberia%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Liberia_National_Anthem.ogg/Liberia_National_Anthem.ogg.mp3"
   },
   "LS": {
     "title": "Lesotho Fatse La Bontata Rona",
     "titleKo": "레소토의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Lesotho%2C%20performed%20by%20the%20U.S.%20Navy%20Band.wav"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Lesotho%2C%20performed%20by%20the%20U.S.%20Navy%20Band.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/National_anthem_of_Lesotho%2C_performed_by_the_U.S._Navy_Band.wav/National_anthem_of_Lesotho%2C_performed_by_the_U.S._Navy_Band.wav.mp3"
   },
   "LT": {
     "title": "Tautiška giesmė",
     "titleKo": "리투아니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tauti%C5%A1ka%20giesme%20instrumental.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tauti%C5%A1ka%20giesme%20instrumental.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Tauti%C5%A1ka_giesme_instrumental.oga/Tauti%C5%A1ka_giesme_instrumental.oga.mp3"
   },
   "LU": {
     "title": "Ons Heemecht",
     "titleKo": "룩셈부르크의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Luxembourg%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Luxembourg%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Luxembourg_National_Anthem.ogg/Luxembourg_National_Anthem.ogg.mp3"
   },
   "LV": {
     "title": "Dievs, svētī Latviju!",
     "titleKo": "라트비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Latvian%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Latvian%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/Latvian_National_Anthem.ogg/Latvian_National_Anthem.ogg.mp3"
   },
   "LY": {
     "title": "Libya, Libya, Libya",
     "titleKo": "리비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Libya%2C%20Libya%2C%20Libya%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Libya%2C%20Libya%2C%20Libya%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/Libya%2C_Libya%2C_Libya_instrumental.ogg/Libya%2C_Libya%2C_Libya_instrumental.ogg.mp3"
   },
   "MA": {
     "title": "Cherifian Anthem",
     "titleKo": "모로코의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Morocco.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Morocco.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/National_Anthem_of_Morocco.ogg/National_Anthem_of_Morocco.ogg.mp3"
   },
   "MC": {
     "title": "Hymne monégasque",
     "titleKo": "모나코의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Monaco%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Monaco%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/Monaco_National_Anthem.ogg/Monaco_National_Anthem.ogg.mp3"
   },
   "MD": {
     "title": "Limba noastră",
     "titleKo": "우리의 언어",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Limba_noastra_instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Imnul%20Republicii%20Moldova%20US%20NAVY.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg/Imnul_Republicii_Moldova_US_NAVY.ogg.mp3"
   },
   "ME": {
     "title": "Oj, svijetla majska zoro",
     "titleKo": "몬테네그로의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Montenegro.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Montenegro.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/National_Anthem_of_Montenegro.ogg/National_Anthem_of_Montenegro.ogg.mp3"
   },
   "MG": {
     "title": "Ry Tanindrazanay malala ô!",
     "titleKo": "마다가스카르의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ry%20Tanindrazanay%20malala%20%C3%B4%21%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ry%20Tanindrazanay%20malala%20%C3%B4%21%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/Ry_Tanindrazanay_malala_%C3%B4%21_%28instrumental%29.ogg/Ry_Tanindrazanay_malala_%C3%B4%21_%28instrumental%29.ogg.mp3"
   },
   "MH": {
     "title": "Forever Marshall Islands",
     "titleKo": "마셜 제도의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Marshall%20Islands%20by%20US%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Marshall%20Islands%20by%20US%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg.mp3"
   },
   "MK": {
     "title": "Denes nad Makedonija",
     "titleKo": "오늘 마케도니아 위에",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Macedonia%27s_National_Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Macedonia%27s_National_Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/North_Macedonia%27s_National_Anthem.ogg/North_Macedonia%27s_National_Anthem.ogg.mp3"
   },
   "ML": {
     "title": "Pour l'Afrique et pour toi",
     "titleKo": "말리의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Malian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Malian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "MM": {
     "title": "Kaba Ma Kyei",
     "titleKo": "미얀마의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%20-%20Kaba%20Ma%20Kyei.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%20-%20Kaba%20Ma%20Kyei.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga.mp3"
   },
   "MN": {
     "title": "National Anthem of Mongolia",
     "titleKo": "몽골의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mongolia_National_Anthem_performed_by_the_US_Navy_Band.ogg"
+    "audio": "https://en.wikipedia.org/wiki/Special:FilePath/Anthem%20of%20Mongolia.mp3",
+    "mp3": "https://upload.wikimedia.org/wikipedia/en/d/d4/Anthem_of_Mongolia.mp3?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
   },
   "MR": {
     "title": "National anthem of Mauritania",
     "titleKo": "모리타니의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Bil%C4%81da%20l-%CA%BEub%C4%81ti%20l-hud%C4%81ti%20l-kir%C4%81m.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Bil%C4%81da%20l-%CA%BEub%C4%81ti%20l-hud%C4%81ti%20l-kir%C4%81m.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/United_States_Navy_Band_-_Bil%C4%81da_l-%CA%BEub%C4%81ti_l-hud%C4%81ti_l-kir%C4%81m.ogg/United_States_Navy_Band_-_Bil%C4%81da_l-%CA%BEub%C4%81ti_l-hud%C4%81ti_l-kir%C4%81m.ogg.mp3"
   },
   "MT": {
     "title": "L-Innu Malti",
     "titleKo": "몰타의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Malta%20anthem%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Malta%20anthem%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Malta_anthem_%28instrumental%29.ogg/Malta_anthem_%28instrumental%29.ogg.mp3"
   },
   "MU": {
     "title": "Motherland",
     "titleKo": "모리셔스의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Motherland%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Motherland%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Motherland_%28instrumental%29.ogg/Motherland_%28instrumental%29.ogg.mp3"
   },
   "MV": {
     "title": "Gaumiii salaaam",
     "titleKo": "몰디브의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaumii%20salaam.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaumii%20salaam.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Gaumii_salaam.ogg/Gaumii_salaam.ogg.mp3"
   },
   "MW": {
     "title": "Mulungu dalitsa Malaŵi",
     "titleKo": "말라위의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Malawian%20national%20anthem.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Malawian%20national%20anthem.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/Malawian_national_anthem.oga/Malawian_national_anthem.oga.mp3"
   },
   "MX": {
     "title": "Himno Nacional Mexicano",
     "titleKo": "멕시코 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno%20Nacional%20Mexicano%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Himno%20Nacional%20Mexicano%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Himno_Nacional_Mexicano_instrumental.ogg/Himno_Nacional_Mexicano_instrumental.ogg.mp3"
   },
   "MY": {
     "title": "Negaraku",
     "titleKo": "네가라쿠 (나의 조국)",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Negaraku%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Negaraku%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Negaraku_instrumental.ogg/Negaraku_instrumental.ogg.mp3"
   },
   "MZ": {
     "title": "Pátria Amada",
     "titleKo": "모잠비크의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mozambican%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mozambican%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Mozambican_national_anthem%2C_performed_by_the_United_States_Navy_Band.wav/Mozambican_national_anthem%2C_performed_by_the_United_States_Navy_Band.wav.mp3"
   },
   "NA": {
     "title": "Namibia, Land of the Brave",
     "titleKo": "나미비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Namibia%2C%20Land%20of%20the%20Brave%20%28OGG%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Namibia%2C%20Land%20of%20the%20Brave%20%28OGG%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/Namibia%2C_Land_of_the_Brave_%28OGG%29.ogg/Namibia%2C_Land_of_the_Brave_%28OGG%29.ogg.mp3"
   },
   "NE": {
     "title": "L'Honneur de la Patrie",
     "titleKo": "니제르의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/THE%20HONOR%20OF%20THE%20FATHERLAND.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/THE%20HONOR%20OF%20THE%20FATHERLAND.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/THE_HONOR_OF_THE_FATHERLAND.ogg/THE_HONOR_OF_THE_FATHERLAND.ogg.mp3"
   },
   "NG": {
     "title": "Nigeria, We Hail Thee",
     "titleKo": "나이지리아, 우리가 네게 만세를 외친다!",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Nigeria%20We%20Hail%20Thee.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Nigeria%20We%20Hail%20Thee.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Nigeria_We_Hail_Thee.ogg/Nigeria_We_Hail_Thee.ogg.mp3"
   },
   "NI": {
     "title": "Salve a ti",
     "titleKo": "니카라과의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Nicaragua%20by%20US%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Nicaragua%20by%20US%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/National_Anthem_of_Nicaragua_by_US_Navy_Band.ogg/National_Anthem_of_Nicaragua_by_US_Navy_Band.ogg.mp3"
   },
   "NL": {
     "title": "Wilhelmus",
     "titleKo": "빌헬무스",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelmus%20koor.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelmus%20koor.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Wilhelmus_koor.oga/Wilhelmus_koor.oga.mp3"
   },
   "NO": {
     "title": "Ja, vi elsker dette landet",
     "titleKo": "그래, 우리는 이 땅을 사랑한다",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Norway%20%28National%20Anthem%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Norway%20%28National%20Anthem%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/Norway_%28National_Anthem%29.ogg/Norway_%28National_Anthem%29.ogg.mp3"
   },
   "NP": {
     "title": "Sayaun Thunga Phulka",
     "titleKo": "네팔의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sayaun%20Thunga%20Phool%20Ka%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sayaun%20Thunga%20Phool%20Ka%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg.mp3"
   },
   "NR": {
     "title": "Nauru Bwiema",
     "titleKo": "나우루의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Bwiema.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%20Bwiema.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Nauru_Bwiema.ogg/Nauru_Bwiema.ogg.mp3"
   },
   "NZ": {
     "title": "God Defend New Zealand",
     "titleKo": "하느님, 뉴질랜드를 지켜주소서",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/God%20Defend%20New%20Zealand%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/God%20Defend%20New%20Zealand%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/God_Defend_New_Zealand_instrumental.ogg/God_Defend_New_Zealand_instrumental.ogg.mp3"
   },
   "OM": {
     "title": "Nashid as-Salaam as-Sultani",
     "titleKo": "오만의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Peace%20to%20the%20Sultan%20%28%D9%86%D8%B4%D9%8A%D8%AF%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%D9%8A%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Peace%20to%20the%20Sultan%20%28%D9%86%D8%B4%D9%8A%D8%AF%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%D9%8A%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/Peace_to_the_Sultan_%28%D9%86%D8%B4%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%D9%8A%29.ogg/Peace_to_the_Sultan_%28%D9%86%D8%B4%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%D9%8A%29.ogg.mp3"
   },
   "PA": {
     "title": "National anthem of Panama",
     "titleKo": "파나마의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Panama%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Panama%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Panama_National_Anthem.ogg/Panama_National_Anthem.ogg.mp3"
   },
   "PE": {
     "title": "National Anthem of Peru",
     "titleKo": "페루의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Marcha%20Nacional%20del%20Per%C3%BA.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Marcha%20Nacional%20del%20Per%C3%BA.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg.mp3"
   },
   "PG": {
     "title": "O Arise, All You Sons",
     "titleKo": "오 모든 아들들아 일어나라",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/O_Arise,_All_You_Sons_(instrumental).ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/O_Arise,_All_You_Sons_(instrumental).ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/O_Arise%2C_All_You_Sons_%28instrumental%29.ogg/O_Arise%2C_All_You_Sons_%28instrumental%29.ogg.mp3"
   },
   "PH": {
     "title": "Lupang Hinirang",
     "titleKo": "선택받은 땅",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lupang%20Hinirang%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Lupang%20Hinirang%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2b/Lupang_Hinirang_instrumental.ogg/Lupang_Hinirang_instrumental.ogg.mp3"
   },
   "PK": {
     "title": "Qaumi Taranah",
     "titleKo": "파키스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakistani%20national%20anthem%20-%20United%20States%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Pakistani%20national%20anthem%20-%20United%20States%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/Pakistani_national_anthem_-_United_States_Navy_Band.ogg/Pakistani_national_anthem_-_United_States_Navy_Band.ogg.mp3"
   },
   "PL": {
     "title": "Mazurek Dąbrowskiego",
     "titleKo": "폴란드는 아직 죽지 않았다",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mazurek%20D%C4%85browskiego%20%28official%20instrumental%29.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Mazurek%20D%C4%85browskiego%20%28official%20instrumental%29.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/Mazurek_D%C4%85browskiego_%28official_instrumental%29.oga/Mazurek_D%C4%85browskiego_%28official_instrumental%29.oga.mp3"
   },
   "PS": {
     "title": "Fida'i",
     "titleKo": "팔레스타인의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthem%20of%20Palestine.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthem%20of%20Palestine.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/Anthem_of_Palestine.ogg/Anthem_of_Palestine.ogg.mp3"
   },
   "PT": {
     "title": "A Portuguesa",
     "titleKo": "포르투갈인의 노래",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Portuguesa.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Portuguesa.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/A_Portuguesa.ogg/A_Portuguesa.ogg.mp3"
   },
   "PW": {
     "title": "Belau rekid",
     "titleKo": "우리의 팔라우",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Belau_rekid_(instrumental).oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Belau_rekid_(instrumental).oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Belau_rekid_%28instrumental%29.oga/Belau_rekid_%28instrumental%29.oga.mp3"
   },
   "PY": {
     "title": "national anthem of Paraguay",
     "titleKo": "파라과이의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Paraguayan%20National%20Anthem.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Paraguayan%20National%20Anthem.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/Paraguayan_National_Anthem.oga/Paraguayan_National_Anthem.oga.mp3"
   },
   "QA": {
     "title": "As Salam al Amiri",
     "titleKo": "카타르의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Qatar.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Qatar.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ec/National_anthem_of_Qatar.ogg/National_anthem_of_Qatar.ogg.mp3"
   },
   "RO": {
     "title": "Deșteaptă-te, române!",
     "titleKo": "루마니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Desteapta-te%2C%20romane%21.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Desteapta-te%2C%20romane%21.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Desteapta-te%2C_romane%21.ogg/Desteapta-te%2C_romane%21.ogg.mp3"
   },
   "RS": {
     "title": "Bože pravde",
     "titleKo": "세르비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Serbian%20national%20anthem%2C%20instrumental.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Serbian%20national%20anthem%2C%20instrumental.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Serbian_national_anthem%2C_instrumental.oga/Serbian_national_anthem%2C_instrumental.oga.mp3"
   },
   "RU": {
     "title": "State Anthem of the Russian Federation",
     "titleKo": "러시아 연방 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Russian%20Anthem%20chorus.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Russian%20Anthem%20chorus.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Russian_Anthem_chorus.ogg/Russian_Anthem_chorus.ogg.mp3"
   },
   "RW": {
     "title": "Rwanda Nziza",
     "titleKo": "르완다의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymne%20National%20du%20Rwanda.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Hymne%20National%20du%20Rwanda.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/Hymne_National_du_Rwanda.ogg/Hymne_National_du_Rwanda.ogg.mp3"
   },
   "SA": {
     "title": "Chant of the Saudi Nation",
     "titleKo": "사우디아라비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "SB": {
     "title": "God Save Our Solomon Islands",
     "titleKo": "하느님, 우리의 솔로몬 제도를 지켜주소서",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/God_Save_Our_Solomon_Islands.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Solomon%20Islands%20(instrumental).wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/National_Anthem_of_Solomon_Islands_%28instrumental%29.wav/National_Anthem_of_Solomon_Islands_%28instrumental%29.wav.mp3"
   },
   "SC": {
     "title": "Koste Seselwa",
     "titleKo": "세이셸의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Koste%20Seselwa%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Koste%20Seselwa%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Koste_Seselwa_%28instrumental%29.ogg/Koste_Seselwa_%28instrumental%29.ogg.mp3"
   },
   "SD": {
     "title": "Nahnu Jund Allah Jund Al-watan",
     "titleKo": "수단의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sudanese%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sudanese%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Sudanese_national_anthem%2C_performed_by_the_U.S._Navy_Band.oga/Sudanese_national_anthem%2C_performed_by_the_U.S._Navy_Band.oga.mp3"
   },
   "SE": {
     "title": "Du gamla, du fria",
     "titleKo": "그대 고대의 자유로운 땅",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Du%20gamla%2C%20du%20fria.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Du%20gamla%2C%20du%20fria.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Du_gamla%2C_du_fria.ogg/Du_gamla%2C_du_fria.ogg.mp3"
   },
   "SG": {
     "title": "Majulah Singapura",
     "titleKo": "전진하라 싱가포르여",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Majulah%20Singapura.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Majulah%20Singapura.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Majulah_Singapura.ogg/Majulah_Singapura.ogg.mp3"
   },
   "SI": {
     "title": "Zdravljica",
     "titleKo": "슬로베니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Slovenia%27s%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Slovenia%27s%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Slovenia%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Slovenia%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "SK": {
     "title": "Nad Tatrou sa blýska",
     "titleKo": "슬로바키아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Nad%20Tatrou%20sa%20bl%C3%BDska.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Nad%20Tatrou%20sa%20bl%C3%BDska.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Nad_Tatrou_sa_bl%C3%BDska.ogg/Nad_Tatrou_sa_bl%C3%BDska.ogg.mp3"
   },
   "SL": {
     "title": "High We Exalt Thee, Realm of the Free",
     "titleKo": "시에라리온의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone%27s%20national%20anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone%27s%20national%20anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/Sierra_Leone%27s_national_anthem.ogg/Sierra_Leone%27s_national_anthem.ogg.mp3"
   },
   "SM": {
     "title": "Inno Nazionale della Repubblica",
     "titleKo": "공화국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Inno_Nazionale_della_Repubblica.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Inno_Nazionale_della_Repubblica.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Inno_Nazionale_della_Repubblica.ogg/Inno_Nazionale_della_Repubblica.ogg.mp3"
   },
   "SN": {
     "title": "Le Lion rouge",
     "titleKo": "붉은 사자",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Anthem_of_Senegal.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Anthem_of_Senegal.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/National_Anthem_of_Senegal.ogg/National_Anthem_of_Senegal.ogg.mp3"
   },
   "SO": {
     "title": "Qolobaa Calankeed",
     "titleKo": "소말리아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Somali%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Somali%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/Somali_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Somali_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "SR": {
     "title": "God zij met ons Suriname",
     "titleKo": "수리남의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Surinamese%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Surinamese%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Surinamese_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg/Surinamese_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg.mp3"
   },
   "SS": {
     "title": "South Sudan Oyee!",
     "titleKo": "남수단의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Sudan%20Oyee%21%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20Sudan%20Oyee%21%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/South_Sudan_Oyee%21_%28instrumental%29.ogg/South_Sudan_Oyee%21_%28instrumental%29.ogg.mp3"
   },
   "ST": {
     "title": "Independência total",
     "titleKo": "상투메 프린시페의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Independ%C3%AAncia%20total%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Independ%C3%AAncia%20total%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Independ%C3%AAncia_total_%28instrumental%29.ogg/Independ%C3%AAncia_total_%28instrumental%29.ogg.mp3"
   },
   "SV": {
     "title": "National anthem of El Salvador",
     "titleKo": "엘살바도르의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Salvador%20National%20Anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Salvador%20National%20Anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/El_Salvador_National_Anthem.ogg/El_Salvador_National_Anthem.ogg.mp3"
   },
   "SY": {
     "title": "Humat ad-Diyar",
     "titleKo": "시리아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Syria.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Syria.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/National_Anthem_of_Syria.ogg/National_Anthem_of_Syria.ogg.mp3"
   },
   "SZ": {
     "title": "Nkulunkulu Mnikati wetibusiso temaSwati",
     "titleKo": "에스와티니의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Kingdom%20of%20Eswatini.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Kingdom%20of%20Eswatini.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/National_anthem_of_the_Kingdom_of_Eswatini.ogg/National_anthem_of_the_Kingdom_of_Eswatini.ogg.mp3"
   },
   "TD": {
     "title": "La Tchadienne",
     "titleKo": "차드의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Tchadienne%20%28instrumental%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Tchadienne%20%28instrumental%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/La_Tchadienne_%28instrumental%29.ogg/La_Tchadienne_%28instrumental%29.ogg.mp3"
   },
   "TG": {
     "title": "Terre de nos aïeux",
     "titleKo": "우리 조상들의 땅",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Terre_de_nos_a%C3%AFeux.ogg"
+    "audio": "https://en.wikipedia.org/wiki/Special:FilePath/Togo's%20national%20anthem%20(instrumental).ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/en/transcoded/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg/Togo%27s_national_anthem_%28instrumental%29.ogg.mp3"
   },
   "TH": {
     "title": "Phleng Chat Thai",
     "titleKo": "플렝 찻 타이 (태국의 국가)",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Phleng%20Chat%20Thai%20%28Fine%20Art%20Department%20Orchestra%29%20-%20Rabbit%20Gramophone%20record%20N.123.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Phleng%20Chat%20Thai%20%28Fine%20Art%20Department%20Orchestra%29%20-%20Rabbit%20Gramophone%20record%20N.123.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Phleng_Chat_Thai_%28Fine_Art_Department_Orchestra%29_-_Rabbit_Gramophone_record_N.123.ogg/Phleng_Chat_Thai_%28Fine_Art_Department_Orchestra%29_-_Rabbit_Gramophone_record_N.123.ogg.mp3"
   },
   "TJ": {
     "title": "National anthem of Tajikistan",
     "titleKo": "타지키스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tajikistan%20anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tajikistan%20anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Tajikistan_anthem.ogg/Tajikistan_anthem.ogg.mp3"
   },
   "TL": {
     "title": "Pátria",
     "titleKo": "동티모르의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20Timorese%20national%20anthem.wav"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20Timorese%20national%20anthem.wav",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/East_Timorese_national_anthem.wav/East_Timorese_national_anthem.wav.mp3"
   },
   "TM": {
     "title": "National anthem of Turkmenistan",
     "titleKo": "투르크메니스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Turkmenistan%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Turkmenistan%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "TN": {
     "title": "Humat Al Hima",
     "titleKo": "튀니지의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Humat%20al-Hima.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Humat%20al-Hima.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Humat_al-Hima.ogg/Humat_al-Hima.ogg.mp3"
   },
   "TO": {
     "title": "Ko e fasi 'o e tu'i 'o e 'Otu Tonga",
     "titleKo": "통가의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ko%20e%20fasi%20%CA%BBo%20e%20tu%CA%BBi%20%CA%BBo%20e%20%CA%BBOtu%20Tonga.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ko%20e%20fasi%20%CA%BBo%20e%20tu%CA%BBi%20%CA%BBo%20e%20%CA%BBOtu%20Tonga.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/18/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg.mp3"
   },
   "TR": {
     "title": "İstiklâl Marşı",
     "titleKo": "독립 행진곡",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Istikl%C3%A2l%20Marsi%20instrumetal.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Istikl%C3%A2l%20Marsi%20instrumetal.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg/Istikl%C3%A2l_Marsi_instrumetal.ogg.mp3"
   },
   "TT": {
     "title": "Forged from the Love of Liberty",
     "titleKo": "자유의 사랑으로 세워진",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Forged_from_the_Love_of_Liberty_(instrumental).ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Forged_from_the_Love_of_Liberty_(instrumental).ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/Forged_from_the_Love_of_Liberty_%28instrumental%29.ogg/Forged_from_the_Love_of_Liberty_%28instrumental%29.ogg.mp3"
   },
   "TV": {
     "title": "Tuvalu mo te Atua",
     "titleKo": "전능하신 신을 위한 투발루",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu_mo_te_Atua.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu_mo_te_Atua.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Tuvalu_mo_te_Atua.ogg/Tuvalu_mo_te_Atua.ogg.mp3"
   },
   "TW": {
     "title": "National Anthem of the Republic of China",
     "titleKo": "중화민국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Republic%20of%20China%20%28Taiwan%29%20%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20the%20Republic%20of%20China%20%28Taiwan%29%20%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3"
   },
   "TZ": {
     "title": "Mungu ibariki Afrika",
     "titleKo": "탄자니아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanzanian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanzanian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "UA": {
     "title": "Shche ne vmerla Ukrainy i slava, i volia",
     "titleKo": "우크라이나의 영광과 자유는 아직 사라지지 않았다",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukrainian_National_Anthem_played_by_U.S._Navy_Band.mp3"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ukrainian_National_Anthem_played_by_U.S._Navy_Band.mp3",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ukrainian_National_Anthem_played_by_U.S._Navy_Band.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original"
   },
   "UG": {
     "title": "Oh Uganda, Land of Beauty",
     "titleKo": "우간다의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ugandan%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Ugandan%20national%20anthem%2C%20performed%20by%20the%20U.S.%20Navy%20Band.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/Ugandan_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg/Ugandan_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg.mp3"
   },
   "US": {
     "title": "The Star-Spangled Banner",
     "titleKo": "성조기여 영원하라",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Spangled%20Banner%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Spangled%20Banner%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Star_Spangled_Banner_instrumental.ogg/Star_Spangled_Banner_instrumental.ogg.mp3"
   },
   "UY": {
     "title": "National Anthem of Uruguay",
     "titleKo": "우루과이의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/HimnoNacionalUruguay.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/HimnoNacionalUruguay.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/HimnoNacionalUruguay.ogg/HimnoNacionalUruguay.ogg.mp3"
   },
   "UZ": {
     "title": "National Anthem of Uzbekistan",
     "titleKo": "우즈베키스탄의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Uzbekistan%20anthem.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Uzbekistan%20anthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/Uzbekistan_anthem.ogg/Uzbekistan_anthem.ogg.mp3"
   },
   "VA": {
     "title": "Inno e Marcia Pontificale",
     "titleKo": "바티칸 시국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Inno%20e%20Marcia%20Pontificale.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Inno%20e%20Marcia%20Pontificale.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg.mp3"
   },
   "VC": {
     "title": "Saint Vincent, Land so Beautiful",
     "titleKo": "세인트빈센트 그레나딘의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Saint%20Vincent%20and%20the%20Grenadines%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Saint%20Vincent%20and%20the%20Grenadines%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/National_anthem_of_Saint_Vincent_and_the_Grenadines%2C_performed_by_the_United_States_Navy_Band.oga/National_anthem_of_Saint_Vincent_and_the_Grenadines%2C_performed_by_the_United_States_Navy_Band.oga.mp3"
   },
   "VE": {
     "title": "gloria al bravo pueblo",
     "titleKo": "베네수엘라의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20al%20Bravo%20Pueblo%20instrumental.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20al%20Bravo%20Pueblo%20instrumental.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/Gloria_al_Bravo_Pueblo_instrumental.ogg/Gloria_al_Bravo_Pueblo_instrumental.ogg.mp3"
   },
   "VN": {
     "title": "Tiến Quân Ca",
     "titleKo": "진군가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietnamese%20Ti%E1%BA%BFn%20Qu%C3%A2n%20Ca.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietnamese%20Ti%E1%BA%BFn%20Qu%C3%A2n%20Ca.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Vietnamese_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg/Vietnamese_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg.mp3"
   },
   "VU": {
     "title": "Yumi, Yumi",
     "titleKo": "바누아투의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Yumi%2C%20Yumi%2C%20Yumi.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Navy%20Band%20-%20Yumi%2C%20Yumi%2C%20Yumi.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg.mp3"
   },
   "WS": {
     "title": "The Banner of Freedom",
     "titleKo": "자유의 깃발",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Banner_of_Freedom.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/SamoaAnthem.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/SamoaAnthem.ogg/SamoaAnthem.ogg.mp3"
   },
   "XK": {
     "title": "Europe",
     "titleKo": "코소보의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20the%20Republic%20of%20Kosovo.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20the%20Republic%20of%20Kosovo.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg/National_Anthem_of_the_Republic_of_Kosovo.ogg.mp3"
   },
   "YE": {
     "title": "National anthem of Yemen",
     "titleKo": "예멘의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20the%20Republic%20of%20Yemen.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20the%20Republic%20of%20Yemen.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/National_Anthem_of_the_Republic_of_Yemen.oga/National_Anthem_of_the_Republic_of_Yemen.oga.mp3"
   },
   "ZA": {
     "title": "National Anthem of South Africa",
     "titleKo": "남아프리카 공화국의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20African%20national%20anthem.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20African%20national%20anthem.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/South_African_national_anthem.oga/South_African_national_anthem.oga.mp3"
   },
   "ZM": {
     "title": "Stand and Sing of Zambia, Proud and Free",
     "titleKo": "잠비아의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Zambia.oga"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20anthem%20of%20Zambia.oga",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/National_anthem_of_Zambia.oga/National_anthem_of_Zambia.oga.mp3"
   },
   "ZW": {
     "title": "National Anthem of Zimbabwe",
     "titleKo": "짐바브웨의 국가",
-    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Zimbabwe.ogg"
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Anthem%20of%20Zimbabwe.ogg",
+    "mp3": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/National_Anthem_of_Zimbabwe.ogg/National_Anthem_of_Zimbabwe.ogg.mp3"
   }
 }
