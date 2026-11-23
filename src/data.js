@@ -8,6 +8,7 @@ import {splitAntimeridianGeometry} from "./map-geometry.js";
 import { feature as topoFeature } from "topojson-client";
 import {classroomNames} from './priority-countries.js';
 import {polarDestinations,polarPostcards} from './polar-data.js';
+import {lookupMapTerritory} from './map-territories.js';
 
 // 194 independent entries plus Taiwan, Palestine, and Kosovo = the 197-country
 // learning set requested for this project. The full vector layer still shows
@@ -97,16 +98,20 @@ export function createCountryGeoJson(atlas) {
       const name = item.properties?.name || "";
       const country = fullCountryByNumeric.get(numeric) || fullCountryByName.get(name.toLowerCase());
       const rosterEntry = countryByCode.get(country?.cca2);
+      const territory = rosterEntry ? null : lookupMapTerritory({ cca2: country?.cca2, name });
       return {
         ...item,
         geometry: splitAntimeridianGeometry(country?.cca2 === "VA" ? vaticanGeometry.geometry : item.geometry),
         properties: {
           ...item.properties,
           cca2: country?.cca2 || "",
-          label: rosterEntry?.name || name,
-          labelKo: rosterEntry?.nameKo || name,
-          region: rosterEntry?.region || country?.region || "",
+          label: rosterEntry?.name || territory?.nameEn || name,
+          labelKo: rosterEntry?.nameKo || territory?.nameKo || name,
+          region: rosterEntry?.region || territory?.region || country?.region || "",
           eligible: Boolean(rosterEntry),
+          territoryKey: territory?.key || "",
+          linkedCode: rosterEntry ? country.cca2 : (territory?.linkedCode || ""),
+          clickable: Boolean(rosterEntry || territory),
         },
       };
     }),

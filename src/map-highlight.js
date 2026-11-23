@@ -13,3 +13,17 @@ export function updateCountryHighlight(map,code,quizMode){
   map.setFilter(layer.id,layer.filter);
  }
 }
+export function territoryHighlightLayers(territoryKey,quizMode){
+ const filter=['==',['get','territoryKey'],territoryKey||''],layout={visibility:!quizMode&&territoryKey?'visible':'none'};
+ return [
+  {id:'selected-territory-fill',type:'fill',source:'countries',filter,layout,paint:{'fill-color':'#f5a556','fill-opacity':.96}},
+  {id:'selected-territory-outline',type:'line',source:'countries',filter,layout,paint:{'line-color':'#d88b3c','line-width':1.8}},
+ ];
+}
+export function updateTerritoryHighlight(map,territoryKey,quizMode){
+ for(const layer of territoryHighlightLayers(territoryKey,quizMode)){
+  if(!map.getLayer(layer.id))continue;
+  map.setLayoutProperty(layer.id,'visibility',layer.layout.visibility);
+  map.setFilter(layer.id,layer.filter);
+ }
+}

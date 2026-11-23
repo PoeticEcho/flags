@@ -23,7 +23,8 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { explorationPoints as capitalPoints, countryByCode, loadCountryGeoJson, regionBounds, explorationRoster as roster } from "./data.js";
 import {focusMapCountry,nearestWorldBounds} from "./map-geometry.js";
 import {canAnswerQuiz,quizOptionResult} from './quiz-answer-state.js';
-import {countryHighlightLayers,updateCountryHighlight} from './map-highlight.js';
+import {countryHighlightLayers,updateCountryHighlight,territoryHighlightLayers,updateTerritoryHighlight} from './map-highlight.js';
+import {territoryByKey} from './map-territories.js';
 import {createQuizAdvance} from './quiz-advance.js';
 import FlagStudio from "./FlagStudio.jsx";
 import {browserStorage,readStudioDraft,saveStudioDraft} from "./studio-drafts.js";
@@ -86,7 +87,7 @@ function countryName(country, language) {
   return language === "ko" ? country.nameKo : country.name;
 }
 
-function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, quizMode, quizStatus, quizChoices, textChoice, region, setRegion, focusRequest,onUnavailable,onOpenCards,onWordQuiz }) {
+function MapView({ language, selectedCode, selectedCountry, selectedTerritory, onSelect, onSelectTerritory, onAnswer, quizMode, quizStatus, quizChoices, textChoice, region, setRegion, focusRequest,onUnavailable,onOpenCards,onWordQuiz }) {
   const hostRef = useRef(null);
   const fitQuizRef=useRef(null);
   const mapRef = useRef(null);
@@ -95,7 +96,9 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
   const focusedRequestRef = useRef(null);
   const optionMarkersRef = useRef([]);
   const selectedRef = useRef(selectedCode);
+  const selectedTerritoryRef = useRef(selectedTerritory);
   const onSelectRef = useRef(onSelect);
+  const onSelectTerritoryRef = useRef(onSelectTerritory);
   const onAnswerRef = useRef(onAnswer);
   const quizModeRef = useRef(quizMode);
   const holdTimerRef = useRef(null);
@@ -114,7 +117,9 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
     return ()=>{window.removeEventListener("pointerup",end);window.removeEventListener("pointercancel",end);};
   },[]);
   useEffect(() => { selectedRef.current = selectedCode; }, [selectedCode]);
+  useEffect(() => { selectedTerritoryRef.current = selectedTerritory; }, [selectedTerritory]);
   useEffect(() => { onSelectRef.current = onSelect; }, [onSelect]);
+  useEffect(() => { onSelectTerritoryRef.current = onSelectTerritory; }, [onSelectTerritory]);
   useEffect(() => { onAnswerRef.current = onAnswer; }, [onAnswer]);
   useLayoutEffect(() => { quizModeRef.current = quizMode; }, [quizMode]);
 
@@ -151,6 +156,7 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
                 },
               },
               ...countryHighlightLayers(selectedRef.current,quizModeRef.current),
+              ...territoryHighlightLayers(selectedTerritoryRef.current?.key,quizModeRef.current),
               { id: "country-line", type: "line", source: "countries", paint: { "line-color": "#fffaf0", "line-width": 1.05, "line-opacity": 0.94 } },
             ],
           },
@@ -185,7 +191,17 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
           map.on("click", "country-fill", (event) => {
             if (longPressRef.current || quizModeRef.current || Date.now() < ignoreClickUntilRef.current) return;
             const feature = event.features?.find((item) => item.properties?.eligible);
-            if (feature?.properties?.cca2) onSelectRef.current(feature.properties.cca2, true);
+            if (feature?.properties?.cca2) {
+              onSelectRef.current(feature.properties.cca2, true);
+              return;
+            }
+            const territory = event.features?.find((item) => item.properties?.territoryKey);
+            if (territory?.properties?.territoryKey) {
+              onSelectTerritoryRef.current?.(
+                territory.properties.territoryKey,
+                event.lngLat ? [event.lngLat.lng, event.lngLat.lat] : null
+              );
+            }
           });
           map.on("mouseenter", "country-fill", () => { map.getCanvas().style.cursor = quizModeRef.current?"grab":"pointer"; });
           map.on("mouseleave", "country-fill", () => { map.getCanvas().style.cursor = "grab"; });
@@ -221,8 +237,9 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
     const map = mapRef.current;
     if (!map || !ready || !map.getLayer("country-fill")) return;
     updateCountryHighlight(map,selectedCode,quizMode);
+    updateTerritoryHighlight(map,selectedTerritory?.key,quizMode);
     map.getCanvas().style.cursor='grab';
-  }, [ready, selectedCode, quizMode]);
+  }, [ready, selectedCode, selectedTerritory, quizMode]);
 
   useEffect(() => {
     if (!ready) return;
@@ -265,6 +282,31 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
       return;
     }
 
+    if (selectedTerritory) {
+      const rawCoords = selectedTerritory.clickCoordinates || selectedTerritory.coordinates;
+      if (!rawCoords) return;
+      const wrappedCoords = nearestWorldBounds([rawCoords, rawCoords], map.getCenter().lng)[0];
+      const tName = language === "ko" ? selectedTerritory.nameKo : selectedTerritory.nameEn;
+      const tSub = language === "ko" ? selectedTerritory.kindKo : selectedTerritory.kindEn;
+      const element = document.createElement("div");
+      element.className = "capital-map-pin";
+      element.setAttribute("aria-label", `${tName}, ${tSub}`);
+      const bubble = document.createElement("span");
+      bubble.className = "capital-map-dot";
+      bubble.setAttribute("aria-hidden", "true");
+      const label = document.createElement("span");
+      label.className = "capital-map-label";
+      const flag = document.createElement("img");
+      flag.src = assetUrl(`/flags/${selectedCode.toLowerCase()}.svg`); flag.alt = ""; flag.draggable = false;
+      const text = document.createElement("span"), name = document.createElement("strong"), sub = document.createElement("small");
+      name.textContent = tName;
+      sub.textContent = tSub;
+      text.append(name, sub); label.append(flag, text);
+      element.append(bubble, label);
+      capitalMarkerRef.current = new MapLibreMarker({ element, anchor: "center", subpixelPositioning: true }).setLngLat(wrappedCoords).addTo(map);
+      return;
+    }
+
     const point = capitalPoints[selectedCode];
     if (!point?.coordinates) return;
     const element = document.createElement("div");
@@ -284,7 +326,7 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
     text.append(name,capital);label.append(flag,text);
     element.append(bubble, label);
     capitalMarkerRef.current = new MapLibreMarker({ element, anchor: "center", subpixelPositioning: true }).setLngLat(point.coordinates).addTo(map);
-  }, [ready, selectedCode, selectedCountry?.capital, language, quizMode, quizChoices, quizStatus, textChoice, t.capitalPin]);
+  }, [ready, selectedCode, selectedCountry?.capital, selectedTerritory, language, quizMode, quizChoices, quizStatus, textChoice, t.capitalPin]);
 
   useEffect(() => {
     if (!ready || quizMode || !focusRequest || focusedRequestRef.current === focusRequest.requestId) return;
@@ -316,11 +358,23 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
       const rect = hostRef.current?.getBoundingClientRect();
       if (!rect || !pressPointRef.current) return;
       const point = [pressPointRef.current.x - rect.left, pressPointRef.current.y - rect.top];
-      const feature = mapRef.current?.queryRenderedFeatures(point, { layers: ["country-fill"] }).find((item) => item.properties?.eligible);
+      const rendered = mapRef.current?.queryRenderedFeatures(point, { layers: ["country-fill"] }) || [];
+      const feature = rendered.find((item) => item.properties?.eligible);
       if (feature?.properties?.cca2) {
         longPressRef.current = true;
         onSelectRef.current(feature.properties.cca2, true);
         window.setTimeout(() => { longPressRef.current = false; }, 650);
+      } else {
+        const territory = rendered.find((item) => item.properties?.territoryKey);
+        if (territory?.properties?.territoryKey) {
+          longPressRef.current = true;
+          const lngLat = mapRef.current?.unproject(point);
+          onSelectTerritoryRef.current?.(
+            territory.properties.territoryKey,
+            lngLat ? [lngLat.lng, lngLat.lat] : null
+          );
+          window.setTimeout(() => { longPressRef.current = false; }, 650);
+        }
       }
     }, 560);
   };
@@ -372,7 +426,7 @@ function MapView({ language, selectedCode, selectedCountry, onSelect, onAnswer, 
         <button className="reset-button" aria-label={quizMode?(quizChoices?.type==='knowledge'?(language==='ko'?'남극 전체 보기':'Show Antarctica'):(language==='ko'?'세 도시 함께 보기':'Show all three cities')):t.reset} title={quizMode?(quizChoices?.type==='knowledge'?(language==='ko'?'남극 전체 보기':'Show Antarctica'):(language==='ko'?'세 도시 함께 보기':'Show all three cities')):t.reset} onClick={resetView}><ArrowClockwise size={17} weight="bold" /></button>
       </div>}
       {!mapLoadError&&<div className="map-hold-hint"><MapPin size={14} weight="fill" />{quizMode?(quizChoices?.type==='knowledge'?t.choose:(language==='ko'?'도시 핀이나 보기를 골라요':'Choose a city pin or an answer')):t.hold}</div>}
-      {!quizMode&&<><div className="map-region-caption"><span className="caption-sparkle">✦</span><div><b>{countryName(selectedCountry, language)}</b><span>{capitalRole(selectedCountry,language)}: {capitalName(selectedCountry,language) || "—"}</span></div></div>
+      {!quizMode&&<><div className="map-region-caption"><span className="caption-sparkle">✦</span><div><b>{selectedTerritory ? (language === "ko" ? selectedTerritory.nameKo : selectedTerritory.nameEn) : countryName(selectedCountry, language)}</b><span>{selectedTerritory ? (language === "ko" ? selectedTerritory.kindKo : selectedTerritory.kindEn) : `${capitalRole(selectedCountry,language)}: ${capitalName(selectedCountry,language) || "—"}`}</span></div></div>
       <img className="travel-plane" src={assetUrl("/assets/travel-plane.png")} alt={t.plane} /></>}
       <div className="map-credit">Map: Natural Earth · <a href={assetUrl("/data/country-data-license.txt")} target="_blank" rel="noreferrer">mledoze · ODbL</a>{selectedCode!=='AQ'&&<> · <a href={selectedCountry.populationInfo?.sourceUrl||populationSourceUrl} target="_blank" rel="noreferrer">{language==='ko'?'인구':'Population'}: {selectedCode==='GL'?'Statistics Greenland':'UN'} · 2025</a></>}</div>
     </section>
@@ -397,6 +451,7 @@ function App() {
   const [language, setLanguage] = useState(settings.language);
   const [storyIndex,setStoryIndex]=useState(0);
   const [selectedCode, setSelectedCode] = useState(settings.selectedCode);
+  const [selectedTerritory, setSelectedTerritory] = useState(null);
   const [mode, setMode] = useState(settings.mode);
   const studioOpen = mode === "colour" || mode === "custom";
   const quizCountryRef = useRef(null);
@@ -453,6 +508,7 @@ function App() {
     autoAdvance.current.cancel();answerLock.current=false;focusQuestion.current=false;
     setCollectionOpen(false);
     setSelectedCode(code);
+    setSelectedTerritory(null);
     setProgress(v => addProgress(v, "discovered", code));
     setRegion(found.region || "World");
     setMode(current=>current === "colour" || current === "custom" ? current : "explore");
@@ -464,8 +520,31 @@ function App() {
     if (fly) setFocusRequest(previous => ({code, requestId:(previous?.requestId || 0) + 1}));
   }, [language]);
 
+  const selectTerritory = useCallback((territoryKey, clickCoordinates = null) => {
+    const territory = territoryByKey.get(territoryKey);
+    if (!territory || !countryByCode.has(territory.linkedCode)) return;
+    const linked = countryByCode.get(territory.linkedCode);
+    autoAdvance.current.cancel();answerLock.current=false;focusQuestion.current=false;
+    setCollectionOpen(false);
+    setSelectedCode(territory.linkedCode);
+    setSelectedTerritory({ ...territory, clickCoordinates });
+    setProgress(v => addProgress(v, "discovered", territory.linkedCode));
+    setRegion(territory.region || linked.region || "World");
+    setMode(current=>current === "colour" || current === "custom" ? current : "explore");
+    setQuizStatus("idle");
+    setQuizChoices(null);
+    setSearch("");
+    setSearchOpen(false);
+    setAnnouncement(
+      language === "ko"
+        ? `${territory.nameKo} — ${linked.nameKo}과(와) 연결해 탐험해요!`
+        : `${territory.nameEn} — Linked to ${linked.name}!`
+    );
+  }, [language]);
+
   const startQuiz = (code = selectedCode, questionType = difficulty) => {
     autoAdvance.current.cancel();answerLock.current=false;focusQuestion.current=true;
+    setSelectedTerritory(null);
     quizCountryRef.current = code;
     setMode("quiz");
     setQuizStatus("idle");
@@ -569,7 +648,9 @@ function App() {
             language={language}
             selectedCode={selectedCode}
             selectedCountry={country}
+            selectedTerritory={selectedTerritory}
             onSelect={selectCountry}
+            onSelectTerritory={selectTerritory}
             onAnswer={answerQuiz}
             quizMode={mode === "quiz"}
             quizStatus={quizStatus}
@@ -589,6 +670,26 @@ function App() {
             {mode === "explore" ? (
               <div className="country-overview">
                 <div className="country-detail-stack">
+                {selectedTerritory && (
+                  <div className="territory-callout" role="region" aria-label={language === "ko" ? "선택한 지역 안내" : "Selected territory info"}>
+                    <div className="territory-callout-head">
+                      <span className="territory-callout-badge"><MapPin size={14} weight="fill" aria-hidden="true" />{language === "ko" ? selectedTerritory.kindKo : selectedTerritory.kindEn}</span>
+                      <button type="button" className="territory-callout-close" aria-label={language === "ko" ? "지역 안내 닫기" : "Close territory info"} onClick={() => setSelectedTerritory(null)}><X size={14} weight="bold" /></button>
+                    </div>
+                    <strong className="territory-callout-title">
+                      {language === "ko" ? selectedTerritory.nameKo : selectedTerritory.nameEn}
+                      {language === "ko" && selectedTerritory.nameEn !== selectedTerritory.nameKo ? <small>{selectedTerritory.nameEn}</small> : null}
+                    </strong>
+                    {(language === "ko" ? selectedTerritory.capitalKo : selectedTerritory.capitalEn) && (
+                      <span className="territory-callout-capital">{language === "ko" ? `중심 도시 · ${selectedTerritory.capitalKo}` : `Main centre · ${selectedTerritory.capitalEn}`}</span>
+                    )}
+                    <p>{language === "ko" ? selectedTerritory.noteKo : selectedTerritory.noteEn}</p>
+                    <button type="button" className="territory-callout-link" onClick={() => selectCountry(selectedTerritory.linkedCode, true)}>
+                      <span>{language === "ko" ? `${countryName(country, "ko")} 본토로 지도 이동` : `Focus ${countryName(country, "en")} on map`}</span>
+                      <ArrowRight size={14} weight="bold" />
+                    </button>
+                  </div>
+                )}
                 <CountryCardFace country={country} language={language} solved={progress.solved.includes(selectedCode)}/>
                 <CountryAnthemBar country={country} language={language}/>
                 {country.capitalNote?.[language] && <details className="capital-context"><summary>{language==='ko'?'수도 이야기 더 보기':'About the capital'}</summary><p>{country.capitalNote[language]}</p></details>}
