@@ -21,7 +21,7 @@ import {
 } from "@phosphor-icons/react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { explorationPoints as capitalPoints, countryByCode, loadCountryGeoJson, regionBounds, explorationRoster as roster } from "./data.js";
-import {focusMapCountry,nearestWorldBounds} from "./map-geometry.js";
+import {focusMapCountry,focusMapTerritory,nearestWorldBounds} from "./map-geometry.js";
 import {canAnswerQuiz,quizOptionResult} from './quiz-answer-state.js';
 import {countryHighlightLayers,updateCountryHighlight,territoryHighlightLayers,updateTerritoryHighlight} from './map-highlight.js';
 import {territoryByKey} from './map-territories.js';
@@ -331,7 +331,11 @@ function MapView({ language, selectedCode, selectedCountry, selectedTerritory, o
   useEffect(() => {
     if (!ready || quizMode || !focusRequest || focusedRequestRef.current === focusRequest.requestId) return;
     const map = mapRef.current;
-    if (map && geometryRef.current && focusMapCountry(map, geometryRef.current, focusRequest.code, countryByCode.get(focusRequest.code), motionDuration(900))) focusedRequestRef.current = focusRequest.requestId;
+    if (!map || !geometryRef.current) return;
+    const focused = focusRequest.territoryKey
+      ? focusMapTerritory(map, geometryRef.current, territoryByKey.get(focusRequest.territoryKey), motionDuration(900))
+      : focusMapCountry(map, geometryRef.current, focusRequest.code, countryByCode.get(focusRequest.code), motionDuration(900));
+    if (focused) focusedRequestRef.current = focusRequest.requestId;
   }, [ready, focusRequest, quizMode]);
 
   useEffect(() => {
@@ -500,7 +504,7 @@ function App() {
     return () => window.removeEventListener("keydown", keyboard);
   }, []);
 
-  const matchingCountries = useMemo(() => searchCountryMatches(roster,search,{language}), [search,language]);
+  const matchingCountries = useMemo(() => searchCountryMatches(roster,search,{language,includeTerritories:true}), [search,language]);
 
   const selectCountry = useCallback((code, fly = false) => {
     if (!countryByCode.has(code)) return;
@@ -517,10 +521,10 @@ function App() {
     setSearch("");
     setSearchOpen(false);
     setAnnouncement(`${language === "ko" ? found.nameKo : found.name} ${language === "ko" ? "도착!" : "selected!"}`);
-    if (fly) setFocusRequest(previous => ({code, requestId:(previous?.requestId || 0) + 1}));
+    if (fly) setFocusRequest(previous => ({code, territoryKey: null, requestId:(previous?.requestId || 0) + 1}));
   }, [language]);
 
-  const selectTerritory = useCallback((territoryKey, clickCoordinates = null) => {
+  const selectTerritory = useCallback((territoryKey, clickCoordinates = null, fly = false) => {
     const territory = territoryByKey.get(territoryKey);
     if (!territory || !countryByCode.has(territory.linkedCode)) return;
     const linked = countryByCode.get(territory.linkedCode);
@@ -530,7 +534,7 @@ function App() {
     setSelectedTerritory({ ...territory, clickCoordinates });
     setProgress(v => addProgress(v, "discovered", territory.linkedCode));
     setRegion(territory.region || linked.region || "World");
-    setMode(current=>current === "colour" || current === "custom" ? current : "explore");
+    setMode(current => fly ? "explore" : (current === "colour" || current === "custom" ? current : "explore"));
     setQuizStatus("idle");
     setQuizChoices(null);
     setSearch("");
@@ -540,6 +544,7 @@ function App() {
         ? `${territory.nameKo} — ${linked.nameKo}과(와) 연결해 탐험해요!`
         : `${territory.nameEn} — Linked to ${linked.name}!`
     );
+    if (fly) setFocusRequest(previous => ({ code: territory.linkedCode, territoryKey: territory.key, requestId: (previous?.requestId || 0) + 1 }));
   }, [language]);
 
   const startQuiz = (code = selectedCode, questionType = difficulty) => {
@@ -596,8 +601,9 @@ function App() {
     setSearchOpen(Boolean(value.trim()));
   };
 
-  const chooseSearchResult = (code) => {
-    selectCountry(code, true);
+  const chooseSearchResult = (code, territoryKey = null) => {
+    if (territoryKey) selectTerritory(territoryKey, null, true);
+    else selectCountry(code, true);
     setSearch("");
   };
 
@@ -614,7 +620,7 @@ function App() {
           {[['explore',GlobeHemisphereWest,language==='ko'?'지도 탐험':'Explore'],['quiz',MapPin,language==='ko'?'탐험 퀴즈':'Explorer quiz'],['colour',PaintBrush,language==='ko'?'국기 색칠':'Colour flags'],['custom',Palette,language==='ko'?'내 국기 만들기':'Create flag']].map(([id,Icon,label])=><button key={id} className={mode===id?'active':''} aria-pressed={mode===id} onClick={()=>openMode(id)} aria-label={label} title={label}><Icon size={20} weight="duotone"/><span className="activity-label">{label}</span></button>)}
 
         </nav>
-        <CountrySearch language={language} value={search} open={searchOpen} openRequest={searchRequest} onOpen={openSearch} onChange={handleSearchInput} onSelect={chooseSearchResult} selectedCode={selectedCode} results={matchingCountries} inputRef={searchRef}/>
+        <CountrySearch language={language} value={search} open={searchOpen} openRequest={searchRequest} onOpen={openSearch} onChange={handleSearchInput} onSelect={chooseSearchResult} selectedCode={selectedCode} selectedTerritoryKey={selectedTerritory?.key || null} results={matchingCountries} inputRef={searchRef}/>
         <div className="topbar-actions">
           <button className="stamps-pill" onClick={()=>{autoAdvance.current.cancel();setCollectionOpen(true);}} aria-haspopup="dialog" aria-label={`${t.progress} ${solvedCount}/${roster.length} · ${language==='ko'?'나라 카드 열기':'Open country cards'}`}><span className="stamp-icon"><Star size={17} weight="fill" /></span><span className="stamp-label">{t.progress}</span><b>{solvedCount}<i>/{roster.length}</i></b><span className="stamps-track"><span style={{ width: `${solvedCount / roster.length * 100}%` }} /></span></button>
           <div className="language-toggle" role="group" aria-label={t.language}>

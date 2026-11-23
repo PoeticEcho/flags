@@ -1,9 +1,11 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { createCountryGeoJson, countryByCode } from "../src/data.js";
+import { createCountryGeoJson, countryByCode, explorationRoster } from "../src/data.js";
 import { MAP_TERRITORIES, territoryByKey } from "../src/map-territories.js";
 import { territoryHighlightLayers, updateTerritoryHighlight } from "../src/map-highlight.js";
+import { searchCountryMatches } from "../src/country-search.js";
+import { focusMapTerritory, territoryFocusBounds } from "../src/map-geometry.js";
 
 const atlas = JSON.parse(readFileSync(new URL("../public/data/countries-10m.json", import.meta.url)));
 const geo = createCountryGeoJson(atlas);
@@ -87,4 +89,54 @@ test("territory highlight layers stay hidden in quiz mode and toggle cleanly in 
 
   updateTerritoryHighlight(map, "somaliland", false);
   assert.ok([...state.values()].every((l) => l.layout.visibility === "visible" && l.filter.at(-1) === "somaliland"));
+});
+
+test("all 55 territories are searchable in Korean, English and aliases with linked countries and map focus", () => {
+  for (const t of MAP_TERRITORIES) {
+    for (const q of [t.nameKo, t.nameEn]) {
+      const results = searchCountryMatches(explorationRoster, q, { includeTerritories: true });
+      const found = results.find((m) => m.kind === "territory" && m.territory.key === t.key);
+      assert.ok(found, `Expected territory ${t.key} to match query "${q}"`);
+      assert.equal(found.country.code, t.linkedCode);
+    }
+
+    const bounds = territoryFocusBounds(geo, t.key, t.coordinates);
+    assert.ok(bounds && bounds.length === 2, `Missing focus bounds for ${t.key}`);
+    let framed = null;
+    const map = {
+      getCenter: () => ({ lng: 0 }),
+      stop() {},
+      setRenderWorldCopies() {},
+      fitBounds(b) {
+        framed = b;
+      },
+    };
+    assert.equal(focusMapTerritory(map, geo, t, 0), true, `focusMapTerritory failed for ${t.key}`);
+    assert.ok(framed, `fitBounds not called for ${t.key}`);
+  }
+
+  for (const [query, expectedKey, expectedCode] of [
+    ["홍콩", "HK", "CN"],
+    ["Hong Kong", "HK", "CN"],
+    ["마카오", "MO", "CN"],
+    ["소말릴란드", "somaliland", "SO"],
+    ["소말린란드", "somaliland", "SO"],
+    ["푸에르토리코", "PR", "US"],
+    ["산후안", "PR", "US"],
+    ["누벨칼레도니", "NC", "FR"],
+    ["뉴칼레도니아", "NC", "FR"],
+    ["타히티", "PF", "FR"],
+    ["사이판", "MP", "US"],
+    ["괌", "GU", "US"],
+  ]) {
+    const results = searchCountryMatches(explorationRoster, query, { includeTerritories: true });
+    assert.equal(results[0]?.kind, "territory", `Query "${query}" should surface territory first`);
+    assert.equal(results[0]?.territory?.key, expectedKey, `Query "${query}" key mismatch`);
+    assert.equal(results[0]?.country?.code, expectedCode, `Query "${query}" linkedCode mismatch`);
+  }
+
+  // Verify Hong Kong focus bounds stay tightly around Hong Kong (~114°E, 22°N), not all of China
+  const hkBounds = territoryFocusBounds(geo, "HK", territoryByKey.get("HK").coordinates);
+  assert.ok(hkBounds[0][0] > 113 && hkBounds[1][0] < 115, `HK lng bounds: ${JSON.stringify(hkBounds)}`);
+  assert.ok(hkBounds[0][1] > 21.5 && hkBounds[1][1] < 23, `HK lat bounds: ${JSON.stringify(hkBounds)}`);
 });

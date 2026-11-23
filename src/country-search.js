@@ -1,4 +1,5 @@
 import {learningData} from './learning-data.js';
+import {MAP_TERRITORIES} from './map-territories.js';
 
 export const normalizeCountryQuery=value=>String(value||'').normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
 
@@ -6,10 +7,11 @@ const keywordIndex=new Map(Object.entries(learningData).map(([code,data])=>[code
 
 // Names and capitals always precede tags, even an exact tag match.
 // One result per country retains its matching tag for the search UI.
-export function searchCountryMatches(countries,query,{language='ko',limit=Infinity,includeAll=false}={}) {
+export function searchCountryMatches(countries,query,{language='ko',limit=Infinity,includeAll=false,includeTerritories=false}={}) {
  const needle=normalizeCountryQuery(query);
  if(!needle&&!includeAll)return [];
- return countries.map(country=>{
+ const byCode=new Map(countries.map(c=>[c.code,c]));
+ const countryMatches=countries.map(country=>{
   const names=[country.name,country.nameKo,...(country.aliases||[])].map(normalizeCountryQuery);
   const capitals=[country.capital,country.capitalKo].map(normalizeCountryQuery);
   const fields=[...names,...capitals];
@@ -21,7 +23,20 @@ export function searchCountryMatches(countries,query,{language='ko',limit=Infini
    if(tagRank<match.rank)match={country,rank:tagRank,kind:'tag',keyword};
   }
   return match;
- }).filter(v=>Number.isFinite(v.rank)).sort((a,b)=>a.rank-b.rank||(language==='ko'?a.country.nameKo:a.country.name).localeCompare(language==='ko'?b.country.nameKo:b.country.name,language)).slice(0,limit);
+ }).filter(v=>Number.isFinite(v.rank));
+
+ const territoryMatches=includeTerritories&&needle?MAP_TERRITORIES.map(territory=>{
+  const linked=byCode.get(territory.linkedCode);
+  if(!linked)return null;
+  const names=[territory.nameEn,territory.nameKo,territory.matchName,...(territory.aliases||[])].filter(Boolean).map(normalizeCountryQuery);
+  const capitals=[territory.capitalEn,territory.capitalKo].filter(Boolean).map(normalizeCountryQuery);
+  const fields=[...names,...capitals];
+  const rank=names.includes(needle)?3.1:capitals.includes(needle)?3.2:fields.some(v=>v.startsWith(needle))?3.3:fields.some(v=>v.includes(needle))?3.4:Infinity;
+  return Number.isFinite(rank)?{country:linked,territory,rank,kind:'territory'}:null;
+ }).filter(Boolean):[];
+
+ const sortName=item=>item.territory?(language==='ko'?item.territory.nameKo:item.territory.nameEn):(language==='ko'?item.country.nameKo:item.country.name);
+ return [...countryMatches,...territoryMatches].sort((a,b)=>a.rank-b.rank||sortName(a).localeCompare(sortName(b),language)).slice(0,limit);
 }
 
 // Collections keep the country-object API and the same result order.

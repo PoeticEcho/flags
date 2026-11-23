@@ -50,3 +50,22 @@ export function nearestWorldBounds(bounds, longitude=0) {
  return bounds.map(([lng,lat])=>[lng+shift,lat]);
 }
 export function focusMapCountry(map,geoJson,code,country,duration=900){const canonical=country?.focusBounds||countryFocusBounds(geoJson,code,country?.center);if(!canonical)return false;const bounds=nearestWorldBounds(canonical,map.getCenter?.().lng);map.stop();map.setRenderWorldCopies(true);const span=Math.max(bounds[1][0]-bounds[0][0],bounds[1][1]-bounds[0][1]);map.fitBounds(bounds,{padding:60,maxZoom:span<0.05?18:span<1?9:5.7,duration});return true;}
+export function territoryFocusBounds(geoJson,territoryKey,anchor=[0,0]){
+ const polygons=geoJson.features.filter(f=>f.properties.territoryKey===territoryKey).flatMap(f=>f.geometry.type==='Polygon'?[f.geometry.coordinates]:f.geometry.coordinates);
+ if(!polygons.length)return null;
+ const candidates=polygons.map(p=>({area:Math.abs(ringArea(p[0])),bounds:boundsOf(p[0],anchor[0])})).sort((a,b)=>b.area-a.area);
+ const main=candidates[0].bounds,bounds=[[...main[0]],[...main[1]]];
+ for(const {bounds:b} of candidates.slice(1))if(b[1][0]>=main[0][0]-10&&b[0][0]<=main[1][0]+10&&b[1][1]>=main[0][1]-10&&b[0][1]<=main[1][1]+10){bounds[0][0]=Math.min(bounds[0][0],b[0][0]);bounds[0][1]=Math.min(bounds[0][1],b[0][1]);bounds[1][0]=Math.max(bounds[1][0],b[1][0]);bounds[1][1]=Math.max(bounds[1][1],b[1][1]);}
+ return bounds;
+}
+export function focusMapTerritory(map,geoJson,territory,duration=900){
+ if(!territory)return false;
+ const canonical=territoryFocusBounds(geoJson,territory.key,territory.coordinates);
+ if(!canonical)return false;
+ const bounds=nearestWorldBounds(canonical,map.getCenter?.().lng);
+ map.stop();
+ map.setRenderWorldCopies(true);
+ const span=Math.max(bounds[1][0]-bounds[0][0],bounds[1][1]-bounds[0][1]);
+ map.fitBounds(bounds,{padding:70,maxZoom:span<0.15?9.5:span<1.5?7.8:5.7,duration});
+ return true;
+}
